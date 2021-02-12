@@ -35,7 +35,7 @@ def validate(
         return True
     if whole_string:
         pattern = f"{pattern}$"
-    if re.compile(pattern).match(value):
+    if re.compile(pattern, re.DOTALL).match(value):
         return True
     print(f"Validate error in file {file}: '{value}' does not match {pattern}")
     return False
