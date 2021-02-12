@@ -113,11 +113,11 @@ def test_extract_derivative_trans_form4_collection(test_form4_collection):
             assert validate(file, fields["transaction_date"], r"(\d\d\d\d-\d\d-\d\d)?")
             assert validate(file, fields["transaction_acquired_disposed_code"], r"[AD]")
             assert validate(file, fields["transaction_price_per_share"], r"[\d+\.]*")
-            assert validate(file, fields["transaction_shares"], r"[\d+]+")
+            assert validate(file, fields["transaction_shares"], r"[\d+\.]+")
             assert validate(file, fields["equity_swap_involved"], r"[10]")
             assert validate(file, fields["transaction_form_type"], r"4")
             assert validate(
-                file, fields["shares_owned_following_transaction"], r"[\d+]+"
+                file, fields["shares_owned_following_transaction"], r"[\d\.]+"
             )
             assert validate(file, fields["transaction_code"], r"[ACMPS]")
 
@@ -190,11 +190,11 @@ def test_extract_derivative_trans_form5_collection(test_form5_collection):
             assert validate(file, fields["transaction_date"], r"(\d\d\d\d-\d\d-\d\d)?")
             assert validate(file, fields["transaction_acquired_disposed_code"], r"[AD]")
             assert validate(file, fields["transaction_price_per_share"], r"[\d+\.]*")
-            assert validate(file, fields["transaction_shares"], r"[\d+]+")
+            assert validate(file, fields["transaction_shares"], r"[\d\.]+")
             assert validate(file, fields["equity_swap_involved"], r"[10]")
             assert validate(file, fields["transaction_form_type"], r"[45]")
             assert validate(
-                file, fields["shares_owned_following_transaction"], r"[\d+]+"
+                file, fields["shares_owned_following_transaction"], r"[\d\.]+"
             )
             assert validate(file, fields["transaction_code"], r"[ACGMPSZ]")
 

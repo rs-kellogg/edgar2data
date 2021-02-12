@@ -15,20 +15,37 @@ from pathlib import Path
 dir_path = Path(os.path.dirname(os.path.realpath(__file__)))
 
 
+def validate(
+    file: Path,
+    value: str,
+    pattern: str,
+    whole_string: bool = True,
+    none_allowed: bool = False,
+) -> bool:
+    """
+    Validate a string value using a regular expression constraint.
+    :param file: source of the test value
+    :param value: value to be tested
+    :param pattern: regex pattern that will match the value
+    :param whole_string: governs whether the match has to be the whole string, or just a prefix
+    :param none_allowed: is None allowed as a value
+    :return: whether or not the regex matches the value
+    """
+    if value is None and none_allowed:
+        return True
+    if whole_string:
+        pattern = f"{pattern}$"
+    if re.compile(pattern).match(value):
+        return True
+    print(f"Validate error in file {file}: '{value}' does not match {pattern}")
+    return False
+
+
 @pytest.fixture
 def config():
     with open(Path(f"{dir_path}/config.yaml")) as conf_file:
         conf = yaml.load(conf_file, Loader=yaml.FullLoader)
         return conf
-
-
-def validate(file: Path, value: str, pattern: str, none_allowed: bool = False):
-    if value is None and none_allowed:
-        return True
-    if re.compile(pattern).match(value):
-        return True
-    print(f"Validate error in file {file}: '{value}' does not match {pattern}")
-    return False
 
 
 @pytest.fixture
