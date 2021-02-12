@@ -29,7 +29,7 @@ setup(
         'fastapi'
     ],
     extras_require={"interactive": ["jupyter", "rise"]},
-    entry_points={"console_scripts": ["process_edgar=edgar.cli:app"]},
+    entry_points={"console_scripts": ["edgar2data=edgar.cli:app"]},
     setup_requires=["flake8", "black"],
     tests_require=["pytest", "pytest-runner"],
 )
