@@ -1,0 +1,138 @@
+<SEC-DOCUMENT>0001209191-20-008177.txt : 20200211
+<SEC-HEADER>0001209191-20-008177.hdr.sgml : 20200211
+<ACCEPTANCE-DATETIME>20200211085410
+ACCESSION NUMBER:		0001209191-20-008177
+CONFORMED SUBMISSION TYPE:	5
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20191231
+FILED AS OF DATE:		20200211
+DATE AS OF CHANGE:		20200211
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Herron Kevin
+		CENTRAL INDEX KEY:			0001762955
+
+	FILING VALUES:
+		FORM TYPE:		5
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05690
+		FILM NUMBER:		20594249
+
+	MAIL ADDRESS:	
+		STREET 1:		2999 WILDWOOD PARKWAY
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30339
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GENUINE PARTS CO
+		CENTRAL INDEX KEY:			0000040987
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-MOTOR VEHICLE SUPPLIES & NEW PARTS [5013]
+		IRS NUMBER:				580254510
+		STATE OF INCORPORATION:			GA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2999 WILDWOOD PARKWAY
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30339
+		BUSINESS PHONE:		6789345000
+
+	MAIL ADDRESS:	
+		STREET 1:		2999 WILDWOOD PARKWAY
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30339
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>5
+<SEQUENCE>1
+<FILENAME>doc5.xml
+<DESCRIPTION>FORM 5 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>5</documentType>
+
+    <periodOfReport>2019-12-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <form3HoldingsReported>0</form3HoldingsReported>
+
+    <form4TransactionsReported>0</form4TransactionsReported>
+
+    <issuer>
+        <issuerCik>0000040987</issuerCik>
+        <issuerName>GENUINE PARTS CO</issuerName>
+        <issuerTradingSymbol>GPC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001762955</rptOwnerCik>
+            <rptOwnerName>Herron Kevin</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>2999 WILDWOOD PKWY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>ATLANTA</rptOwnerCity>
+            <rptOwnerState>GA</rptOwnerState>
+            <rptOwnerZipCode>30339</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>President-US Automotive Group</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionCoding>
+                <transactionFormType></transactionFormType>
+            </transactionCoding>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>11920</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes 482 shares acquired through Genuine Partnership Plan (401-K)</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Jennifer Ellis Attorney in Fact</signatureName>
+        <signatureDate>2020-02-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

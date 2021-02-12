@@ -1,0 +1,206 @@
+<SEC-DOCUMENT>0000864749-20-000004.txt : 20200114
+<SEC-HEADER>0000864749-20-000004.hdr.sgml : 20200114
+<ACCEPTANCE-DATETIME>20200114171237
+ACCESSION NUMBER:		0000864749-20-000004
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20200104
+FILED AS OF DATE:		20200114
+DATE AS OF CHANGE:		20200114
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			EKHOLM BORJE
+		CENTRAL INDEX KEY:			0001269892
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14845
+		FILM NUMBER:		20526625
+
+	MAIL ADDRESS:	
+		STREET 1:		12 E 49TH ST
+		STREET 2:		27TH FL
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TRIMBLE INC.
+		CENTRAL INDEX KEY:			0000864749
+		STANDARD INDUSTRIAL CLASSIFICATION:	MEASURING & CONTROLLING DEVICES, NEC [3829]
+		IRS NUMBER:				942802192
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0103
+
+	BUSINESS ADDRESS:	
+		STREET 1:		935 STEWART DRIVE
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94085
+		BUSINESS PHONE:		4084818000
+
+	MAIL ADDRESS:	
+		STREET 1:		935 STEWART DRIVE
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94085
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TRIMBLE NAVIGATION LTD /CA/
+		DATE OF NAME CHANGE:	19930328
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>wf-form3_157903993897862.xml
+<DESCRIPTION>FORM 3
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-01-04</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000864749</issuerCik>
+        <issuerName>TRIMBLE INC.</issuerName>
+        <issuerTradingSymbol>TRMB</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001269892</rptOwnerCik>
+            <rptOwnerName>EKHOLM BORJE</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O TRIMBLE INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>935 STEWART DRIVE</rptOwnerStreet2>
+            <rptOwnerCity>SUNNYVALE</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94085</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>33670</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes></footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ James A. Kirkland, as Attorney-in-Fact</signatureName>
+        <signatureDate>2020-01-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>poaekholm.htm
+<DESCRIPTION>POA_EKHOLM
+<TEXT>
+<!-- Document created using Workiva -->
+<html>
+<body>
+<pre>
+
+POWER OF ATTORNEY
+
+Know all by these presents, that the undersigned hereby constitutes and
+appoints James A. Kirkland and A. Paul Rimas, or either of them signing singly,
+and with full power of substitution, the undersigned's true and lawful attorney
+in fact to:
+
+(1)    execute for and on behalf of the undersigned, in the undersigned's capacity
+as an officer, director and/or more than 10% stockholder of Trimble Inc. (the
+"Company"), Forms 3, 4, and 5 in accordance with Section 16(a) of the Securities
+Exchange Act of 1934 and the rules thereunder;
+
+(2)    do and perform any and all acts for and on behalf of the undersigned which
+may be necessary or desirable to complete and execute any such Form 3, 4, or 5,
+complete and execute any amendment or amendments thereto, and timely file such
+form with the SEC and any stock exchange or similar authority; and
+
+(3)    take any other action of any type whatsoever in connection with the
+foregoing which, in the opinion of such attorney in fact, may be of benefit to,
+in the best interest of, or legally required by, the undersigned, it being
+understood that the documents executed by such attorney in fact on behalf of the
+undersigned pursuant to this Power of Attorney shall be in such form and shall
+contain such terms and conditions as such attorney in fact may approve in such
+attorney in fact's discretion.
+
+The undersigned hereby grants to each such attorney in fact full power and
+authority to do and perform any and every act and thing whatsoever requisite,
+necessary, or proper to be done in the exercise of any of the rights and powers
+herein granted, as fully to all intents and purposes as the undersigned might or
+could do if personally present, with full power of substitution or revocation,
+hereby ratifying and confirming all that such attorney in fact, or such attorney
+in fact's substitute or substitutes, shall lawfully do or cause to be done by
+virtue of this power of attorney and the rights and powers herein granted.  The
+undersigned acknowledges that the foregoing attorneys in fact, in serving in
+such capacity at the request of the undersigned, are not assuming, nor is the
+Company assuming, any of the undersigned's responsibilities to comply with
+Section 16 of the Securities Exchange Act of 1934.
+
+This Power of Attorney shall remain in full force and effect until the
+undersigned is no longer required to file Forms 3, 4, and 5 with respect to the
+undersigned's holdings of and transactions in securities issued by the Company,
+unless earlier revoked by the undersigned in a signed writing delivered to the
+foregoing attorneys in fact.  The undersigned hereby revokes all previous powers
+of attorney granted with respect to the undersigned's holdings of and
+transactions in securities issued by the Company.
+
+IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to be
+executed as of this 9th day of January, 2020.
+
+
+Signature:    /s/ Borje Ekholm
+
+
+Name:        Borje Ekholm
+</pre>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

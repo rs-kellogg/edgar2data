@@ -1,0 +1,109 @@
+<SEC-DOCUMENT>0000899243-20-002204.txt : 20200128
+<SEC-HEADER>0000899243-20-002204.hdr.sgml : 20200128
+<ACCEPTANCE-DATETIME>20200128155401
+ACCESSION NUMBER:		0000899243-20-002204
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200128
+FILED AS OF DATE:		20200128
+DATE AS OF CHANGE:		20200128
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Andrews Neal
+		CENTRAL INDEX KEY:			0001408932
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-23466
+		FILM NUMBER:		20554177
+
+	MAIL ADDRESS:	
+		STREET 1:		100 BELLEVUE PARKWAY
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19809
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BlackRock Health Sciences Trust II
+		CENTRAL INDEX KEY:			0001785971
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 BELLEVUE PARKWAY
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19809
+		BUSINESS PHONE:		800 882 0052
+
+	MAIL ADDRESS:	
+		STREET 1:		100 BELLEVUE PARKWAY
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19809
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc3.xml
+<DESCRIPTION>FORM 3 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-01-28</periodOfReport>
+
+    <noSecuritiesOwned>1</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001785971</issuerCik>
+        <issuerName>BlackRock Health Sciences Trust II</issuerName>
+        <issuerTradingSymbol>BMEZ</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001408932</rptOwnerCik>
+            <rptOwnerName>Andrews Neal</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>55 EAST 52ND STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10055</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <footnotes></footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Dean A. Caruvana as Attorney-in-Fact</signatureName>
+        <signatureDate>2020-01-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,144 @@
+<SEC-DOCUMENT>0001068875-20-000071.txt : 20200318
+<SEC-HEADER>0001068875-20-000071.hdr.sgml : 20200318
+<ACCEPTANCE-DATETIME>20200318183620
+ACCESSION NUMBER:		0001068875-20-000071
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20200316
+FILED AS OF DATE:		20200318
+DATE AS OF CHANGE:		20200318
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Carsley Mimi
+		CENTRAL INDEX KEY:			0001806833
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-25131
+		FILM NUMBER:		20725906
+
+	MAIL ADDRESS:	
+		STREET 1:		6333 N. STATE HWY 161
+		STREET 2:		6TH FLOOR
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75038
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BLUCORA, INC.
+		CENTRAL INDEX KEY:			0001068875
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		IRS NUMBER:				911718107
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6333 N. STATE HWY 161
+		STREET 2:		4TH FLOOR
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75038
+		BUSINESS PHONE:		972-870-6000
+
+	MAIL ADDRESS:	
+		STREET 1:		6333 N. STATE HWY 161
+		STREET 2:		4TH FLOOR
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75038
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INFOSPACE INC
+		DATE OF NAME CHANGE:	20000428
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INFOSPACE COM INC
+		DATE OF NAME CHANGE:	19980824
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>wf-form3_158457096278789.xml
+<DESCRIPTION>FORM 3
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-03-16</periodOfReport>
+
+    <noSecuritiesOwned>1</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001068875</issuerCik>
+        <issuerName>BLUCORA, INC.</issuerName>
+        <issuerTradingSymbol>BCOR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001806833</rptOwnerCik>
+            <rptOwnerName>Carsley Mimi</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>6333 N. STATE HWY 161</rptOwnerStreet1>
+            <rptOwnerStreet2>6TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>IRVING</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75038</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Interim CFO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes></footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Seth Rasmussen, as Attorney-in-Fact for Mimi Carsley</signatureName>
+        <signatureDate>2020-03-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>a2020carsleypoa.htm
+<DESCRIPTION>2020 CARSLEY POA
+<TEXT>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+    <head>
+        <!-- Document created using Wdesk 1 -->
+        <!-- Copyright 2020 Workiva -->
+        <title>Document</title>
+    </head>
+    <body><div style="font-family:Times New Roman;font-size:10pt;">
+<div><a name="s0F6D5D931CE24985DB82E8B83203843E"></a></div><div></div><div><br></div><div style="line-height:120%;padding-top:8px;text-align:center;padding-left:174px;font-size:9pt;"><font style="font-family:Arial;font-size:9pt;color:#0f0f0f;font-weight:bold;">LIMITED POWER OF ATTORNEY</font></div><div style="line-height:120%;padding-top:1px;text-align:center;padding-left:174px;font-size:9pt;"><font style="font-family:Arial;font-size:9pt;color:#0f0f0f;font-weight:bold;">FOR SECTION 16 REPORTING OBLIGATIONS</font></div><div style="line-height:120%;text-align:left;font-size:10.5pt;"><font style="font-family:Arial;font-size:10.5pt;"><br></font></div><div style="line-height:118%;text-align:justify;padding-left:9px;text-indent:46px;font-size:9.5pt;"><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">Know all by these presents, that the undersigned hereby constitutes and appoints each of Ann J</font><font style="font-family:Arial;font-size:9.5pt;color:#2f2f2f;">. </font><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">Bruder and Seth Rasmussen, and their successors in office and designees, signing singly, the undersigned's true and lawful attorney-in-fact to</font><font style="font-family:Arial;font-size:9.5pt;color:#414141;">:</font></div><div style="line-height:120%;text-align:left;font-size:10.5pt;"><font style="font-family:Arial;font-size:10.5pt;"><br></font></div><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:101px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:124%;font-size:9.5pt;padding-left:54px;"><font style="font-family:Arial;font-size:9.5pt;">(1)</font></div></td><td style="vertical-align:top;"><div style="line-height:124%;text-align:justify;font-size:9.5pt;"><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">execute for and on behalf of the undersigned, in the undersigned's capacity as an officer and/or director of Blucora</font><font style="font-family:Arial;font-size:9.5pt;color:#414141;">, </font><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">Inc</font><font style="font-family:Arial;font-size:9.5pt;color:#2f2f2f;">. </font><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">(the </font><font style="font-family:Arial;font-size:9.5pt;color:#414141;">"</font><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">Company</font><font style="font-family:Arial;font-size:9.5pt;color:#414141;">"</font><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">)</font><font style="font-family:Arial;font-size:9.5pt;color:#414141;">, </font><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">Forms 3</font><font style="font-family:Arial;font-size:9.5pt;color:#414141;">, </font><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">4</font><font style="font-family:Arial;font-size:9.5pt;color:#414141;">, </font><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">and 5 in accordance with Section 16(a) of the Securities  Exchange Act of 1934 (the </font><font style="font-family:Arial;font-size:9.5pt;color:#b5b5b5;">_</font><font style="font-family:Arial;font-size:9.5pt;color:#2f2f2f;">"</font><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">Exchange Act")  and the rules thereunder, and any other forms or reports the undersigned may be required to file in connection with the undersigned</font><font style="font-family:Arial;font-size:9.5pt;color:#414141;">'</font><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">s ownership</font><font style="font-family:Arial;font-size:9.5pt;color:#414141;">, </font><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">acquisition</font><font style="font-family:Arial;font-size:9.5pt;color:#414141;">, </font><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">or disposition of securities of the Company</font><font style="font-family:Arial;font-size:9.5pt;color:#414141;">;</font></div></td></tr></table><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;"><br></font></div><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:101px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:124%;font-size:9.5pt;padding-left:54px;"><font style="font-family:Arial;font-size:9.5pt;">(2)</font></div></td><td style="vertical-align:top;"><div style="line-height:124%;text-align:justify;font-size:9.5pt;"><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">do and perform any and all acts for and on behalf of the undersigned which may be necessary or desirable to complete and execute any such Form 4 or 5, or other form or report</font><font style="font-family:Arial;font-size:9.5pt;color:#2f2f2f;">, </font><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">and timely file such form or report with the SEC and any stock exchange or similar authority; and</font></div></td></tr></table><div style="line-height:120%;text-align:left;font-size:9.5pt;"><font style="font-family:Arial;font-size:9.5pt;"><br></font></div><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:101px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:125%;font-size:9.5pt;padding-left:54px;"><font style="font-family:Arial;font-size:9.5pt;">(3)</font></div></td><td style="vertical-align:top;"><div style="line-height:125%;text-align:justify;font-size:9.5pt;"><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">take any other action of any type whatsoever in connection with the foregoing which, in the opinion of such attorney-in-fact</font><font style="font-family:Arial;font-size:9.5pt;color:#414141;">, </font><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">may be of benefit to</font><font style="font-family:Arial;font-size:9.5pt;color:#414141;">, </font><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">in the best interest of, or legally required by</font><font style="font-family:Arial;font-size:9.5pt;color:#414141;">, </font><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">the undersigned, it being understood that the documents executed by such attorney-in-fact on behalf of the undersigned pursuant to this Power of Attorney shall be in such form and shall contain such terms and conditions as such attorney-in-fact may approve in such attorney-in-fact's discretion</font><font style="font-family:Arial;font-size:9.5pt;color:#414141;">.</font></div></td></tr></table><div style="line-height:120%;text-align:left;font-size:9.5pt;"><font style="font-family:Arial;font-size:9.5pt;"><br></font></div><div style="line-height:125%;text-align:justify;padding-left:8px;text-indent:46px;font-size:9.5pt;"><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">The undersigned hereby grants to each such attorney-in-fact full power and authority to do and perform any and every act and thing whatsoever requis</font><font style="font-family:Arial;font-size:9.5pt;color:#2f2f2f;">i</font><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">te, necessary, or proper to be done in the exercise of any of the rights and powers herein granted, as fully to all intents and purposes as the undersigned might or could do if personally present</font><font style="font-family:Arial;font-size:9.5pt;color:#2f2f2f;">, </font><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">with full power of substitution or revocation, hereby rat</font><font style="font-family:Arial;font-size:9.5pt;color:#2f2f2f;">i</font><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">fying and confirming all </font><font style="font-family:Arial;font-size:9.5pt;color:#2f2f2f;">t</font><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">hat such attorney</font><font style="font-family:Arial;font-size:9.5pt;color:#2f2f2f;">-</font><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">in</font><font style="font-family:Arial;font-size:9.5pt;color:#2f2f2f;">-</font><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">fact, or such attorney-in-fact's substitute or substitutes</font><font style="font-family:Arial;font-size:9.5pt;color:#414141;">, </font><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">shall lawfully do or cause to be done by virtue of this power of attorney and the rights and powers herein granted. The undersigned acknowledges that the foregoing attorneys-in-fact</font><font style="font-family:Arial;font-size:9.5pt;color:#414141;">, </font><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">in serving in such capacity at the request of the undersigned, are not assuming</font><font style="font-family:Arial;font-size:9.5pt;color:#2f2f2f;">, </font><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">nor is the Company assuming, any of the undersigned</font><font style="font-family:Arial;font-size:9.5pt;color:#414141;">'</font><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">s responsibilities to comply with Section 16 of the Exchange Act. The undersigned agrees that such attorneys-in</font><font style="font-family:Arial;font-size:9.5pt;color:#2f2f2f;">-</font><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">fact may rely entirely on information furnished orally or in writing by the undersigned to such attorneys-in-fact.</font></div><div style="line-height:120%;text-align:left;font-size:9pt;"><font style="font-family:Arial;font-size:9pt;"><br></font></div><div style="line-height:120%;text-align:justify;padding-left:8px;text-indent:46px;font-size:9.5pt;"><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">This Power of Attorney shall remain in full force and effect until the undersigned is no longer required to file Forms 4 and 5 with respect to the undersigned's holdings of and transactions in securities issued by the Company</font><font style="font-family:Arial;font-size:9.5pt;color:#414141;">, </font><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">unless earlier revoked by the undersigned in a signed writing delivered to the foregoing attorneys-in-fact.</font></div><div style="line-height:120%;text-align:left;font-size:9pt;"><font style="font-family:Arial;font-size:9pt;"><br></font></div><div style="line-height:127%;text-align:justify;padding-left:8px;text-indent:46px;font-size:9.5pt;"><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">IN WITNESS WHEREOF, the undersigned has caused th</font><font style="font-family:Arial;font-size:9.5pt;color:#2f2f2f;">i</font><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">s Power of Attorney to be executed as of this 16th day of March</font><font style="font-family:Arial;font-size:9.5pt;color:#414141;">, </font><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">2020</font><font style="font-family:Arial;font-size:9.5pt;color:#414141;">.</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;text-indent:384px;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;"></font><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;text-decoration:underline;">&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;</font></div><div style="line-height:120%;text-align:left;text-indent:384px;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;Signature</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;"><br></font></div><table cellpadding="0" cellspacing="0" style="padding-top:10px;font-family:Times New Roman; font-size:10pt;"><tr><td style="width:428px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:121%;font-size:9.5pt;padding-left:384px;"><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;text-decoration:underline;">&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;Mimi Carsley</font></div></td><td style="vertical-align:top;padding-left:16px;"><div style="line-height:121%;text-align:justify;font-size:9.5pt;text-indent:-16px;"><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">&#32;&#32;&#32;&#32;&#32;&#32;</font></div></td></tr></table><div style="line-height:121%;text-align:justify;padding-left:444px;text-indent:-60px;font-size:9.5pt;"><font style="font-family:Arial;font-size:9.5pt;color:#0f0f0f;">&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;Print Name</font></div><div><br></div><div></div>    </div></body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

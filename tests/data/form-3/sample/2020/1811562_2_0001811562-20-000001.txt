@@ -1,0 +1,131 @@
+<SEC-DOCUMENT>0001811562-20-000001.txt : 20200511
+<SEC-HEADER>0001811562-20-000001.hdr.sgml : 20200511
+<ACCEPTANCE-DATETIME>20200511141341
+ACCESSION NUMBER:		0001811562-20-000001
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200429
+FILED AS OF DATE:		20200511
+DATE AS OF CHANGE:		20200511
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Weber Stephen B
+		CENTRAL INDEX KEY:			0001811562
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33037
+		FILM NUMBER:		20864054
+
+	MAIL ADDRESS:	
+		STREET 1:		3733 PINE STREET
+		CITY:			JACKSONVILLE
+		STATE:			FL
+		ZIP:			32205
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Southern National Bancorp of Virginia Inc
+		CENTRAL INDEX KEY:			0001325670
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				201417448
+		STATE OF INCORPORATION:			VA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1770 TIMBERWOOD BOULEVARD
+		STREET 2:		SUITE 100
+		CITY:			CHARLOTTESVILLE
+		STATE:			VA
+		ZIP:			22911
+		BUSINESS PHONE:		(434) 973-5242
+
+	MAIL ADDRESS:	
+		STREET 1:		1770 TIMBERWOOD BOULEVARD
+		STREET 2:		SUITE 100
+		CITY:			CHARLOTTESVILLE
+		STATE:			VA
+		ZIP:			22911
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-04-29</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001325670</issuerCik>
+        <issuerName>Southern National Bancorp of Virginia Inc</issuerName>
+        <issuerTradingSymbol>SONA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001811562</rptOwnerCik>
+            <rptOwnerName>Weber Stephen B</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3733 PINE STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>JACKSONVILLE</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>32205</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>EVP, Chief Strategy Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>12500</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Restricted Stock which vests in five installments beginning 2021.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Stephen B Weber</signatureName>
+        <signatureDate>2020-05-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,134 @@
+<SEC-DOCUMENT>0001817856-20-000002.txt : 20200713
+<SEC-HEADER>0001817856-20-000002.hdr.sgml : 20200713
+<ACCEPTANCE-DATETIME>20200713152030
+ACCESSION NUMBER:		0001817856-20-000002
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200706
+FILED AS OF DATE:		20200713
+DATE AS OF CHANGE:		20200713
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Fanter William
+		CENTRAL INDEX KEY:			0001817856
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38317
+		FILM NUMBER:		201025175
+
+	MAIL ADDRESS:	
+		STREET 1:		1515 WEST 190TH STREET, SUITE 275
+		CITY:			GARDENA
+		STATE:			CA
+		ZIP:			90248
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Luther Burbank Corp
+		CENTRAL INDEX KEY:			0001475348
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				680270948
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		520 THIRD STREET, 4TH FLOOR
+		CITY:			SANTA ROSA
+		STATE:			CA
+		ZIP:			95401
+		BUSINESS PHONE:		844-446-8201
+
+	MAIL ADDRESS:	
+		STREET 1:		520 THIRD STREET, 4TH FLOOR
+		CITY:			SANTA ROSA
+		STATE:			CA
+		ZIP:			95401
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>wf-form3_159466801510472.xml
+<DESCRIPTION>FORM 3
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-07-06</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001475348</issuerCik>
+        <issuerName>Luther Burbank Corp</issuerName>
+        <issuerTradingSymbol>LBC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001817856</rptOwnerCik>
+            <rptOwnerName>Fanter William</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1515 WEST 190TH STREET, SUITE 275</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>GARDENA</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>90248</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>EVP, Head of Retail Banking</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">No securities are beneficially owned.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>By Dawn Alger, by power of attorney for William Fanter</signatureName>
+        <signatureDate>2020-07-13</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

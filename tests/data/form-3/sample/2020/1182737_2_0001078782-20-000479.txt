@@ -1,0 +1,183 @@
+<SEC-DOCUMENT>0001078782-20-000479.txt : 20200624
+<SEC-HEADER>0001078782-20-000479.hdr.sgml : 20200624
+<ACCEPTANCE-DATETIME>20200624155010
+ACCESSION NUMBER:		0001078782-20-000479
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20180831
+FILED AS OF DATE:		20200624
+DATE AS OF CHANGE:		20200624
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			O'Rourke Stephen T.
+		CENTRAL INDEX KEY:			0001816004
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-50191
+		FILM NUMBER:		20985419
+
+	MAIL ADDRESS:	
+		STREET 1:		P.O. BOX 9159
+		CITY:			RAPID CITY
+		STATE:			SD
+		ZIP:			57709
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DAKOTA TERRITORY RESOURCE CORP
+		CENTRAL INDEX KEY:			0001182737
+		STANDARD INDUSTRIAL CLASSIFICATION:	METAL MINING [1000]
+		IRS NUMBER:				980201259
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0331
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10580 N. MCCARRAN BLVD., BUILDING 115-20
+		CITY:			RENO
+		STATE:			NV
+		ZIP:			89503
+		BUSINESS PHONE:		(775) 747-0667
+
+	MAIL ADDRESS:	
+		STREET 1:		10580 N. MCCARRAN BLVD., BUILDING 115-20
+		CITY:			RENO
+		STATE:			NV
+		ZIP:			89503
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MUSTANG GEOTHERMAL CORP
+		DATE OF NAME CHANGE:	20100831
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	UREX ENERGY CORP.
+		DATE OF NAME CHANGE:	20060705
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LAKEFIELD VENTURES INC
+		DATE OF NAME CHANGE:	20020826
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2018-08-31</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001182737</issuerCik>
+        <issuerName>DAKOTA TERRITORY RESOURCE CORP</issuerName>
+        <issuerTradingSymbol>DTRC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001816004</rptOwnerCik>
+            <rptOwnerName>O'Rourke Stephen T.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3854 FALLING ROCK RD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>RAPID CITY</rptOwnerCity>
+            <rptOwnerState>SD</rptOwnerState>
+            <rptOwnerZipCode>57702</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>750000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1000000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Strategic Management Partners LLC</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Common Stock Options</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.08</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2019-09-17</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2024-09-16</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1000000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Stephen T. O'Rourke</signatureName>
+        <signatureDate>2020-06-23</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,264 @@
+<SEC-DOCUMENT>0001214659-20-002493.txt : 20200310
+<SEC-HEADER>0001214659-20-002493.hdr.sgml : 20200310
+<ACCEPTANCE-DATETIME>20200310170035
+ACCESSION NUMBER:		0001214659-20-002493
+CONFORMED SUBMISSION TYPE:	5
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200201
+FILED AS OF DATE:		20200310
+DATE AS OF CHANGE:		20200310
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			STACK EDWARD W
+		CENTRAL INDEX KEY:			0001198911
+
+	FILING VALUES:
+		FORM TYPE:		5
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-31463
+		FILM NUMBER:		20702563
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DICK'S SPORTING GOODS, INC.
+		CENTRAL INDEX KEY:			0001089063
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-MISCELLANEOUS SHOPPING GOODS STORES [5940]
+		IRS NUMBER:				161241537
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0201
+
+	BUSINESS ADDRESS:	
+		STREET 1:		345 COURT STREET
+		CITY:			CORAOPOLIS
+		STATE:			PA
+		ZIP:			15108
+		BUSINESS PHONE:		7242733400
+
+	MAIL ADDRESS:	
+		STREET 1:		345 COURT STREET
+		CITY:			CORAOPOLIS
+		STATE:			PA
+		ZIP:			15108
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DICKS SPORTING GOODS INC
+		DATE OF NAME CHANGE:	19990617
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>5
+<SEQUENCE>1
+<FILENAME>marketforms-47721.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>5</documentType>
+
+    <periodOfReport>2020-02-01</periodOfReport>
+
+    <form3HoldingsReported>0</form3HoldingsReported>
+
+    <form4TransactionsReported>0</form4TransactionsReported>
+
+    <issuer>
+        <issuerCik>0001089063</issuerCik>
+        <issuerName>DICK'S SPORTING GOODS, INC.</issuerName>
+        <issuerTradingSymbol>DKS</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001198911</rptOwnerCik>
+            <rptOwnerName>STACK EDWARD W</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>345 COURT STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CORAOPOLIS</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>15108</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>true</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chairman and CEO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.01 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2019-11-22</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>G</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1545764</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By grantor retained annuity trust</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, par value $0.01 per share</value>
+            </securityTitle>
+            <transactionCoding></transactionCoding>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5440484</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, par value $0.01 per share</value>
+            </securityTitle>
+            <transactionCoding></transactionCoding>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1187473</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By grantor retained annuity trust</value>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, par value $0.01 per share</value>
+            </securityTitle>
+            <transactionCoding></transactionCoding>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>719833</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By grantor retained annuity trust</value>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, par value $0.01 per share</value>
+            </securityTitle>
+            <transactionCoding></transactionCoding>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1480834</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By grantor retained annuity trust</value>
+                    <footnoteId id="F6"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, par value $0.01 per share</value>
+            </securityTitle>
+            <transactionCoding></transactionCoding>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6000000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By grantor retained annuity trust</value>
+                    <footnoteId id="F7"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On November 22, 2017, Mr. Stack contributed shares of Class B Common Stock to the Edward W. Stack Grantor Retained Annuity Trust IX for the benefit of his children.  Thereafter, shares have been transferred annually from the trust to Mr. Stack to satisfy annuity payment obligations, including 2,140,135 shares transferred from the trust to Mr. Stack on November 22, 2019 (as reflected herein).  Upon termination of the Grantor Retained Annuity Trust on November 22, 2019, the remaining 1,545,764 shares held by the trust were gifted to the Edward W. Stack Irrevocable Trust, in which Mr. Stack has neither a direct nor indirect beneficial ownership interest.</footnote>
+        <footnote id="F2">Amount reflects shifts from indirect to direct ownership of the following shares of Class B Common Stock from the indicated Edward W. Stack Grantor Retained Annuity Trust to Mr. Stack directly to satisfy annual annuity payment obligations (i) on April 5, 2019, 950,333 shares from the Edward W. Stack Grantor Retained Annuity Trust VI (final annuity payment), 1,018,000 shares from the Edward W. Stack Grantor Retained Annuity Trust VII, and 719,000 shares from the Edward W. Stack Grantor Retained Annuity Trust VIII, (ii) on May 28, 2019, 360,275 shares from the Edward W. Stack Grantor Retained Annuity Trust V, and (iii) on November 22, 2019, 2,140,135 shares from the Edward W. Stack Grantor Retained Annuity Trust IX (final annuity payment). Amount also reflects a subsequent shift from direct to indirect ownership of 6,000,000 shares of Class B Common Stock from Edward W. Stack into the Edward W. Stack Grantor Retained Annuity Trust X on June 13, 2019, as reflected in this filing.</footnote>
+        <footnote id="F3">Amount includes 4,132,843 shares of Class B common stock (the &quot;Class B Common Stock&quot;), which is not registered under the Securities Exchange Act of 1934, as amended.  Holders of Class B Common Stock have identical rights to holders of common stock, except that holders of Class B Common Stock are entitled to 10 votes for each share held of record.  Each share of Class B Common Stock is convertible at any time, at the option of the holder, into one share of common stock.</footnote>
+        <footnote id="F4">These shares are held by the Edward W. Stack Grantor Retained Annuity Trust V.</footnote>
+        <footnote id="F5">These shares are held by the Edward W. Stack Grantor Retained Annuity Trust VII.</footnote>
+        <footnote id="F6">These shares are held by the Edward W. Stack Grantor Retained Annuity Trust VIII.</footnote>
+        <footnote id="F7">These shares are held by the Edward W. Stack Grantor Retained Annuity Trust X.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Edward W. Stack</signatureName>
+        <signatureDate>2020-03-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

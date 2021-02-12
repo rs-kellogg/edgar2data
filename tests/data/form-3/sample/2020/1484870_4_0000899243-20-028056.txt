@@ -1,0 +1,471 @@
+<SEC-DOCUMENT>0000899243-20-028056.txt : 20201013
+<SEC-HEADER>0000899243-20-028056.hdr.sgml : 20201013
+<ACCEPTANCE-DATETIME>20201013174043
+ACCESSION NUMBER:		0000899243-20-028056
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20201001
+FILED AS OF DATE:		20201013
+DATE AS OF CHANGE:		20201013
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Blackstone Holdings II L.P.
+		CENTRAL INDEX KEY:			0001484870
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34632
+		FILM NUMBER:		201237534
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O  THE BLACKSTONE GROUP
+		STREET 2:		345 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+		BUSINESS PHONE:		212-583-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O  THE BLACKSTONE GROUP
+		STREET 2:		345 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Blackstone Holdings I/II GP L.L.C.
+		CENTRAL INDEX KEY:			0001464695
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34632
+		FILM NUMBER:		201237535
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O THE BLACKSTONE GROUP
+		STREET 2:		345 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+		BUSINESS PHONE:		2125835000
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O THE BLACKSTONE GROUP
+		STREET 2:		345 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	Blackstone Holdings I/II GP Inc
+		DATE OF NAME CHANGE:	20090521
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Blackstone Group Inc
+		CENTRAL INDEX KEY:			0001393818
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTMENT ADVICE [6282]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34632
+		FILM NUMBER:		201237536
+
+	BUSINESS ADDRESS:	
+		STREET 1:		345 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+		BUSINESS PHONE:		(212) 583-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		345 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	Blackstone Group L.P.
+		DATE OF NAME CHANGE:	20070320
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Blackstone Group Management L.L.C.
+		CENTRAL INDEX KEY:			0001404071
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34632
+		FILM NUMBER:		201237537
+
+	BUSINESS ADDRESS:	
+		STREET 1:		345 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+		BUSINESS PHONE:		(212) 583-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		345 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SCHWARZMAN STEPHEN A
+		CENTRAL INDEX KEY:			0001070844
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34632
+		FILM NUMBER:		201237538
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O THE BLACKSTONE GROUP
+		STREET 2:		345 PARK AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Cryoport, Inc.
+		CENTRAL INDEX KEY:			0001124524
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				880313393
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		112 WESTWOOD PLACE, SUITE 350
+		CITY:			BRENTWOOD
+		STATE:			TN
+		ZIP:			37027
+		BUSINESS PHONE:		(949) 232-1900
+
+	MAIL ADDRESS:	
+		STREET 1:		112 WESTWOOD PLACE, SUITE 350
+		CITY:			BRENTWOOD
+		STATE:			TN
+		ZIP:			37027
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CRYOPORT SYSTEMS LLC
+		DATE OF NAME CHANGE:	20010614
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CRYOPORT SYSTEMS INC
+		DATE OF NAME CHANGE:	20000923
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc3.xml
+<DESCRIPTION>FORM 3 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-10-01</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001124524</issuerCik>
+        <issuerName>Cryoport, Inc.</issuerName>
+        <issuerTradingSymbol>CYRX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001484870</rptOwnerCik>
+            <rptOwnerName>Blackstone Holdings II L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O THE BLACKSTONE GROUP INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>345 PARK AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10154</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001464695</rptOwnerCik>
+            <rptOwnerName>Blackstone Holdings I/II GP L.L.C.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O THE BLACKSTONE GROUP INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>345 PARK AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10154</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001393818</rptOwnerCik>
+            <rptOwnerName>Blackstone Group Inc</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>345 PARK AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10154</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001404071</rptOwnerCik>
+            <rptOwnerName>Blackstone Group Management L.L.C.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O THE BLACKSTONE GROUP INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>345 PARK AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10154</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001070844</rptOwnerCik>
+            <rptOwnerName>SCHWARZMAN STEPHEN A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O THE BLACKSTONE GROUP INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>345 PARK AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10154</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>660131</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F6"/>
+                    <footnoteId id="F7"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>15405</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F6"/>
+                    <footnoteId id="F7"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>4.0% Series C Convertible Preferred Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>38.6152</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F4"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>6326498</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F6"/>
+                    <footnoteId id="F7"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>4.0% Series C Convertible Preferred Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>38.6152</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F4"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>147636</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F6"/>
+                    <footnoteId id="F7"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects securities of the Issuer held directly by Blackstone Freeze Parent L.P.  BTO Holdings Manager L.L.C. is the general partner of Blackstone Freeze Parent L.P.  Blackstone Tactical Opportunities Associates L.L.C. is the managing member of BTO Holdings Manager L.L.C.  BTOA L.L.C. is the sole member of Blackstone Tactical Opportunities Associates L.L.C.  Blackstone Holdings III L.P. is the managing member of BTOA L.L.C.  Blackstone Holdings III GP L.P. is the general partner of Blackstone Holdings III L.P.  Blackstone Holdings III GP Management L.L.C. is the general partner of Blackstone Holdings III GP L.P.</footnote>
+        <footnote id="F2">Reflects securities of the Issuer held directly by Blackstone Tactical Opportunities Fund - FD L.P. Blackstone Tactical Opportunities Associates III - NQ L.P. is the general partner of Blackstone Tactical Opportunities Associates III - NQ L.P.  BTO DE GP - NQ L.L.C. is the general partner of Blackstone Tactical Opportunities Fund - FD L.P.  Blackstone Holdings II L.P. is the managing member of BTO DE GP - NQ L.L.C.  Blackstone Holdings I/II GP L.L.C. is the general partner of Blackstone Holdings II L.P.</footnote>
+        <footnote id="F3">The Blackstone Group Inc. is the sole member of each of Blackstone Holdings I/II GP L.L.C. and Blackstone Holdings III GP Management L.L.C.  The sole holder of the Class C common stock of The Blackstone Group Inc. is Blackstone Group Management L.L.C. Blackstone Group Management L.L.C. is wholly-owned by Blackstone's senior managing directors and controlled by its founder, Stephen A. Schwarzman.</footnote>
+        <footnote id="F4">Reflects 4.0% Series C Convertible Preferred Stock (&quot;Series C Preferred Stock&quot;). The Series C Preferred Stock has no stated maturity, and is convertible at any time at the option of the holder into shares of common stock of the Issuer (&quot;Common Stock&quot;) at an initial conversion price of $38.6152 per share, subject to adjustment as provided in the Certificate of Designations of the Series C Preferred Stock. The Series C Preferred Stock will remain outstanding indefinitely unless converted, repurchased or redeemed by the Issuer. The Issuer may mandatorily convert the Series C Preferred Stock into Common Stock at any time after the two-year anniversary of the issuance, if certain conditions are met.</footnote>
+        <footnote id="F5">Due to the limitations of the electronic filing system certain Reporting Persons are filing a separate Form 3.</footnote>
+        <footnote id="F6">Information with respect to each of the Reporting Persons is given solely by such Reporting Person, and no Reporting Person has responsibility for the accuracy or completeness of information supplied by another Reporting Person.</footnote>
+        <footnote id="F7">Each of the Reporting Persons (other than to the extent it directly holds securities reported herein) disclaims beneficial ownership of the securities held by the other Reporting Persons, except to the extent of such Reporting Person's pecuniary interest therein, and, pursuant to Rule 16a-1(a)(4) under the Securities Exchange Act of 1934, each of the Reporting Persons (other than to the extent it directly holds securities reported herein) states that the inclusion of these securities in this report shall not be deemed an admission of beneficial ownership of all of the reported securities for purposes of Section 16 or for any other purpose.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>BLACKSTONE HOLDINGS II L.P., By: Blackstone Holdings I/II GP L.L.C., its general partner, By: /s/ John G. Finley, Name: John G. Finley, Title: Chief Legal Officer</signatureName>
+        <signatureDate>2020-10-13</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>BLACKSTONE HOLDINGS I/II GP L.L.C. By: /s/ John G. Finley, Name: John G. Finley, Title: Chief Legal Officer</signatureName>
+        <signatureDate>2020-10-13</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>THE BLACKSTONE GROUP INC., By: /s/ John G. Finley, Name: John G. Finley, Title: Chief Legal Officer</signatureName>
+        <signatureDate>2020-10-13</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>BLACKSTONE GROUP MANAGEMENT L.L.C., By: /s/ John G. Finley, Name: John G. Finley, Title: Chief Legal Officer</signatureName>
+        <signatureDate>2020-10-13</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>/s/ Stephen A. Schwarzman</signatureName>
+        <signatureDate>2020-10-13</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

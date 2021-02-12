@@ -1,0 +1,157 @@
+<SEC-DOCUMENT>0000036146-20-000002.txt : 20200207
+<SEC-HEADER>0000036146-20-000002.hdr.sgml : 20200207
+<ACCEPTANCE-DATETIME>20200207135637
+ACCESSION NUMBER:		0000036146-20-000002
+CONFORMED SUBMISSION TYPE:	5
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20191231
+FILED AS OF DATE:		20200207
+DATE AS OF CHANGE:		20200207
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Stevens Wayne A
+		CENTRAL INDEX KEY:			0001447251
+
+	FILING VALUES:
+		FORM TYPE:		5
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-03683
+		FILM NUMBER:		20586680
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 291
+		CITY:			JACKSON
+		STATE:			MS
+		ZIP:			39205
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TRUSTMARK CORP
+		CENTRAL INDEX KEY:			0000036146
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				640471500
+		STATE OF INCORPORATION:			MS
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		248 E CAPITOL ST
+		STREET 2:		P O BOX 291
+		CITY:			JACKSON
+		STATE:			MS
+		ZIP:			39201
+		BUSINESS PHONE:		(601) 208-5111
+
+	MAIL ADDRESS:	
+		STREET 1:		248 EAST CAPITOL STREET
+		CITY:			JACKSON
+		STATE:			MS
+		ZIP:			39201
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FIRST CAPITAL CORP
+		DATE OF NAME CHANGE:	19900513
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>5
+<SEQUENCE>1
+<FILENAME>edgar.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>5</documentType>
+
+    <periodOfReport>2019-12-31</periodOfReport>
+
+    <form3HoldingsReported>0</form3HoldingsReported>
+
+    <form4TransactionsReported>0</form4TransactionsReported>
+
+    <issuer>
+        <issuerCik>0000036146</issuerCik>
+        <issuerName>TRUSTMARK CORP</issuerName>
+        <issuerTradingSymbol>TRMK</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001447251</rptOwnerCik>
+            <rptOwnerName>Stevens Wayne A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>P. O. BOX 291</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>JACKSON</rptOwnerCity>
+            <rptOwnerState>MS</rptOwnerState>
+            <rptOwnerZipCode>39205</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Executive Officer of</officerTitle>
+            <otherText>Wholly Owned Subsidiary</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>common</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>38580</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>common</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1151</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Company Sponsored 401k</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes 30 shares acquired through Company sponsored 401k Plan between February 1, 2019 and December 31, 2019.  Information in this report is based on information provided by plan administrator dated as of December 31, 2019.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Wayne A. Stevens by: Granville Tate, Jr., POA</signatureName>
+        <signatureDate>2020-02-07</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

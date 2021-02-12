@@ -1,0 +1,159 @@
+<SEC-DOCUMENT>0001785982-20-000104.txt : 20200224
+<SEC-HEADER>0001785982-20-000104.hdr.sgml : 20200224
+<ACCEPTANCE-DATETIME>20200224131855
+ACCESSION NUMBER:		0001785982-20-000104
+CONFORMED SUBMISSION TYPE:	5
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20191231
+FILED AS OF DATE:		20200224
+DATE AS OF CHANGE:		20200224
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			MILLS WILLIAM KARL
+		CENTRAL INDEX KEY:			0001484315
+
+	FILING VALUES:
+		FORM TYPE:		5
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-28685
+		FILM NUMBER:		20643332
+
+	MAIL ADDRESS:	
+		STREET 1:		101 WEST RENNER ROAD
+		STREET 2:		SUITE 300
+		CITY:			RICHARDSON
+		STATE:			TX
+		ZIP:			75082
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VERTICAL COMPUTER SYSTEMS INC
+		CENTRAL INDEX KEY:			0001099509
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				880441551
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		101 WEST RENNER ROAD,
+		STREET 2:		SUITE 300,
+		CITY:			RICHARDSON,
+		STATE:			TX
+		ZIP:			75082
+		BUSINESS PHONE:		(972) 437-5200
+
+	MAIL ADDRESS:	
+		STREET 1:		101 WEST RENNER ROAD,
+		STREET 2:		SUITE 300,
+		CITY:			RICHARDSON,
+		STATE:			TX
+		ZIP:			75082
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SCIENTIFIC FUEL TECHNOLOGY INC
+		DATE OF NAME CHANGE:	19991122
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>5
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>5</documentType>
+
+    <periodOfReport>2019-12-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <form3HoldingsReported>0</form3HoldingsReported>
+
+    <form4TransactionsReported>0</form4TransactionsReported>
+
+    <issuer>
+        <issuerCik>0001099509</issuerCik>
+        <issuerName>VERTICAL COMPUTER SYSTEMS INC</issuerName>
+        <issuerTradingSymbol>VCSY</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001484315</rptOwnerCik>
+            <rptOwnerName>MILLS WILLIAM KARL</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>101 WEST RENNER ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 200</rptOwnerStreet2>
+            <rptOwnerCity>RICHARDSON</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75082</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Secretary</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionCoding>
+                <transactionFormType></transactionFormType>
+            </transactionCoding>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5250000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionCoding>
+                <transactionFormType></transactionFormType>
+            </transactionCoding>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1083333</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Owned by Parker Mills, LLP</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ William Karl Mills</signatureName>
+        <signatureDate>2020-02-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

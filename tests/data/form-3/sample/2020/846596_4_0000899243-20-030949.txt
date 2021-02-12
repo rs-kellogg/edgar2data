@@ -1,0 +1,160 @@
+<SEC-DOCUMENT>0000899243-20-030949.txt : 20201113
+<SEC-HEADER>0000899243-20-030949.hdr.sgml : 20201113
+<ACCEPTANCE-DATETIME>20201113130048
+ACCESSION NUMBER:		0000899243-20-030949
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20201109
+FILED AS OF DATE:		20201113
+DATE AS OF CHANGE:		20201113
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			JPMorgan Chase Bank, N.A.
+		CENTRAL INDEX KEY:			0000835271
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		STATE OF INCORPORATION:			X1
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-05767
+		FILM NUMBER:		201310359
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1111 POLARIS PARKWAY
+		CITY:			COLUMBUS
+		STATE:			OH
+		ZIP:			43240
+		BUSINESS PHONE:		212-648-0466
+
+	MAIL ADDRESS:	
+		STREET 1:		1111 POLARIS PARKWAY
+		CITY:			COLUMBUS
+		STATE:			OH
+		ZIP:			43240
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	JPMorgan Chase Bank, National Association
+		DATE OF NAME CHANGE:	20050114
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	CHASE MANHATTAN BANK /NY/
+		DATE OF NAME CHANGE:	19960911
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	CHEMICAL BANK
+		DATE OF NAME CHANGE:	19930521
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DWS STRATEGIC MUNICIPAL INCOME TRUST
+		CENTRAL INDEX KEY:			0000846596
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		IRS NUMBER:				363629052
+		FISCAL YEAR END:			1130
+
+	BUSINESS ADDRESS:	
+		STREET 1:		875 THIRD AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022-6225
+		BUSINESS PHONE:		212-454-4500
+
+	MAIL ADDRESS:	
+		STREET 1:		875 THIRD AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022-6225
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DEUTSCHE STRATEGIC MUNICIPAL INCOME TRUST
+		DATE OF NAME CHANGE:	20140811
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DWS STRATEGIC MUNICIPAL INCOME TRUST
+		DATE OF NAME CHANGE:	20060206
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SCUDDER STRATEGIC MUNICIPAL INCOME TRUST
+		DATE OF NAME CHANGE:	20010123
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc3.xml
+<DESCRIPTION>FORM 3 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-11-09</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000846596</issuerCik>
+        <issuerName>DWS STRATEGIC MUNICIPAL INCOME TRUST</issuerName>
+        <issuerTradingSymbol>KSM</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000835271</rptOwnerCik>
+            <rptOwnerName>JPMorgan Chase Bank, N.A.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1111 POLARIS PARKWAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>COLUMBUS</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>43240</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Variable Rate MuniFund Term Preferred Shares, Series 2020-1</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>700</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes></footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>JPMORGAN CHASE BANK, NATIONAL ASSOCIATION, by:  /s/ Sean Saroya</signatureName>
+        <signatureDate>2020-11-13</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

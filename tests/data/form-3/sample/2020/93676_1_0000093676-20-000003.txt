@@ -1,0 +1,107 @@
+<SEC-DOCUMENT>0000093676-20-000003.txt : 20200117
+<SEC-HEADER>0000093676-20-000003.hdr.sgml : 20200117
+<ACCEPTANCE-DATETIME>20200117143437
+ACCESSION NUMBER:		0000093676-20-000003
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200117
+FILED AS OF DATE:		20200117
+DATE AS OF CHANGE:		20200117
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Arntsen Christian
+		CENTRAL INDEX KEY:			0001792354
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-00367
+		FILM NUMBER:		20533178
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O THE L.S. STARRETT COMPANY
+		STREET 2:		121 CRESCENT STREET
+		CITY:			ATHOL
+		STATE:			MA
+		ZIP:			01331
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			STARRETT L S CO
+		CENTRAL INDEX KEY:			0000093676
+		STANDARD INDUSTRIAL CLASSIFICATION:	CUTLERY, HANDTOOLS & GENERAL HARDWARE [3420]
+		IRS NUMBER:				041866480
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		121 CRESCENT ST
+		CITY:			ATHOL
+		STATE:			MA
+		ZIP:			01331
+		BUSINESS PHONE:		978-249-3551
+
+	MAIL ADDRESS:	
+		STREET 1:		121 CRESCENT STREET
+		CITY:			ATHOL
+		STATE:			MA
+		ZIP:			01331
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-01-17</periodOfReport>
+
+    <noSecuritiesOwned>1</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000093676</issuerCik>
+        <issuerName>STARRETT L S CO</issuerName>
+        <issuerTradingSymbol>SCX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001792354</rptOwnerCik>
+            <rptOwnerName>Arntsen Christian</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O THE L.S. STARRETT COMPANY</rptOwnerStreet1>
+            <rptOwnerStreet2>121 CRESCENT STREET</rptOwnerStreet2>
+            <rptOwnerCity>ATHOL</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>01331</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CFO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <ownerSignature>
+        <signatureName>John Tripp</signatureName>
+        <signatureDate>2020-01-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,161 @@
+<SEC-DOCUMENT>0001328581-20-000004.txt : 20200116
+<SEC-HEADER>0001328581-20-000004.hdr.sgml : 20200116
+<ACCEPTANCE-DATETIME>20200116173250
+ACCESSION NUMBER:		0001328581-20-000004
+CONFORMED SUBMISSION TYPE:	5
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20191231
+FILED AS OF DATE:		20200116
+DATE AS OF CHANGE:		20200116
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			MCDOUGALL DUANE CHARLES
+		CENTRAL INDEX KEY:			0001220506
+
+	FILING VALUES:
+		FORM TYPE:		5
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35805
+		FILM NUMBER:		20531821
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O INFOCUS CORP
+		STREET 2:		277008 SW PARKWAY AVE
+		CITY:			WILSONVILLE
+		STATE:			OR
+		ZIP:			97070
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BOISE CASCADE Co
+		CENTRAL INDEX KEY:			0001328581
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-LUMBER & OTHER CONSTRUCTION MATERIALS [5030]
+		IRS NUMBER:				201496201
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1111 WEST JEFFERSON STREET, SUITE 300
+		STREET 2:		P. O. BOX 50
+		CITY:			BOISE
+		STATE:			ID
+		ZIP:			83702
+		BUSINESS PHONE:		(208) 384-6161
+
+	MAIL ADDRESS:	
+		STREET 1:		1111 WEST JEFFERSON STREET, SUITE 300
+		STREET 2:		P. O. BOX 50
+		CITY:			BOISE
+		STATE:			ID
+		ZIP:			83702
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BOISE CASCADE, L.L.C.
+		DATE OF NAME CHANGE:	20050527
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>5
+<SEQUENCE>1
+<FILENAME>wf-form5_157921395378217.xml
+<DESCRIPTION>FORM 5
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>5</documentType>
+
+    <periodOfReport>2019-12-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <form3HoldingsReported>0</form3HoldingsReported>
+
+    <form4TransactionsReported>0</form4TransactionsReported>
+
+    <issuer>
+        <issuerCik>0001328581</issuerCik>
+        <issuerName>BOISE CASCADE Co</issuerName>
+        <issuerTradingSymbol>BCC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001220506</rptOwnerCik>
+            <rptOwnerName>MCDOUGALL DUANE CHARLES</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O BOISE CASCADE COMPANY</rptOwnerStreet1>
+            <rptOwnerStreet2>1111 WEST JEFFERSON STREET, SUITE 300</rptOwnerStreet2>
+            <rptOwnerCity>BOISE</rptOwnerCity>
+            <rptOwnerState>ID</rptOwnerState>
+            <rptOwnerZipCode>83702</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.01</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2019-08-07</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>G</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2800</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>17149</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes></footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Jill M. Twedt, by power of atty</signatureName>
+        <signatureDate>2020-01-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

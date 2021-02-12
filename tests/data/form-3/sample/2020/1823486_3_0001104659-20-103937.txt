@@ -1,0 +1,193 @@
+<SEC-DOCUMENT>0001104659-20-103937.txt : 20200910
+<SEC-HEADER>0001104659-20-103937.hdr.sgml : 20200910
+<ACCEPTANCE-DATETIME>20200910160524
+ACCESSION NUMBER:		0001104659-20-103937
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20200908
+FILED AS OF DATE:		20200910
+DATE AS OF CHANGE:		20200910
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Waclawski Anthony
+		CENTRAL INDEX KEY:			0001823486
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36641
+		FILM NUMBER:		201168785
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O BRAINSTORM CELL THERAPEUTICS, INC.
+		STREET 2:		1325 AVENUE OF THE AMERICAS 28TH FL
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BRAINSTORM CELL THERAPEUTICS INC.
+		CENTRAL INDEX KEY:			0001137883
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		IRS NUMBER:				207273918
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1325 AVENUE OF AMERICAS
+		STREET 2:		28TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		201-488-0460
+
+	MAIL ADDRESS:	
+		STREET 1:		1325 AVENUE OF AMERICAS
+		STREET 2:		28TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BRAINSTORM CELL THERAPEUTICS INC
+		DATE OF NAME CHANGE:	20041122
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GOLDEN HAND RESOURCES INC
+		DATE OF NAME CHANGE:	20030827
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WIZBANG TECHNOLOGIES INC
+		DATE OF NAME CHANGE:	20010409
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>tm2030582d2_3.xml
+<DESCRIPTION>OWNERSHIP DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-09-08</periodOfReport>
+
+    <noSecuritiesOwned>1</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001137883</issuerCik>
+        <issuerName>BRAINSTORM CELL THERAPEUTICS INC.</issuerName>
+        <issuerTradingSymbol>BCLI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001823486</rptOwnerCik>
+            <rptOwnerName>Waclawski Anthony</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O BRAINSTORM CELL THERAPEUTICS INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1325 AVENUE OF THE AMERICAS 28TH FL</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10019</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>See Remarks</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <remarks>EVP, Global Head of Regulatory Affairs - Exhibit 24 -- Power of Attorney</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Anthony Waclawski</signatureName>
+        <signatureDate>2020-09-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>tm2030582d2_ex-24.htm
+<DESCRIPTION>EXHIBIT 24
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0; text-align: right"><B>Exhibit 24</B></P>
+
+<P STYLE="margin: 0; text-align: right"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase">Brainstorm
+cell therapeutics inc.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase">LIMITED
+Power of Attorney&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">This statement confirms that the undersigned
+has authorized and designated each of Chaim Lebovits, Uri Yablonka, Mitchell S. Bloom and Jesse Nevarez, as attorneys-in-fact to
+(i) prepare, execute and file on behalf of the undersigned Form ID or any other necessary documents or forms in order to obtain
+access codes (including, without limitation, CIK and CCC codes) for the undersigned to permit filing on EDGAR, and (ii) prepare,
+execute and file on behalf of the undersigned all Forms 3, 4 and 5 (including any amendments thereto) that the undersigned may
+be required to file with the U.S. Securities and Exchange Commission as a result of the undersigned's ownership of or transactions
+in securities of Brainstorm Cell Therapeutics Inc. The authority of such attorneys under this Power of Attorney shall continue
+until the undersigned is no longer required to file Forms 3, 4 and 5 with regard to the undersigned's ownership of or transactions
+in securities of Brainstorm Cell Therapeutics Inc., unless earlier revoked in writing. The undersigned acknowledges that such attorneys
+are not assuming any of the undersigned's responsibilities to comply with the requirements of Section 16 of the Securities Exchange
+Act of 1934, as amended, or any of the undersigned's liabilities for failure to comply with such requirements.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 2.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%">&nbsp;</TD>
+    <TD STYLE="width: 3%">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; width: 47%">/s/ Anthony Waclawski</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>Date: September 1, 2020</TD>
+    <TD>&nbsp;</TD>
+    <TD>Name:&nbsp;&nbsp;Anthony Waclawski</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="text-transform: uppercase">&nbsp;</FONT></P>
+
+<!-- Field: Page; Sequence: 1; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="text-transform: uppercase"></FONT></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

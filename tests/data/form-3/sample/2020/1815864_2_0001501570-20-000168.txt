@@ -1,0 +1,117 @@
+<SEC-DOCUMENT>0001501570-20-000168.txt : 20200623
+<SEC-HEADER>0001501570-20-000168.hdr.sgml : 20200623
+<ACCEPTANCE-DATETIME>20200623170250
+ACCESSION NUMBER:		0001501570-20-000168
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200623
+FILED AS OF DATE:		20200623
+DATE AS OF CHANGE:		20200623
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			RECER JIM
+		CENTRAL INDEX KEY:			0001815864
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36682
+		FILM NUMBER:		20982884
+
+	MAIL ADDRESS:	
+		STREET 1:		8214 WESTCHESTER DRIVE
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75225
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Veritex Holdings, Inc.
+		CENTRAL INDEX KEY:			0001501570
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				270973566
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8214 WESTCHESTER DRIVE
+		STREET 2:		SUITE 400
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75225
+		BUSINESS PHONE:		972-349-6200
+
+	MAIL ADDRESS:	
+		STREET 1:		8214 WESTCHESTER DRIVE
+		STREET 2:		SUITE 400
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75225
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>wf-form3_159294615267350.xml
+<DESCRIPTION>FORM 3
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-06-23</periodOfReport>
+
+    <noSecuritiesOwned>1</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001501570</issuerCik>
+        <issuerName>Veritex Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>VBTX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001815864</rptOwnerCik>
+            <rptOwnerName>RECER JIM</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O VERITEX HOLDINGS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>8214 WESTCHESTER DRIVE, SUITE 800</rptOwnerStreet2>
+            <rptOwnerCity>DALLAS</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75225</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Banking Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes></footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>C. Malcolm Holland</signatureName>
+        <signatureDate>2020-06-23</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

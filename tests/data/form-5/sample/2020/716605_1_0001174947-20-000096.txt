@@ -1,0 +1,237 @@
+<SEC-DOCUMENT>0001174947-20-000096.txt : 20200205
+<SEC-HEADER>0001174947-20-000096.hdr.sgml : 20200205
+<ACCEPTANCE-DATETIME>20200205101418
+ACCESSION NUMBER:		0001174947-20-000096
+CONFORMED SUBMISSION TYPE:	5
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20191231
+FILED AS OF DATE:		20200205
+DATE AS OF CHANGE:		20200205
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			FUREY JAMES M II
+		CENTRAL INDEX KEY:			0001195365
+
+	FILING VALUES:
+		FORM TYPE:		5
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-17077
+		FILM NUMBER:		20576629
+
+	MAIL ADDRESS:	
+		STREET 1:		299 LEHMAN DRIVE
+		CITY:			COGAN STATION
+		STATE:			PA
+		ZIP:			17728
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PENNS WOODS BANCORP INC
+		CENTRAL INDEX KEY:			0000716605
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				232226454
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		115 S MAIN ST
+		CITY:			JERSEY SHORE
+		STATE:			PA
+		ZIP:			17740
+		BUSINESS PHONE:		570-322-1111
+
+	MAIL ADDRESS:	
+		STREET 1:		115 S MAIN ST
+		CITY:			JERSEY SHORE
+		STATE:			PA
+		ZIP:			17740
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>5
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>5</documentType>
+
+    <periodOfReport>2019-12-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <form3HoldingsReported>0</form3HoldingsReported>
+
+    <form4TransactionsReported>0</form4TransactionsReported>
+
+    <issuer>
+        <issuerCik>0000716605</issuerCik>
+        <issuerName>PENNS WOODS BANCORP INC</issuerName>
+        <issuerTradingSymbol>PWOD</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001195365</rptOwnerCik>
+            <rptOwnerName>FUREY JAMES M II</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>299 LEHMAN DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>COGAN STATION</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>17728</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Penns Woods Bancorp, Inc. common stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2019-09-30</value>
+            </transactionDate>
+            <deemedExecutionDate>
+                <value>2019-09-30</value>
+            </deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2440</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>30.47</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>7320</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F1"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Penns Woods Bancorp, Inc. common stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2019-09-30</value>
+            </transactionDate>
+            <deemedExecutionDate>
+                <value>2019-09-30</value>
+            </deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3523</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>30.47</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10570</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Penns Woods Bancorp, Inc. common stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2019-09-30</value>
+            </transactionDate>
+            <deemedExecutionDate>
+                <value>2019-09-30</value>
+            </deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>815</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>30.47</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2445</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>wife</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">IRA</footnote>
+    </footnotes>
+
+    <remarks>J - 3 for 2 stock split issued 9/30/2019</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Kimberly R. Yale, Attorney in Fact</signatureName>
+        <signatureDate>2020-02-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

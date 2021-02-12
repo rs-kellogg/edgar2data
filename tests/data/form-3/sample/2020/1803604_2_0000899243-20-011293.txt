@@ -1,0 +1,364 @@
+<SEC-DOCUMENT>0000899243-20-011293.txt : 20200424
+<SEC-HEADER>0000899243-20-011293.hdr.sgml : 20200424
+<ACCEPTANCE-DATETIME>20200424164730
+ACCESSION NUMBER:		0000899243-20-011293
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20181231
+FILED AS OF DATE:		20200424
+DATE AS OF CHANGE:		20200424
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Nestle Health Science US Holdings, Inc.
+		CENTRAL INDEX KEY:			0001644164
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37519
+		FILM NUMBER:		20815700
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O NESTLE USA, INC.
+		STREET 2:		800 NORTH BRAND BLVD.
+		CITY:			GLENDALE
+		STATE:			CA
+		ZIP:			91203
+		BUSINESS PHONE:		(818) 548-7050
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O NESTLE USA, INC.
+		STREET 2:		800 NORTH BRAND BLVD.
+		CITY:			GLENDALE
+		STATE:			CA
+		ZIP:			91203
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Societe des Produits Nestle S.A.
+		CENTRAL INDEX KEY:			0001803539
+		STATE OF INCORPORATION:			V8
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37519
+		FILM NUMBER:		20815701
+
+	BUSINESS ADDRESS:	
+		STREET 1:		AVENUE NESTLE 55
+		CITY:			VEVEY
+		STATE:			V8
+		ZIP:			CH-1800
+		BUSINESS PHONE:		41-21-924-1111
+
+	MAIL ADDRESS:	
+		STREET 1:		AVENUE NESTLE 55
+		CITY:			VEVEY
+		STATE:			V8
+		ZIP:			CH-1800
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			NESTLE SA
+		CENTRAL INDEX KEY:			0000792990
+		STANDARD INDUSTRIAL CLASSIFICATION:	FOOD & KINDRED PRODUCTS [2000]
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37519
+		FILM NUMBER:		20815702
+
+	BUSINESS ADDRESS:	
+		STREET 1:		AVE NESELE 55, CH-1800
+		CITY:			VEVEY
+		STATE:			V8
+		BUSINESS PHONE:		01141219241111
+
+	MAIL ADDRESS:	
+		STREET 1:		AVE NESTLE 55
+		STREET 2:		CH-1800
+		CITY:			VEVEY
+		STATE:			V8
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			NIMCO US, Inc.
+		CENTRAL INDEX KEY:			0001643723
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37519
+		FILM NUMBER:		20815703
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O NESTLE S.A.
+		STREET 2:		AVENUE NESTLE 55
+		CITY:			VEVEY
+		STATE:			V8
+		ZIP:			CH-1800
+		BUSINESS PHONE:		(818) 548-7050
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O NESTLE S.A.
+		STREET 2:		AVENUE NESTLE 55
+		CITY:			VEVEY
+		STATE:			V8
+		ZIP:			CH-1800
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Nestle US Holdco, Inc.
+		CENTRAL INDEX KEY:			0001803604
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37519
+		FILM NUMBER:		20815704
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1812 NORTH MOORE STREET
+		CITY:			ARLINGTON
+		STATE:			VA
+		ZIP:			22209
+		BUSINESS PHONE:		(440) 264-5434
+
+	MAIL ADDRESS:	
+		STREET 1:		1812 NORTH MOORE STREET
+		CITY:			ARLINGTON
+		STATE:			VA
+		ZIP:			22209
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Aimmune Therapeutics, Inc.
+		CENTRAL INDEX KEY:			0001631650
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				452748244
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8000 MARINA BOULEVARD
+		STREET 2:		SUITE 300
+		CITY:			BRISBANE
+		STATE:			CA
+		ZIP:			94005-1884
+		BUSINESS PHONE:		(650) 614-5220
+
+	MAIL ADDRESS:	
+		STREET 1:		8000 MARINA BOULEVARD
+		STREET 2:		SUITE 300
+		CITY:			BRISBANE
+		STATE:			CA
+		ZIP:			94005-1884
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Allergen Research Corp
+		DATE OF NAME CHANGE:	20150123
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc3.xml
+<DESCRIPTION>FORM 3 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2018-12-31</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001631650</issuerCik>
+        <issuerName>Aimmune Therapeutics, Inc.</issuerName>
+        <issuerTradingSymbol>AIMT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001644164</rptOwnerCik>
+            <rptOwnerName>Nestle Health Science US Holdings, Inc.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1812 NORTH MOORE STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>ARLINGTON</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>22209</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001803539</rptOwnerCik>
+            <rptOwnerName>Societe des Produits Nestle S.A.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>AVENUE NESTLE 55</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CH-1800, VEVEY</rptOwnerCity>
+            <rptOwnerState>V8</rptOwnerState>
+            <rptOwnerZipCode></rptOwnerZipCode>
+            <rptOwnerStateDescription>SWITZERLAND</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000792990</rptOwnerCik>
+            <rptOwnerName>NESTLE SA</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>AVENUE NESTLE 55</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CH-1800, VEVEY</rptOwnerCity>
+            <rptOwnerState>V8</rptOwnerState>
+            <rptOwnerZipCode></rptOwnerZipCode>
+            <rptOwnerStateDescription>SWITZERLAND</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001643723</rptOwnerCik>
+            <rptOwnerName>NIMCO US, Inc.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1812 NORTH MOORE STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>ARLINGTON</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>22209</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001803604</rptOwnerCik>
+            <rptOwnerName>Nestle US Holdco, Inc.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1812 NORTH MOORE STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>ARLINGTON</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>22209</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>11727113</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This Form 3 is being filed to reflect the additions of Nestle US Holdco, Inc. (&quot;Nestle US Holdco&quot;) and Societe des Produits Nestle S.A. (&quot;SPN&quot;) as Reporting Owners as a result of a corporate reorganization completed December 31, 2018.</footnote>
+        <footnote id="F2">Held by Nestle Health Science US Holdings, Inc. (&quot;NHS&quot;). Following the corporate reorganization, NHS is a wholly owned subsidiary of NIMCO US, Inc. (&quot;NIMCO&quot;). NIMCO, in turn, is a wholly-owned subsidiary of Nestle US Holdco, which is a wholly-owned subsidiary of SPN. The ultimate parent company of NHS, NIMCO, Nestle US Holdco and SPN is Nestle S.A. (&quot;Nestle&quot;). Following the corporate reorganization, each of these entities may be deemed to share voting and investment power with respect to all shares of Common Stock held by NHS. Each of NIMCO, Nestle US Holdco, SPN and Nestle disclaims beneficial ownership of such shares of Common Stock except to the extent of its pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>NESTLE HEALTH SCIENCE US HOLDINGS, INC. By: Name: James Pepin, Title: Director and President</signatureName>
+        <signatureDate>2020-04-24</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>NIMCO US, INC. By: Name: Dan Nugent, Title: Chief Legal Officer and General Counsel</signatureName>
+        <signatureDate>2020-04-24</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>NESTLE US HOLDCO, INC. By: Name: Michael Prewitt, Title: Secretary</signatureName>
+        <signatureDate>2020-04-24</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>SOCIETE DES PRODUITS NESTLE S.A. By: Name: Claudio Kuoni, Title: Vice President</signatureName>
+        <signatureDate>2020-04-24</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>NESTLE S.A. By: Name: Gregory Behar, Title: Deputy Executive Vice President</signatureName>
+        <signatureDate>2020-04-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

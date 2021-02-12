@@ -1,0 +1,120 @@
+<SEC-DOCUMENT>0000038725-20-000011.txt : 20200130
+<SEC-HEADER>0000038725-20-000011.hdr.sgml : 20200130
+<ACCEPTANCE-DATETIME>20200130112055
+ACCESSION NUMBER:		0000038725-20-000011
+CONFORMED SUBMISSION TYPE:	5
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20191231
+FILED AS OF DATE:		20200130
+DATE AS OF CHANGE:		20200130
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			STONE ROBERT J
+		CENTRAL INDEX KEY:			0001230024
+
+	FILING VALUES:
+		FORM TYPE:		5
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-00362
+		FILM NUMBER:		20560186
+
+	MAIL ADDRESS:	
+		STREET 1:		FRANKLIN ELECTRIC CO., INC.
+		STREET 2:		9255 COVERDALE RD
+		CITY:			FORT WAYNE
+		STATE:			IN
+		ZIP:			46809
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FRANKLIN ELECTRIC CO INC
+		CENTRAL INDEX KEY:			0000038725
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTORS & GENERATORS [3621]
+		IRS NUMBER:				350827455
+		STATE OF INCORPORATION:			IN
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9255 COVERDALE ROAD
+		CITY:			FORT WAYNE
+		STATE:			IN
+		ZIP:			46809
+		BUSINESS PHONE:		2608242900
+
+	MAIL ADDRESS:	
+		STREET 1:		9255 COVERDALE ROAD
+		CITY:			FORT WAYNE
+		STATE:			IN
+		ZIP:			46809
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>5
+<SEQUENCE>1
+<FILENAME>wf-form5_158040123792898.xml
+<DESCRIPTION>FORM 5
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>5</documentType>
+
+    <periodOfReport>2019-12-31</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <form3HoldingsReported>0</form3HoldingsReported>
+
+    <form4TransactionsReported>0</form4TransactionsReported>
+
+    <issuer>
+        <issuerCik>0000038725</issuerCik>
+        <issuerName>FRANKLIN ELECTRIC CO INC</issuerName>
+        <issuerTradingSymbol>FELE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001230024</rptOwnerCik>
+            <rptOwnerName>STONE ROBERT J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>FRANKLIN ELECTRIC CO., INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>9255 COVERDALE ROAD</rptOwnerStreet2>
+            <rptOwnerCity>FORT WAYNE</rptOwnerCity>
+            <rptOwnerState>IN</rptOwnerState>
+            <rptOwnerZipCode>46809</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Sr. Vice President</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes></footnotes>
+
+    <remarks>As of 3/31/2019, Mr. Stone was no longer subject to Section 16 due to his retirement from the Company.</remarks>
+
+    <ownerSignature>
+        <signatureName>Robert J. Stone</signatureName>
+        <signatureDate>2020-01-30</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

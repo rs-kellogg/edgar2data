@@ -1,0 +1,713 @@
+<SEC-DOCUMENT>0001628280-20-017071.txt : 20201203
+<SEC-HEADER>0001628280-20-017071.hdr.sgml : 20201203
+<ACCEPTANCE-DATETIME>20201203195257
+ACCESSION NUMBER:		0001628280-20-017071
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20201203
+FILED AS OF DATE:		20201203
+DATE AS OF CHANGE:		20201203
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Invus Public Equities, L.P.
+		CENTRAL INDEX KEY:			0001340097
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39747
+		FILM NUMBER:		201368248
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O THE INVUS GROUP, LLC
+		STREET 2:		750 LEXINGTON AVENUE, 30TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		212-317-7520
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O THE INVUS GROUP, LLC
+		STREET 2:		750 LEXINGTON AVENUE, 30TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	Invus Public Equities, LP
+		DATE OF NAME CHANGE:	20050928
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Invus Public Equities Advisors, LLC
+		CENTRAL INDEX KEY:			0001340096
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39747
+		FILM NUMBER:		201368249
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O THE INVUS GROUP, LLC
+		STREET 2:		750 LEXINGTON AVENUE, 30TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		(212) 371-1717
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O THE INVUS GROUP, LLC
+		STREET 2:		750 LEXINGTON AVENUE, 30TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Artal Treasury Ltd
+		CENTRAL INDEX KEY:			0001766952
+		STATE OF INCORPORATION:			Y7
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39747
+		FILM NUMBER:		201368250
+
+	BUSINESS ADDRESS:	
+		STREET 1:		PO BOX 165, SUITE 4, BOROUGH HOUSE
+		STREET 2:		RUE DU PRE
+		CITY:			ST. PETER PORT
+		STATE:			Y7
+		ZIP:			GY1 3JJ
+		BUSINESS PHONE:		44(0)1481 740718
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 165, SUITE 4, BOROUGH HOUSE
+		STREET 2:		RUE DU PRE
+		CITY:			ST. PETER PORT
+		STATE:			Y7
+		ZIP:			GY1 3JJ
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Artal International S.C.A.
+		CENTRAL INDEX KEY:			0001218180
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39747
+		FILM NUMBER:		201368251
+
+	BUSINESS ADDRESS:	
+		STREET 1:		VALLEY PARK
+		STREET 2:		44, RUE DE LA VALLEE
+		CITY:			LUXEMBOURG
+		STATE:			N4
+		ZIP:			L-2661
+		BUSINESS PHONE:		352224259-1
+
+	MAIL ADDRESS:	
+		STREET 1:		VALLEY PARK
+		STREET 2:		44, RUE DE LA VALLEE
+		CITY:			LUXEMBOURG
+		STATE:			N4
+		ZIP:			L-2661
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	ARTAL INTERNATIONAL SCA
+		DATE OF NAME CHANGE:	20110531
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	ARTAL INTERNATIONAL SA
+		DATE OF NAME CHANGE:	20030210
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Artal International Management S.A.
+		CENTRAL INDEX KEY:			0001522131
+		STATE OF INCORPORATION:			N4
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39747
+		FILM NUMBER:		201368252
+
+	BUSINESS ADDRESS:	
+		STREET 1:		VALLEY PARK
+		STREET 2:		44, RUE DE LA VALLEE
+		CITY:			LUXEMBOURG
+		STATE:			N4
+		ZIP:			L-2661
+		BUSINESS PHONE:		352224259-1
+
+	MAIL ADDRESS:	
+		STREET 1:		VALLEY PARK
+		STREET 2:		44, RUE DE LA VALLEE
+		CITY:			LUXEMBOURG
+		STATE:			N4
+		ZIP:			L-2661
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Artal Group S.A.
+		CENTRAL INDEX KEY:			0001053906
+		STATE OF INCORPORATION:			N4
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39747
+		FILM NUMBER:		201368253
+
+	BUSINESS ADDRESS:	
+		STREET 1:		VALLEY PARK
+		STREET 2:		44, RUE DE LA VALLEE
+		CITY:			LUXEMBOURG
+		STATE:			N4
+		ZIP:			L-2661
+		BUSINESS PHONE:		(352) 22.42.59-1
+
+	MAIL ADDRESS:	
+		STREET 1:		VALLEY PARK
+		STREET 2:		44, RUE DE LA VALLEE
+		CITY:			LUXEMBOURG
+		STATE:			N4
+		ZIP:			L-2661
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	ARTAL GROUP S A
+		DATE OF NAME CHANGE:	19980128
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Westend S.A.
+		CENTRAL INDEX KEY:			0001283968
+		STATE OF INCORPORATION:			N4
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39747
+		FILM NUMBER:		201368254
+
+	BUSINESS ADDRESS:	
+		STREET 1:		VALLEY PARK
+		STREET 2:		44, RUE DE LA VALLEE
+		CITY:			LUXEMBOURG
+		STATE:			N4
+		ZIP:			L-2661
+		BUSINESS PHONE:		3522242591
+
+	MAIL ADDRESS:	
+		STREET 1:		VALLEY PARK
+		STREET 2:		44, RUE DE LA VALLEE
+		CITY:			LUXEMBOURG
+		STATE:			N4
+		ZIP:			L-2661
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	WESTEND S.A.
+		DATE OF NAME CHANGE:	20120816
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	WESTEND SA
+		DATE OF NAME CHANGE:	20040317
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Stichting Administratiekantoor Westend
+		CENTRAL INDEX KEY:			0001460840
+		STATE OF INCORPORATION:			XX
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39747
+		FILM NUMBER:		201368255
+
+	BUSINESS ADDRESS:	
+		STREET 1:		CLAUDE DEBUSSYLAAN, 46
+		CITY:			AMSTERDAM
+		STATE:			P7
+		ZIP:			1082 MD
+		BUSINESS PHONE:		352-224-2591
+
+	MAIL ADDRESS:	
+		STREET 1:		CLAUDE DEBUSSYLAAN, 46
+		CITY:			AMSTERDAM
+		STATE:			P7
+		ZIP:			1082 MD
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Minne Pascal
+		CENTRAL INDEX KEY:			0001460839
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39747
+		FILM NUMBER:		201368256
+
+	MAIL ADDRESS:	
+		STREET 1:		PLACE STE. GUDULE, 19
+		CITY:			BRUXELLES
+		STATE:			C9
+		ZIP:			B-1000
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Seer, Inc.
+		CENTRAL INDEX KEY:			0001726445
+		STANDARD INDUSTRIAL CLASSIFICATION:	LABORATORY ANALYTICAL INSTRUMENTS [3826]
+		IRS NUMBER:				821153150
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3800 BRIDGE PARKWAY, SUITE 102
+		CITY:			REDWOOD CITY
+		STATE:			CA
+		ZIP:			94065
+		BUSINESS PHONE:		650-453-0000
+
+	MAIL ADDRESS:	
+		STREET 1:		3800 BRIDGE PARKWAY, SUITE 102
+		CITY:			REDWOOD CITY
+		STATE:			CA
+		ZIP:			94065
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Seer Biosciences, Inc.
+		DATE OF NAME CHANGE:	20171226
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>wf-form3_160704315924415.xml
+<DESCRIPTION>FORM 3
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-12-03</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001726445</issuerCik>
+        <issuerName>Seer, Inc.</issuerName>
+        <issuerTradingSymbol>SEER</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001340097</rptOwnerCik>
+            <rptOwnerName>Invus Public Equities, L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>750 LEXINGTON AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2>30TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10022</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001340096</rptOwnerCik>
+            <rptOwnerName>Invus Public Equities Advisors, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>750 LEXINGTON AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2>30TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10022</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001766952</rptOwnerCik>
+            <rptOwnerName>Artal Treasury Ltd</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>P.O. BOX 165</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 4, BOROUGH HOUSE, RUE DU PRE</rptOwnerStreet2>
+            <rptOwnerCity>ST. PETER PORT GYI 3JJ</rptOwnerCity>
+            <rptOwnerState></rptOwnerState>
+            <rptOwnerZipCode></rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001218180</rptOwnerCik>
+            <rptOwnerName>Artal International S.C.A.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>VALLEY PARK, 44,</rptOwnerStreet1>
+            <rptOwnerStreet2>RUE DE LA VALLEE</rptOwnerStreet2>
+            <rptOwnerCity>LUXEMBOURG</rptOwnerCity>
+            <rptOwnerState>N4</rptOwnerState>
+            <rptOwnerZipCode>L-2661</rptOwnerZipCode>
+            <rptOwnerStateDescription>LUXEMBOURG</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001522131</rptOwnerCik>
+            <rptOwnerName>Artal International Management S.A.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>VALLEY PARK, 44,</rptOwnerStreet1>
+            <rptOwnerStreet2>RUE DE LA VALLEE</rptOwnerStreet2>
+            <rptOwnerCity>LUXEMBOURG</rptOwnerCity>
+            <rptOwnerState>N4</rptOwnerState>
+            <rptOwnerZipCode>L-2661</rptOwnerZipCode>
+            <rptOwnerStateDescription>LUXEMBOURG</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001053906</rptOwnerCik>
+            <rptOwnerName>Artal Group S.A.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>VALLEY PARK, 44,</rptOwnerStreet1>
+            <rptOwnerStreet2>RUE DE LA VALLEE</rptOwnerStreet2>
+            <rptOwnerCity>LUXEMBOURG</rptOwnerCity>
+            <rptOwnerState>N4</rptOwnerState>
+            <rptOwnerZipCode>L-2661</rptOwnerZipCode>
+            <rptOwnerStateDescription>LUXEMBOURG</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001283968</rptOwnerCik>
+            <rptOwnerName>Westend S.A.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>VALLEY PARK, 44,</rptOwnerStreet1>
+            <rptOwnerStreet2>RUE DE LA VALLEE</rptOwnerStreet2>
+            <rptOwnerCity>LUXEMBOURG</rptOwnerCity>
+            <rptOwnerState>N4</rptOwnerState>
+            <rptOwnerZipCode>L-2661</rptOwnerZipCode>
+            <rptOwnerStateDescription>LUXEMBOURG</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001460840</rptOwnerCik>
+            <rptOwnerName>Stichting Administratiekantoor Westend</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>CLAUDE DEBUSSYLAAN, 46</rptOwnerStreet1>
+            <rptOwnerStreet2>1082 MD AMSTERDAM</rptOwnerStreet2>
+            <rptOwnerCity>THE NETHERLANDS</rptOwnerCity>
+            <rptOwnerState>P7</rptOwnerState>
+            <rptOwnerZipCode></rptOwnerZipCode>
+            <rptOwnerStateDescription>NETHERLANDS</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001460839</rptOwnerCik>
+            <rptOwnerName>Minne Pascal</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>8 CLOS DU BOCAGE, B-1332</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>GENVAL</rptOwnerCity>
+            <rptOwnerState>C9</rptOwnerState>
+            <rptOwnerZipCode></rptOwnerZipCode>
+            <rptOwnerStateDescription>BELGIUM</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Series B Convertible Preferred Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>3953381.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Series C Convertible Preferred Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F4"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F4"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>373831.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Series D Convertible Preferred Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F5"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F5"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F5"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>474478.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Series D-1 Convertible Preferred Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F6"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F6"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F6"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>249221.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each share of Series B Convertible Preferred Stock shall automatically convert into Class A Common Stock on a one-to-one basis immediately prior to the completion of the Issuer's initial public offering of Class A Common Stock and has no expiration date.</footnote>
+        <footnote id="F2">The shares are held directly by Invus Public Equities, L.P. The general partner of Invus Public Equities, L.P. is Invus Public Equities Advisors, LLC. Artal Treasury Ltd is the managing member of Invus Public Equities Advisors, LLC. Artal Treasury Ltd is a wholly owned subsidiary of the Geneva branch of Artal International S.C.A. The managing partner of Artal International S.C.A. is Artal International Management S.A., which is a wholly owned subsidiary of Artal Group S.A. Westend S.A. is the parent company of Artal Group, S.A., and the majority stockholder of Westend S.A. is Stichting Administratiekantoor Westend (&quot;Stichting&quot;).</footnote>
+        <footnote id="F3">(Continued from Footnote 2) Mr. Pascal Minne is the sole member of the board of Stichting. Each of the Reporting Persons, other than Invus Public Equities L.P., disclaims beneficial ownership of the securities held by the other Reporting Persons, except to the extent of such reporting person's pecuniary interest therein, and, pursuant to Rule 16a-1(a)(4) under the Exchange Act, each of the reporting persons (other than to the extent it directly holds securities reported herein) states that the inclusion of these securities in this report shall not be deemed an admission of beneficial ownership of all of the reported securities for purposes of Section 16 of the Exchange Act or for any other purpose.</footnote>
+        <footnote id="F4">Each share of Series C Convertible Preferred Stock shall automatically convert into Class A Common Stock on a one-to-one basis immediately prior to the completion of the Issuer's initial public offering of Class A Common Stock and has no expiration date.</footnote>
+        <footnote id="F5">Each share of Series D Convertible Preferred Stock shall automatically convert into Class A Common Stock on a one-to-one basis immediately prior to the completion of the Issuer's initial public offering of Class A Common Stock and has no expiration date.</footnote>
+        <footnote id="F6">Each share of Series D-1 Convertible Preferred Stock shall automatically convert into Class A Common Stock on a one-to-one basis immediately prior to the completion of the Issuer's initial public offering of Class A Common Stock and has no expiration date.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Invus Public Equities, L.P., By:Invus Public Equities Advisors, LLC, its General Partner, By: /s/ Raymond Debbane, President</signatureName>
+        <signatureDate>2020-12-03</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>Invus Public Equities Advisors, LLC, By: /s/ Raymond Debbane, President</signatureName>
+        <signatureDate>2020-12-03</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>Artal Treasury Ltd, By: /s/ Keith LePoidevin, Director</signatureName>
+        <signatureDate>2020-12-03</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>Artal International S.C.A., By: Artal International Management S.A., its Managing Partner, By: /s/ Anne Goffard, Managing Director</signatureName>
+        <signatureDate>2020-12-03</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>Artal International Management S.A., By: /s/ Anne Goffard, Managing Director</signatureName>
+        <signatureDate>2020-12-03</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>Artal Group S.A., By: /s/ Anne Goffard, Authorized Person</signatureName>
+        <signatureDate>2020-12-03</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>Westend S.A., By: /s/ Pascal Minne, Director</signatureName>
+        <signatureDate>2020-12-03</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>Stitching Administratiekantoor Westend, By: /s/ Pascal Minne, Sole Member of the Board</signatureName>
+        <signatureDate>2020-12-03</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>/s/ Pascal Minne</signatureName>
+        <signatureDate>2020-12-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

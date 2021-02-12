@@ -1,0 +1,190 @@
+<SEC-DOCUMENT>0000899243-20-013597.txt : 20200519
+<SEC-HEADER>0000899243-20-013597.hdr.sgml : 20200519
+<ACCEPTANCE-DATETIME>20200519170021
+ACCESSION NUMBER:		0000899243-20-013597
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20200501
+FILED AS OF DATE:		20200519
+DATE AS OF CHANGE:		20200519
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Stovsky Richard P
+		CENTRAL INDEX KEY:			0001747237
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-23320
+		FILM NUMBER:		20894498
+
+	MAIL ADDRESS:	
+		STREET 1:		350 CAMINO DE LA REINA
+		STREET 2:		SUITE 100
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92108
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			OLYMPIC STEEL INC
+		CENTRAL INDEX KEY:			0000917470
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-METALS SERVICE CENTERS & OFFICES [5051]
+		IRS NUMBER:				341245650
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5096 RICHMOND RD
+		CITY:			BEDFORD HEIGHTS
+		STATE:			OH
+		ZIP:			44146
+		BUSINESS PHONE:		2162923800
+
+	MAIL ADDRESS:	
+		STREET 1:		5096 RICHMOND RD
+		CITY:			BEDFORD HEIGHTS
+		STATE:			OH
+		ZIP:			44146
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc3.xml
+<DESCRIPTION>FORM 3 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-05-01</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000917470</issuerCik>
+        <issuerName>OLYMPIC STEEL INC</issuerName>
+        <issuerTradingSymbol>ZEUS</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001747237</rptOwnerCik>
+            <rptOwnerName>Stovsky Richard P</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O OLYMPIC STEEL, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>22901 MILLCREEK BLVD., SUITE 650`</rptOwnerStreet2>
+            <rptOwnerCity>HIGHLAND HILLS</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>44122</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes></footnotes>
+
+    <remarks>Exhibit 24-Power of Attorney</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Lisa K. Christen, as Attorney-in-Fact</signatureName>
+        <signatureDate>2020-05-19</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>attachment1.htm
+<DESCRIPTION>EX-24 DOCUMENT
+<TEXT>
+<HTML>
+<HEAD>
+</HEAD>
+<BODY>
+<PRE>
+                               POWER OF ATTORNEY
+
+KNOW ALL MEN BY THESE PRESENTS, that the undersigned hereby constitutes and
+appoints Richard A. Manson, Lisa K. Christen and Gretchen A. Sterling and each
+of them, as the true and lawful attorney or attorneys-in-fact, with full power
+of substitution and revocation, for the undersigned and in the name, place and
+stead of the undersigned, in any and all capacities, to execute, on behalf of
+the undersigned, (1) any and all notices pursuant to Rule l44 under the
+Securities Act of 1933 with respect to sales of shares of common stock, without
+par value, or other securities, of Olympic Steel, Inc., including, without
+limitation, all notices of proposed sale on Form 144, and (2) any and all
+statements or reports under Section 16 of the Securities Exchange Act of 1934
+with respect to the beneficial ownership of common stock, without par value, or
+other securities, of Olympic Steel, Inc., including, without limitation, all
+initial statements of beneficial ownership on Form 3, all statements of changes
+in beneficial ownership on Form 4, all annual statements of beneficial ownership
+on Form 5 and all successor or similar forms, to be filed with the Securities
+and Exchange Commission, to execute any and all amendments or supplements to any
+such notices, statements or reports, and to file the same, with all exhibits
+thereto, and other documents in connection therewith, with the Securities and
+Exchange Commission, granting to said attorney or attorneys-in-fact, and each of
+them, full power and authority to do so and perform each and every act and thing
+requisite and necessary to be done in and about the premises (including, without
+limitation, completing, executing, delivering and filing a Form ID to apply for
+electronic filing codes), as fully and to all intents and purposes as the
+undersigned might or could do in person, and hereby ratifying and confirming all
+that said attorney or attorneys-in-fact, or any of them, or their substitute or
+substitutes, may lawfully do or cause to be done by virtue hereof.  The
+undersigned acknowledges that the foregoing attorneys-in-fact, and each of them,
+in serving in such capacity at the request of the undersigned, are not assuming
+any of the responsibilities of the undersigned to comply with Section 16 of the
+Securities Exchange Act of 1934 or any other legal requirement.  This Power of
+Attorney shall remain in effect until revoked in writing by the undersigned.
+
+
+
+                                    /s/ Richard P. Stovsky
+                                    --------------------------------------------
+                                    Name: Richard P. Stovsky
+
+
+
+Date:  April 7, 2020
+
+
+
+</PRE>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,232 @@
+<SEC-DOCUMENT>0001209191-20-021611.txt : 20200327
+<SEC-HEADER>0001209191-20-021611.hdr.sgml : 20200327
+<ACCEPTANCE-DATETIME>20200327210606
+ACCESSION NUMBER:		0001209191-20-021611
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20200320
+FILED AS OF DATE:		20200327
+DATE AS OF CHANGE:		20200327
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			MOGELOF ERIC J
+		CENTRAL INDEX KEY:			0001602331
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-07816
+		FILM NUMBER:		20753650
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O PIMCO
+		STREET 2:		650 NEWPORT CENTER DRIVE
+		CITY:			NEWPORT BEACH
+		STATE:			CA
+		ZIP:			92660
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PCM FUND, INC.
+		CENTRAL INDEX KEY:			0000908187
+		IRS NUMBER:				521834031
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1633 BROADWAY
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		212 -739-4000
+
+	MAIL ADDRESS:	
+		STREET 1:		1633 BROADWAY
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PIMCO COMMERCIAL MORTGAGE SECURITIES TRUST INC
+		DATE OF NAME CHANGE:	19930624
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc3.xml
+<DESCRIPTION>FORM 3 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-03-20</periodOfReport>
+
+    <noSecuritiesOwned>1</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000908187</issuerCik>
+        <issuerName>PCM FUND, INC.</issuerName>
+        <issuerTradingSymbol>PCM</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001602331</rptOwnerCik>
+            <rptOwnerName>MOGELOF ERIC J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O PIMCO</rptOwnerStreet1>
+            <rptOwnerStreet2>650 NEWPORT CENTER DRIVE</rptOwnerStreet2>
+            <rptOwnerCity>NEWPORT BEACH</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92660</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <otherText>SEE REMARKS</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <footnotes></footnotes>
+
+    <remarks>Pacific Investment Management Company LLC (&quot;PIMCO&quot;) is the investment adviser of the Issuer. The Reporting Person is a member of PIMCO's Executive Committee. Exhibit List: - Exhibit 24 - Power of Attorney</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Kevin Van Gorder as Attorney-in-Fact for Eric J. Mogelof</signatureName>
+        <signatureDate>2020-03-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.3_907131
+<SEQUENCE>2
+<FILENAME>poa.txt
+<DESCRIPTION>POA DOCUMENT
+<TEXT>
+SECTION 16
+
+POWER OF ATTORNEY
+
+Eric J. Mogelof
+
+The undersigned hereby constitutes and appoints the individuals named on
+Schedule A attached hereto and as may be amended from time to time, or any of
+them signing singly, with full power of substitution and resubstitution, the
+undersigned's true and lawful attorney in fact to:
+
+1.	as may be required, prepare, execute in the undersigned's name and on the
+undersigned's behalf, and submit to the United States Securities and Exchange
+Commission (the "SEC") a Form ID, including amendments thereto, and any other
+documents necessary or appropriate to obtain codes and passwords enabling the
+undersigned to make electronic filings with the SEC of reports required by
+Section 16(a) of the Securities Exchange Act of 1934, as amended, or any rule or
+regulation of the SEC;
+
+2.	execute for and on behalf of the undersigned, in the undersigned's capacity
+as a Section 16 reporting person of the applicable registered investment
+companies (and any successor companies) listed on Schedule A attached hereto, as
+amended from time to time, and any other registered investment company
+affiliated with or established by Pacific Investment Management Company LLC
+("PIMCO"), for which the undersigned becomes a Section 16 reporting person
+(each, a "Fund"), Forms 3, 4, and 5 in accordance with Section 16 of the
+Securities Exchange Act of 1934, as amended, and the rules thereunder;
+
+3.	do and perform any and all acts for and on behalf of the undersigned which
+may be necessary or desirable to complete and execute any such Form 3, 4, or 5,
+complete and execute any amendment or amendments thereto, and timely file such
+form with the SEC and any stock exchange or similar authority; and
+
+4.	take any other action of any type whatsoever in connection with the foregoing
+which, in the opinion of such attorney in fact, may be of benefit to, in the
+best interest of, or legally required by, the undersigned, it being understood
+that the documents executed by such attorney in fact on behalf of the
+undersigned pursuant to this Power of Attorney shall be in such form and shall
+contain such terms and conditions as such attorney in fact may approve in such
+attorney in fact's discretion.
+
+The undersigned hereby grants to each such attorney in fact full power and
+authority to do and perform any and every act and thing whatsoever requisite,
+necessary, or proper to be done in the exercise of any of the rights and powers
+herein granted, as fully to all intents and purposes as the undersigned might or
+could do if personally present, with full power of substitution and
+resubstitution or revocation, hereby ratifying and confirming all that such
+attorney in fact, or such attorney in fact's substitute or substitutes, shall
+lawfully do or cause to be done by virtue of this Power of Attorney and the
+rights and powers herein granted.
+
+The undersigned acknowledges that the foregoing attorneys in fact, in serving in
+such capacity at the request of the undersigned, are not assuming, nor is any
+Fund assuming, any of the undersigned's responsibilities to comply with Section
+16 of the Securities Exchange Act of 1934, as amended.
+
+This Power of Attorney shall remain in full force and effect until the
+undersigned is no longer required to file Forms 3, 4, and 5 with respect to the
+undersigned's holdings of and transactions in securities issued by any Fund,
+unless earlier revoked by the undersigned in a signed writing delivered to the
+foregoing attorneys in fact.
+
+IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to be
+executed as of this 24 day of March, 2020.
+
+/s/ Eric J. Mogelof
+Eric J. Mogelof
+
+SCHEDULE A
+
+FUND NAME AND SYMBOL*
+1.	PCM FUND, INC.							PCM
+2.	PIMCO CALIFORNIA MUNICIPAL INCOME FUND 		PCQ
+3.	PIMCO CALIFORNIA MUNICIPAL INCOME FUND II		PCK
+4.	PIMCO CALIFORNIA MUNICIPAL INCOME FUND III		PZC
+5.	PIMCO CORPORATE & INCOME STRATEGY FUND		PCN
+6.	PIMCO CORPORATE & INCOME OPPORTUNITY FUND	PTY
+7.	PIMCO DYNAMIC INCOME FUND					PDI
+8.	PIMCO DYNAMIC CREDIT & MORTGAGE INCOME FUND	PCI
+9.	PIMCO INCOME STRATEGY FUND				PFL
+10.	PIMCO INCOME STRATEGY FUND II				PFN
+11.	PIMCO GLOBAL STOCKSPLUS & INCOME FUND		PGP
+12.	PIMCO HIGH INCOME FUND 					PHK
+13.	PIMCO INCOME OPPORTUNITY FUND				PKO
+14.	PIMCO MUNICIPAL INCOME FUND				PMF
+15.	PIMCO MUNICIPAL INCOME FUND II				PML
+16.	PIMCO MUNICIPAL INCOME FUND III				PMX
+17.	PIMCO NEW YORK MUNICIPAL INCOME FUND		PNF
+18.	PIMCO NEW YORK MUNICIPAL INCOME FUND II		PNI
+19.	PIMCO NEW YORK MUNICIPAL INCOME FUND III		PYN
+20.	PIMCO STRATEGIC INCOME FUND, INC. 			RCS
+21.	PIMCO FLEXIBLE CREDIT INCOME FUND 			PFLEX
+22.	PIMCO FLEXIBLE MUNICIPAL INCOME FUND			PMFLX
+23.	PIMCO ENERGY & TACTICAL CREDIT OPPORTUNITIES FUND  NRGX
+
+*While one ticker symbol per Fund is listed, this Power of Attorney covers all
+ticker symbols of each Fund.
+
+INDIVIDUALS APPOINTED AS ATTORNEY-IN-FACT,
+WITH FULL POWER OF SUBSTITUTION AND RESUBSTITUTION
+1.	Keisha L. Audain-Pressley, Chief Compliance Officer of the Funds, Executive
+Vice President and Deputy Chief Compliance Officer of PIMCO
+2.	Jennifer Durham, Managing Director and Chief Compliance Officer of PIMCO
+3.	Katie DeFriese, Senior Vice President, Senior Compliance Officer of PIMCO
+4.	Kevin Van Gorder, Vice President, Compliance Officer of PIMCO
+5.	Ryan Leshaw, Chief Legal of the Funds, Senior Vice President, Senior Counsel
+of PIMCO
+6.	Wu-Kwan Kit, Vice President, Senior Counsel and Secretary of the Funds,
+Senior Vice President, Counsel of PIMCO
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

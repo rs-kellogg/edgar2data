@@ -1,0 +1,233 @@
+<SEC-DOCUMENT>0001567619-20-012980.txt : 20200706
+<SEC-HEADER>0001567619-20-012980.hdr.sgml : 20200706
+<ACCEPTANCE-DATETIME>20200706182805
+ACCESSION NUMBER:		0001567619-20-012980
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20200701
+FILED AS OF DATE:		20200706
+DATE AS OF CHANGE:		20200706
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Keith Lori
+		CENTRAL INDEX KEY:			0001816526
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37873
+		FILM NUMBER:		201014621
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O E.L.F. BEAUTY, INC.
+		STREET 2:		570 10TH STREET
+		CITY:			OAKLAND
+		STATE:			CA
+		ZIP:			94607
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			e.l.f. Beauty, Inc.
+		CENTRAL INDEX KEY:			0001600033
+		STANDARD INDUSTRIAL CLASSIFICATION:	PERFUMES, COSMETICS & OTHER TOILET PREPARATIONS [2844]
+		IRS NUMBER:				464464131
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	BUSINESS ADDRESS:	
+		STREET 1:		570 10TH STREET
+		CITY:			OAKLAND
+		STATE:			CA
+		ZIP:			94607
+		BUSINESS PHONE:		(510) 778-7787
+
+	MAIL ADDRESS:	
+		STREET 1:		570 10TH STREET
+		CITY:			OAKLAND
+		STATE:			CA
+		ZIP:			94607
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	J.A. Cosmetics Holdings, Inc.
+		DATE OF NAME CHANGE:	20140212
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc1.xml
+<DESCRIPTION>FORM 3
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-07-01</periodOfReport>
+
+    <noSecuritiesOwned>1</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001600033</issuerCik>
+        <issuerName>e.l.f. Beauty, Inc.</issuerName>
+        <issuerTradingSymbol>ELF</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001816526</rptOwnerCik>
+            <rptOwnerName>Keith Lori</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O E.L.F. BEAUTY, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>570 10TH STREET</rptOwnerStreet2>
+            <rptOwnerCity>OAKLAND</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94607</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes></footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Scott K. Milsten, Attorney-in-Fact for Lori Keith</signatureName>
+        <signatureDate>2020-07-06</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>poa_keith.htm
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: a
+         Document created using EDGARfilings PROfile 7.0.0.0
+         Copyright 1995 - 2020 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;">
+  <div>
+    <div style="text-align: center; margin-bottom: 6pt; font-weight: bold;">e.l.f. Beauty, Inc.</div>
+    <div style="text-align: center; margin-bottom: 6pt; font-weight: bold;">Power of Attorney</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 6pt;">Know all by these presents, that the undersigned hereby constitutes and appoints each of (a) (i) the Chief Executive
+      Officer of e.l.f. Beauty, Inc., a Delaware corporation (the &#8220;<font style="font-weight: bold; font-style: italic;">Company</font>&#8221;), who is currently Tarang P. Amin, (ii) the Chief
+      Financial Officer of the Company, who is currently Mandy Fields, and (iii) the Company&#8217;s General Counsel, who is currently Scott K. Milsten, and their respective successors (including anyone serving in such capacities on an interim or acting basis)
+      and (b) Lane Verlenden, who is currently the Company&#8217;s Assistant General Counsel (but only so long as Mr. Verlenden is employed by the Company), signing singly, with full powers of substitution, as the undersigned&#8217;s true and lawful attorney-in-fact
+      to:</div>
+    <div>
+      <table cellspacing="0" cellpadding="0" id="z5e9ca62c271640b8bad8c46dc75249d3" class="DSPFListTable" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-bottom: 6pt; width: 100%; text-align: left; color: #000000;">
+
+          <tr>
+            <td style="width: 36pt; vertical-align: top; align: right;">
+              <div style="margin-left: 18pt; margin-bottom: 6pt;">1.</div>
+            </td>
+            <td style="width: auto; vertical-align: top;">
+              <div style="text-align: justify; margin-bottom: 6pt;">prepare, execute in the undersigned&#8217;s name and on the undersigned&#8217;s behalf, and submit to the U.S. Securities and Exchange
+                Commission (the &#8220;<font style="font-weight: bold; font-style: italic;">SEC</font>&#8221;) a Form ID, including amendments thereto, and any other documents necessary or appropriate to
+                obtain codes and passwords enabling the undersigned to make electronic filings with the SEC of reports required by Section 16(a) of the Securities Exchange Act of 1934 or any rule or regulation of the SEC;</div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div>
+      <table cellspacing="0" cellpadding="0" id="zf37b349e58984d428bef6cb7cfd91b1f" class="DSPFListTable" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-bottom: 6pt; width: 100%; text-align: left; color: #000000;">
+
+          <tr>
+            <td style="width: 36pt; vertical-align: top; align: right;">
+              <div style="margin-left: 18pt; margin-bottom: 6pt;">2.</div>
+            </td>
+            <td style="width: auto; vertical-align: top;">
+              <div style="text-align: justify; margin-bottom: 6pt;">execute for and on behalf of the undersigned, in the undersigned&#8217;s capacity as an officer and/or director of the Company,
+                Forms 3, 4, and 5 and any amendments thereto in accordance with Section 16(a) of the Securities Exchange Act of 1934 and the rules thereunder;</div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div>
+      <table cellspacing="0" cellpadding="0" id="zf8dd29ab70f64449888bd18ada4eec1e" class="DSPFListTable" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-bottom: 6pt; width: 100%; text-align: left; color: #000000;">
+
+          <tr>
+            <td style="width: 36pt; vertical-align: top; align: right;">
+              <div style="margin-left: 18pt; margin-bottom: 6pt;">3.</div>
+            </td>
+            <td style="width: auto; vertical-align: top;">
+              <div style="text-align: justify; margin-bottom: 6pt;">do and perform any and all acts for and on behalf of the undersigned which may be necessary or desirable to complete and
+                execute any such Form 3, 4, or 5, complete and execute any amendment or amendments thereto, and timely file such form with the SEC and any stock exchange or similar authority; and</div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div>
+      <table cellspacing="0" cellpadding="0" id="z2966269b58d24bafa1ddcbee95037c8f" class="DSPFListTable" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-bottom: 6pt; width: 100%; text-align: left; color: #000000;">
+
+          <tr>
+            <td style="width: 36pt; vertical-align: top; align: right;">
+              <div style="margin-left: 18pt; margin-bottom: 6pt;">4.</div>
+            </td>
+            <td style="width: auto; vertical-align: top;">
+              <div style="text-align: justify; margin-bottom: 6pt;">take any other action of any type whatsoever in connection with the foregoing which, in the opinion of such attorney-in-fact,
+                may be of benefit to, in the best interest of, or legally required by, the undersigned, it being understood that the documents executed by such attorney-in-fact on behalf of the undersigned pursuant to this Power of Attorney shall be in
+                such form and shall contain such terms and conditions as such attorney-in-fact may approve in such attorney-in-fact&#8217;s discretion.</div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 6pt;">The undersigned hereby grants to each such attorney-in-fact full power and authority to do and perform any and every
+      act and thing whatsoever requisite, necessary, or proper to be done in the exercise of any of the rights and powers herein granted, as fully to all intents and purposes as the undersigned might or could do if personally present, with full power of
+      substitution or revocation, hereby ratifying and confirming all that such attorney-in-fact, or such attorney-in-fact&#8217;s substitute or substitutes, shall lawfully do or cause to be done by virtue of this power of attorney and the rights and powers
+      herein granted. The undersigned acknowledges that the foregoing attorneys-in-fact, in serving in such capacity at the request of the undersigned, are not assuming, nor is the Company assuming, any of the undersigned&#8217;s responsibilities to comply with
+      Section 16 of the Securities Exchange Act of 1934.</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 6pt;">This Power of Attorney shall remain in full force and effect until the undersigned is no longer required to file
+      Forms 3, 4, and 5 with respect to the undersigned&#8217;s holdings of and transactions in securities issued by the Company, unless earlier revoked by the undersigned in a signed writing delivered to the foregoing attorneys-in-fact.</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 6pt;">IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to be executed as of the date written below.</div>
+    <div><br>
+    </div>
+    <div style="text-align: justify; margin-left: 252pt;"><u>/s/ Lori Keith</u><font id="TRGRRTFtoHTMLTab" style="display: inline-block; text-indent: 0px; font-size: 1px; width: 144pt">&#160;</font></div>
+    <div style="text-indent: 252pt;">Signature</div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div style="text-indent: 252pt;"><u>Lori Keith</u><font id="TRGRRTFtoHTMLTab" style="display: inline-block; text-indent: 0px; font-size: 1px; width: 144pt">&#160;</font></div>
+    <div style="text-indent: 252pt;">Print Name</div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div style="text-indent: 252pt;"><u>6/26/20&#160;&#160;&#160;&#160;&#160; </u><br>
+    </div>
+    <div style="text-indent: 252pt;">Date</div>
+    <div><br>
+    </div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

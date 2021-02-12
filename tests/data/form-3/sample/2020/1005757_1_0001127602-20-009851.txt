@@ -1,0 +1,104 @@
+<SEC-DOCUMENT>0001127602-20-009851.txt : 20200306
+<SEC-HEADER>0001127602-20-009851.hdr.sgml : 20200306
+<ACCEPTANCE-DATETIME>20200306175933
+ACCESSION NUMBER:		0001127602-20-009851
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200110
+FILED AS OF DATE:		20200306
+DATE AS OF CHANGE:		20200306
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Song Haiyan
+		CENTRAL INDEX KEY:			0001804708
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-27512
+		FILM NUMBER:		20696038
+
+	MAIL ADDRESS:	
+		STREET 1:		333 UPLANDS DR
+		CITY:			HILLSBOROUGH
+		STATE:			CA
+		ZIP:			94010
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CSG SYSTEMS INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0001005757
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				470783182
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6175 SOUTH WILLOW DRIVE
+		CITY:			GREENWOOD VILLAGE
+		STATE:			CO
+		ZIP:			80111
+		BUSINESS PHONE:		3037962850
+
+	MAIL ADDRESS:	
+		STREET 1:		6175 SOUTH WILLOW DRIVE
+		CITY:			GREENWOOD VILLAGE
+		STATE:			CO
+		ZIP:			80111
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>form3.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-01-10</periodOfReport>
+
+    <noSecuritiesOwned>1</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001005757</issuerCik>
+        <issuerName>CSG SYSTEMS INTERNATIONAL INC</issuerName>
+        <issuerTradingSymbol>CSGS</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001804708</rptOwnerCik>
+            <rptOwnerName>Song Haiyan</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>6175 SOUTH WILLOW DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>GREENWOOD VILLAGE</rptOwnerCity>
+            <rptOwnerState>CO</rptOwnerState>
+            <rptOwnerZipCode>80111</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <footnotes></footnotes>
+
+    <ownerSignature>
+        <signatureName>Haiyan Song</signatureName>
+        <signatureDate>2020-03-06</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

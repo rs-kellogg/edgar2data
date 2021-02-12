@@ -1,0 +1,214 @@
+<SEC-DOCUMENT>0001445546-20-001877.txt : 20200413
+<SEC-HEADER>0001445546-20-001877.hdr.sgml : 20200413
+<ACCEPTANCE-DATETIME>20200413143703
+ACCESSION NUMBER:		0001445546-20-001877
+CONFORMED SUBMISSION TYPE:	5
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20191231
+FILED AS OF DATE:		20200413
+DATE AS OF CHANGE:		20200413
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Cotton Jeffrey
+		CENTRAL INDEX KEY:			0001515597
+
+	FILING VALUES:
+		FORM TYPE:		5
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-21905
+		FILM NUMBER:		20788559
+
+	MAIL ADDRESS:	
+		STREET 1:		1735 MARKET STREET
+		STREET 2:		32ND FLOOR
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19103
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FIRST TRUST/ABERDEEN EMERGING OPPORTUNITY FUND
+		CENTRAL INDEX KEY:			0001363438
+		IRS NUMBER:				711005833
+
+	BUSINESS ADDRESS:	
+		STREET 1:		120 EAST LIBERTY DRIVE, SUITE 400
+		CITY:			WHEATON
+		STATE:			IL
+		ZIP:			60187
+		BUSINESS PHONE:		630-765-8000
+
+	MAIL ADDRESS:	
+		STREET 1:		120 EAST LIBERTY DRIVE, SUITE 400
+		CITY:			WHEATON
+		STATE:			IL
+		ZIP:			60187
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>5
+<SEQUENCE>1
+<FILENAME>cotton_feo5.xml
+<DESCRIPTION>OWNERSHIP DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>5</documentType>
+
+    <periodOfReport>2019-12-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <form3HoldingsReported>0</form3HoldingsReported>
+
+    <form4TransactionsReported>0</form4TransactionsReported>
+
+    <issuer>
+        <issuerCik>0001363438</issuerCik>
+        <issuerName>FIRST TRUST/ABERDEEN EMERGING OPPORTUNITY FUND</issuerName>
+        <issuerTradingSymbol>FEO</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001515597</rptOwnerCik>
+            <rptOwnerName>Cotton Jeffrey</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1735 MARKET STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>32ND FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>PHILADELPHIA</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>19103</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <officerTitle></officerTitle>
+            <otherText>Officer-Investment Sub-Advisor</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <transactionCoding></transactionCoding>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <remarks>Effective March 30, 2020, the Reporting Person is no longer a Section 16 officer for the Fund.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Jeffrey Cotton, by Erin Klassman, attorney-in-fact, pursuant to a Power of Attorney</signatureName>
+        <signatureDate>2020-04-13</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>poa_cotton.txt
+<DESCRIPTION>POWER OF ATTORNEY
+<TEXT>
+                               POWER OF ATTORNEY
+
+      Know all by these presents, that the undersigned hereby constitutes and
+appoints each of W. Scott Jardine, Kristi A. Maher, Erin E. Klassman, James M.
+Dykas and Eric F. Fess, signing singly, the undersigned's true and lawful
+attorney-in-fact to:
+
+            (1) execute for and on behalf of the undersigned, in the
+      undersigned's capacity as an officer, employee, trustee, and/or ten
+      percent stockholder of any of First Trust Portfolios L.P., First Trust
+      Advisors L.P. ("Advisors"), or any company registered as an investment
+      company under the Investment Company Act of 1940, of which Advisors is an
+      investment adviser (each a "Company"), Forms 3, 4, and 5 in accordance
+      with Section 16(a) of the Securities Exchange Act of 1934 and the rules
+      thereunder;
+
+            (2) do and perform any and all acts for and on behalf of the
+      undersigned which may be necessary or desirable to complete and execute
+      any such Form 3, 4, or 5, including a Form ID, complete and execute any
+      amendment or amendments thereto, and timely file such form with the United
+      States Securities and Exchange Commission and any stock exchange or
+      similar authority; and
+
+            (3) take any other action of any type whatsoever in connection with
+      the foregoing which, in the opinion of such attorney-in-fact, may be of
+      benefit to, in the best interest of, or legally required by, the
+      undersigned, it being understood that the documents executed by such
+      attorney-in-fact on behalf of the undersigned pursuant to this Power of
+      Attorney shall be in such form and shall contain such terms and conditions
+      as such attorney-in-fact may approve in such attorney-in-fact's sole
+      discretion.
+
+      The undersigned hereby grants to each such attorney-in-fact full power and
+authority to do and perform any and every act and thing whatsoever requisite,
+necessary, or proper to be done in the exercise of any of the rights and powers
+herein granted, as fully to all intents and purposes as the undersigned might or
+could do if personally present, with full power of substitution or revocation,
+hereby ratifying and confirming all that such attorney-in-fact, or such
+attorney-in-fact's substitute or substitutes, shall lawfully do or cause to be
+done by virtue of this power of attorney and the rights and powers herein
+granted. The undersigned acknowledges that the foregoing attorneys-in-fact, in
+serving in such capacity at the request of the undersigned, are not assuming,
+nor is the Company or Chapman and Cutler LLP assuming, any of the undersigned's
+responsibilities to comply with Section 16 of the Securities Exchange Act of
+1934.
+
+      In consideration of the attorneys-in-fact acting on the undersigned's
+behalf pursuant to this Power of Attorney, the undersigned hereby agrees to
+indemnify and hold harmless each attorney-in-fact, each substitute
+attorney-in-fact, and each of their respective heirs, executors, legal
+representatives, successors, and assigns from and against the entirety of any
+and all losses, claims, causes of action, damages, fines, defense costs, amounts
+paid in settlement, liabilities, and expenses, including reasonable attorneys'
+fees and expenses (collectively, "Losses"), relating to or arising out of the
+exercise of this Power of Attorney by any such attorney-in-fact or substitute
+attorney-in-fact, and will reimburse each such indemnified person for all Losses
+as they are incurred by such indemnified person in connection with any pending
+or threatened claim, action, suit, proceeding, or investigation with which such
+indemnified person is or is threatened to be made a party. The undersigned will
+not, however, be responsible for any Losses that are finally determined by a
+court of competent jurisdiction to have resulted solely from an
+attorney-in-fact's or substitute attorney-in-fact's bad faith or willful
+misconduct.
+
+      This Power of Attorney shall remain in full force and effect until the
+undersigned is no longer required to file Forms 3, 4, and 5 with respect to the
+undersigned's holdings of and transactions in securities requiring such filings,
+unless earlier revoked by the undersigned in a signed writing delivered to the
+foregoing attorneys-in-fact.
+
+      IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to
+be executed as of July 21, 2015.
+
+                                                     /s/ Jeffrey Cotton
+                                                -------------------------------
+                                                       Jeffrey Cotton
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

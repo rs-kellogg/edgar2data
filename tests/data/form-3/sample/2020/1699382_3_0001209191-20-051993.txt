@@ -1,0 +1,256 @@
+<SEC-DOCUMENT>0001209191-20-051993.txt : 20200924
+<SEC-HEADER>0001209191-20-051993.hdr.sgml : 20200924
+<ACCEPTANCE-DATETIME>20200924190936
+ACCESSION NUMBER:		0001209191-20-051993
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20200924
+FILED AS OF DATE:		20200924
+DATE AS OF CHANGE:		20200924
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Kung Winston
+		CENTRAL INDEX KEY:			0001666963
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39539
+		FILM NUMBER:		201196443
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O CELGENE CORPORATION
+		STREET 2:		86 MORRIS AVENUE
+		CITY:			SUMMIT
+		STATE:			NJ
+		ZIP:			07901
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PMV Pharmaceuticals, Inc.
+		CENTRAL INDEX KEY:			0001699382
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				463218129
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8 CLARKE DRIVE
+		CITY:			CRANBURY
+		STATE:			NJ
+		ZIP:			08512
+		BUSINESS PHONE:		(609) 642-6664
+
+	MAIL ADDRESS:	
+		STREET 1:		8 CLARKE DRIVE
+		CITY:			CRANBURY
+		STATE:			NJ
+		ZIP:			08512
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc3.xml
+<DESCRIPTION>FORM 3 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-09-24</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001699382</issuerCik>
+        <issuerName>PMV Pharmaceuticals, Inc.</issuerName>
+        <issuerTradingSymbol>PMVP</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001666963</rptOwnerCik>
+            <rptOwnerName>Kung Winston</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O PMV PHARMACEUTICALS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>8 CLARKE DRIVE, SUITE 3</rptOwnerStreet2>
+            <rptOwnerCity>CRANBURY</rptOwnerCity>
+            <rptOwnerState>NJ</rptOwnerState>
+            <rptOwnerZipCode>08512</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>COO, CFO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>3.22</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-02-21</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>238635</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>3.22</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-02-21</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>237412</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>3.90</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2030-03-09</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>87462</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Of the 476,047 shares originally subject to the option, 357,035 of such shares (the &quot;Time-Based Portion&quot;) shall vest according to the following schedule: one fourth of Time Based Portion vested on November 27, 2018, and one forty-eighth of the Time-Based Portion shall vest each month thereafter. The remaining 119,012 shares subject to the option (the &quot;Milestone-Based Portion&quot;) shall vest according to the following schedule: one forty-eighth of the Milestone-Based Portion shall immediately vest upon the first day of trading of the Issuer's shares following completion of the Issuer's initial public offering, and one forty-eighth of the Milestone-Based Portion shall vest each month thereafter. The Reporting Person transferred 237,412 vested options as of September 20, 2020 to the Winston Kung Irrevocable Family Trust, and the remaining options held directly by the Reporting Person continue to vest according to the terms of the option grant.</footnote>
+        <footnote id="F2">All of the shares subject to the option are vested and immediately exercisable.</footnote>
+        <footnote id="F3">The shares are held of record by the Winston Kung Irrevocable Family Trust for the benefit of the Reporting Person's immediate family.</footnote>
+        <footnote id="F4">One forty-eighth of the shares subject to the option vested on April 4, 2020, and one forty-eighth of the shares subject to the option shall vest each month thereafter.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ David H. Mack, attorney-in-fact</signatureName>
+        <signatureDate>2020-09-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.3_938629
+<SEQUENCE>2
+<FILENAME>poa.txt
+<DESCRIPTION>POA DOCUMENT
+<TEXT>
+POWER OF ATTORNEY
+
+The undersigned, as a Section 16 reporting person of PMV Pharmaceuticals, Inc.
+(the "Company"), hereby constitutes and appoints David H. Mack, Ph.D., as the
+undersigned's true and lawful attorney-in-fact to:
+
+1.	prepare, execute in the undersigned's name and on the undersigned's behalf,
+and submit to the Securities and Exchange Commission (the "SEC") a Form ID,
+including amendments thereto, and any other documents necessary or appropriate
+to obtain EDGAR codes and passwords enabling the undersigned to make electronic
+filings with the SEC of reports required by Section 16(a) of the Securities
+Exchange Act of 1934 or any rule or regulation of the SEC;
+
+2.	complete and execute Forms 3, 4 and 5 and other forms and all amendments
+thereto as such attorney-in-fact shall in his discretion determine to be
+required or advisable pursuant to Section 16 of the Securities Exchange Act of
+1934 (as amended) and the rules and regulations promulgated thereunder, or any
+successor laws and regulations, as a consequence of the undersigned's ownership,
+acquisition or disposition of securities of the Company; and
+
+3.	do all acts necessary in order to file such forms with the SEC, any
+securities exchange or national association, the Company and such other person
+or agency as the attorneys-in-fact shall deem appropriate.
+
+The undersigned hereby ratifies and confirms all that said attorneys-in-fact and
+agents shall do or cause to be done by virtue hereof.  The undersigned
+acknowledges that the foregoing attorneys-in-fact, in serving in such capacity
+at the request of the undersigned, are not assuming, nor is the Company
+assuming, any of the undersigned's responsibilities to comply with Section 16 of
+the Securities Exchange Act of 1934 (as amended).
+
+This Power of Attorney shall remain in full force and effect until the
+undersigned is no longer required to file Forms 3, 4 and 5 with respect to the
+undersigned's holdings of and transactions in securities issued by the Company,
+unless earlier revoked by the undersigned in a signed writing delivered to the
+Company and the foregoing attorneys-in-fact.
+
+IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to be
+executed as of this 24th day of September, 2020.
+
+
+Signature:  /s/ Winston Kung
+
+Print Name:  Winston Kung
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

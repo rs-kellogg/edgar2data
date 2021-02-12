@@ -1,0 +1,232 @@
+<SEC-DOCUMENT>0001828606-20-000003.txt : 20201015
+<SEC-HEADER>0001828606-20-000003.hdr.sgml : 20201015
+<ACCEPTANCE-DATETIME>20201015211002
+ACCESSION NUMBER:		0001828606-20-000003
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20201006
+FILED AS OF DATE:		20201015
+DATE AS OF CHANGE:		20201015
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			McKillop Robert
+		CENTRAL INDEX KEY:			0001828606
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-21901
+		FILM NUMBER:		201242622
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ABERDEEN STANDARD INVESTMENTS
+		STREET 2:		1900 MARKET STREET, SUITE 200
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19103
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ABERDEEN GLOBAL DYNAMIC DIVIDEND FUND
+		CENTRAL INDEX KEY:			0001362481
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1031
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1900 MARKET STREET
+		STREET 2:		SUITE 200
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19103
+		BUSINESS PHONE:		215-405-5700
+
+	MAIL ADDRESS:	
+		STREET 1:		1900 MARKET STREET
+		STREET 2:		SUITE 200
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19103
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALPINE GLOBAL DYNAMIC DIVIDEND FUND
+		DATE OF NAME CHANGE:	20060511
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-10-06</periodOfReport>
+
+    <noSecuritiesOwned>1</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001362481</issuerCik>
+        <issuerName>ABERDEEN GLOBAL DYNAMIC DIVIDEND FUND</issuerName>
+        <issuerTradingSymbol>AGD</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001828606</rptOwnerCik>
+            <rptOwnerName>McKillop Robert</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O ABERDEEN STANDARD INVESTMENTS</rptOwnerStreet1>
+            <rptOwnerStreet2>1900 MARKET STREET, SUITE 200</rptOwnerStreet2>
+            <rptOwnerCity>PHILADELPHIA</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>19103</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <otherText>Director of Adviser</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <remarks>Exhibit List: Exhibit 24 - Power of Attorney</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Lucia Sitar as attorney-in-fact for Robert McKillop</signatureName>
+        <signatureDate>2020-10-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>mckilloppoa.txt
+<DESCRIPTION>MCKILLOPPOA
+<TEXT>
+POWER OF ATTORNEY
+Know all by these presents, that the undersigned hereby
+constitutes and appoints the individuals named on Schedule A
+attached hereto and as may be amended from time to time, or any
+of them signing singly, with full power of substitution and
+resubstitution, as the undersigned's true and lawful attorneys-
+in-fact to:
+1.	as may be required, prepare, execute in the undersigned's
+name and on the undersigned's behalf, and submit to the United
+States Securities and Exchange Commission (the "SEC") a Form ID,
+including amendments thereto, and any other documents necessary
+or appropriate to obtain codes and passwords enabling the
+undersigned to make electronic filings with the SEC of reports
+required by Section 16(a) of the Securities Exchange Act of
+1934, as amended (the "Exchange Act"), or any rule or regulation
+of the SEC;
+2.	execute for and on behalf of the undersigned, in the
+undersigned's capacity as a reporting person pursuant to Section
+16 of the Exchange Act, and the rules thereunder of the
+applicable registered investment companies (and any successor
+companies) listed on Schedule A attached hereto, as amended from
+time to time, and any other registered investment company
+affiliated with or established by Aberdeen Standard Investments
+Inc., Aberdeen Asset Managers Limited, Aberdeen Standard
+Investments (Asia) Limited or their affiliates, for which the
+undersigned becomes a Section 16 reporting person (each, a
+"Fund"), Forms 3, 4 and 5 in accordance with Section 16(a) of
+the Exchange Act;
+3.	do and perform any and all acts for and on behalf of the
+undersigned that may be necessary or desirable to complete and
+execute any such Form 3, 4 or 5 and timely file such form with
+the SEC and any stock exchange or similar authority; and
+4.	take any other action of any type whatsoever in connection
+with the foregoing that, in the opinion of any of such
+attorneys-in-fact, may be of benefit to, in the best interest
+of, or legally required by, the undersigned, it being understood
+that the documents executed by any of such attorneys-in-fact on
+behalf of the undersigned pursuant to this Power of Attorney
+shall be in such form and shall contain such terms and
+conditions as any of such attorneys-in-fact may approve in the
+discretion of any of such attorneys-in-fact.
+The undersigned hereby grants to each such attorney-in-fact full
+power and authority to do and perform any and every act and
+thing whatsoever requisite, necessary, or proper to be done in
+the exercise of any rights and powers herein granted, as fully
+to all intents and purposes as the undersigned might or could do
+if personally present, with full power of substitution or
+revocation, hereby ratifying and confirming all that any of such
+attorneys-in-fact, or the substitute or substitutes of any of
+such attorneys-in-fact, shall lawfully do or cause to be done by
+virtue of this Power of Attorney and the rights and powers
+herein granted. The undersigned acknowledges that the foregoing
+attorneys-in-fact, in serving in such capacity at the request of
+the undersigned, are not assuming, nor is any Fund assuming, any
+of the undersigned's responsibilities to comply with Section 16
+of the Exchange Act.
+This Power of Attorney shall remain in full force and effect
+until the undersigned is no longer required to file Forms 3, 4
+and 5 with respect to the undersigned's holdings of and
+transactions in securities issued by any Fund, unless earlier
+revoked by the undersigned in a signed writing delivered to the
+foregoing attorneys-in-fact.
+IN WITNESS WHEREOF, the undersigned has caused this Power of
+Attorney to be executed as of this 13th day of
+October 2020.
+
+Signature:  /s/ Robert McKillop
+Name:  Robert McKillop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHEDULE A
+
+FUND NAME AND TICKER SYMBOL
+1.	ABERDEEN AUSTRALIA EQUITY FUND, INC. (IAF)
+2.	ABERDEEN ASIA-PACIFIC INCOME FUND, INC. (FAX)
+3.	ABERDEEN GLOBAL INCOME FUND, INC. (FCO)
+4.	ABERDEEN EMERGING MARKETS EQUITY INCOME FUND, INC. (AEF)
+5.	THE INDIA FUND, INC. (IFN)
+6.	ABERDEEN JAPAN EQUITY FUND, INC. (JEQ)
+7.	FIRST TRUST/ABERDEEN GLOBAL OPPORTUNITY INCOME FUND (FAM)
+8.	FIRST TRUST/ABERDEEN EMERGING OPPORTUNITY FUND (FEO)
+9.	ABERDEEN INCOME CREDIT STRATEGIES FUND (ACP)
+10. ABERDEEN ASIA-PACIFIC INCOME INVESTMENT COMPANY LIMITED
+(FAP)
+11.  ABERDEEN GLOBAL PREMIER PROPERTIES FUND (AWP)
+12. ABERDEEN GLOBAL DYNAMIC DIVIDEND FUND (AGD)
+13. ABERDEEN TOTAL DYNAMIC DIVIDEND FUND (AOD)
+
+
+INDIVIDUALS APPOINTED AS ATTORNEY-IN-FACT,
+WITH FULL POWER OF SUBSTITUTION AND RESUBSTITUTION
+1.	Jennifer Nichols
+2.	Lucia Sitar
+3.	Megan Kennedy
+4.	Alan Goodson
+5.	Jennifer Rogers
+6.	Katherine Corey
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

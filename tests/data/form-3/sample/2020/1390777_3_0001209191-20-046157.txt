@@ -1,0 +1,215 @@
+<SEC-DOCUMENT>0001209191-20-046157.txt : 20200811
+<SEC-HEADER>0001209191-20-046157.hdr.sgml : 20200811
+<ACCEPTANCE-DATETIME>20200811170001
+ACCESSION NUMBER:		0001209191-20-046157
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20200810
+FILED AS OF DATE:		20200811
+DATE AS OF CHANGE:		20200811
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			IZZO RALPH
+		CENTRAL INDEX KEY:			0001257451
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35651
+		FILM NUMBER:		201093162
+
+	MAIL ADDRESS:	
+		STREET 1:		PSEG 80 PARK PLAZA
+		CITY:			T6B NEWARK
+		STATE:			NJ
+		ZIP:			07102-4194
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bank of New York Mellon Corp
+		CENTRAL INDEX KEY:			0001390777
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				132614959
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		240 GREENWICH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10286
+		BUSINESS PHONE:		212-495-1784
+
+	MAIL ADDRESS:	
+		STREET 1:		240 GREENWICH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10286
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Bank of New York Mellon CORP
+		DATE OF NAME CHANGE:	20070221
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc3.xml
+<DESCRIPTION>FORM 3 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-08-10</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001390777</issuerCik>
+        <issuerName>Bank of New York Mellon Corp</issuerName>
+        <issuerTradingSymbol>BK</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001257451</rptOwnerCik>
+            <rptOwnerName>IZZO RALPH</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>240 GREENWICH AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10286</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>No securities are beneficially owned</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes></footnotes>
+
+    <remarks>Exhibit List
+Exhibit 24 - Power of Attorney</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/Blair F. Petrillo, Attorney-in-Fact</signatureName>
+        <signatureDate>2020-08-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>attachment1.htm
+<DESCRIPTION>EX-24 DOCUMENT
+<TEXT>
+<HTML>
+<HEAD>
+</HEAD>
+<BODY>
+<PRE>
+                                                           Exhibit 24
+
+
+                                   POWER OF ATTORNEY
+
+        KNOW ALL BY THESE PRESENTS, that the undersigned hereby constitutes
+and appoints J. Kevin McCarthy, James J. Killerlane, III, Bennett E.
+Josselsohn, and Blair F. Petrillo and each of them, the undersigned's true
+and lawful attorneys-in-fact for and in the undersigned's name, place
+and stead to:
+
+        1.  prepare, execute, and file with the Securities and Exchange
+Commission ("SEC"), the New York Stock Exchange ("NYSE") and The Bank of New
+York Mellon Corporation (the "Company"), for and on behalf of the undersigned,
+pursuant to Section 16(a) of the Securities Exchange Act of 1934, as amended
+(the "Exchange Act"), and the rules and regulations thereunder, such statements
+regarding the undersigned's beneficial ownership of securities of the Company
+as required by law; and
+
+        2.  prepare, execute and file with the SEC, the NYSE and the Company,
+for and on behalf of the undersigned, one or more Notices of Proposed Sale of
+Securities on Form 144 relating to the sale of shares of common stock of the
+Company; and
+
+        3.  do and perform any and all acts, for and on behalf of the
+undersigned, which may be necessary or desirable for the preparation and timely
+filing of any such reports or documents with the SEC, the NYSE and any other
+authority; and
+
+        4.  take any other action of any type whatsoever in connection with the
+foregoing which, in the opinion of such attorney-in-fact, may be of benefit to,
+in the best interest of, or legally required by, the undersigned, it being
+understood that the documents executed by such attorney-in-fact on behalf of the
+undersigned pursuant to this Power of Attorney shall be in such form and shall
+contain such terms and conditions as such attorney-in-fact may approve in such
+attorney-in-fact's discretion.
+
+        Said attorneys-in-fact and each of them shall have full power and
+authority to do and perform, in the name and on behalf of the undersigned,
+each and every act and thing whatsoever requisite, necessary or proper to
+be done in connection with any of the above as fully as the undersigned might
+or could do if personally present, the undersigned hereby ratifying and
+confirming all that said attorneys-in-fact and each of them may lawfully do
+or cause to be done by virtue hereof of this Power of Attorney and the rights
+and powers herein granted.
+
+        The undersigned acknowledges that the foregoing attorneys-in-fact, in
+serving in such capacity at the request of the undersigned, are not assuming,
+nor is the Company assuming, any of the undersigned's responsibilities to
+comply with Section 16 of the Exchange Act.  The undersigned agrees that each
+such attorney-in-fact herein may rely entirely on information furnished orally
+or in writing by the undersigned to such attorney-in-fact.
+
+        This Power of Attorney shall remain in full force and effect until the
+undersigned is no longer required to file reports with respect to the
+undersigned's holdings of and transactions in securities issued by the Company,
+unless earlier revoked by the undersigned in a signed writing delivered to the
+foregoing attorneys-in-fact.
+
+        IN WITNESS WHEREOF, the undersigned has executed this Power of Attorney
+as of this 3rd day of August 2020.
+
+
+                                    /s/ Ralph Izzo
+                                   - - - - - - - - - - - - - - - -
+                                     Ralph Izzo
+
+</PRE>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

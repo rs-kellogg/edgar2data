@@ -1,0 +1,163 @@
+<SEC-DOCUMENT>0001567619-20-012557.txt : 20200625
+<SEC-HEADER>0001567619-20-012557.hdr.sgml : 20200625
+<ACCEPTANCE-DATETIME>20200625150050
+ACCESSION NUMBER:		0001567619-20-012557
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20200619
+FILED AS OF DATE:		20200625
+DATE AS OF CHANGE:		20200625
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Engelking Brian M.
+		CENTRAL INDEX KEY:			0001815872
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-00266
+		FILM NUMBER:		20988762
+
+	MAIL ADDRESS:	
+		STREET 1:		225 FRANKLIN STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02110
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TRI-CONTINENTAL CORP
+		CENTRAL INDEX KEY:			0000099614
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		IRS NUMBER:				135441850
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		225 FRANKLIN STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02110
+		BUSINESS PHONE:		612-671-4321
+
+	MAIL ADDRESS:	
+		STREET 1:		225 FRANKLIN STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02110
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TRI CONTINENTAL CORP
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc1.xml
+<DESCRIPTION>FORM 3
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-06-19</periodOfReport>
+
+    <noSecuritiesOwned>1</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000099614</issuerCik>
+        <issuerName>TRI-CONTINENTAL CORP</issuerName>
+        <issuerTradingSymbol>TY</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001815872</rptOwnerCik>
+            <rptOwnerName>Engelking Brian M.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>707 2ND AVE. S.</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MINNEAPOLIS</rptOwnerCity>
+            <rptOwnerState>MN</rptOwnerState>
+            <rptOwnerZipCode>55474-2405</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <officerTitle></officerTitle>
+            <otherText>Dir., VP &amp; CFO of Issuer's IA</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes></footnotes>
+
+    <ownerSignature>
+        <signatureName>Joseph D' Alessandro, Power of Attorney</signatureName>
+        <signatureDate>2020-06-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.1
+<SEQUENCE>2
+<FILENAME>poa_engelking.htm
+<DESCRIPTION>POA
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Broadridge Financial Solutions, Inc.
+         Document created using EDGARfilings PROfile 7.0.0.0
+         Copyright 1995 - 2020 Broadridge -->
+  </head>
+<body style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;" bgcolor="#ffffff">
+  <div>
+    <div style="text-align: center; font-weight: bold;"><u>POWER OF ATTORNEY</u></div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div>With respect to each of Columbia Seligman Premium Technology Growth Fund, Inc., Tri-Continental Corporation, and any other closed-end investment company for
+      which Columbia Management Investment Advisers, LLC now or hereafter serves as investment adviser, the undersigned hereby appoints Paul B. Goucher, Christopher O. Petersen, Joseph L. D&#8217;Alessandro, Ryan C. Larrenaga or Megan E. Garcy attorney-in-fact
+      and agent, with full power of substitution and resubstitution, for in name and stead, to sign and file Forms 3, 4 and 5 (Initial Statement of Beneficial Ownership of Securities, Statement of Changes in Beneficial Ownership, and Annual Statement of
+      Changes in Beneficial Ownership of Securities (respectively) promulgated under Section 16(a) of the Securities Exchange Act of 1934), or further amendments thereto, and any and all applications or other documents to be filed with the Securities and
+      Exchange Commission (the SEC) pertaining thereto, including, but not limited to, such applications as may be necessary to file electronically with the SEC, with full power and authority to do and perform all acts and things requisite and necessary to
+      be done on the premises.</div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div>Dated the 19th day of June, 2020</div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><u>/s/ Brian M. Engelking</u></div>
+    <div>Brian M. Engelking</div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

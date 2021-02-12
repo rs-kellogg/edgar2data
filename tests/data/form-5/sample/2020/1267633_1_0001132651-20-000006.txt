@@ -1,0 +1,139 @@
+<SEC-DOCUMENT>0001132651-20-000006.txt : 20200207
+<SEC-HEADER>0001132651-20-000006.hdr.sgml : 20200207
+<ACCEPTANCE-DATETIME>20200207172007
+ACCESSION NUMBER:		0001132651-20-000006
+CONFORMED SUBMISSION TYPE:	5
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20191231
+FILED AS OF DATE:		20200207
+DATE AS OF CHANGE:		20200207
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			MCGILL STEPHEN C
+		CENTRAL INDEX KEY:			0001267633
+
+	FILING VALUES:
+		FORM TYPE:		5
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-32637
+		FILM NUMBER:		20588451
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 846
+		CITY:			AMES
+		STATE:			IA
+		ZIP:			50010
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMES NATIONAL CORP
+		CENTRAL INDEX KEY:			0001132651
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				421039071
+		STATE OF INCORPORATION:			IA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		PO BOX 846
+		CITY:			AMES
+		STATE:			IA
+		ZIP:			50010
+		BUSINESS PHONE:		5152326251
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 846
+		CITY:			AMES
+		STATE:			IA
+		ZIP:			50010
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>5
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>5</documentType>
+
+    <periodOfReport>2019-12-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <form3HoldingsReported>0</form3HoldingsReported>
+
+    <form4TransactionsReported>0</form4TransactionsReported>
+
+    <issuer>
+        <issuerCik>0001132651</issuerCik>
+        <issuerName>AMES NATIONAL CORP</issuerName>
+        <issuerTradingSymbol>ATLO</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001267633</rptOwnerCik>
+            <rptOwnerName>MCGILL STEPHEN C</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>PO BOX 846</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>AMES</rptOwnerCity>
+            <rptOwnerState>IA</rptOwnerState>
+            <rptOwnerZipCode>50010</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <otherText>President of subsidiary bank</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionCoding>
+                <transactionFormType></transactionFormType>
+            </transactionCoding>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>496</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>401(k)</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The reporting person acquired 18 shares of ATLO common stock by dividend reinvestment allocation under the ATLO 401(k) plan.  The information in this report is based on a plan statement date of 12/31/2019.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Stephen C. McGill</signatureName>
+        <signatureDate>2020-02-07</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

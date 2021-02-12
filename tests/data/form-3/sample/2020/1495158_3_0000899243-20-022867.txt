@@ -1,0 +1,578 @@
+<SEC-DOCUMENT>0000899243-20-022867.txt : 20200818
+<SEC-HEADER>0000899243-20-022867.hdr.sgml : 20200818
+<ACCEPTANCE-DATETIME>20200818214807
+ACCESSION NUMBER:		0000899243-20-022867
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20200818
+FILED AS OF DATE:		20200818
+DATE AS OF CHANGE:		20200818
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Valor IV Pharma Holdings, LLC
+		CENTRAL INDEX KEY:			0001821186
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39450
+		FILM NUMBER:		201115221
+
+	BUSINESS ADDRESS:	
+		STREET 1:		875 N. MICHIGAN AVENUE
+		STREET 2:		SUITE 3214
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60611
+		BUSINESS PHONE:		(312) 568-4766
+
+	MAIL ADDRESS:	
+		STREET 1:		875 N. MICHIGAN AVENUE
+		STREET 2:		SUITE 3214
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60611
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Gracias Antonio J.
+		CENTRAL INDEX KEY:			0001495158
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39450
+		FILM NUMBER:		201115222
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O VALOR EQUITY PARTNERS
+		STREET 2:		200 SOUTH MICHIGAN AVENUE, SUITE 1020
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60604
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Sabater Juan A.
+		CENTRAL INDEX KEY:			0001821210
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39450
+		FILM NUMBER:		201115223
+
+	MAIL ADDRESS:	
+		STREET 1:		630 W. GERMANTOWN PIKE
+		STREET 2:		SUITE 215
+		CITY:			PLYMOUTH MEETING
+		STATE:			PA
+		ZIP:			19462
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Harmony Biosciences Holdings, Inc.
+		CENTRAL INDEX KEY:			0001802665
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				822279923
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		630 W GERMANTOWN PIKE
+		STREET 2:		SUITE 215
+		CITY:			PLYMOUTH MEETING
+		STATE:			PA
+		ZIP:			19462
+		BUSINESS PHONE:		(484) 539-9800
+
+	MAIL ADDRESS:	
+		STREET 1:		630 W GERMANTOWN PIKE
+		STREET 2:		SUITE 215
+		CITY:			PLYMOUTH MEETING
+		STATE:			PA
+		ZIP:			19462
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc3.xml
+<DESCRIPTION>FORM 3 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-08-18</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001802665</issuerCik>
+        <issuerName>Harmony Biosciences Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>HRMY</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001821186</rptOwnerCik>
+            <rptOwnerName>Valor IV Pharma Holdings, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O VALOR EQUITY PARTNERS</rptOwnerStreet1>
+            <rptOwnerStreet2>875 NORTH MICHIGAN AVENUE, SUITE 3214</rptOwnerStreet2>
+            <rptOwnerCity>CHICAGO</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60611</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001495158</rptOwnerCik>
+            <rptOwnerName>Gracias Antonio J.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O VALOR EQUITY PARTNERS</rptOwnerStreet1>
+            <rptOwnerStreet2>875 NORTH MICHIGAN AVENUE, SUITE 3214</rptOwnerStreet2>
+            <rptOwnerCity>CHICAGO</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60611</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001821210</rptOwnerCik>
+            <rptOwnerName>Sabater Juan A.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O VALOR EQUITY PARTNERS</rptOwnerStreet1>
+            <rptOwnerStreet2>875 NORTH MICHIGAN AVENUE, SUITE 3214</rptOwnerStreet2>
+            <rptOwnerCity>CHICAGO</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60611</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>845336</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F1"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Series A Preferred Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>9129640</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F1"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Series C Preferred Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>217527</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F1"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Antonio Gracias is the Chief Executive Officer of Valor Management L.P. (&quot;Valor Management&quot;) and Juan A. Sabater is the President of Valor Management. Valor Management is the managing member of Valor Equity Capital IV LLC, which is the general partner of Valor Equity Associates IV L.P., which, in turn, is the general partner of each of Valor Equity Partners IV L.P., Valor Equity Partners IV-A L.P. and Valor Equity Partners IV-B L.P. (collectively, the &quot;Valor Funds&quot;). The Valor Funds are the sole members of the Valor IV Pharma Holdings, LLC (&quot;Valor&quot;). As such, Messers. Gracias and Sabater may be deemed to beneficially own the shares held by Valor. Each of Messers. Gracias and Sabater disclaims beneficial ownership over the shares described herein except to the extent of their pecuniary interest therein.</footnote>
+        <footnote id="F2">The Series A Preferred Stock is convertible into Common Stock on a 8.215-for-1 basis into the number of shares of Common Stock as shown in Column 3 at the holder's election and automatically upon the closing of the Issuer's initial public offering without payment or further consideration. These shares have no expiration date.</footnote>
+        <footnote id="F3">The Series C Preferred Stock is convertible into Common Stock on a 8.215-for-1 basis into the number of shares of Common Stock as shown in Column 3 at the holder's election and automatically upon the closing of the Issuer's initial public offering without payment or further consideration. These shares have no expiration date.</footnote>
+    </footnotes>
+
+    <remarks>Exhibit 24.1 - Power of Attorney for Valor IV Pharma Holdings, LLC.
+Exhibit 24.2 - Power of Attorney for Antonio Gracias.
+Exhibit 24.3 - Power of Attorney for Juan A. Sabater.</remarks>
+
+    <ownerSignature>
+        <signatureName>Valor Management L.P., By: /s/ Stephanie Wisdo,  Attorney-in-fact for Antonio Gracias, Chief Executive Officer</signatureName>
+        <signatureDate>2020-08-18</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>Valor Equity Capital IV LLC, By: Valor Management L.P., its managing member, By: /s/ Stephanie Wisdo, Attorney-in-fact for Antonio Gracias, Chief Executive Officer</signatureName>
+        <signatureDate>2020-08-18</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>Valor Equity Associates IV L.P., By: Valor Equity Capital IV LLC, its general partner, By: Valor Management L.P., its managing member, By: /s/ Stephanie Wisdo, Attorney-in-fact for Antonio Gracias, Chief Executive Officer</signatureName>
+        <signatureDate>2020-08-18</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>Valor Equity Partners IV L.P., By: Valor Equity Associates IV L.P., its general partner, By: Valor Equity Capital IV LLC, its general partner, By: Valor Management L.P., its managing member, By: /s/ Stephanie Wisdo, Attorney-in-fact for Antonio Gracias</signatureName>
+        <signatureDate>2020-08-18</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>Valor Equity Partners IV-A L.P.,By: Valor Equity Associates IV L.P., its general partner, By: Valor Equity Capital IV LLC, its general partner, By: Valor Management L.P., its managing member, By: /s/ Stephanie Wisdo, Attorney-in-fact for Antonio Gracias</signatureName>
+        <signatureDate>2020-08-18</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>Valor Equity Partners IV-B L.P., By: Valor Equity Associates IV L.P., its general partner, By: Valor Equity Capital IV LLC, its general partner, By: Valor Management L.P., its managing member, By: /s/ Stephanie Wisdo, Attorney-in-fact for Antonio Gracias</signatureName>
+        <signatureDate>2020-08-18</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>Valor Pharma Holdings, LLC By Valor Equity Associates IV L.P. general partner of its sole members By Valor Equity Capital IV LLC, its general partner By Valor Management L.P. its managing member By /s/ Stephanie Wisdo Attorney-in-fact for Antonio Gracias</signatureName>
+        <signatureDate>2020-08-18</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>Antonio Gracias, By: /s/ Stephanie Wisdo, Attorney-in-fact for Antonio Gracias</signatureName>
+        <signatureDate>2020-08-18</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>Juan A. Sabater, By: /s/ Stephanie Wisdo, Attorney-in-fact for Juan A. Sabater</signatureName>
+        <signatureDate>2020-08-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.1
+<SEQUENCE>2
+<FILENAME>attachment1.htm
+<DESCRIPTION>EX-24.1 DOCUMENT
+<TEXT>
+<HTML>
+<HEAD>
+</HEAD>
+<BODY>
+<PRE>
+                                                                    Exhibit 24.1
+
+                                   POWER OF ATTORNEY
+
+        With respect to holdings of and transactions in securities issued by
+Harmony Biosciences Holdings, Inc. (the "Company"), the undersigned hereby
+constitutes and appoints the individuals named on Schedule A attached hereto and
+as may be amended from time to time, or any of them signing singly, with full
+power of substitution and resubstitution, to act as the undersigned's true and
+lawful attorney-in-fact to:
+
+        1.  execute for and on behalf of the undersigned, Forms 3, 4, and 5 in
+            accordance with Section 16 of the Exchange Act and the rules
+            thereunder;
+
+        2.  do and perform any and all acts for and on behalf of the undersigned
+            which may be necessary or desirable to complete and execute any such
+            Form 3, 4, or 5, complete and execute any amendment or amendments
+            thereto, and timely file such form with the SEC and any stock
+            exchange or similar authority; and
+
+        3.  take any other action of any type whatsoever in connection with the
+            foregoing which, in the opinion of such attorney-in-fact, may be of
+            benefit to, in the best interest of, or legally required by, the
+            undersigned, it being understood that the documents executed by such
+            attorney-in-fact on behalf of the undersigned pursuant to this Power
+            of Attorney shall be in such form and shall contain such terms and
+            conditions as such attorney-in-fact may approve in such attorney-in-
+            fact's discretion.
+
+        The undersigned hereby grants to each such attorney-in-fact full power
+and authority to do and perform any and every act and thing whatsoever
+requisite, necessary, or proper to be done in the exercise of any of the rights
+and powers herein granted, as fully to all intents and purposes as the
+undersigned might or could do if personally present, with full power of
+substitution and resubstitution or revocation, hereby ratifying and confirming
+all that such attorney-in-fact, or such attorneys-in-fact substitute or
+substitutes, shall lawfully do or cause to be done by virtue of this Power of
+Attorney and the rights and powers herein granted.
+
+        The undersigned acknowledges that the foregoing attorneys-in-fact, in
+serving in such capacity at the request of the undersigned, are not assuming,
+nor is the Company assuming, any of the undersigned's responsibilities to comply
+with Section 16 of the Exchange Act.
+
+        This Power of Attorney shall remain in full force and effect until the
+undersigned is no longer required to file Forms 3, 4, and 5 with respect to the
+undersigned's holdings of and transactions in securities issued by the Company,
+unless earlier revoked by the undersigned in a signed writing delivered to the
+foregoing attorneys-in-fact.
+
+        IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to
+be executed as of this 11th day of August, 2020.
+
+                                        Valor IV Pharma Holdings, LLC
+
+                                        By: /s/ Antonio Gracias
+                                            --------------------------
+                                        Name: Antonio Gracias
+                                        Title: Authorized Signatory
+
+Schedule A
+
+        Individuals Appointed as Attorney-in-Fact with Full Power of
+Substitution and Resubstitution
+
+1. Stephanie Wisdo
+2. Susan L. Drexler
+</PRE>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.2
+<SEQUENCE>3
+<FILENAME>attachment2.htm
+<DESCRIPTION>EX-24.2 DOCUMENT
+<TEXT>
+<HTML>
+<HEAD>
+</HEAD>
+<BODY>
+<PRE>
+                                                                    Exhibit 24.2
+
+                                   POWER OF ATTORNEY
+
+        With respect to holdings of and transactions in securities issued by
+Harmony Biosciences Holdings, Inc. (the "Company"), the undersigned hereby
+constitutes and appoints the individuals named on Schedule A attached hereto and
+as may be amended from time to time, or any of them signing singly, with full
+power of substitution and resubstitution, to act as the undersigned's true and
+lawful attorney-in-fact to:
+
+        4.  execute for and on behalf of the undersigned, Schedules 13D and 13G
+            in accordance with Section 13 of the Securities Exchange Act of
+            1934, as amended (the "Exchange Act"), and the rules thereunder, and
+            Forms 3, 4, and 5 in accordance with Section 16 of the Exchange Act
+            and the rules thereunder;
+
+        5.  do and perform any and all acts for and on behalf of the undersigned
+            which may be necessary or desirable to complete and execute any such
+            Schedule 13D or 13G or Form 3, 4, or 5, complete and execute any
+            amendment or amendments thereto, and timely file such schedule or
+            form with the SEC and any stock exchange or similar authority; and
+
+        6.  take any other action of any type whatsoever in connection with the
+            foregoing which, in the opinion of such attorney-in-fact, may be of
+            benefit to, in the best interest of, or legally required by, the
+            undersigned, it being understood that the documents executed by such
+            attorney-in-fact on behalf of the undersigned pursuant to this Power
+            of Attorney shall be in such form and shall contain such terms and
+            conditions as such attorney-in-fact may approve in such attorney-in-
+            fact's discretion.
+
+        The undersigned hereby grants to each such attorney-in-fact full power
+and authority to do and perform any and every act and thing whatsoever
+requisite, necessary, or proper to be done in the exercise of any of the rights
+and powers herein granted, as fully to all intents and purposes as the
+undersigned might or could do if personally present, with full power of
+substitution and resubstitution or revocation, hereby ratifying and confirming
+all that such attorney-in-fact, or such attorneys-in-fact substitute or
+substitutes, shall lawfully do or cause to be done by virtue of this Power of
+Attorney and the rights and powers herein granted.
+
+        The undersigned acknowledges that the foregoing attorneys-in-fact, in
+serving in such capacity at the request of the undersigned, are not assuming,
+nor is the Company assuming, any of the undersigned's responsibilities to comply
+with Section 13 and Section 16 of the Exchange Act.
+
+        This Power of Attorney shall remain in full force and effect until the
+undersigned is no longer required to file Schedule 13D and 13G and Forms 3, 4,
+and 5 with respect to the undersigned's holdings of and transactions in
+securities issued by the Company, unless earlier revoked by the undersigned in a
+signed writing delivered to the foregoing attorneys-in-fact.
+
+        IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to
+be executed as of this 13th day of August, 2020.
+
+                                        /s/ Antonio Gracias
+                                        ----------------------
+                                        Antonio Gracias
+
+
+Schedule A
+
+        Individuals Appointed as Attorney-in-Fact with Full Power of
+Substitution and Resubstitution
+
+1. Stephanie Wisdo
+2. Susan L. Drexler
+</PRE>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.3
+<SEQUENCE>4
+<FILENAME>attachment3.htm
+<DESCRIPTION>EX-24.3 DOCUMENT
+<TEXT>
+<HTML>
+<HEAD>
+</HEAD>
+<BODY>
+<PRE>
+                                                                    Exhibit 24.3
+
+                                   POWER OF ATTORNEY
+
+        With respect to holdings of and transactions in securities issued by
+Harmony Biosciences Holdings, Inc. (the "Company"), the undersigned hereby
+constitutes and appoints the individuals named on Schedule A attached hereto and
+as may be amended from time to time, or any of them signing singly, with full
+power of substitution and resubstitution, to act as the undersigned's true and
+lawful attorney-in-fact to:
+
+        7.  execute for and on behalf of the undersigned, Schedules 13D and 13G
+            in accordance with Section 13 of the Securities Exchange Act of
+            1934, as amended (the "Exchange Act"), and the rules thereunder, and
+            Forms 3, 4, and 5 in accordance with Section 16 of the Exchange Act
+            and the rules thereunder;
+
+        8.  do and perform any and all acts for and on behalf of the undersigned
+            which may be necessary or desirable to complete and execute any such
+            Schedule 13D or 13G or Form 3, 4, or 5, complete and execute any
+            amendment or amendments thereto, and timely file such schedule or
+            form with the SEC and any stock exchange or similar authority; and
+
+        9.  take any other action of any type whatsoever in connection with the
+            foregoing which, in the opinion of such attorney-in-fact, may be of
+            benefit to, in the best interest of, or legally required by, the
+            undersigned, it being understood that the documents executed by such
+            attorney-in-fact on behalf of the undersigned pursuant to this Power
+            of Attorney shall be in such form and shall contain such terms and
+            conditions as such attorney-in-fact may approve in such attorney-in-
+            fact's discretion.
+
+        The undersigned hereby grants to each such attorney-in-fact full power
+and authority to do and perform any and every act and thing whatsoever
+requisite, necessary, or proper to be done in the exercise of any of the rights
+and powers herein granted, as fully to all intents and purposes as the
+undersigned might or could do if personally present, with full power of
+substitution and resubstitution or revocation, hereby ratifying and confirming
+all that such attorney-in-fact, or such attorneys-in-fact substitute or
+substitutes, shall lawfully do or cause to be done by virtue of this Power of
+Attorney and the rights and powers herein granted.
+
+        The undersigned acknowledges that the foregoing attorneys-in-fact, in
+serving in such capacity at the request of the undersigned, are not assuming,
+nor is the Company assuming, any of the undersigned's responsibilities to comply
+with Section 13 and Section 16 of the Exchange Act.
+
+        This Power of Attorney shall remain in full force and effect until the
+undersigned is no longer required to file Schedule 13D and 13G and Forms 3, 4,
+and 5 with respect to the undersigned's holdings of and transactions in
+securities issued by the Company, unless earlier revoked by the undersigned in a
+signed writing delivered to the foregoing attorneys-in-fact.
+
+        IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to
+be executed as of this 14th day of August, 2020.
+
+                                        /s/ Juan A. Sabater
+                                        ------------------------------
+                                        Juan A. Sabater
+
+
+Schedule A
+
+        Individuals Appointed as Attorney-in-Fact with Full Power of
+Substitution and Resubstitution
+
+1. Stephanie Wisdo
+2. Susan L. Drexler
+</PRE>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,159 @@
+<SEC-DOCUMENT>0001179110-20-000945.txt : 20200204
+<SEC-HEADER>0001179110-20-000945.hdr.sgml : 20200204
+<ACCEPTANCE-DATETIME>20200204114847
+ACCESSION NUMBER:		0001179110-20-000945
+CONFORMED SUBMISSION TYPE:	5
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20191231
+FILED AS OF DATE:		20200204
+DATE AS OF CHANGE:		20200204
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			FLORNESS DANIEL L
+		CENTRAL INDEX KEY:			0001017427
+
+	FILING VALUES:
+		FORM TYPE:		5
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-16125
+		FILM NUMBER:		20571288
+
+	MAIL ADDRESS:	
+		STREET 1:		FASTENAL CO
+		STREET 2:		2001 THEURER BLVD
+		CITY:			WINONA
+		STATE:			MN
+		ZIP:			55987
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FASTENAL CO
+		CENTRAL INDEX KEY:			0000815556
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-BUILDING MATERIALS, HARDWARE, GARDEN SUPPLY [5200]
+		IRS NUMBER:				410948415
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2001 THEURER BLVD
+		CITY:			WINONA
+		STATE:			MN
+		ZIP:			55987
+		BUSINESS PHONE:		5074545374
+
+	MAIL ADDRESS:	
+		STREET 1:		2001 THEURER BLVD
+		CITY:			WINONA
+		STATE:			MN
+		ZIP:			55987
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>5
+<SEQUENCE>1
+<FILENAME>edgar.xml
+<DESCRIPTION>FORM 5 -
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>5</documentType>
+
+    <periodOfReport>2019-12-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <form3HoldingsReported>0</form3HoldingsReported>
+
+    <form4TransactionsReported>0</form4TransactionsReported>
+
+    <issuer>
+        <issuerCik>0000815556</issuerCik>
+        <issuerName>FASTENAL CO</issuerName>
+        <issuerTradingSymbol>FAST</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001017427</rptOwnerCik>
+            <rptOwnerName>FLORNESS DANIEL L</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>2001 THEURER BOULEVARD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>WINONA</rptOwnerCity>
+            <rptOwnerState>MN</rptOwnerState>
+            <rptOwnerZipCode>55987</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CEO and President</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2019-09-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>G</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>20000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>20000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By family trust</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These share are held in a trust and the reporting person's spouse became trustee of the trust on 9/11/2019.  The reporting person disclaims beneficial ownership of these securities, and the filing of this report is not an admission that the reporting person is the beneficial owner of these securities for purposes of Section 16 or for any other purpose.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ John Milek, Attorney-in-Fact</signatureName>
+        <signatureDate>2020-02-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

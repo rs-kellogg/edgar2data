@@ -1,0 +1,110 @@
+<SEC-DOCUMENT>0001793855-20-000020.txt : 20200728
+<SEC-HEADER>0001793855-20-000020.hdr.sgml : 20200728
+<ACCEPTANCE-DATETIME>20200728152633
+ACCESSION NUMBER:		0001793855-20-000020
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200728
+FILED AS OF DATE:		20200728
+DATE AS OF CHANGE:		20200728
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Pittard Christian
+		CENTRAL INDEX KEY:			0001340575
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-23490
+		FILM NUMBER:		201053697
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE BOW CHURCHYARD
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			EC4M 9HH
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Aberdeen Standard Global Infrastructure Income Fund
+		CENTRAL INDEX KEY:			0001793855
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MD
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1900 MARKET STREET
+		STREET 2:		SUITE 200
+		CITY:			PHILDELPHIA
+		STATE:			PA
+		ZIP:			19103
+		BUSINESS PHONE:		215-405-5700
+
+	MAIL ADDRESS:	
+		STREET 1:		1900 MARKET STREET
+		STREET 2:		SUITE 200
+		CITY:			PHILDELPHIA
+		STATE:			PA
+		ZIP:			19103
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Aberdeen Standard Global Infrastructure Public Private Income Fund
+		DATE OF NAME CHANGE:	20191112
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-07-28</periodOfReport>
+
+    <noSecuritiesOwned>1</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001793855</issuerCik>
+        <issuerName>Aberdeen Standard Global Infrastructure Income Fund</issuerName>
+        <issuerTradingSymbol>ASGI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001340575</rptOwnerCik>
+            <rptOwnerName>Pittard Christian</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O ABERDEEN STANDARD INVESTMENTS</rptOwnerStreet1>
+            <rptOwnerStreet2>1900 MARKET STREET, SUITE 200</rptOwnerStreet2>
+            <rptOwnerCity>PHILADELPHIA</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>19103</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <ownerSignature>
+        <signatureName>/s/ Lucia Sitar as attorney-in-fact for Christian Pittard</signatureName>
+        <signatureDate>2020-07-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,372 @@
+<SEC-DOCUMENT>0001209191-20-056160.txt : 20201028
+<SEC-HEADER>0001209191-20-056160.hdr.sgml : 20201028
+<ACCEPTANCE-DATETIME>20201028210045
+ACCESSION NUMBER:		0001209191-20-056160
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20201028
+FILED AS OF DATE:		20201028
+DATE AS OF CHANGE:		20201028
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Novo Holdings A/S
+		CENTRAL INDEX KEY:			0001388325
+		STATE OF INCORPORATION:			G7
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39655
+		FILM NUMBER:		201270192
+
+	BUSINESS ADDRESS:	
+		STREET 1:		TUBORG HAVNEVEJ 19
+		CITY:			HELLERUP
+		STATE:			G7
+		ZIP:			2900
+		BUSINESS PHONE:		45 8824 8824
+
+	MAIL ADDRESS:	
+		STREET 1:		TUBORG HAVNEVEJ 19
+		CITY:			HELLERUP
+		STATE:			G7
+		ZIP:			2900
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	Novo A/S
+		DATE OF NAME CHANGE:	20070130
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Galecto Inc.
+		CENTRAL INDEX KEY:			0001800315
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				371957007
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		GALECTO BIOTECH AB
+		STREET 2:		OLE MAALOES VEJ3
+		CITY:			COPENHAGEN
+		STATE:			G7
+		ZIP:			DK-2200
+		BUSINESS PHONE:		45-70-70-52-10
+
+	MAIL ADDRESS:	
+		STREET 1:		GALECTO BIOTECH AB
+		STREET 2:		OLE MAALOES VEJ3
+		CITY:			COPENHAGEN
+		STATE:			G7
+		ZIP:			DK-2200
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc3.xml
+<DESCRIPTION>FORM 3 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-10-28</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001800315</issuerCik>
+        <issuerName>Galecto Inc.</issuerName>
+        <issuerTradingSymbol>GLTO</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001388325</rptOwnerCik>
+            <rptOwnerName>Novo Holdings A/S</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>TUBORG HAVNEVEJ 19</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>HELLERUP</rptOwnerCity>
+            <rptOwnerState>G7</rptOwnerState>
+            <rptOwnerZipCode>2900</rptOwnerZipCode>
+            <rptOwnerStateDescription>DENMARK</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>SERIES B-1 PREFERRED STOCK</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>COMMON STOCK</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>66454</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>SERIES B-2 PREFERRED STOCK</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>COMMON STOCK</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>41161</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>SERIES B-3 PREFERRED STOCK</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>COMMON STOCK</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>164647</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>SERIES B-4 PREFERRED STOCK</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>COMMON STOCK</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>173312</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>SERIES C-1 PREFERRED STOCK</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>COMMON STOCK</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>348336</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>SERIES C-2 PREFERRED STOCK</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>COMMON STOCK</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>506073</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>SERIES C-4 PREFERRED STOCK</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>COMMON STOCK</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>472334</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>SERIES C-5 PREFERRED STOCK</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>COMMON STOCK</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>134953</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>SERIES D PREFERRED STOCK</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>COMMON STOCK</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>257188</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each share of Series B-1 Preferred Stock, Series B-2 Preferred Stock, Series B-3 Preferred Stock, Series B-4 Preferred Stock, Series C-1 Preferred Stock, Series C-2 Preferred Stock, Series C-4 Preferred Stock, Series C-5 Preferred Stock and Series D Preferred Stock (collectively, the &quot;Preferred Stock&quot;) is convertible into Common Stock at a ratio of 1:2.59970 into the number of shares of Common Stock as shown in Column 3 at any time at the holder's election, and automatically upon the closing of the Issuer's initial public offering without payment of additional consideration. These shares have no expiration date.</footnote>
+    </footnotes>
+
+    <remarks>Novo Holdings A/S is a Danish limited liability company.  The board of directors of Novo Holdings A/S (the &quot;Novo Board&quot;) has shared investment and voting control over the securities of the Issuer held by Novo Holdings A/S (the &quot;Shares&quot;) and may exercise such control only with the support of a majority of the Novo Board.  As such, no individual member of the Novo Board is deemed to hold any beneficial ownership or reportable pecuniary interest in the Shares.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Peter Haahr, Chief Financial Officer of Novo Holdings A/S</signatureName>
+        <signatureDate>2020-10-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

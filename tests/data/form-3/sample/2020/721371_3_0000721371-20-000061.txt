@@ -1,0 +1,120 @@
+<SEC-DOCUMENT>0000721371-20-000061.txt : 20200708
+<SEC-HEADER>0000721371-20-000061.hdr.sgml : 20200708
+<ACCEPTANCE-DATETIME>20200708080058
+ACCESSION NUMBER:		0000721371-20-000061
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200701
+FILED AS OF DATE:		20200708
+DATE AS OF CHANGE:		20200708
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Evans David C
+		CENTRAL INDEX KEY:			0001375909
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11373
+		FILM NUMBER:		201017288
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O THE SCOTTS MIRACLE-GRO COMPANY
+		STREET 2:		14111 SCOTTSLAWN ROAD
+		CITY:			MARYSVILLE
+		STATE:			OH
+		ZIP:			43041
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CARDINAL HEALTH INC
+		CENTRAL INDEX KEY:			0000721371
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-DRUGS PROPRIETARIES & DRUGGISTS' SUNDRIES [5122]
+		IRS NUMBER:				310958666
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7000 CARDINAL PLACE
+		CITY:			DUBLIN
+		STATE:			OH
+		ZIP:			43017
+		BUSINESS PHONE:		6147573033
+
+	MAIL ADDRESS:	
+		STREET 1:		7000 CARDINAL PLACE
+		CITY:			DUBLIN
+		STATE:			OH
+		ZIP:			43017
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CARDINAL DISTRIBUTION INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>wf-form3_159420964551766.xml
+<DESCRIPTION>FORM 3
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-07-01</periodOfReport>
+
+    <noSecuritiesOwned>1</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000721371</issuerCik>
+        <issuerName>CARDINAL HEALTH INC</issuerName>
+        <issuerTradingSymbol>CAH</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001375909</rptOwnerCik>
+            <rptOwnerName>Evans David C</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>7000 CARDINAL PLACE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>DUBLIN</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>43017</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes></footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ James E. Barnett, Attorney-in-fact</signatureName>
+        <signatureDate>2020-07-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

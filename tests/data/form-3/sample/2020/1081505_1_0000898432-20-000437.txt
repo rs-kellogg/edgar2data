@@ -1,0 +1,126 @@
+<SEC-DOCUMENT>0000898432-20-000437.txt : 20200326
+<SEC-HEADER>0000898432-20-000437.hdr.sgml : 20200326
+<ACCEPTANCE-DATETIME>20200326212830
+ACCESSION NUMBER:		0000898432-20-000437
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200326
+FILED AS OF DATE:		20200326
+DATE AS OF CHANGE:		20200326
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			LOFFREDO JOHN M
+		CENTRAL INDEX KEY:			0001081505
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-23481
+		FILM NUMBER:		20747697
+
+	MAIL ADDRESS:	
+		STREET 1:		1345 AVENUE OF THE AMERICAS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10105
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			RiverNorth Flexible Municipal Income Fund, Inc.
+		CENTRAL INDEX KEY:			0001790177
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		325 NORTH LASALLE STREET
+		STREET 2:		SUITE 645
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60654
+		BUSINESS PHONE:		312-445-2251
+
+	MAIL ADDRESS:	
+		STREET 1:		325 NORTH LASALLE STREET
+		STREET 2:		SUITE 645
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60654
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>form3.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-03-26</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001790177</issuerCik>
+        <issuerName>RiverNorth Flexible Municipal Income Fund, Inc.</issuerName>
+        <issuerTradingSymbol>RFM</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001081505</rptOwnerCik>
+            <rptOwnerName>LOFFREDO JOHN M</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O MACKAY SHIELDS LLC</rptOwnerStreet1>
+            <rptOwnerStreet2>1345 AVENUE OF THE AMERICAS</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10105</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOther>true</isOther>
+            <otherText>Portfolio Manager</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Reporting Person does not beneficially own any of the Issuer's equity securities.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ John M. Loffredo by his Attorney-in-Fact Rene A. Bustamante</signatureName>
+        <signatureDate>2020-03-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

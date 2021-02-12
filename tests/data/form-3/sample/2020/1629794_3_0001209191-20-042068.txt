@@ -1,0 +1,283 @@
+<SEC-DOCUMENT>0001209191-20-042068.txt : 20200709
+<SEC-HEADER>0001209191-20-042068.hdr.sgml : 20200709
+<ACCEPTANCE-DATETIME>20200709205539
+ACCESSION NUMBER:		0001209191-20-042068
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200709
+FILED AS OF DATE:		20200709
+DATE AS OF CHANGE:		20200709
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			New Enterprise Associates 15, L.P.
+		CENTRAL INDEX KEY:			0001629794
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39370
+		FILM NUMBER:		201021567
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1954 GREENSPRING DRIVE, SUITE 600
+		CITY:			TIMONIUM
+		STATE:			MD
+		ZIP:			21093
+		BUSINESS PHONE:		410-842-4000
+
+	MAIL ADDRESS:	
+		STREET 1:		1954 GREENSPRING DRIVE, SUITE 600
+		CITY:			TIMONIUM
+		STATE:			MD
+		ZIP:			21093
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			NEA Partners 15, L.P.
+		CENTRAL INDEX KEY:			0001640031
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39370
+		FILM NUMBER:		201021568
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1954 GREENSPRING DRIVE
+		STREET 2:		SUITE 600
+		CITY:			TIMONIUM
+		STATE:			MD
+		ZIP:			21093
+		BUSINESS PHONE:		410-842-4000
+
+	MAIL ADDRESS:	
+		STREET 1:		1954 GREENSPRING DRIVE
+		STREET 2:		SUITE 600
+		CITY:			TIMONIUM
+		STATE:			MD
+		ZIP:			21093
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			NEA 15 GP, LLC
+		CENTRAL INDEX KEY:			0001640033
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39370
+		FILM NUMBER:		201021569
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1954 GREENSPRING DRIVE
+		STREET 2:		SUITE 600
+		CITY:			TIMONIUM
+		STATE:			MD
+		ZIP:			21093
+		BUSINESS PHONE:		410-842-4000
+
+	MAIL ADDRESS:	
+		STREET 1:		1954 GREENSPRING DRIVE
+		STREET 2:		SUITE 600
+		CITY:			TIMONIUM
+		STATE:			MD
+		ZIP:			21093
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Nkarta, Inc.
+		CENTRAL INDEX KEY:			0001787400
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				474515206
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6000 SHORELINE COURT
+		STREET 2:		SUITE 102
+		CITY:			SOUTH SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94080
+		BUSINESS PHONE:		650-215-0385
+
+	MAIL ADDRESS:	
+		STREET 1:		6000 SHORELINE COURT
+		STREET 2:		SUITE 102
+		CITY:			SOUTH SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94080
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc3.xml
+<DESCRIPTION>FORM 3 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-07-09</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001787400</issuerCik>
+        <issuerName>Nkarta, Inc.</issuerName>
+        <issuerTradingSymbol>NKTK</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001629794</rptOwnerCik>
+            <rptOwnerName>New Enterprise Associates 15, L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1954 GREENSPRING DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 600</rptOwnerStreet2>
+            <rptOwnerCity>TIMONIUM</rptOwnerCity>
+            <rptOwnerState>MD</rptOwnerState>
+            <rptOwnerZipCode>21093</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001640031</rptOwnerCik>
+            <rptOwnerName>NEA Partners 15, L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1954 GREENSPRING DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 600</rptOwnerStreet2>
+            <rptOwnerCity>TIMONIUM</rptOwnerCity>
+            <rptOwnerState>MD</rptOwnerState>
+            <rptOwnerZipCode>21093</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001640033</rptOwnerCik>
+            <rptOwnerName>NEA 15 GP, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1954 GREENSPRING DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 600</rptOwnerStreet2>
+            <rptOwnerCity>TIMONIUM</rptOwnerCity>
+            <rptOwnerState>MD</rptOwnerState>
+            <rptOwnerZipCode>21093</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Series A Preferred Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>522639</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F2"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Series B Preferred Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1712810</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F2"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Series A Preferred Stock is convertible into Common Stock on a 3.7-for-1 basis into the number of shares of Common Stock as shown in Column 3 without payment of further consideration, at any time at the holder's selection or upon closing of the initial public offering of the Issuer's Common Stock. The shares have no expiration date.</footnote>
+        <footnote id="F2">The shares are directly held by New Enterprise Associates 15, L.P. (&quot;NEA 15&quot;), and indirectly held by NEA Partners 15, L.P. (&quot;NEA Partners 15&quot;), the sole general partner of NEA 15, NEA 15 GP, LLC (&quot;NEA 15 GP&quot;), the sole general partner of NEA Partners 15, and the individual managers of NEA 15 GP (NEA Partners 15, NEA 15 GP and the individual managers of NEA 15 GP, together, the &quot;Indirect Reporting Persons&quot;). The individual managers of NEA 15 GP are Forest Baskett, Anthony A. Florence, Jr., Mohamad Makhzoumi, Josh Makower, Scott D. Sandell and Peter W. Sonsini. The Indirect Reporting Persons disclaim beneficial ownership within the meaning of Section 16 of the Securities Exchange Act of 1934, as amended, or otherwise of such portion of the NEA 15 shares in which the Indirect Reporting Persons have no pecuniary interest.</footnote>
+        <footnote id="F3">The Series B Preferred Stock is convertible into Common Stock on a 3.7-for-1 basis into the number of shares of Common Stock as shown in Column 3 without payment of further consideration, at any time at the holder's election or upon closing of the initial public offering of the Issuer's Common Stock. The shares have no expiration date.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Sasha Keough, attorney-in-fact</signatureName>
+        <signatureDate>2020-07-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,167 @@
+<SEC-DOCUMENT>0001713188-20-000001.txt : 20200131
+<SEC-HEADER>0001713188-20-000001.hdr.sgml : 20200131
+<ACCEPTANCE-DATETIME>20200131160432
+ACCESSION NUMBER:		0001713188-20-000001
+CONFORMED SUBMISSION TYPE:	5
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20191231
+FILED AS OF DATE:		20200131
+DATE AS OF CHANGE:		20200131
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Kidd Wilmot H IV
+		CENTRAL INDEX KEY:			0001713188
+
+	FILING VALUES:
+		FORM TYPE:		5
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-00179
+		FILM NUMBER:		20565088
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O CENTRAL SECURITIES CORPORATION
+		STREET 2:		630 FIFTH AVENUE, SUITE 820
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10111
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CENTRAL SECURITIES CORP
+		CENTRAL INDEX KEY:			0000018748
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		IRS NUMBER:				131875970
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		630 FIFTH AVENUE
+		STREET 2:		SUITE 820
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10111
+		BUSINESS PHONE:		212-698-2020
+
+	MAIL ADDRESS:	
+		STREET 1:		630 FIFTH AVENUE
+		STREET 2:		SUITE 820
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10111
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TRANS CENTRAL SECURITIES CORP
+		DATE OF NAME CHANGE:	19700722
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BUERGER LADET & RADINSKY INC
+		DATE OF NAME CHANGE:	19671026
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>5
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>5</documentType>
+
+    <periodOfReport>2019-12-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <form3HoldingsReported>0</form3HoldingsReported>
+
+    <form4TransactionsReported>0</form4TransactionsReported>
+
+    <issuer>
+        <issuerCik>0000018748</issuerCik>
+        <issuerName>CENTRAL SECURITIES CORP</issuerName>
+        <issuerTradingSymbol>CET</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001713188</rptOwnerCik>
+            <rptOwnerName>Kidd Wilmot H IV</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O CENTRAL SECURITIES CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>630 FIFTH AVENUE, SUITE 820</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10111</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2019-05-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>90148</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>224481</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes shares received in a non-reportable transaction.</footnote>
+        <footnote id="F2">Shares transferred from Trust.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/Marlene A. Krumholz as Attorney-in-Fact for Wilmot H. Kidd IV</signatureName>
+        <signatureDate>2020-01-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

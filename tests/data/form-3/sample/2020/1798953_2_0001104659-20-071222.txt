@@ -1,0 +1,224 @@
+<SEC-DOCUMENT>0001104659-20-071222.txt : 20200609
+<SEC-HEADER>0001104659-20-071222.hdr.sgml : 20200609
+<ACCEPTANCE-DATETIME>20200609134249
+ACCESSION NUMBER:		0001104659-20-071222
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20200609
+FILED AS OF DATE:		20200609
+DATE AS OF CHANGE:		20200609
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Fornelli Cynthia M.
+		CENTRAL INDEX KEY:			0001798953
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	814-01327
+		FILM NUMBER:		20951479
+
+	MAIL ADDRESS:	
+		STREET 1:		2755 SAND HILL ROAD
+		STREET 2:		SUITE 150
+		CITY:			MENLO PARK
+		STATE:			CA
+		ZIP:			94025
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TriplePoint Private Venture Credit Inc.
+		CENTRAL INDEX KEY:			0001792509
+		IRS NUMBER:				843383695
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2755 SAND HILL ROAD
+		STREET 2:		SUITE 150
+		CITY:			MENLO PARK
+		STATE:			CA
+		ZIP:			94025
+		BUSINESS PHONE:		650-233-2102
+
+	MAIL ADDRESS:	
+		STREET 1:		2755 SAND HILL ROAD
+		STREET 2:		SUITE 150
+		CITY:			MENLO PARK
+		STATE:			CA
+		ZIP:			94025
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TriplePoint Global Venture Credit, LLC
+		DATE OF NAME CHANGE:	20191028
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>tm2022088d3_3.xml
+<DESCRIPTION>OWNERSHIP DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-06-09</periodOfReport>
+
+    <noSecuritiesOwned>1</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001792509</issuerCik>
+        <issuerName>TriplePoint Private Venture Credit Inc.</issuerName>
+        <issuerTradingSymbol>NONE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001798953</rptOwnerCik>
+            <rptOwnerName>Fornelli Cynthia M.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O TRIPLEPOINT PRIVATE VENTURE CREDIT</rptOwnerStreet1>
+            <rptOwnerStreet2>INC., 2755 SANDHILL ROAD, SUITE 150</rptOwnerStreet2>
+            <rptOwnerCity>MENLO PARK</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94025</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <remarks>Exhibit List: Exhibit 24 - Power of Attorney</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Cynthia M. Fornelli</signatureName>
+        <signatureDate>2020-06-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>tm2022088d3_ex24.htm
+<DESCRIPTION>EXHIBIT 24
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="text-align: right; margin: 0"><B>Exhibit 24</B></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>POWER OF ATTORNEY</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">Know all by these presents, that the undersigned
+hereby constitutes and appoints each of James P. Labe and Sajal K. Srivastava, signing singly, the undersigned&rsquo;s true and
+lawful attorney-in-fact to:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in">(1)</TD><TD>prepare, execute in the undersigned&rsquo;s name and on the undersigned&rsquo;s behalf, and submit to the U.S. Securities and
+Exchange Commission (the &ldquo;SEC&rdquo;) a Form ID, including amendments thereto, and any other documents necessary or appropriate
+to obtain codes and passwords enabling the undersigned to make electronic filings with the SEC of reports required by Section&nbsp;16(a)
+of the Securities Exchange Act of 1934 or any rule or regulation of the SEC;</TD></TR></TABLE>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in">(2)</TD><TD>execute for and on behalf of the undersigned, in the undersigned&rsquo;s capacity as an officer and/or director of
+                                                                 TriplePoint Private Venture Credit Inc. (the &ldquo;Company&rdquo;), Forms 3, 4, and 5 in accordance with Section 16(a) of
+                                                                 the Securities Exchange Act of 1934 and the rules thereunder, and any other forms or reports the undersigned may be required
+                                                                 to file in connection with the undersigned&rsquo;s ownership, acquisition, or disposition of securities of the Company;</TD></TR></TABLE>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in">(3)</TD><TD>do and perform any and all acts for and on behalf of the undersigned which may be necessary or desirable to complete and execute
+any such Form 3, 4, or 5, or other form or report, and timely file such form or report with the United States Securities and Exchange
+Commission and any stock exchange or similar authority; and</TD></TR></TABLE>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in">(4)</TD><TD>take any other action of any type whatsoever in connection with the foregoing which, in the opinion of such attorney-in-fact,
+may be of benefit to, in the best interest of, or legally required by, the undersigned, it being understood that the documents
+executed by such attorney-in-fact on behalf of the undersigned pursuant to this Power of Attorney shall be in such form and shall
+contain such terms and conditions as such attorney-in-fact may approve in such attorney-in-fact&rsquo;s discretion.</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The undersigned hereby grants to each such
+attorney-in-fact full power and authority to do and perform any and every act and thing whatsoever requisite, necessary, or proper
+to be done in the exercise of any of the rights and powers herein granted, as fully to all intents and purposes as the undersigned
+might or could do if personally present, with full power of substitution or revocation, hereby ratifying and confirming all that
+such attorney-in-fact, or such attorney-in-fact&rsquo;s substitute or substitutes, shall lawfully do or cause to be done by virtue
+of this power of attorney and the rights and powers herein granted. The undersigned acknowledges that the foregoing attorneys-in-fact,
+in serving in such capacity at the request of the undersigned, are not assuming, nor is the Company assuming, any of the undersigned&rsquo;s
+responsibilities to comply with Section 16 of the Securities Exchange Act of 1934.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">This Power of Attorney shall remain in full
+force and effect until the undersigned is no longer required to file Forms 3, 4, and 5 with respect to the undersigned&rsquo;s
+holdings of and transactions in securities issued by the Company, unless earlier revoked by the undersigned in a signed writing
+delivered to the foregoing attorneys-in-fact.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">IN WITNESS WHEREOF, the undersigned has
+caused this Power of Attorney to be executed as of this 9th day of June, 2020.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; width: 50%; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; padding: 0; width: 25%; text-indent: 0"><FONT STYLE="font-size: 10pt">/s/ Cynthia M. Fornelli</FONT></TD>
+    <TD STYLE="padding: 0; width: 25%; text-indent: 0">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0"><FONT STYLE="font-size: 10pt">Cynthia M. Fornelli</FONT></TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD></TR>
+</TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 247.5pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 247.5pt"></P>
+
+<!-- Field: Page; Sequence: 1; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="font-size: 10pt; text-align: center; margin-top: 0pt; margin-bottom: 0pt"></P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 247.5pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 247.5pt">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

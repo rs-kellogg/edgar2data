@@ -1,0 +1,284 @@
+<SEC-DOCUMENT>0001104659-20-047755.txt : 20200416
+<SEC-HEADER>0001104659-20-047755.hdr.sgml : 20200416
+<ACCEPTANCE-DATETIME>20200416185203
+ACCESSION NUMBER:		0001104659-20-047755
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20200401
+FILED AS OF DATE:		20200416
+DATE AS OF CHANGE:		20200416
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Lewis Catherine J
+		CENTRAL INDEX KEY:			0001809489
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36027
+		FILM NUMBER:		20797388
+
+	MAIL ADDRESS:	
+		STREET 1:		P.O. BOX 12326
+		STREET 2:		VORNA VALLEY
+		CITY:			JOHANNESBURG
+		STATE:			T3
+		ZIP:			1686
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MiX Telematics Ltd
+		CENTRAL INDEX KEY:			0001576914
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			T3
+		FISCAL YEAR END:			0331
+
+	BUSINESS ADDRESS:	
+		STREET 1:		PO BOX 12326
+		STREET 2:		VORNA VALLEY
+		CITY:			JOHANNESBURG
+		STATE:			T3
+		ZIP:			1686
+		BUSINESS PHONE:		27-11-654-8279
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 12326
+		STREET 2:		VORNA VALLEY
+		CITY:			JOHANNESBURG
+		STATE:			T3
+		ZIP:			1686
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>tm2015838-1_3.xml
+<DESCRIPTION>OWNERSHIP DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-04-01</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001576914</issuerCik>
+        <issuerName>MiX Telematics Ltd</issuerName>
+        <issuerTradingSymbol>MIXT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001809489</rptOwnerCik>
+            <rptOwnerName>Lewis Catherine J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>HOWICK CLOSE, WATERFALL PARK,</rptOwnerStreet1>
+            <rptOwnerStreet2>BEKKER ROAD</rptOwnerStreet2>
+            <rptOwnerCity>MIDRAND</rptOwnerCity>
+            <rptOwnerState>T3</rptOwnerState>
+            <rptOwnerZipCode>1686</rptOwnerZipCode>
+            <rptOwnerStateDescription>SOUTH AFRICA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Executive Vice President</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Ordinary shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1624500</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <remarks>Exhibit 24 - Power of Attorney.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Paul M. Dell, Attorney-in-Fact for Robin Frew, as trustee on behalf of the Masalini Trust</signatureName>
+        <signatureDate>2020-04-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>tm2015838d1_ex24.htm
+<DESCRIPTION>EXHIBIT 24
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="text-align: right; margin: 0"><B>Exhibit 24</B></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>LIMITED POWER OF ATTORNEY FOR</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SECTION 16 REPORTING OBLIGATIONS</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Know all by these presents, that the undersigned
+hereby makes, constitutes and appoints Paul M. Dell and/or John R. Granara III, and each of them, as the undersigned's true and
+lawful attorney-in-fact, with full power and authority as hereinafter described on behalf of and in the name, place and stead of
+the undersigned to:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in">(1)</TD><TD STYLE="text-align: justify">with respect to the equity securities of MiX Telematics Limited, a company incorporated with limited
+liability under the laws of the Republic of South Africa (the &quot;<B><I>Company</I></B>&quot;), prepare, execute, acknowledge,
+deliver and file with the United States Securities and Exchange Commission (the &ldquo;<B><I>SEC</I></B>&rdquo;), any national
+securities exchanges and the Company, (i) a Form ID, and any amendments thereto, Update Passphrase Confirmation, and any other
+documents necessary or appropriate to obtain codes and passwords enabling the undersigned to make electronic filings with the SEC,
+and (ii) any and all reports (including Forms 3, 4, and 5) and any amendments thereto, as considered necessary or advisable under
+Section 16(a) of the Securities Exchange Act of 1934 and the rules and regulations promulgated thereunder, as amended from time
+to time (the &quot;<B><I>Exchange Act</I></B>&quot;);</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in">(2)</TD><TD STYLE="text-align: justify">seek or obtain, as the undersigned's representative and on the undersigned's behalf, information
+regarding transactions in the Company's equity securities from any third party, including the Company and any brokers, dealers,
+employee benefit plan administrators and trustees, and the undersigned hereby authorizes any such person to release any such information
+to the undersigned and approves and ratifies any such release of information; and</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in">(3)</TD><TD STYLE="text-align: justify">perform any and all other acts which in the discretion of such attorney-in-fact are necessary or
+desirable for and on behalf of the undersigned in connection with the foregoing.</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The undersigned acknowledges that:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in">(1)</TD><TD STYLE="text-align: justify">this Power of Attorney authorizes, but does not require, such attorney-in-fact to act in his or
+her discretion on information provided to such attorney-in-fact without independent verification of such information;</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: justify">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in">(2)</TD><TD STYLE="text-align: justify">any documents prepared and/or executed by such attorney-in-fact on behalf of the undersigned pursuant
+to this Power of Attorney will be in such form and will contain such information and disclosure as such attorney-in-fact, in his
+or her discretion, deems necessary or desirable;</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in">(3)</TD><TD STYLE="text-align: justify">neither the Company nor such attorney-in-fact assumes (i) any liability for the undersigned's responsibility
+to comply with the requirements of Section 16 of the Exchange Act, (ii) any liability of the undersigned for any failure to comply
+with such requirements, or (iii) any obligation or liability of the undersigned for profit disgorgement under Section 16(b) of
+the Exchange Act; and</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in">(4)</TD><TD STYLE="text-align: justify">this Power of Attorney does not relieve the undersigned from responsibility for compliance with
+the undersigned's obligations under Section 16 of the Exchange Act, including without limitation the reporting requirements under
+Section 16 of the Exchange Act.</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The undersigned hereby gives and grants
+the foregoing attorneys-in-fact, and each of them, full power and authority to do and perform any and every act and thing whatsoever
+requisite, necessary or appropriate to be done in and about the foregoing matters as fully to all intents and purposes as the undersigned
+might or could do if present, with full power of substitution and re-substitution, hereby ratifying and confirming all that such
+attorney-in-fact, or his or her substitute or substitutes, shall lawfully do or cause to be done by authority of this Power of
+Attorney.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">This Power of Attorney shall remain in
+full force and effect until the undersigned is no longer required to file reports (including Forms 3, 4 and 5) under Section 16
+of the Exchange Act with respect to the undersigned&rsquo;s transactions in equity securities of the Company, unless earlier revoked
+by the undersigned in a signed writing delivered to such attorney-in-fact.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><I>[Signature page follows.]</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="font-variant: small-caps"><B>In
+Witness Whereof</B></FONT>, the undersigned has caused this Power of Attorney to be executed as of this 8<SUP>th</SUP> day of
+April, 2020.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 3.5in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 3.5in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 4.5in; text-align: left; text-indent: 0"><U>/s/ Catherine J. Lewis</U></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 4.5in; text-align: justify">Catherine J. Lewis</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 2; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+
+
+<P STYLE="margin: 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

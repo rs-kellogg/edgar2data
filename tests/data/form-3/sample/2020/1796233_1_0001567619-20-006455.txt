@@ -1,0 +1,175 @@
+<SEC-DOCUMENT>0001567619-20-006455.txt : 20200316
+<SEC-HEADER>0001567619-20-006455.hdr.sgml : 20200316
+<ACCEPTANCE-DATETIME>20200316174049
+ACCESSION NUMBER:		0001567619-20-006455
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20200306
+FILED AS OF DATE:		20200316
+DATE AS OF CHANGE:		20200316
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			LANG LINDA
+		CENTRAL INDEX KEY:			0001189960
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-23498
+		FILM NUMBER:		20718465
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O JACK IN THE BOX INC
+		STREET 2:		9330 BALVOA AVE
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92123
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Goldman Sachs Credit Income Fund
+		CENTRAL INDEX KEY:			0001796233
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 WEST STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10282
+		BUSINESS PHONE:		212-902-1000
+
+	MAIL ADDRESS:	
+		STREET 1:		200 WEST STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10282
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc1.xml
+<DESCRIPTION>FORM 3
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-03-06</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001796233</issuerCik>
+        <issuerName>Goldman Sachs Credit Income Fund</issuerName>
+        <issuerTradingSymbol>NONE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001189960</rptOwnerCik>
+            <rptOwnerName>LANG LINDA</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>200 WEST STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10282</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <officerTitle></officerTitle>
+            <otherText>Trustee</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Shares of Beneficial Interest</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes></footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jessica Moran, Attorney-in-fact</signatureName>
+        <signatureDate>2020-03-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.1
+<SEQUENCE>2
+<FILENAME>langgscifpoa.htm
+<DESCRIPTION>POWER OF ATTORNEY
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Dechert LLP
+         Document created using EDGARfilings PROfile 6.4.0.0
+         Copyright 1995 - 2020 Broadridge -->
+  </head>
+<body style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;" bgcolor="#ffffff">
+  <div>
+    <div style="text-align: center; line-height: 12.55pt; margin-bottom: 12pt; color: #000000; font-weight: bold;">POWER OF ATTORNEY</div>
+    <div style="line-height: 12.55pt; margin-bottom: 12pt; color: #000000;"><font style="font-weight: bold;">KNOW
+        ALL PERSONS BY THESE PRESENTS</font>, that the undersigned hereby constitutes and appoints each of James A. McNamara, Caroline L. Kraus, Robert Griffith, Julien Yoo, Judith Shandling, Jessica Moran, Lisa Nicosia, and Edward Meehan as the
+      undersigned&#8217;s true and lawful attorney-in-fact and agent with full power of substitution and resubstitution for such attorney-in-fact in such attorney-in-fact&#8217;s name, place, and stead, in any and all capacities, to</div>
+    <div style="margin-bottom: 12pt;"><font style="color: #000000;">1.</font><font style="text-indent: 0px; font-size: 5.66pt;" id="TRGRRTFtoHTMLTab">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font><font style="color: #000000;">execute for and on behalf of the undersigned, in the undersigned&#8217;s capacity as a reporting person pursuant to Section 16 of the Securities Exchange Act of 1934, as amended (the
+        &#8220;Exchange Act&#8221;), and the rules thereunder of Goldman Sachs Credit Income Fund and Goldman Sachs Real Estate Diversified Income Fund (the &#8220;Funds&#8221;), Forms 3, 4 and 5 in accordance with Section 16(a) of the Exchange Act;</font></div>
+    <div style="margin-bottom: 12pt;"><font style="color: #000000;">2.</font><font style="text-indent: 0px; font-size: 5.66pt;" id="TRGRRTFtoHTMLTab">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font><font style="color: #000000;">do and perform any and all acts for and on behalf of the undersigned that may be necessary or desirable to complete and execute any such Form 3, 4 or 5 and timely file such forms
+        with the United States Securities and Exchange Commission and stock exchange or similar authority, including without limitation, completing and filing an application for EDGAR codes (i.e., CIK and CCC codes); and</font></div>
+    <div style="margin-bottom: 12pt;"><font style="color: #000000;">3.</font><font style="text-indent: 0px; font-size: 5.66pt;" id="TRGRRTFtoHTMLTab">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font><font style="color: #000000;">take any other action of any type whatsoever in connection with the foregoing that, in the opinion of any of such attorneys-in-fact, may be of benefit to, in the best interest of,
+        or legally required by, the undersigned, it being understood that the documents executed by any of the such attorneys-in-fact on behalf of the undersigned pursuant to this Power of Attorney shall be in such form and shall contain such terms and
+        conditions as any of such attorneys-in-fact may approve in the discretion of any of such attorneys-in-fact.</font></div>
+    <div style="line-height: 12.55pt; margin-bottom: 12pt; color: #000000;">The undersigned hereby grants to each such attorney-in-fact full power and authority to do and
+      perform any and every act and thing whatsoever requisite, necessary, or proper to be done in the exercise of any rights and powers herein granted, as fully to all intents and purposes as the undersigned might or could do if personally present, with
+      full power of substitution or revocation, hereby ratifying and confirming all that any of such attorneys-in-fact, or the substitute or substitutes of any of such attorneys-in-fact, shall lawfully do or cause to be done by virtue of this Power of
+      Attorney and the rights and powers herein granted. The undersigned acknowledges that the foregoing attorneys-in-fact, in serving in such capacity at the request of the undersigned, are not assuming, nor are the Funds assuming, any of the
+      undersigned&#8217;s responsibilities to comply with Section 16 of the Exchange Act.</div>
+    <div style="line-height: 12.55pt; margin-bottom: 12pt; color: #000000;">This Power of Attorney shall remain in full force and effect until the undersigned is no longer
+      required to file Forms 3, 4 and 5 with respect to the undersigned&#8217;s holdings of and transactions in securities issued by the Funds, unless earlier revoked by the undersigned in a signed writing delivered to the foregoing attorneys-in-fact or until
+      such time as the person or persons to whom power of attorney has been hereby granted cease(s) to be an employee of The Goldman Sachs Group, Inc. or one of its affiliates.</div>
+    <div style="line-height: 12.55pt; margin-bottom: 18pt; color: #000000;">IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to be executed as of this 24<sup style="vertical-align: text-top; line-height: 1; font-size: smaller;">th</sup>
+      day of January, 2020.</div>
+    <div style="line-height: 12.55pt;"><font style="color: #000000;">Signature: <u>/s/ Linda A.
+            Lang</u><br>
+        </font><br style="line-height: 12.55pt;">
+    </div>
+    <div style="line-height: 12.55pt; color: #000000;">Name: Linda A. Lang</div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

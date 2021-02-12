@@ -1,0 +1,236 @@
+<SEC-DOCUMENT>0001708055-20-000146.txt : 20200625
+<SEC-HEADER>0001708055-20-000146.hdr.sgml : 20200625
+<ACCEPTANCE-DATETIME>20200625180657
+ACCESSION NUMBER:		0001708055-20-000146
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20200619
+FILED AS OF DATE:		20200625
+DATE AS OF CHANGE:		20200625
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SHANI SHAUL
+		CENTRAL INDEX KEY:			0000939974
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38267
+		FILM NUMBER:		20990374
+
+	MAIL ADDRESS:	
+		STREET 1:		4001 WEST PKWY
+		STREET 2:		C/O SAPIENS USA INC
+		CITY:			CURRY
+		STATE:			NC
+		ZIP:			27519
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ribbon Communications Inc.
+		CENTRAL INDEX KEY:			0001708055
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN [7373]
+		IRS NUMBER:				821669692
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4 TECHNOLOGY PARK DRIVE
+		CITY:			WESTFORD
+		STATE:			MA
+		ZIP:			01886
+		BUSINESS PHONE:		978-614-8090
+
+	MAIL ADDRESS:	
+		STREET 1:		4 TECHNOLOGY PARK DRIVE
+		CITY:			WESTFORD
+		STATE:			MA
+		ZIP:			01886
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Sonus Networks, Inc.
+		DATE OF NAME CHANGE:	20171027
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Solstice Sapphire Investments, Inc.
+		DATE OF NAME CHANGE:	20170531
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>edgar.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-06-19</periodOfReport>
+
+    <noSecuritiesOwned>1</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001708055</issuerCik>
+        <issuerName>Ribbon Communications Inc.</issuerName>
+        <issuerTradingSymbol>RBBN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000939974</rptOwnerCik>
+            <rptOwnerName>SHANI SHAUL</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O RIBBON COMMUNICATIONS INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>4 TECHNOLOGY PARK DRIVE</rptOwnerStreet2>
+            <rptOwnerCity>WESTFORD</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>01886</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <footnotes></footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Patrick Macken, Attorney-in-Fact</signatureName>
+        <signatureDate>2020-06-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>sec16poa_shanijun2020.htm
+<TEXT>
+<HTML><BODY><PRE>                                                                                   EXHIBIT 24
+
+
+
+                                     POWER OF ATTORNEY
+
+
+
+      Know all by these presents, that the undersigned hereby constitutes and appoints each
+
+of Patrick Macken and Bruce W. McClelland, signing singly, the undersigned's true and lawful
+
+attorney-in-fact to:
+
+
+
+(1) prepare, execute in the undersigned's name and on the undersigned's behalf, and submit to
+
+the U.S. Securities and Exchange Commission (the "SEC") a Form ID, including amendments thereto,
+
+and any other documents necessary or appropriate to obtain codes and passwords enabling the
+
+undersigned to make electronic filings with the SEC of reports required by Section 16(a) of the
+
+Securities Exchange Act of 1934 (the "Act") or any rule or regulation of the SEC;
+
+
+
+(2) execute for and on behalf of the undersigned, in the undersigned's capacity as a director
+
+of Ribbon Communications Inc. (the "Company"), Forms 3, 4, and 5 in accordance with Section
+
+16(a) of the Act and the rules thereunder, and any other forms or reports the undersigned may
+
+be required to file in connection with the undersigned's ownership, acquisition, or disposition
+
+of securities of the Company;
+
+
+
+(3) do and perform any and all acts for and on behalf of the undersigned which may be necessary
+
+or desirable to complete and execute any such Form 3, 4, or 5, or other form or report, and
+
+timely file such form or report with the SEC and any stock exchange or similar authority; and
+
+
+
+(4) take any other action of any type whatsoever in connection with the foregoing which, in the
+
+opinion of such attorney-in-fact, may be of benefit to, in the best interest of, or legally requ-
+
+ired by, the undersigned, it being understood that the documents executed by such attorney-in-fact
+
+on behalf of the undersigned pursuant to this Power of Attorney shall be in such form and shall
+
+contain such terms and conditions as such attorney-in-fact may approve in such attorney-in-fact's
+
+discretion.
+
+
+
+      The undersigned hereby grants to each such attorney-in-fact full power and authority to do
+
+and perform any and every act and thing whatsoever requisite, necessary, or proper to be done in
+
+the exercise of any of the rights and powers herein granted, as fully to all intents and purposes
+
+as the undersigned might or could do if personally present, with full power of substitution or
+
+revocation, hereby ratifying and confirming all that such attorney-in-fact, or such attorney-in-
+
+fact's substitute or substitutes, shall lawfully do or cause to be done by virtue of this power of
+
+attorney and the rights and powers herein granted. The undersigned acknowledges that the foregoing
+
+attorneys-in-fact, in serving in such capacity at the request of the undersigned, are not assuming,
+
+nor is the Company assuming, any of the undersigned's responsibilities to comply with Section 16 of
+
+the Act. This Power of Attorney shall remain in full force and effect until the undersigned is no
+
+longer required to file Forms 3, 4, and 5 with respect to the undersigned's holdings of and transac-
+
+tions in securities issued by the Company, unless earlier revoked by the undersigned in a signed
+
+writing delivered to the foregoing attorneys-in-fact.
+
+
+
+
+
+      IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to be executed as of
+
+this 9th day of June, 2020.
+
+
+
+
+
+/s/ Shaul Shani
+
+________________________________
+
+Shaul Shani
+
+
+
+
+
+</PRE></BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

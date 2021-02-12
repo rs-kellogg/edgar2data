@@ -1,0 +1,373 @@
+<SEC-DOCUMENT>0000902664-20-002410.txt : 20200615
+<SEC-HEADER>0000902664-20-002410.hdr.sgml : 20200615
+<ACCEPTANCE-DATETIME>20200615213614
+ACCESSION NUMBER:		0000902664-20-002410
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200615
+FILED AS OF DATE:		20200615
+DATE AS OF CHANGE:		20200615
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			ADAGE CAPITAL PARTNERS GP, L.L.C.
+		CENTRAL INDEX KEY:			0001165408
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39329
+		FILM NUMBER:		20964841
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 CLARENDON STREET
+		STREET 2:		52ND FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+		BUSINESS PHONE:		(617) 867-2800
+
+	MAIL ADDRESS:	
+		STREET 1:		200 CLARENDON STREET, 52ND FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	ADAGE CAPITAL PARTNERS GP LLC
+		DATE OF NAME CHANGE:	20020117
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Adage Capital Partners, L.P.
+		CENTRAL INDEX KEY:			0001163846
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39329
+		FILM NUMBER:		20964842
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 CLARENDON STREET, 52ND FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+		BUSINESS PHONE:		(617) 867-2800
+
+	MAIL ADDRESS:	
+		STREET 1:		200 CLARENDON STREET, 52ND FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	ADAGE CAPITAL  PARTNERS LP
+		DATE OF NAME CHANGE:	20011219
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Adage Capital Advisors, L.L.C.
+		CENTRAL INDEX KEY:			0001403403
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39329
+		FILM NUMBER:		20964843
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 CLARENDON STREET
+		STREET 2:		52ND FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+		BUSINESS PHONE:		617-867-2800
+
+	MAIL ADDRESS:	
+		STREET 1:		200 CLARENDON STREET
+		STREET 2:		52ND FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Atchinson Robert
+		CENTRAL INDEX KEY:			0001403404
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39329
+		FILM NUMBER:		20964844
+
+	MAIL ADDRESS:	
+		STREET 1:		200 CLARENDON STREET
+		STREET 2:		52ND FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Gross Phillip
+		CENTRAL INDEX KEY:			0001403413
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39329
+		FILM NUMBER:		20964845
+
+	MAIL ADDRESS:	
+		STREET 1:		200 CLARENDON STREET
+		STREET 2:		52ND FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Royalty Pharma plc
+		CENTRAL INDEX KEY:			0001802768
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			X0
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		110 EAST 59TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		(212) 883-0200
+
+	MAIL ADDRESS:	
+		STREET 1:		110 EAST 59TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-06-15</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001802768</issuerCik>
+        <issuerName>Royalty Pharma plc</issuerName>
+        <issuerTradingSymbol>RPRX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001165408</rptOwnerCik>
+            <rptOwnerName>ADAGE CAPITAL PARTNERS GP, L.L.C.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>200 CLARENDON STREET, 52ND FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BOSTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02116</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001163846</rptOwnerCik>
+            <rptOwnerName>Adage Capital Partners, L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>200 CLARENDON STREET, 52ND FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BOSTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02116</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001403403</rptOwnerCik>
+            <rptOwnerName>Adage Capital Advisors, L.L.C.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>200 CLARENDON STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>52ND FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>BOSTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02116</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001403404</rptOwnerCik>
+            <rptOwnerName>Atchinson Robert</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>200 CLARENDON STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>52ND FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>BOSTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02116</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001403413</rptOwnerCik>
+            <rptOwnerName>Gross Phillip</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>200 CLARENDON STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>52ND FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>BOSTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02116</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>LP interests in RPI International Holdings 2019, LP</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Ordinary Shares</value>
+                    <footnoteId id="F3"/>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>46370460</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents limited partnership interests (the &quot;RPI Intl. LP Interests&quot;) in RPI International Holdings 2019, LP (&quot;Holdings&quot;). Each RPI Intl. LP Interest can be exchanged for ten Class B Interests in Holdings at any time and for no additional value, which exchange right does not expire until so converted. Each Class B Interest in Holdings issued in exchange for a RPI US LP Interest will be exchanged upon such exchange for one Class A Ordinary Share (as defined in footnote (3)) of the Issuer for no additional value.</footnote>
+        <footnote id="F2">Includes RPI Intl. LP Interests convertible into 3,355,130 Class A Ordinary Shares that are subject to forfeiture if and when the Class A Ordinary Shares attain a 20-trading day volume weighted average price of $32.30 or more after December 15, 2020 and on or before December 15, 2023. The amount of this forfeiture scales linearly from 0% at $20.51 per share to 100% at $32.30 per share.</footnote>
+        <footnote id="F3">Class A Ordinary Shares, par value $0.0001 per share, of the Issuer (the &quot;Class A Ordinary Shares&quot;).</footnote>
+        <footnote id="F4">The securities to which this filing relates are held directly by Adage Capital Partners, L.P., a Delaware limited partnership (the &quot;Fund&quot;). Adage Capital Partners GP, L.L.C., a Delaware limited liability company (&quot;ACPGP&quot;), serves as the general partner of the Fund and as such has discretion over the portfolio securities beneficially owned by the Fund. Adage Capital Advisors, L.L.C., a Delaware limited liability company (&quot;ACA&quot;), is the managing member of ACPGP and directs ACPGP's operations. Robert Atchinson and Phillip Gross are the managing members of ACPGP and ACA and general partners of the Fund. Each of the reporting persons disclaims beneficial ownership of the securities reported herein for purposes of Section 16 of the Securities and Exchange Act of 1934, as amended, except as to such extent of such reporting person's pecuniary interest in the securities.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Robert Atchinson</signatureName>
+        <signatureDate>2020-06-15</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>/s/ Adage Capital Partners, L.P.; By its general partner Adage Capital Partners GP, L.L.C.; By its managing member Adage Capital Advisors, L.L.C.; By its managing member Robert Atchinson</signatureName>
+        <signatureDate>2020-06-15</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>/s/ Adage Capital Partners GP, L.L.C.; By its managing member Adage Capital Advisors, L.L.C.; By its managing member Robert Atchinson</signatureName>
+        <signatureDate>2020-06-15</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>/s/ Adage Capital Advisors, L.L.C.; By its managing member Robert Atchinson</signatureName>
+        <signatureDate>2020-06-15</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>/s/ Phillip Gross</signatureName>
+        <signatureDate>2020-06-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

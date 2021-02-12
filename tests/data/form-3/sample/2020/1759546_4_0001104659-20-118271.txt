@@ -1,0 +1,111 @@
+<SEC-DOCUMENT>0001104659-20-118271.txt : 20201026
+<SEC-HEADER>0001104659-20-118271.hdr.sgml : 20201026
+<ACCEPTANCE-DATETIME>20201026201653
+ACCESSION NUMBER:		0001104659-20-118271
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20201023
+FILED AS OF DATE:		20201026
+DATE AS OF CHANGE:		20201026
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Canepa Thomas Vincent
+		CENTRAL INDEX KEY:			0001520723
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38821
+		FILM NUMBER:		201261806
+
+	MAIL ADDRESS:	
+		STREET 1:		1332 NORTH HALSTED STREET
+		STREET 2:		SUITE 100
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60642
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Lordstown Motors Corp.
+		CENTRAL INDEX KEY:			0001759546
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLES & PASSENGER CAR BODIES [3711]
+		IRS NUMBER:				832533239
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2300 HALLOCK YOUNG ROAD
+		CITY:			LORDSTOWN
+		STATE:			OH
+		ZIP:			44481
+		BUSINESS PHONE:		234-285-4001
+
+	MAIL ADDRESS:	
+		STREET 1:		2300 HALLOCK YOUNG ROAD
+		CITY:			LORDSTOWN
+		STATE:			OH
+		ZIP:			44481
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DiamondPeak Holdings Corp.
+		DATE OF NAME CHANGE:	20181120
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>a3.xml
+<DESCRIPTION>3
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-10-23</periodOfReport>
+
+    <noSecuritiesOwned>1</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001759546</issuerCik>
+        <issuerName>Lordstown Motors Corp.</issuerName>
+        <issuerTradingSymbol>RIDE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001520723</rptOwnerCik>
+            <rptOwnerName>Canepa Thomas Vincent</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O LORDSTOWN MOTORS CORP.</rptOwnerStreet1>
+            <rptOwnerStreet2>2300 HALLOCK YOUNG ROAD</rptOwnerStreet2>
+            <rptOwnerCity>LORDSTOWN</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>44481</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>General Counsel and Corp Sec</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <ownerSignature>
+        <signatureName>/s/ Thomas V. Canepa</signatureName>
+        <signatureDate>2020-10-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

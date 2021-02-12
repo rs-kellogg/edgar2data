@@ -1,0 +1,231 @@
+<SEC-DOCUMENT>0001213900-20-017491.txt : 20200714
+<SEC-HEADER>0001213900-20-017491.hdr.sgml : 20200714
+<ACCEPTANCE-DATETIME>20200714213005
+ACCESSION NUMBER:		0001213900-20-017491
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20200714
+FILED AS OF DATE:		20200714
+DATE AS OF CHANGE:		20200714
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			LANGHAMMER FRED
+		CENTRAL INDEX KEY:			0001014138
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39384
+		FILM NUMBER:		201028164
+
+	MAIL ADDRESS:	
+		STREET 1:		767 FIFTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10153
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			D8 Holdings Corp.
+		CENTRAL INDEX KEY:			0001812173
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10/F, CHAMPION TOWER
+		STREET 2:		3 GARDEN ROAD
+		CITY:			CENTRAL
+		STATE:			K3
+		ZIP:			00000
+		BUSINESS PHONE:		852 3973 5500
+
+	MAIL ADDRESS:	
+		STREET 1:		10/F, CHAMPION TOWER
+		STREET 2:		3 GARDEN ROAD
+		CITY:			CENTRAL
+		STATE:			K3
+		ZIP:			00000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-07-14</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001812173</issuerCik>
+        <issuerName>D8 Holdings Corp.</issuerName>
+        <issuerTradingSymbol>DEH</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001014138</rptOwnerCik>
+            <rptOwnerName>LANGHAMMER FRED</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O D8 HOLDINGS CORP. UNIT 1008, 10/F,</rptOwnerStreet1>
+            <rptOwnerStreet2>CHAMPION TOWER, 3 GARDEN ROAD</rptOwnerStreet2>
+            <rptOwnerCity>CENTRAL</rptOwnerCity>
+            <rptOwnerState>K3</rptOwnerState>
+            <rptOwnerZipCode>00000</rptOwnerZipCode>
+            <rptOwnerStateDescription>HONG KONG</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Class B Ordinary Shares</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>25000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The reporting person owns 25,000 Class B Ordinary Shares which are convertible into Class A Ordinary Shares as described under the heading &quot;Description of Securities-Founder Shares&quot; in the Issuer's registration statement on Form S-1 (File No. 333-239503) and have no expiration date.</footnote>
+    </footnotes>
+
+    <remarks>See Exhibit 24.1 - Power of Attorney.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Daniel Nussen, Attorney-in-Fact</signatureName>
+        <signatureDate>2020-07-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.1
+<SEQUENCE>2
+<FILENAME>ea124165ex24-1_d8holdings.htm
+<DESCRIPTION>POWER OF ATTORNEY
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right"><B>Exhibit 24.1</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>POWER
+OF ATTORNEY</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+undersigned constitutes and appoints Joel Rubinstein, Daniel Nussen, Sarah Ross, Audrey Bae, Veronique Laverdure and Mary Ann
+Casey, or any of them acting singly, as the undersigned&rsquo;s true and lawful attorneys-in-fact and agents, with full power
+of substitution and resubstitution, for the undersigned and in the undersigned&rsquo;s name, place and stead, to:</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">1.
+prepare, sign, and submit to the Securities and Exchange Commission (the &ldquo;<U>SEC</U>&rdquo;) on its Electronic Data
+Gathering, Analysis, and Retrieval (&ldquo;<U>EDGAR</U>&rdquo;) Filer Management website a Form ID application, including any
+amendments and exhibits thereto, and any other related documents as may be necessary or appropriate, to obtain from the SEC
+access codes to permit filing on the SEC&rsquo;s EDGAR system, granting unto said attorneys-in-fact and agents, and each of
+them, full power and authority to do and perform each act and thing requisite and necessary to be done as required by any
+rule or regulation of the SEC and the EDGAR Filer Manual as fully and to all intents and purposes as the undersigned might or
+could do in person, hereby ratifying and confirming all that said attorneys-in-fact and agents, and each of them, may
+lawfully do or cause to be done by virtue hereof; and</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">2.&nbsp;sign
+any and all SEC statements of beneficial ownership of securities of D8 Holdings Corp. (the &ldquo;<U>Company</U>&rdquo;) on Schedule
+13D as required under Section 13 and Forms 3, 4 and 5 as required under Section 16(a) of the Securities Exchange Act of 1934,
+as amended, and any amendments thereto, and to file the same with all exhibits thereto, and other documents in connection therewith,
+with the SEC, the Company and any stock exchange on which any of the Company&rsquo;s securities are listed, granting unto said
+attorneys-in-fact and agents, and each of them, full power and authority to do and perform each act and thing requisite and necessary
+to be done under said Section 13 and Section 16(a), as fully and to all intents and purposes as the undersigned might or could
+do in person, hereby ratifying and confirming all that said attorneys-in-fact and agents, and each of them, may lawfully do or
+cause to be done by virtue hereof.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">A
+copy of this power of attorney shall be filed with the SEC.&nbsp;The authorization set forth above shall continue in full
+force and effect until the undersigned revokes such authorization by written instructions to the attorneys-in-fact.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+authority granted hereby shall in no event be deemed to impose or create any duty on behalf of the attorneys-in-fact with respect
+to the undersigned&rsquo;s obligations to file a Form ID, Schedule 13Ds and Forms 3, 4 and 5 with the SEC.&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Dated:&nbsp;June
+16, 2020</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 2in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 60%; font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; width: 40%; font-size: 10pt"><FONT STYLE="font-size: 10pt">/s/ Fred Langhammer</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt"><FONT STYLE="font-size: 10pt">Fred Langhammer</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 2in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 3.75in; text-indent: 0.25in"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

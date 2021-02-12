@@ -1,0 +1,260 @@
+<SEC-DOCUMENT>0000899243-20-003319.txt : 20200205
+<SEC-HEADER>0000899243-20-003319.hdr.sgml : 20200205
+<ACCEPTANCE-DATETIME>20200205173923
+ACCESSION NUMBER:		0000899243-20-003319
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20200205
+FILED AS OF DATE:		20200205
+DATE AS OF CHANGE:		20200205
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SIMMONS DAVID S
+		CENTRAL INDEX KEY:			0001508519
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39212
+		FILM NUMBER:		20579969
+
+	MAIL ADDRESS:	
+		STREET 1:		PFIZER INC. ATTN. CORP. SECRETARY
+		STREET 2:		235 EAST 42ND STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PPD, Inc.
+		CENTRAL INDEX KEY:			0001793294
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMMERCIAL PHYSICAL & BIOLOGICAL RESEARCH [8731]
+		IRS NUMBER:				453806427
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		929 NORTH FRONT STREET
+		CITY:			WILMINGTON
+		STATE:			NC
+		ZIP:			28401-3331
+		BUSINESS PHONE:		910 251 0081
+
+	MAIL ADDRESS:	
+		STREET 1:		929 NORTH FRONT STREET
+		CITY:			WILMINGTON
+		STATE:			NC
+		ZIP:			28401-3331
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc3.xml
+<DESCRIPTION>FORM 3 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-02-05</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001793294</issuerCik>
+        <issuerName>PPD, Inc.</issuerName>
+        <issuerTradingSymbol>PPD</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001508519</rptOwnerCik>
+            <rptOwnerName>SIMMONS DAVID S</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O PPD, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>929 NORTH FRONT STREET</rptOwnerStreet2>
+            <rptOwnerCity>WILMINGTON</rptOwnerCity>
+            <rptOwnerState>NC</rptOwnerState>
+            <rptOwnerZipCode>28401</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Non-voting common stock</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>867759</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F2"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Non-voting common stock</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>603000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Family Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Stock Options (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>15.05</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2027-05-11</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Non-voting common stock</value>
+                    <footnoteId id="F1"/>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2318799</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Stock Options (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>10.59</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2027-05-11</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Non-voting common stock</value>
+                    <footnoteId id="F1"/>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>996824</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Upon the completion of the initial public offering of PPD, Inc. (the &quot;Issuer&quot;), all shares of the Issuer's non-voting common stock will be automatically converted into shares of the Issuer's voting common stock on a one-for-one basis.</footnote>
+        <footnote id="F2">Includes shares owned by the David S. Simmons Revocable Trust.</footnote>
+        <footnote id="F3">Of these stock options, 1,156,316 stock options are unvested and will vest in equal annual installments on May 11, 2020, May 11, 2021 and May 11, 2022.</footnote>
+        <footnote id="F4">Represents unvested stock options which are eligible to vest upon the achievement of certain return on capital or rate of return conditions three years after the initial public offering of the Issuer or earlier, upon certain sales by significant stockholders. Does not include an additional 1,175,589 stock options with an exercise price of $10.59 which are eligible to vest upon the achievement of certain EBITDA-based vesting conditions for fiscal years 2019-2021.</footnote>
+    </footnotes>
+
+    <remarks>Exhibit List: Exhibit 24 - Power of Attorney
+Pursuant to Rule 16a-1(a)(4) under the Securities Exchange Act of 1934, as amended, the Reporting Person states that this filing shall not be an admission that the Reporting Person is the beneficial owner of any of the securities reported herein as indirectly held,  and the Reporting Person disclaims beneficial ownership of such securities except to the extent of the Reporting Person's pecuniary interest therein.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ B. Judd Hartman, as Attorney-in-Fact</signatureName>
+        <signatureDate>2020-02-05</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>attachment1.htm
+<DESCRIPTION>EX-24 DOCUMENT
+<TEXT>
+<HTML>
+<HEAD>
+</HEAD>
+<BODY>
+<PRE>
+                                                                      Exhibit 24
+
+                               Power of Attorney
+
+Know all by these presents that the undersigned does hereby make, constitute and
+appoint each of B. Judd Hartman, Julia James and Richard Whitlow, or any one of
+them, as a true and lawful attorney-in-fact of the undersigned with full powers
+of substitution and revocation, for and in the name, place and stead of the
+undersigned (in the undersigned's individual capacity), to execute and deliver
+such forms that the undersigned may be required to file with the U.S. Securities
+and Exchange Commission as a result of the undersigned's ownership of or
+transactions in securities of PPD, Inc. (i) pursuant to Section 16(a) of the
+Securities Exchange Act of 1934, as amended, including without limitation,
+statements on Form 3, Form 4 and Form 5 (including any amendments thereto) and
+(ii) in connection with any applications for EDGAR access codes, including
+without limitation the Form ID or applications for replacement access codes. The
+Power of Attorney shall remain in full force and effect until the undersigned is
+no longer required to file Forms 3, 4 and 5 with regard to his or her ownership
+of or transactions in securities of PPD, Inc., unless earlier revoked in
+writing. The undersigned acknowledges that B. Judd Hartman, Julia James and
+Richard Whitlow are not assuming any of the undersigned's responsibilities to
+comply with Section 16 of the Securities Exchange Act of 1934, as amended.
+
+                                        /s/ David S. Simmons
+                                        --------------------
+                                        David S. Simmons
+
+Date: January 24, 2020
+
+</PRE>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

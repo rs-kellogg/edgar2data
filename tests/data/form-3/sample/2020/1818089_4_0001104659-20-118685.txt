@@ -1,0 +1,151 @@
+<SEC-DOCUMENT>0001104659-20-118685.txt : 20201027
+<SEC-HEADER>0001104659-20-118685.hdr.sgml : 20201027
+<ACCEPTANCE-DATETIME>20201027213654
+ACCESSION NUMBER:		0001104659-20-118685
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20201027
+FILED AS OF DATE:		20201027
+DATE AS OF CHANGE:		20201027
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			WILDER C JOHN
+		CENTRAL INDEX KEY:			0001077495
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39666
+		FILM NUMBER:		201265920
+
+	MAIL ADDRESS:	
+		STREET 1:		ENTERGY CORP
+		STREET 2:		639 LOYOLA AVENUE
+		CITY:			NEW ORLEANS
+		STATE:			LA
+		ZIP:			70113
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bluescape Opportunities Acquisition Corp.
+		CENTRAL INDEX KEY:			0001818089
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 CRESCENT COURT, SUITE 1900
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+		BUSINESS PHONE:		469-398-2200
+
+	MAIL ADDRESS:	
+		STREET 1:		200 CRESCENT COURT, SUITE 1900
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>a3.xml
+<DESCRIPTION>3
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-10-27</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001818089</issuerCik>
+        <issuerName>Bluescape Opportunities Acquisition Corp.</issuerName>
+        <issuerTradingSymbol>BOAC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001077495</rptOwnerCik>
+            <rptOwnerName>WILDER C JOHN</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O BLUESCAPE OPPORTUNITIES ACQUISITION</rptOwnerStreet1>
+            <rptOwnerStreet2>CORP. 200 CRESCENT COURT, 19TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>DALLAS</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75201</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chairman &amp; CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Class B ordinary shares</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A ordinary shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>16486250</value>
+                    <footnoteId id="F2"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                    <footnoteId id="F3"/>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Bluescape Sponsor LLC</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">As described in the issuer's registration statement on Form S-1 (File No. 333-248551) under the heading &quot;Description of Securities--Founder Shares&quot;, the Class B ordinary shares, par value $0.0001 per share, will automatically convert into Class A ordinary shares, par value $0.0001 per share, of the issuer at the time of the issuer's initial business combination, or earlier at the option of the holder, on a one-for-one basis, subject to adjustment for share splits, share capitalizations, reorganizations, recapitalizations and the like, and certain anti-dilution rights and have no expiration date.</footnote>
+        <footnote id="F2">The Class B ordinary shares beneficially owned by the reporting person include up to 2,156,250 shares that are subject to forfeiture to the extent the underwriters of the initial public offering of the issuer's securities do not exercise in full their over-allotment option as described in the issuer's registration statement.</footnote>
+        <footnote id="F3">The securities reported herein are held by Bluescape Sponsor LLC (the &quot;Sponsor&quot;). The reporting person controls the Sponsor, and as such has voting and investment discretion with respect to the securities held by the the Sponsor and may be deemed to have beneficial ownership of the securities held directly by the Sponsor. The reporting person disclaims beneficial ownership of these securities except to the extent of his pecuniary interest therein, and the inclusion of these securities in this report shall not be deemed an admission of beneficial ownership of all of the reported securities for purposes of Section 16 or for any other purpose.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ C. John Wilder</signatureName>
+        <signatureDate>2020-10-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,171 @@
+<SEC-DOCUMENT>0000899243-20-029454.txt : 20201028
+<SEC-HEADER>0000899243-20-029454.hdr.sgml : 20201028
+<ACCEPTANCE-DATETIME>20201028135126
+ACCESSION NUMBER:		0000899243-20-029454
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20201028
+FILED AS OF DATE:		20201028
+DATE AS OF CHANGE:		20201028
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Moyer Jennifer L
+		CENTRAL INDEX KEY:			0001830121
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39671
+		FILM NUMBER:		201267583
+
+	MAIL ADDRESS:	
+		STREET 1:		700 SOUTH FLOWER STREET
+		STREET 2:		SUITE 640
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90017
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MediaAlpha, Inc.
+		CENTRAL INDEX KEY:			0001818383
+		STANDARD INDUSTRIAL CLASSIFICATION:	INSURANCE CARRIERS, NEC [6399]
+		IRS NUMBER:				851854133
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		700 SOUTH FLOWER STREET
+		STREET 2:		SUITE 640
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90017
+		BUSINESS PHONE:		619-393-9368
+
+	MAIL ADDRESS:	
+		STREET 1:		700 SOUTH FLOWER STREET
+		STREET 2:		SUITE 640
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90017
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc3.xml
+<DESCRIPTION>FORM 3 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-10-28</periodOfReport>
+
+    <noSecuritiesOwned>1</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001818383</issuerCik>
+        <issuerName>MediaAlpha, Inc.</issuerName>
+        <issuerTradingSymbol>MAX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001830121</rptOwnerCik>
+            <rptOwnerName>Moyer Jennifer L</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O MEDIAALPHA, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>700 SOUTH FLOWER STREET, SUITE 640</rptOwnerStreet2>
+            <rptOwnerCity>LOS ANGELES</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>90017</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <footnotes></footnotes>
+
+    <remarks>Exhibit 24 - Power of Attorney</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Lance Martinez, attorney-in-fact for Moyer Jennifer L.</signatureName>
+        <signatureDate>2020-10-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>attachment1.htm
+<DESCRIPTION>EX-24 DOCUMENT
+<TEXT>
+<HTML>
+<HEAD>
+</HEAD>
+<BODY>
+<PRE>
+                               POWER OF ATTORNEY
+
+The undersigned hereby appoints each of Lance Martinez and Tigran Sinanyan,
+signing singly, his or her true and lawful attorney-in-fact to:
+
+        1.    apply for and obtain on behalf of the undersigned the necessary
+              access codes to file Forms 3, 4, 5 and 144, pursuant to Section
+              16(a) of the Securities Exchange Act of 1934 and Rule 144 of the
+              Securities Act of 1933, respectively, electronically via the EDGAR
+              system pursuant to Regulation S-T and the rules thereunder, and
+
+        2.    act in a filing agent capacity to perform any and all acts for and
+              on behalf of the undersigned which may be necessary to complete
+              the filing of any such Form 3, 4, 5 and 144 with the U.S.
+              Securities and Exchange Commission and any other authority in
+              accordance with Section 16(a) of the Securities Exchange Act of
+              1934 and the rules thereunder and Rule 144 of the Securities Act
+              of 1933.
+
+The undersigned hereby grants to each attorney-in-fact the full power and
+authority, for the undersigned and on behalf of the undersigned, to perform all
+acts necessary and proper to be done in the exercise of the rights and powers
+hereby granted.
+
+The undersigned acknowledges that the foregoing individuals are acting under
+this Power of Attorney at the request of the undersigned and are not assuming
+any of the undersigned's responsibilities to comply with Section 16 of the
+Securities Exchange Act of 1934 or Rule 144 of the Securities Act of 1933.
+
+Each attorney-in-fact shall be authorized to act under this Power of Attorney
+only so long as such attorney-in-fact is an employee of MediaAlpha, Inc. or
+until such time as this Power of Attorney has been revoked, annulled or set
+aside.
+
+IN WITNESS WHEREOF, the undersigned has executed this Power of Attorney as of
+this 16th day of October, 2020.
+
+
+                                        /s/ Jennifer L. Moyer
+                                        ----------------------------------------
+
+                                        Name: Jennifer L. Moyer
+
+</PRE>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

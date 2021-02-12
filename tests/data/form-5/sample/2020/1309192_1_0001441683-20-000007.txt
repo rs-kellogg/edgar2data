@@ -1,0 +1,243 @@
+<SEC-DOCUMENT>0001441683-20-000007.txt : 20200214
+<SEC-HEADER>0001441683-20-000007.hdr.sgml : 20200214
+<ACCEPTANCE-DATETIME>20200214124241
+ACCESSION NUMBER:		0001441683-20-000007
+CONFORMED SUBMISSION TYPE:	5
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20191231
+FILED AS OF DATE:		20200214
+DATE AS OF CHANGE:		20200214
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Calkins Matthew W
+		CENTRAL INDEX KEY:			0001309192
+
+	FILING VALUES:
+		FORM TYPE:		5
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38098
+		FILM NUMBER:		20616959
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O MICROSTRATEGY INCORPORATED
+		STREET 2:		1850 TOWERS CRESCENT PLAZA
+		CITY:			VIENNA
+		STATE:			VA
+		ZIP:			22182
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APPIAN CORP
+		CENTRAL INDEX KEY:			0001441683
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				541956084
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7950 JONES BRANCH DRIVE
+		CITY:			TYSONS
+		STATE:			VA
+		ZIP:			22102
+		BUSINESS PHONE:		703-442-8844
+
+	MAIL ADDRESS:	
+		STREET 1:		7950 JONES BRANCH DRIVE
+		CITY:			TYSONS
+		STATE:			VA
+		ZIP:			22102
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>5
+<SEQUENCE>1
+<FILENAME>wf-form5_158170214454432.xml
+<DESCRIPTION>FORM 5
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>5</documentType>
+
+    <periodOfReport>2019-12-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <form3HoldingsReported>0</form3HoldingsReported>
+
+    <form4TransactionsReported>0</form4TransactionsReported>
+
+    <issuer>
+        <issuerCik>0001441683</issuerCik>
+        <issuerName>APPIAN CORP</issuerName>
+        <issuerTradingSymbol>APPN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001309192</rptOwnerCik>
+            <rptOwnerName>Calkins Matthew W</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>7950 JONES BRANCH DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>TYSONS</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>22102</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CEO and President</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Class B Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>20899710.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>20899710</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Class B Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>6941070.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6941070</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Class B Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>33832.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>33832</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each share of Class B Common Stock is convertible at any time at the option of the holder into one share of Class A Common Stock and has no expiration date. In addition, each share of Class B Common Stock will convert automatically into one share of Class A Common Stock upon (1) any transfer, whether or not for value and whether voluntary or involuntary or by operation of law, except for certain transfers described in the Issuer's certificate of incorporation, including, without limitation, certain transfers for tax and estate planning purposes or (continued to Footnote (2))</footnote>
+        <footnote id="F2">(continued from Footnote (1)) (2) the death or disability, as defined in the Issuer's certificate of incorporation, of the applicable Class B common stockholder (or nine months after the date of death or disability if the stockholder is one of the Issuer's founders). In addition, on the first trading day following the date on which the outstanding shares of Class B Common Stock represent less than 10% of the aggregate voting power of the Issuer's then outstanding capital stock, all outstanding shares of Class B Common Stock shall convert automatically into Class A Common Stock, and no additional shares of Class B Common Stock will be issued.</footnote>
+        <footnote id="F3">The reportable securities are owned directly by Calkins Family LLC (&quot;Family&quot;). The Reporting Person serves as the managing member of Family.</footnote>
+        <footnote id="F4">The reportable securities are owned directly by Wallingford LLC (&quot;Wallingford&quot;). The Reporting Person serves as the managing member of Wallingford.</footnote>
+        <footnote id="F5">The reportable securities are owned directly by Matthew Calkins Family Trust I LLC (&quot;Family Trust&quot;). The Reporting Person's family member is the trustee of Family Trust.  The Reporting Person disclaims beneficial ownership of the securities held by Family Trust and this report shall not be deemed an admission of beneficial ownership of such securities for the purposes of Section 16 or for any other purpose, except to the extent of any pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Angela Patterson, Attorney-in-Fact</signatureName>
+        <signatureDate>2020-02-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

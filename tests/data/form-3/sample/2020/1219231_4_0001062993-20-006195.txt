@@ -1,0 +1,994 @@
+<SEC-DOCUMENT>0001062993-20-006195.txt : 20201209
+<SEC-HEADER>0001062993-20-006195.hdr.sgml : 20201209
+<ACCEPTANCE-DATETIME>20201209210942
+ACCESSION NUMBER:		0001062993-20-006195
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20201209
+FILED AS OF DATE:		20201209
+DATE AS OF CHANGE:		20201209
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SC US (TTGP), LTD.
+		CENTRAL INDEX KEY:			0001607841
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39778
+		FILM NUMBER:		201379225
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2800 SAND HILL RD, SUITE 101
+		CITY:			MENLO PARK
+		STATE:			CA
+		ZIP:			94025
+		BUSINESS PHONE:		650-854-3927
+
+	MAIL ADDRESS:	
+		STREET 1:		2800 SAND HILL RD, SUITE 101
+		CITY:			MENLO PARK
+		STATE:			CA
+		ZIP:			94025
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SC XII MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001374246
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39778
+		FILM NUMBER:		201379226
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2800 SAND HILL RD, SUITE 101
+		CITY:			MENLO PARK
+		STATE:			CA
+		ZIP:			94025
+		BUSINESS PHONE:		650 854-3927
+
+	MAIL ADDRESS:	
+		STREET 1:		2800 SAND HILL RD, SUITE 101
+		CITY:			MENLO PARK
+		STATE:			CA
+		ZIP:			94025
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SEQUOIA CAPITAL XII A DELAWARE L P
+		CENTRAL INDEX KEY:			0001367770
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39778
+		FILM NUMBER:		201379227
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O SEQUOIA CAPITAL
+		STREET 2:		2800 SAND HILL RD, SUITE 101
+		CITY:			MENLO PARK
+		STATE:			CA
+		ZIP:			94025
+		BUSINESS PHONE:		650-854-3927
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O SEQUOIA CAPITAL
+		STREET 2:		2800 SAND HILL RD, SUITE 101
+		CITY:			MENLO PARK
+		STATE:			CA
+		ZIP:			94025
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SEQUOIA TECHNOLOGY PARTNERS XII A DELAWARE L P
+		CENTRAL INDEX KEY:			0001380096
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39778
+		FILM NUMBER:		201379228
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2800 SAND HILL RD, SUITE 101
+		CITY:			MENLO PARK
+		STATE:			CA
+		ZIP:			94025
+		BUSINESS PHONE:		650-854-3927
+
+	MAIL ADDRESS:	
+		STREET 1:		2800 SAND HILL RD, SUITE 101
+		CITY:			MENLO PARK
+		STATE:			CA
+		ZIP:			94025
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SEQUOIA CAPITAL XII PRINCIPALS FUND LLC
+		CENTRAL INDEX KEY:			0001447932
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39778
+		FILM NUMBER:		201379229
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2800 SAND HILL RD, SUITE 101
+		CITY:			MENLO PARK
+		STATE:			CA
+		ZIP:			94025
+		BUSINESS PHONE:		650-854-3927
+
+	MAIL ADDRESS:	
+		STREET 1:		2800 SAND HILL RD, SUITE 101
+		CITY:			MENLO PARK
+		STATE:			CA
+		ZIP:			94025
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			LEONE DOUGLAS M
+		CENTRAL INDEX KEY:			0001195580
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39778
+		FILM NUMBER:		201379230
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O SEQUOIA CAPITAL
+		STREET 2:		2800 SAND HILL RD, SUITE 101
+		CITY:			MENLO PARK
+		STATE:			CA
+		ZIP:			94025
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BOTHA ROELOF
+		CENTRAL INDEX KEY:			0001222287
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39778
+		FILM NUMBER:		201379231
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O SEQUOIA CAPITAL
+		STREET 2:		2800 SAND HILL RD, SUITE 101
+		CITY:			MENLO PARK
+		STATE:			CA
+		ZIP:			94025
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SCGF V Management, L.P.
+		CENTRAL INDEX KEY:			0001552459
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39778
+		FILM NUMBER:		201379232
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2800 SAND HILL RD, SUITE 101
+		CITY:			MENLO PARK
+		STATE:			CA
+		ZIP:			94025
+		BUSINESS PHONE:		650-854-3927
+
+	MAIL ADDRESS:	
+		STREET 1:		2800 SAND HILL RD, SUITE 101
+		CITY:			MENLO PARK
+		STATE:			CA
+		ZIP:			94025
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			GOETZ JAMES J
+		CENTRAL INDEX KEY:			0001219231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39778
+		FILM NUMBER:		201379233
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O SEQUOIA CAPITAL
+		STREET 2:		2800 SAND HILL RD, SUITE 101
+		CITY:			MENLO PARK
+		STATE:			CA
+		ZIP:			94025
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Airbnb, Inc.
+		CENTRAL INDEX KEY:			0001559720
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-TO DWELLINGS & OTHER BUILDINGS [7340]
+		IRS NUMBER:				263051428
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		888 BRANNAN ST.
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94103
+		BUSINESS PHONE:		415.800.5959
+
+	MAIL ADDRESS:	
+		STREET 1:		888 BRANNAN ST.
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94103
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>form3.xml
+<DESCRIPTION>INITIAL STATEMENT OF BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-12-09</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001559720</issuerCik>
+        <issuerName>Airbnb, Inc.</issuerName>
+        <issuerTradingSymbol>ABNB</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001607841</rptOwnerCik>
+            <rptOwnerName>SC US (TTGP), LTD.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>2800 SAND HILL ROAD, SUITE 101</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MENLO PARK</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94025</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001374246</rptOwnerCik>
+            <rptOwnerName>SC XII MANAGEMENT LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>2800 SAND HILL ROAD, SUITE 101</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MENLO PARK</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94025</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001367770</rptOwnerCik>
+            <rptOwnerName>SEQUOIA CAPITAL XII A DELAWARE L P</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>2800 SAND HILL ROAD, SUITE 101</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MENLO PARK</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94025</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001380096</rptOwnerCik>
+            <rptOwnerName>SEQUOIA TECHNOLOGY PARTNERS XII A DELAWARE L P</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>2800 SAND HILL ROAD, SUITE 101</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MENLO PARK</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94025</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001447932</rptOwnerCik>
+            <rptOwnerName>SEQUOIA CAPITAL XII PRINCIPALS FUND LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>2800 SAND HILL ROAD, SUITE 101</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MENLO PARK</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94025</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001195580</rptOwnerCik>
+            <rptOwnerName>LEONE DOUGLAS M</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>2800 SAND HILL ROAD, SUITE 101</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MENLO PARK</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94025</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001222287</rptOwnerCik>
+            <rptOwnerName>BOTHA ROELOF</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>2800 SAND HILL ROAD, SUITE 101</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MENLO PARK</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94025</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001552459</rptOwnerCik>
+            <rptOwnerName>SCGF V Management, L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>2800 SAND HILL ROAD, SUITE 101</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MENLO PARK</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94025</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001219231</rptOwnerCik>
+            <rptOwnerName>GOETZ JAMES J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>2800 SAND HILL ROAD, SUITE 101</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MENLO PARK</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94025</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>691612</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Class B Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F6"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F6"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>112934</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F7"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Series Seed Preferred Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F8"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F8"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class B Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>60549864</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F9"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Series A Preferred Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F8"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F8"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class B Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>8837568</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F10"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Series B Preferred Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F8"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F8"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class B Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>90564</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F11"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Series C Preferred Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F8"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F8"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class B Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>6098400</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F12"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Series D Preferred Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F8"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F8"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class B Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>3684324</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F13"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Series E Preferred Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F8"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F8"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class B Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>612280</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F14"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Series F Preferred Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F8"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F8"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class B Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1291598</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F15"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes 575,004 shares held by Sequoia Capital Global Growth Fund II, L.P. (GGF II), 7,102 shares held by Sequoia Capital Global Growth II Principals Fund, L.P. (GGF II PF), 102,816 shares held by Sequoia Capital U.S. Growth Fund VII, L.P. (US GF VII) and 6,690 shares held by Sequoia Capital U.S. Growth VII Principals Fund, L.P. (US GF VII PF).</footnote>
+        <footnote id="F2">SC XII Management, LLC (SC XII LLC) is the general partner of each of Sequoia Capital XII, L.P. (SC XII) and Sequoia Technology Partners XII, L.P. (STP XII), and the managing member of Sequoia Capital XII Principals Fund, LLC (SC XII PF). As a result, SC XII LLC may be deemed to share voting and dispositive power with respect to the shares held by SC XII, SC XII PF, and STP XII. SC US (TTGP), Ltd. is: (i) the general partner of SCGF V Management, L.P., which is the general partner of Sequoia Capital U.S. Growth Fund V, L.P. and Sequoia Capital USGF Principals Fund V, L.P. (collectively, the US GF V Funds), which together own 100% of the outstanding ordinary shares of SC US GF V Holdings, Ltd. (US GF V Holdco);</footnote>
+        <footnote id="F3">(cont???d) (ii) the general partner of SC U.S. Growth VII Management, L.P., which is the general partner of each of US GF VII and US GF VII PF (collectively, the SC US GF VII Funds); (iii) the general partner of SCGGF Management, L.P., which is the general partner of each of Sequoia Capital Global Growth Fund, L.P. (GGF) and Sequoia Capital Global Growth Principals Fund, L.P. (GGF PF) (collectively, the SC GGF Funds); and (iv) the general partner of SC Global Growth II Management, L.P., which is the general partner of each of GGF II and GGF II PF (collectively, the SC GGF II Funds).</footnote>
+        <footnote id="F4">(cont???d) As a result, SC US (TTGP), Ltd. may be deemed to share voting and dispositive power with respect to the shares held by US GF V Holdco, the SC US GF VII Funds, the SC GGF Funds and the SC GGF II Funds. In addition, the directors and stockholders of SC US (TTGP), Ltd. who exercise voting and investment discretion with respect to the SC GGF Funds are Douglas M. Leone and James J. Goetz, and the directors and stockholders of SC US (TTGP), Ltd. who exercise voting and investment discretion with respect to the SC GGF II Funds are Douglas M. Leone and Roelof F. Botha. As a result, and by virtue of the relationships described in this paragraph, each such person may be deemed to share voting and dispositive power with respect to the shares held by the SC GGF Funds or SC GGF II Funds, as applicable.</footnote>
+        <footnote id="F5">(cont???d) Each of SC US (TTGP), Ltd., SCGF V Management, L.P., SC U.S. Growth VII Management, L.P., SCGGF Management, L.P., SC Global Growth II Management, L.P., Mr. Leone, Mr. Botha and Mr. Goetz disclaims beneficial ownership of the shares held by US GF V Holdco, the GFVII Funds, the GGF Funds, and GGF II Funds, except to the extent of its or his pecuniary interest therein, and the inclusion of these securities in this report shall not be deemed an admission of beneficial ownership of the reported securities for purposes of Section 16 or for any other purposes. SC XII Management, LLC disclaims beneficial ownership of the shares held by the XII Funds, except to the extent of its pecuniary interest therein, and the inclusion of these securities in this report shall not be deemed an admission of beneficial ownership of the reported securities for purposes of Section 16 or for any other purposes.</footnote>
+        <footnote id="F6">The Class B Common Stock is convertible at any time at the option of the holder into the Issuer???s Class A Common Stock on a one-to-one basis. The Class B Common Stock will automatically convert into shares of the Issuer???s Class A Common Stock on a one-to-one basis upon the earlier of (a) any transfer of the Class B Common Stock by the holder, whether or not for value, subject to certain exceptions, (b) the date and time, or the occurrence of an event, specified by vote or written consent of the holders of at least 80% of the outstanding shares of Class B common stock at the time of such vote or consent, voting as a separate series or (c) the 20-year anniversary of the closing of the Issuer???s initial public offering.</footnote>
+        <footnote id="F7">Includes 109,748 shares held by GGF and 3,186 shares held by GGF PF.</footnote>
+        <footnote id="F8">Each share of Preferred Stock, other than any share of Series C Preferred Stock, is convertible on a one-for-one basis into Class B Common Stock at any time at the holder???s election. The Series C Preferred Stock is convertible on a one-for-one basis, subject to adjustment pursuant to the anti-dilution provisions relating to the Series C Preferred Stock, into Class B Common Stock at any time at the holder???s election. The Preferred Stock will convert automatically upon the closing of the Issuer???s initial public offering and has no expiration date.</footnote>
+        <footnote id="F9">Includes 52,914,528 shares of Series Seed Preferred Stock held by SC XII, 5,655,360 shares of Series Seed Preferred Stock held by SC XII PF and 1,979,976 shares of Series Seed Preferred Stock held by STP XII.</footnote>
+        <footnote id="F10">Includes 7,723,152 shares of Series A Preferred Stock held by SC XII, 825,432 shares of Series A Preferred Stock held by SC XII PF and 288,984 shares of Series A Preferred Stock held by STP XII.</footnote>
+        <footnote id="F11">Includes 79,140 shares of Series B Preferred Stock held by SC XII, 8,460 shares of Series B Preferred Stock held by SC XII PF and 2,964 shares of Series B Preferred Stock held by STP XII.</footnote>
+        <footnote id="F12">Represents 5,875,512 shares of Series C Preferred Stock held by US GF V Holdco.</footnote>
+        <footnote id="F13">Includes 3,580,428 shares of Series D Preferred Stock held by GGF and 103,896 shares of Series D Preferred Stock held by GGF PF.</footnote>
+        <footnote id="F14">Includes 595,014 shares of Series E Preferred Stock held by GGF and 17,266 shares of Series E Preferred Stock held by GGF PF.</footnote>
+        <footnote id="F15">Includes 1,073,834 shares of Series F Preferred Stock held by GGF II, 13,262 shares of Series F Preferred Stock held by GGF II PF, 192,006 shares of Series F Preferred Stock held by US GF VII and 12,496 shares of Series F Preferred Stock held by US GF VII PF.</footnote>
+    </footnotes>
+
+    <remarks>Form 2 of 3, Exhibit 24.1 - Power of Attorney for Douglas Leone, Exhibit 24.2 - Power of Attorney for James J. Goetz, Exhibit 24.3 - Power of Attorney for Roelof Botha</remarks>
+
+    <ownerSignature>
+        <signatureName>By: /s/ Jung Yeon Son, by power of attorney for Douglas Leone, a Director of SC US (TTGP), Ltd.</signatureName>
+        <signatureDate>2020-12-09</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>By: /s/ Jung Yeon Son, by power of attorney for Douglas Leone, a Director of SC US (TTGP), Ltd., GP of SCGF V Management, L.P., GP of Sequoia Capital U.S. Growth Fund V, L.P. and Sequoia Capital USGF Principals Fund V, L.P., which together own 100% of SC</signatureName>
+        <signatureDate>2020-12-09</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>By: /s/ Jung Yeon Son, by power of attorney for Douglas Leone, a Director of SC XII Management, LLC</signatureName>
+        <signatureDate>2020-12-09</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>By: /s/ Jung Yeon Son, by power of attorney for Douglas Leone, a Director of SC XII Management, LLC, the General Partner of Sequoia Capital XII, L.P.</signatureName>
+        <signatureDate>2020-12-09</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>By: /s/ Jung Yeon Son, by power of attorney for Douglas Leone, a Director of SC XII Management, LLC, the General Partner of Sequoia Technology Partners XII, L.P.</signatureName>
+        <signatureDate>2020-12-09</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>By: /s/ Jung Yeon Son, by power of attorney for Douglas Leone, a Director of SC XII Management, LLC, the Managing Member of Sequoia Capital XII Principals Fund, LLC</signatureName>
+        <signatureDate>2020-12-09</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>By: /s/ Jung Yeon Son, by power of attorney for Douglas Leone</signatureName>
+        <signatureDate>2020-12-09</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>By: /s/ Jung Yeon Son, by power of attorney for Roelof Botha</signatureName>
+        <signatureDate>2020-12-09</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>By: /s/ Jung Yeon Son, by power of attorney for James Goetz</signatureName>
+        <signatureDate>2020-12-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.1
+<SEQUENCE>2
+<FILENAME>exhibit24-1.htm
+<TEXT>
+<html>
+
+<head>
+    <title>Exhibit 24.1</title>
+</head>
+
+<body style="font-size:10pt; font-family:'Times New Roman';">
+    <hr width="100%" size="3" color="black" noshade="noshade"><a name="page_1"></a>
+    <p style="margin-bottom: 0pt; text-align: center;">LIMITED POWER OF ATTORNEY<br>FOR CERTAIN FILINGS WITH THE</p>
+    <p style="margin-top: 0pt; text-align: center;">SECURITIES AND EXCHANGE COMMISSION</p>
+    <p style="text-indent: 36pt; text-align: justify;">This Limited Power of Attorney revokes all previous powers of attorney with respect to the subject matter of this Limited Power of Attorney</p>
+    <p style="text-indent: 36pt; text-align: justify;">Know all by these presents that the undersigned hereby constitutes and appoints each of Marie Klemchuk and Jung Yeon Son the undersigned's true and lawful attorney-in-fact to:</p>
+    <p style="margin-left: 72pt; text-indent: -36pt; text-align: justify;">(1)<font style="width: 24.01pt; text-indent: 0pt; display: inline-block;">&#160;</font>Execute for and on behalf of the undersigned, in the undersigned's capacity as an officer, director and/or stockholder of any entity affiliated with Sequoia Capital Operations, LLC or any corporation or other person in which an investment fund affiliated with Sequoia Capital Operations, LLC makes an investment (each, a "Company"), Forms 3, 4, and 5 and amendments thereto in accordance with Section 16(a) of the Securities Exchange Act of 1934, as amended (the "1934 Act"),&#160; and the rules thereunder, as well as any reports on Schedules 13D or 13G or Forms 13F or 13H and amendments thereto in each case in accordance with Section 13 of the 1934 Act and the rules thereunder or any Forms 144 in accordance with Rule 144 under the Securities Act of 1933, as amended (the "1933 Act");</p>
+    <p style="margin-left: 72pt; text-indent: -36pt; text-align: justify;">(2)<font style="width: 24.01pt; text-indent: 0pt; display: inline-block;">&#160;</font>Do and perform any and all acts for and on behalf of the undersigned which may be necessary or desirable to complete and execute any such Form 3, 4, or 5, Schedule 13D, Schedule 13G, Form 13F, Form 13H or Form 144 or amendment thereto and timely file such forms with the United States Securities and Exchange Commission (the "SEC") and any stock exchange or similar authority; and</p>
+    <p style="margin-left: 72pt; text-indent: -36pt; text-align: justify;">(3)<font style="width: 24.01pt; text-indent: 0pt; display: inline-block;">&#160;</font>Take any other action of any type whatsoever which, in the opinion of such attorney-in-fact, may be necessary or desirable in connection with the foregoing authority, it being understood that the documents executed by such attorney-in-fact on behalf of the undersigned pursuant to this Limited Power of Attorney shall be in such forms and shall contain such terms and conditions as such attorney-in-fact may approve.</p>
+    <p style="text-indent: 36pt; text-align: justify;">The undersigned hereby grants to each such attorney-in-fact full power and authority to do and perform any and every act and thing whatsoever required, necessary, or proper to be done in the exercise of any of the rights and powers herein granted, as fully to all intents and purposes as the undersigned might or could do if personally present, with full power of substitution or revocation, hereby ratifying and confirming all that each such attorney-in-fact, or any such attorney-in-fact's substitute or substitutes, shall lawfully do or cause to be done by virtue of this Limited Power of Attorney and the rights and powers herein granted.&#160; The undersigned acknowledges that the foregoing attorneys-in-fact, in serving in such capacity at the request of the undersigned, are not assuming, nor is any Company assuming, any of the undersigned's responsibilities to comply with Section 13 or Section 16 of the 1934 Act or Rule 144 under the 1933 Act.</p>
+    <p style="text-indent: 36pt; text-align: justify;">This Limited Power of Attorney shall remain in full force and effect until revoked by the undersigned in a signed writing delivered to the foregoing attorneys-in-fact.&#160; This Limited Power of Attorney may be filed with the SEC as a confirming statement of the authority granted herein.</p>
+    <hr style="page-break-after: always; text-align: center;" width="100%" size="5" color="black" noshade="noshade"><a name="page_2"></a>
+    <p style="text-align: center;">[Signature Page Follows]</p>
+    <div id="footer_page_2">
+        <p style="text-align: center;">-2-</p>
+    </div>
+    <hr style="page-break-after: always; text-align: center;" width="100%" size="5" color="black" noshade="noshade"><a name="page_3"></a>
+    <p style="text-indent: 36pt; text-align: justify;">IN WITNESS WHEREOF, the undersigned has caused this Limited Power of Attorney to be executed as of this 14th day of July, 2020.</p>
+    <table style="border-collapse: collapse; font-size: 10pt; width: 100%;" cellspacing="0" cellpadding="0">
+        <tr>
+            <td style="width: 126.117px; vertical-align: top;">
+                <p>&#160;</p>
+            </td>
+            <td style="width: 120.083px; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+            <td style="width: 126.117px; vertical-align: top;">
+                <p style="margin-bottom: 0pt;">By:&#160; <u>/s/ Douglas Leone</u></p>
+                <p style="margin-top: 0pt;">&#160; &#160; &#160; &#160; Douglas Leone</p>
+            </td>
+            <td style="width: 120.083px; vertical-align: top;">&#160;</td>
+        </tr>
+    </table>
+    <br>
+    <div>&#160;</div>
+    <div id="footer_page_3">
+        <p style="text-align: center;">-3-</p>
+    </div>
+    <hr width="100%" size="5" color="black" noshade="noshade">
+</body>
+
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.2
+<SEQUENCE>3
+<FILENAME>exhibit24-2.htm
+<TEXT>
+<html>
+
+<head>
+    <title>Exhibit 24.3</title>
+</head>
+
+<body style="font-size:10pt; font-family:'Times New Roman';">
+    <hr width="100%" size="3" color="black" noshade="noshade"><a name="page_1"></a>
+    <p style="margin-bottom: 0pt; text-align: center;">LIMITED POWER OF ATTORNEY<br>FOR CERTAIN FILINGS WITH THE</p>
+    <p style="margin-top: 0pt; text-align: center;">SECURITIES AND EXCHANGE COMMISSION</p>
+    <p style="text-indent: 36pt; text-align: justify;">Know all by these presents that the undersigned hereby constitutes and appoints each of Marie Klemchuk and Jung Yeon Son the undersigned's true and lawful attorney-in-fact to:</p>
+    <p style="margin-left: 72pt; text-indent: -36pt; text-align: justify;">(1)<font style="width: 24.01pt; text-indent: 0pt; display: inline-block;">&#160;</font>Execute for and on behalf of the undersigned, in the undersigned's capacity as an officer, director and/or stockholder of any entity affiliated with Sequoia Capital Operations, LLC or any corporation or other person in which an investment fund affiliated with Sequoia Capital Operations, LLC makes an investment (each, a "Company"), Forms 3, 4, and 5 and amendments thereto in accordance with Section 16(a) of the Securities Exchange Act of 1934, as amended (the "1934 Act"),&#160; and the rules thereunder, as well as any reports on Schedules 13D or 13G or Forms 13F or 13H and amendments thereto in each case in accordance with Section 13 of the 1934 Act and the rules thereunder or any Forms 144 in accordance with Rule 144 under the Securities Act of 1933, as amended (the "1933 Act");</p>
+    <p style="margin-left: 72pt; text-indent: -36pt; text-align: justify;">(2)<font style="width: 24.01pt; text-indent: 0pt; display: inline-block;">&#160;</font>Do and perform any and all acts for and on behalf of the undersigned which may be necessary or desirable to complete and execute any such Form 3, 4, or 5, Schedule 13D, Schedule 13G, Form 13F, Form 13H or Form 144 or amendment thereto and timely file such forms with the United States Securities and Exchange Commission (the "SEC") and any stock exchange or similar authority; and</p>
+    <p style="margin-left: 72pt; text-indent: -36pt; text-align: justify;">(3)<font style="width: 24.01pt; text-indent: 0pt; display: inline-block;">&#160;</font>Take any other action of any type whatsoever which, in the opinion of such attorney-in-fact, may be necessary or desirable in connection with the foregoing authority, it being understood that the documents executed by such attorney-in-fact on behalf of the undersigned pursuant to this Limited Power of Attorney shall be in such forms and shall contain such terms and conditions as such attorney-in-fact may approve.</p>
+    <p style="text-indent: 36pt; text-align: justify;">The undersigned hereby grants to each such attorney-in-fact full power and authority to do and perform any and every act and thing whatsoever required, necessary, or proper to be done in the exercise of any of the rights and powers herein granted, as fully to all intents and purposes as the undersigned might or could do if personally present, with full power of substitution or revocation, hereby ratifying and confirming all that each such attorney-in-fact, or any such attorney-in-fact's substitute or substitutes, shall lawfully do or cause to be done by virtue of this Limited Power of Attorney and the rights and powers herein granted.&#160; The undersigned acknowledges that the foregoing attorneys-in-fact, in serving in such capacity at the request of the undersigned, are not assuming, nor is any Company assuming, any of the undersigned's responsibilities to comply with Section 13 or Section 16 of the 1934 Act or Rule 144 under the 1933 Act.</p>
+    <p style="text-indent: 36pt; text-align: justify;">This Limited Power of Attorney shall remain in full force and effect until revoked by the undersigned in a signed writing delivered to the foregoing attorneys-in-fact.&#160; This Limited Power of Attorney may be filed with the SEC as a confirming statement of the authority granted herein.</p>
+    <p style="text-align: center;">[Signature Page Follows]</p>
+    <hr style="page-break-after: always; text-align: center;" width="100%" size="5" color="black" noshade="noshade"><a name="page_2"></a>
+    <p style="text-indent: 36pt; text-align: justify;">IN WITNESS WHEREOF, the undersigned has caused this Limited Power of Attorney to be executed as of December 8, 2020.</p>
+    <table style="border-collapse: collapse; font-size: 10pt; width: 100%;" cellspacing="0" cellpadding="0">
+        <tr>
+            <td style="width: 100%; vertical-align: top;">
+                <p>&#160;</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 100%; vertical-align: top;">
+                <p style="margin-bottom: 0pt;">By:&#160; <u>/s/ James J. Goetz</u></p>
+                <p style="margin-top: 0pt;">&#160; &#160; &#160; &#160; James J. Goetz</p>
+            </td>
+        </tr>
+    </table>
+    <br>
+    <div>&#160;</div>
+    <div id="footer_page_2">
+        <p style="text-align: center;">-2-</p>
+    </div>
+    <hr width="100%" size="5" color="black" noshade="noshade">
+</body>
+
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.3
+<SEQUENCE>4
+<FILENAME>exhibit24-3.htm
+<TEXT>
+<html>
+
+<head>
+    <title>Exhibit 24.2</title>
+</head>
+
+<body style="font-size:10pt; font-family:'Times New Roman';">
+    <hr width="100%" size="3" color="black" noshade="noshade"><a name="page_1"></a>
+    <p style="margin-bottom: 0pt; text-align: center;">LIMITED POWER OF ATTORNEY<br>FOR CERTAIN FILINGS WITH THE</p>
+    <p style="margin-top: 0pt; text-align: center;">SECURITIES AND EXCHANGE COMMISSION</p>
+    <p style="text-indent: 36pt; text-align: justify;">Know all by these presents that the undersigned hereby constitutes and appoints each of Marie Klemchuk and Jung Yeon Son the undersigned's true and lawful attorney-in-fact to:</p>
+    <p style="margin-left: 72pt; text-indent: -36pt; text-align: justify;">(1)<font style="width: 24.01pt; text-indent: 0pt; display: inline-block;">&#160;</font>Execute for and on behalf of the undersigned, in the undersigned's capacity as an officer, director and/or stockholder of any entity affiliated with Sequoia Capital Operations, LLC or any corporation or other person in which an investment fund affiliated with Sequoia Capital Operations, LLC makes an investment (each, a "Company"), Forms 3, 4, and 5 and amendments thereto in accordance with Section 16(a) of the Securities Exchange Act of 1934, as amended (the "1934 Act"),&#160; and the rules thereunder, as well as any reports on Schedules 13D or 13G or Forms 13F or 13H and amendments thereto in each case in accordance with Section 13 of the 1934 Act and the rules thereunder or any Forms 144 in accordance with Rule 144 under the Securities Act of 1933, as amended (the "1933 Act");</p>
+    <p style="margin-left: 72pt; text-indent: -36pt; text-align: justify;">(2)<font style="width: 24.01pt; text-indent: 0pt; display: inline-block;">&#160;</font>Do and perform any and all acts for and on behalf of the undersigned which may be necessary or desirable to complete and execute any such Form 3, 4, or 5, Schedule 13D, Schedule 13G, Form 13F, Form 13H or Form 144 or amendment thereto and timely file such forms with the United States Securities and Exchange Commission (the "SEC") and any stock exchange or similar authority; and</p>
+    <p style="margin-left: 72pt; text-indent: -36pt; text-align: justify;">(3)<font style="width: 24.01pt; text-indent: 0pt; display: inline-block;">&#160;</font>Take any other action of any type whatsoever which, in the opinion of such attorney-in-fact, may be necessary or desirable in connection with the foregoing authority, it being understood that the documents executed by such attorney-in-fact on behalf of the undersigned pursuant to this Limited Power of Attorney shall be in such forms and shall contain such terms and conditions as such attorney-in-fact may approve.</p>
+    <p style="text-indent: 36pt; text-align: justify;">The undersigned hereby grants to each such attorney-in-fact full power and authority to do and perform any and every act and thing whatsoever required, necessary, or proper to be done in the exercise of any of the rights and powers herein granted, as fully to all intents and purposes as the undersigned might or could do if personally present, with full power of substitution or revocation, hereby ratifying and confirming all that each such attorney-in-fact, or any such attorney-in-fact's substitute or substitutes, shall lawfully do or cause to be done by virtue of this Limited Power of Attorney and the rights and powers herein granted.&#160; The undersigned acknowledges that the foregoing attorneys-in-fact, in serving in such capacity at the request of the undersigned, are not assuming, nor is any Company assuming, any of the undersigned's responsibilities to comply with Section 13 or Section 16 of the 1934 Act or Rule 144 under the 1933 Act.</p>
+    <p style="text-indent: 36pt; text-align: justify;">This Limited Power of Attorney shall remain in full force and effect until revoked by the undersigned in a signed writing delivered to the foregoing attorneys-in-fact.&#160; This Limited Power of Attorney may be filed with the SEC as a confirming statement of the authority granted herein.</p>
+    <p style="text-align: center;">[Signature Page Follows]</p>
+    <hr style="page-break-after: always; text-align: center;" width="100%" size="5" color="black" noshade="noshade"><a name="page_2"></a>
+    <p style="text-indent: 36pt; text-align: justify;">IN WITNESS WHEREOF, the undersigned has caused this Limited Power of Attorney to be executed as of December 8, 2020.</p>
+    <table style="border-collapse: collapse; font-size: 10pt; width: 100%;" cellspacing="0" cellpadding="0">
+        <tr>
+            <td style="width: 100%; vertical-align: top;">
+                <p>&#160;</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 100%; vertical-align: top;">
+                <p style="margin-bottom: 0pt;">By:&#160; <u>/s/ Roelof Botha&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; </u></p>
+                <p style="margin-top: 0pt;">&#160; &#160; &#160; &#160; Roelof Botha</p>
+            </td>
+        </tr>
+    </table>
+    <br>
+    <div><br></div>
+    <div id="footer_page_2">
+        <p style="text-align: center;">-2-</p>
+    </div>
+    <hr width="100%" size="5" color="black" noshade="noshade">
+</body>
+
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

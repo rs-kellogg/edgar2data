@@ -1,0 +1,272 @@
+<SEC-DOCUMENT>0001012975-17-000759.txt : 20171017
+<SEC-HEADER>0001012975-17-000759.hdr.sgml : 20171017
+<ACCEPTANCE-DATETIME>20171017200436
+ACCESSION NUMBER:		0001012975-17-000759
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20171013
+FILED AS OF DATE:		20171017
+DATE AS OF CHANGE:		20171017
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hodges Philip
+		CENTRAL INDEX KEY:			0001705562
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32587
+		FILM NUMBER:		171141634
+
+	MAIL ADDRESS:	
+		STREET 1:		19 FIRSTFIELD RD., SUITE 200
+		CITY:			GAITHERSBURG
+		STATE:			MD
+		ZIP:			20878
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Redmont VAXN Capital Holdings, LLC
+		CENTRAL INDEX KEY:			0001705638
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32587
+		FILM NUMBER:		171141633
+
+	BUSINESS ADDRESS:	
+		STREET 1:		820 SHADES CREEK PARKWAY, SUITE 1200
+		CITY:			BIRMINGHAM
+		STATE:			AL
+		ZIP:			35209
+		BUSINESS PHONE:		(240) 654-1450
+
+	MAIL ADDRESS:	
+		STREET 1:		19 FIRSTFIELD RD., SUITE 200
+		CITY:			GAITHERSBURG
+		STATE:			MD
+		ZIP:			20878
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Altimmune, Inc.
+		CENTRAL INDEX KEY:			0001326190
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				202726770
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		19 FIRSTFIELD ROAD
+		CITY:			GAITHERSBURG
+		STATE:			MD
+		ZIP:			20878
+		BUSINESS PHONE:		2406541450
+
+	MAIL ADDRESS:	
+		STREET 1:		19 FIRSTFIELD ROAD
+		CITY:			GAITHERSBURG
+		STATE:			MD
+		ZIP:			20878
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PHARMATHENE, INC
+		DATE OF NAME CHANGE:	20071016
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HEALTHCARE ACQUISITION CORP
+		DATE OF NAME CHANGE:	20050505
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgar.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2017-10-13</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001326190</issuerCik>
+        <issuerName>Altimmune, Inc.</issuerName>
+        <issuerTradingSymbol>ALT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001705562</rptOwnerCik>
+            <rptOwnerName>Hodges Philip</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O ALTIMMUNE, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>19 FIRSTFIELD ROAD, SUITE 200</rptOwnerStreet2>
+            <rptOwnerCity>GAITHERSBURG</rptOwnerCity>
+            <rptOwnerState>MD</rptOwnerState>
+            <rptOwnerZipCode>20878</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001705638</rptOwnerCik>
+            <rptOwnerName>Redmont VAXN Capital Holdings, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O ALTIMMUNE, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>19 FIRSTFIELD ROAD, SUITE 200</rptOwnerStreet2>
+            <rptOwnerCity>GAITHERSBURG</rptOwnerCity>
+            <rptOwnerState>MD</rptOwnerState>
+            <rptOwnerZipCode>20878</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.0001</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2017-10-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1278471</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Options (option to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>2.50</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2017-10-13</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>20000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2018-04-30</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2027-10-13</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, par value $0.0001</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>20000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>20000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F3"/>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Redmont VAXN Capital Holdings, LLC, a Delaware limited liability company (&quot;Redmont VAXN&quot;) distributed to its members, pro rata and without consideration, 1,278,471 shares of the Issuer's common stock.</footnote>
+        <footnote id="F2">Consists of shares of Common Stock held by Redmont VAXN. Philip Hodges has sole voting and dispositive control with respect to all securities held by Redmont VAXN. Philip Hodges disclaims beneficial ownership of such securities, except to the extent of his pecuniary interest therein.</footnote>
+        <footnote id="F3">Held by Philip Hodges.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Ori Solomon, Attorney in fact for Philip Hodges</signatureName>
+        <signatureDate>2017-10-17</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>/s/ Ori Solomon, Attorney in fact for Redmont VAXN Capital Holdings, LLC</signatureName>
+        <signatureDate>2017-10-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

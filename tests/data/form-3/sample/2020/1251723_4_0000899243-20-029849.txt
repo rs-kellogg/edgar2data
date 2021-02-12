@@ -1,0 +1,199 @@
+<SEC-DOCUMENT>0000899243-20-029849.txt : 20201029
+<SEC-HEADER>0000899243-20-029849.hdr.sgml : 20201029
+<ACCEPTANCE-DATETIME>20201029215314
+ACCESSION NUMBER:		0000899243-20-029849
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20201029
+FILED AS OF DATE:		20201029
+DATE AS OF CHANGE:		20201029
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			KING CHRISTINE
+		CENTRAL INDEX KEY:			0001251723
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39675
+		FILM NUMBER:		201274536
+
+	MAIL ADDRESS:	
+		STREET 1:		AMIS HOLDINGS, INC.
+		STREET 2:		2300 BUCKSKIN RD
+		CITY:			POCATELLO
+		STATE:			ID
+		ZIP:			83201
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ALLEGRO MICROSYSTEMS, INC.
+		CENTRAL INDEX KEY:			0000866291
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				462405937
+		FISCAL YEAR END:			0331
+
+	BUSINESS ADDRESS:	
+		STREET 1:		955 PERIMETER ROAD
+		CITY:			MANCHESTER
+		STATE:			NH
+		ZIP:			03103
+		BUSINESS PHONE:		(603) 626-2300
+
+	MAIL ADDRESS:	
+		STREET 1:		955 PERIMETER ROAD
+		CITY:			MANCHESTER
+		STATE:			NH
+		ZIP:			03103
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALLEGRO MICROSYSTEMS INC
+		DATE OF NAME CHANGE:	19900730
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc3.xml
+<DESCRIPTION>FORM 3 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-10-29</periodOfReport>
+
+    <noSecuritiesOwned>1</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000866291</issuerCik>
+        <issuerName>ALLEGRO MICROSYSTEMS, INC.</issuerName>
+        <issuerTradingSymbol>ALGM</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001251723</rptOwnerCik>
+            <rptOwnerName>KING CHRISTINE</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>955 PERIMETER ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MANCHESTER</rptOwnerCity>
+            <rptOwnerState>NH</rptOwnerState>
+            <rptOwnerZipCode>03103</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <footnotes></footnotes>
+
+    <remarks>Exhibit 24 - Power of Attorney.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Christopher E. Brown, Attorney-in-Fact for Christine King</signatureName>
+        <signatureDate>2020-10-29</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>attachment1.htm
+<DESCRIPTION>EX-24 DOCUMENT
+<TEXT>
+<HTML>
+<HEAD>
+</HEAD>
+<BODY>
+<PRE>
+                                                                      Exhibit 24
+
+                          SECTION 16 POWER OF ATTORNEY
+
+With respect to holdings of and transactions in securities issued by Allegro
+Microsystems, Inc. (the "Company"), the undersigned hereby constitutes and
+appoints the officers of the Company listed on Schedule A attached hereto and as
+may be amended from time to time, or any of them signing singly, with full power
+of substitution and resubstitution, to act as the undersigned's true and lawful
+attorney-in-fact to:
+
+1.  execute for and on behalf of the undersigned, Forms 3, 4, and 5 in
+    accordance with Section 16 of the Securities Exchange Act of 1934, as
+    amended, and the rules thereunder;
+
+2.  do and perform any and all acts for and on behalf of the undersigned which
+    may be necessary or desirable to complete and execute any such Form 3, 4, or
+    5, complete and execute any amendment or amendments thereto, and timely file
+    such form with the United States Securities and Exchange Commission and any
+    stock exchange or similar authority; and
+
+3.  take any other action of any type whatsoever in connection with the
+    foregoing which, in the opinion of such attorney-in-fact, may be of benefit
+    to, in the best interest of, or legally required by, the undersigned, it
+    being understood that the documents executed by such attorney-in-fact on
+    behalf of the undersigned pursuant to this Power of Attorney shall be in
+    such form and shall contain such terms and conditions as such attorney-in-
+    fact may approve in the discretion of such attorney-in-fact.
+
+The undersigned hereby grants to each such attorney-in-fact full power and
+authority to do and perform any and every act and thing whatsoever requisite,
+necessary, or proper to be done in the exercise of any of the rights and powers
+herein granted, as fully to all intents and purposes as the undersigned might or
+could do if personally present, with full power of substitution and
+resubstitution or revocation, hereby ratifying and confirming all that such
+attorney-in-fact, or such attorney-in-facts substitute or substitutes, shall
+lawfully do or cause to be done by virtue of this Power of Attorney and the
+rights and powers herein granted.
+
+The undersigned acknowledges that the attorneys-in-fact, in serving in such
+capacity at the request of the undersigned, are not assuming, nor is any Company
+assuming, any of the undersigned's responsibilities to comply with Section 16 of
+the Securities Exchange Act of 1934, as amended.
+
+This Power of Attorney shall remain in full force and effect until the
+undersigned is no longer required to file Forms 3, 4, and 5 with respect to the
+undersigned's holdings of and transactions in securities issued by the Company,
+unless earlier revoked by the undersigned in a signed writing delivered to the
+foregoing attorneys-in-fact.
+
+IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to be
+executed as of this 13th day of October, 2020.
+
+                                        /s/ Christine King
+                                        ------------------
+                                        Christine King
+
+
+                                  Schedule A
+                                  ----------
+
+    Individuals Appointed as Attorney-in-Fact with Full Power of Substitution
+and Resubstitution
+
+        1.  Paul V. Walsh, Jr.
+        2.  Christopher E. Brown
+        3.  Justin Fontaine
+
+
+
+</PRE>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

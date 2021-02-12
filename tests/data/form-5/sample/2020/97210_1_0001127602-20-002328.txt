@@ -1,0 +1,148 @@
+<SEC-DOCUMENT>0001127602-20-002328.txt : 20200124
+<SEC-HEADER>0001127602-20-002328.hdr.sgml : 20200124
+<ACCEPTANCE-DATETIME>20200124102852
+ACCESSION NUMBER:		0001127602-20-002328
+CONFORMED SUBMISSION TYPE:	5
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20191231
+FILED AS OF DATE:		20200124
+DATE AS OF CHANGE:		20200124
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BRADLEY MICHAEL A
+		CENTRAL INDEX KEY:			0001198621
+
+	FILING VALUES:
+		FORM TYPE:		5
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06462
+		FILM NUMBER:		20544108
+
+	MAIL ADDRESS:	
+		STREET 1:		8 BARNSTABLE ROAD
+		CITY:			WEST NEWTON
+		STATE:			MA
+		ZIP:			02465
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TERADYNE, INC
+		CENTRAL INDEX KEY:			0000097210
+		STANDARD INDUSTRIAL CLASSIFICATION:	INSTRUMENTS FOR MEAS & TESTING OF ELECTRICITY & ELEC SIGNALS [3825]
+		IRS NUMBER:				042272148
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		600 RIVERPARK DRIVE
+		CITY:			NORTH READING
+		STATE:			MA
+		ZIP:			01864
+		BUSINESS PHONE:		978-370-2700
+
+	MAIL ADDRESS:	
+		STREET 1:		600 RIVERPARK DRIVE
+		CITY:			NORTH READING
+		STATE:			MA
+		ZIP:			01864
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TERADYNE INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>5
+<SEQUENCE>1
+<FILENAME>form5.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>5</documentType>
+
+    <periodOfReport>2019-12-31</periodOfReport>
+
+    <form3HoldingsReported>0</form3HoldingsReported>
+
+    <form4TransactionsReported>0</form4TransactionsReported>
+
+    <issuer>
+        <issuerCik>0000097210</issuerCik>
+        <issuerName>TERADYNE, INC</issuerName>
+        <issuerTradingSymbol>TER</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001198621</rptOwnerCik>
+            <rptOwnerName>BRADLEY MICHAEL A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>TERADYNE, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>600 RIVERPARK DRIVE</rptOwnerStreet2>
+            <rptOwnerCity>NORTH READING</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>01864</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2019-07-25</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>G</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2386</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>38134</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes></footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Ryan E. Driscoll, Deputy General Counsel, by power of attorney</signatureName>
+        <signatureDate>2020-01-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

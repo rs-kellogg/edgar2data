@@ -1,0 +1,144 @@
+<SEC-DOCUMENT>0001213900-20-044192.txt : 20201223
+<SEC-HEADER>0001213900-20-044192.hdr.sgml : 20201223
+<ACCEPTANCE-DATETIME>20201223063942
+ACCESSION NUMBER:		0001213900-20-044192
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20201222
+FILED AS OF DATE:		20201223
+DATE AS OF CHANGE:		20201223
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Jones Tripp
+		CENTRAL INDEX KEY:			0001837018
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39826
+		FILM NUMBER:		201409760
+
+	MAIL ADDRESS:	
+		STREET 1:		388 MARKET STREET, SUITE 1300
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			7GC & Co. Holdings Inc.
+		CENTRAL INDEX KEY:			0001826011
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		188 KING STREET
+		STREET 2:		SUITE 308
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94107
+		BUSINESS PHONE:		4156303148
+
+	MAIL ADDRESS:	
+		STREET 1:		188 KING STREET
+		STREET 2:		SUITE 308
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94107
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-12-22</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001826011</issuerCik>
+        <issuerName>7GC &amp; Co. Holdings Inc.</issuerName>
+        <issuerTradingSymbol>VIIA.U</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001837018</rptOwnerCik>
+            <rptOwnerName>Jones Tripp</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O 7GC &amp; CO. HOLDINGS INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>388 MARKET STREET, SUITE 1300</rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94111</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Class B Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>25000</value>
+                    <footnoteId id="F2"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">As described in the registrant's registration statement on Form S-1 (File No. 333-251162) under the heading &quot;Description of Securities--Founder Shares&quot;, the shares of Class B common stock will automatically convert into shares of Class A common stock at the time of the registrant's initial business combination on a one-for-one basis subject to certain adjustments and have no expiration date.</footnote>
+        <footnote id="F2">The reporting person also has an indirect pecuniary interest in shares of Class B common stock of the registrant through his membership interest in 7GC &amp; Co. Holdings LLC, over which the reporting person does not have voting or dispositive control.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Tripp Jones</signatureName>
+        <signatureDate>2020-12-22</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

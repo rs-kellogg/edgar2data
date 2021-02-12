@@ -1,0 +1,297 @@
+<SEC-DOCUMENT>0001127602-20-005502.txt : 20200214
+<SEC-HEADER>0001127602-20-005502.hdr.sgml : 20200214
+<ACCEPTANCE-DATETIME>20200214124859
+ACCESSION NUMBER:		0001127602-20-005502
+CONFORMED SUBMISSION TYPE:	5
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20191231
+FILED AS OF DATE:		20200214
+DATE AS OF CHANGE:		20200214
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Rankin A Farnham
+		CENTRAL INDEX KEY:			0001558765
+
+	FILING VALUES:
+		FORM TYPE:		5
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09172
+		FILM NUMBER:		20617024
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O NACCO INDUSTRIES, INC.
+		STREET 2:		5875 LANDERBROOK DRIVE, SUITE 300
+		CITY:			MAYFIELD HEIGHTS
+		STATE:			OH
+		ZIP:			44124
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NACCO INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000789933
+		STANDARD INDUSTRIAL CLASSIFICATION:	HOUSEHOLD APPLIANCES [3630]
+		IRS NUMBER:				341505819
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5875 LANDERBROOK DR
+		STREET 2:		SUITE 220
+		CITY:			CLEVELAND
+		STATE:			OH
+		ZIP:			44124-4069
+		BUSINESS PHONE:		4402295123
+
+	MAIL ADDRESS:	
+		STREET 1:		5875 LANDERBROOK DR
+		CITY:			CLEVELAND
+		STATE:			OH
+		ZIP:			44124
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>5
+<SEQUENCE>1
+<FILENAME>form5.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>5</documentType>
+
+    <periodOfReport>2019-12-31</periodOfReport>
+
+    <form3HoldingsReported>0</form3HoldingsReported>
+
+    <form4TransactionsReported>0</form4TransactionsReported>
+
+    <issuer>
+        <issuerCik>0000789933</issuerCik>
+        <issuerName>NACCO INDUSTRIES INC</issuerName>
+        <issuerTradingSymbol>NC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001558765</rptOwnerCik>
+            <rptOwnerName>Rankin A Farnham</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>NACCO INDUSTRIES, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>5875 LANDERBROOK DRIVE, SUITE 220</rptOwnerStreet2>
+            <rptOwnerCity>CLEVELAND</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>44124</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOther>1</isOther>
+            <otherText>Member of a Group</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2019-12-05</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>G</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>222</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>884</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By RAII</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2019-12-05</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>G</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>111</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>884</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By RAII</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4133</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trust</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>14931</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By RAII</value>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3056</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By RAII</value>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">N/A</footnote>
+        <footnote id="F2">Represents the Reporting Person's proportionate limited partnership interests in shares held by Rankin Associates II, L.P., which is held in a trust dated August 15, 2012 for the benefit of Reporting Person.</footnote>
+        <footnote id="F3">Held in trust dated August 15, 2012 for the benefit of Reporting Person.  Reporting Person's mother serves as co-trustee.</footnote>
+        <footnote id="F4">Represents the Reporting Person's proportionate limited partnership interests in shares held by Rankin Associates II, L.P., which is held in a trust dated December 18, 1997 for the benefit of Reporting Person.</footnote>
+        <footnote id="F5">Represents the Reporting Person's proportionate limited partnership interests in shares held by Rankin Associates II, L.P., which is held in a trust dated September 11, 2000 (Posterity Trust) for the benefit of Reporting Person.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Matthew J. Dilluvio, attorney-in-fact</signatureName>
+        <signatureDate>2020-02-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>doc1.txt
+<DESCRIPTION>POWER OF ATTORNEY (PUBLIC): 2020 POA
+<TEXT>
+POWER OF ATTORNEY
+
+        KNOW ALL MEN BY THESE PRESENTS, that the undersigned hereby constitutes
+and appoints John D. Neumann, Matthew J. Dilluvio, Kimberly J. Pustulka, Andrew
+C. Thomas and Eric Orsic, and each of them, as the true and lawful attorney or
+attorneys-in-fact, with full power of substitution and revocation, for the
+undersigned and in the name, place and stead of the undersigned, in any and all
+capacities, to execute, on behalf of the undersigned, any and all statements or
+reports under Section 16 of the Securities Exchange Act of 1934, as amended,
+with respect to the beneficial ownership of shares of Class A Common Stock, par
+value $1.00 per share, of NACCO Industries, Inc. (the ?Company?) and Class B
+Common Stock, par value $1.00 per share, of the Company, including, without
+limitation, all initial statements of beneficial ownership on Form 3, all
+statements of changes of beneficial ownership on Form 4 and all annual
+statements of beneficial ownership on Form 5 and any and all other documents
+that may be required, from time to time, to be filed with the Securities and
+Exchange Commission, to execute any and all amendments or supplements to any
+such statements or forms, and to file the same, with all exhibits thereto, and
+other documents in connection therewith, with the Securities and  Exchange
+Commission, granting to said attorney or attorneys-in-fact, and each of them,
+full power and authority to do so and perform each and every act and thing
+requisite and necessary to be done in and about the premises, as fully to all
+intents and purposes as the undersigned might or could do in person, hereby
+ratifying and confirming all that said attorney or attorneys-in-fact or any of
+them or their substitute or substitutes, may lawfully do or cause to be done
+by virtue hereof.
+
+
+Name:	/s/ A. Farnham Rankin
+	A. Farnham Rankin
+
+Date:	 1-20-20
+Address: 5875 Landerbrook Drive, Suite 220
+         Cleveland, Ohio 44124
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,204 @@
+<SEC-DOCUMENT>0001209191-20-051587.txt : 20200922
+<SEC-HEADER>0001209191-20-051587.hdr.sgml : 20200922
+<ACCEPTANCE-DATETIME>20200922193722
+ACCESSION NUMBER:		0001209191-20-051587
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20200915
+FILED AS OF DATE:		20200922
+DATE AS OF CHANGE:		20200922
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			LEONHARDT HARRY J
+		CENTRAL INDEX KEY:			0001286102
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39376
+		FILM NUMBER:		201190631
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O HALOZYME THERAPEUTICS, INC.
+		STREET 2:		11388 SORRENTO VALLEY BLVD.
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92121
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Poseida Therapeutics, Inc.
+		CENTRAL INDEX KEY:			0001661460
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		IRS NUMBER:				472846548
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9390 TOWNE CENTRE DRIVE
+		STREET 2:		SUITE 200
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92121
+		BUSINESS PHONE:		858-779-3100
+
+	MAIL ADDRESS:	
+		STREET 1:		9390 TOWNE CENTRE DRIVE
+		STREET 2:		SUITE 200
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92121
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc3.xml
+<DESCRIPTION>FORM 3 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-09-15</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001661460</issuerCik>
+        <issuerName>Poseida Therapeutics, Inc.</issuerName>
+        <issuerTradingSymbol>PSTX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001286102</rptOwnerCik>
+            <rptOwnerName>LEONHARDT HARRY J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O POSEIDA THERAPEUTICS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>9390 TOWNE CENTRE DRIVE, SUITE 200</rptOwnerStreet2>
+            <rptOwnerCity>SAN DIEGO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92121</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>GC &amp; Chief Compliance Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Employee Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>16.00</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2030-07-08</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>160385</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">12.5% of the shares subject to the stock option will vest and become exercisable on January 8, 2021, and the remaining shares will vest in 42 equal monthly installments thereafter.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Johanna M. Mylet, Attorney-in-Fact</signatureName>
+        <signatureDate>2020-09-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.3_938223
+<SEQUENCE>2
+<FILENAME>poa.txt
+<DESCRIPTION>POA DOCUMENT
+<TEXT>
+POWER OF ATTORNEY
+
+Know all by these presents, that the undersigned hereby constitutes and appoints
+each of Mark J. Gergen and Johanna M. Mylet of Poseida Therapeutics, Inc. (the
+"Company"), signing individually, the undersigned's true and lawful attorney-in
+fact and agent to:
+
+(1) execute for and on behalf of the undersigned, an officer, director or holder
+of 10% of more of a registered class of securities of the Company, Forms 3, 4
+and 5 in accordance with Section 16(a) of the Securities Exchange Act of 1934,
+as amended (the "Exchange Act") and the rules thereunder;
+
+(2) do and perform any and all acts for and on behalf of the undersigned that
+may be necessary or desirable to complete and execute such Form 3, 4 or 5,
+complete and execute any amendment or amendments thereto, and timely file such
+forms or amendments with the United States Securities and Exchange Commission
+and any stock exchange or similar authority; and
+
+(3) take any other action of any nature whatsoever in connection with the
+foregoing which, in the opinion of such attorney-in-fact, may be of benefit, in
+the best interest of, or legally required by, the undersigned, it being
+understood that the documents executed by such attorney-in-fact on behalf of the
+undersigned pursuant to this Power of Attorney shall be in such form and shall
+contain such terms and conditions as such attorney-in-fact may approve in such
+attorney-in-fact's discretion.
+
+The undersigned hereby grants to each such attorney-in-fact full power and
+authority to do and perform any and every act and thing whatsoever requisite,
+necessary, or proper to be done in the exercise of any of the rights and powers
+herein granted, as fully to all intents and purposes as the undersigned might or
+could do if personally present, with full power of substitution or revocation,
+hereby ratifying and confirming all that such attorney-in-fact, or such
+attorney-in-fact's substitute or substitutes, shall lawfully do or cause to be
+done by virtue of this power of attorney and the rights and powers herein
+granted.  The undersigned acknowledges that each of the foregoing
+attorneys-in-fact, in serving in such capacity at the request of the
+undersigned, is not assuming, nor is the Company assuming, any of the
+undersigned's responsibilities to comply with Section 16 of the Exchange Act.
+
+This Power of Attorney shall remain in full force and effect until the earliest
+to occur of (a) the undersigned is no longer required to file Forms 3, 4 and 5
+with respect to the undersigned's holdings of and transactions in securities
+issued by the Company, (b) revocation by the undersigned in a signed writing
+delivered to the foregoing attorney-in-fact or (c) until such attorney-in-fact
+shall no longer be employed by the Company.
+
+IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to be
+executed as of this 22nd day of September, 2020.
+
+/s/ Harry J. Leonhardt
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

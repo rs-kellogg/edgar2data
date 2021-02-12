@@ -1,0 +1,311 @@
+<SEC-DOCUMENT>0001140361-20-003111.txt : 20200213
+<SEC-HEADER>0001140361-20-003111.hdr.sgml : 20200213
+<ACCEPTANCE-DATETIME>20200213144441
+ACCESSION NUMBER:		0001140361-20-003111
+CONFORMED SUBMISSION TYPE:	5
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20191231
+FILED AS OF DATE:		20200213
+DATE AS OF CHANGE:		20200213
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			CIVIL PATRICIA T
+		CENTRAL INDEX KEY:			0001237956
+
+	FILING VALUES:
+		FORM TYPE:		5
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-14703
+		FILM NUMBER:		20609352
+
+	BUSINESS ADDRESS:	
+		STREET 1:		52 SOUTH BROAD STREET
+		CITY:			NORWICH
+		STATE:			NY
+		ZIP:			13815
+		BUSINESS PHONE:		315-673-4355
+
+	MAIL ADDRESS:	
+		STREET 1:		7 BAKER ROAD
+		CITY:			MARCELLUS
+		STATE:			NY
+		ZIP:			13815
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NBT BANCORP INC
+		CENTRAL INDEX KEY:			0000790359
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				161268674
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		52 S BROAD ST
+		CITY:			NORWICH
+		STATE:			NY
+		ZIP:			13815
+		BUSINESS PHONE:		6073372265
+
+	MAIL ADDRESS:	
+		STREET 1:		52 S. BROAD STREET
+		CITY:			NORWICH
+		STATE:			NY
+		ZIP:			13815
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>5
+<SEQUENCE>1
+<FILENAME>form5.xml
+<DESCRIPTION>FORM 5
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>5</documentType>
+
+    <periodOfReport>2019-12-31</periodOfReport>
+
+    <form3HoldingsReported>0</form3HoldingsReported>
+
+    <form4TransactionsReported>0</form4TransactionsReported>
+
+    <issuer>
+        <issuerCik>0000790359</issuerCik>
+        <issuerName>NBT BANCORP INC</issuerName>
+        <issuerTradingSymbol>NBTB</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001237956</rptOwnerCik>
+            <rptOwnerName>CIVIL PATRICIA T</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>52 SOUTH BROAD STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NORWICH</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>13815</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>NBT Bancorp Inc. Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2019-12-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>586.604</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>27114.548</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Non-Qualified Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>24.5</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2016-12-15</value>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2024-12-15</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>NBT Bancorp Inc. Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2130</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2130</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Non-Qualified Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>25.92</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2018-04-08</value>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2026-04-08</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>NBT Bancorp Inc. Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1500</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1500</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares were purchased through a Dividend Reinvestment Plan from 1/1/2019 to 12/31/2019.</footnote>
+        <footnote id="F2">Pursuant to NBT Non-Employee Director, Divisional Director and Subsidiary Director Stock Option Plan reload grant vests 100% two years after date of its grant.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>By: Annette L. Burns, Power of Attorney For: Patricia T. Civil</signatureName>
+        <signatureDate>2020-02-13</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>ex24.htm
+<DESCRIPTION>EXHIBIT 24
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Broadridge Financial Solutions, Inc.
+         Document created using EDGARfilings PROfile 6.5.1.0
+         Copyright 1995 - 2020 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman'; font-size: 10pt; text-align: left; color: #000000;">
+
+
+  <div>
+    <hr noshade="noshade" align="center" style="height: 4px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;">
+    <div style="font-weight: bold; text-align: right;">Exhibit 24<br>
+    </div>
+    <div><br>
+    </div>
+    <div>
+      <div style="text-align: center; font-weight: bold;">POWER OF ATTORNEY</div>
+      <div><br>
+      </div>
+      <div style="text-indent: 36pt;">Know all by these presents, that the undersigned hereby constitutes and appoints each of Annette Burns and Angela Kelley signing singly, and
+        with full power of substitution, the undersigned&#8217;s true and lawful attorney-in-fact to:</div>
+      <div><br>
+      </div>
+      <div style="text-indent: 27pt; margin-left: 36pt;">(1)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;execute
+            for and on behalf of the undersigned, in the undersigned&#8217;s capacity as an officer and/or director of NBT Bancorp Inc. (the &#8220;Company&#8221;), Forms 3, 4, and 5 in accordance with Section 16(a) of the Securities Exchange Act of 1934 and the rules
+            thereunder;</div>
+      <div><br>
+      </div>
+      <div style="text-indent: 27pt; margin-left: 36pt;">(2)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;do
+            and perform any and all acts for and on behalf of the undersigned which may be necessary or desirable to complete and execute any such Form 3, 4, or 5 and timely file such form with the United States Securities and Exchange Commission and any
+            stock exchange or similar authority; and</div>
+      <div><br>
+      </div>
+      <div style="text-indent: 27pt; margin-left: 36pt;">(3)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;take
+            any other action of any type whatsoever in connection with the foregoing which, in the opinion of such attorney-in-fact, may be of benefit to, and in the best interest of, or legally required by, the undersigned.</div>
+      <div><br>
+      </div>
+      <div style="text-indent: 36pt;">The undersigned hereby grants to each such attorney-in-fact full power and authority to do and perform any and every act and thing whatsoever
+        requisite, necessary, or proper to be done in the exercise of any of the rights and powers herein granted, as fully to all intents and purposes as the undersigned might or could do if personally present, with full power of substitution or
+        revocation, hereby ratifying and confirming all that such attorney-in-fact, or such attorney-in-fact&#8217;s substitute or substitutes, shall lawfully do or cause to be done by virtue of this power of attorney and the rights and powers herein granted.&#160;
+        The undersigned acknowledges that the foregoing attorneys-in-fact, in serving in such capacity at the request of the undersigned, are not assuming, nor is the Company assuming, any of the undersigned&#8217;s responsibilities to comply with Section 16 of
+        the Securities Exchange Act of 1934.</div>
+      <div><br>
+      </div>
+      <div style="text-indent: 36pt;">This Power of Attorney shall remain in full force and effect until the undersigned is no longer required to file Forms 3, 4, and 5 with
+        respect to the undersigned&#8217;s holdings of and transactions in securities issued by the Company, unless earlier revoked by the undersigned in a sign writing delivered to the foregoing attorneys-in-fact.</div>
+      <div><br>
+      </div>
+      <div style="text-indent: 36pt;">IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to be executed as of this 16<sup style="vertical-align: text-top; line-height: 1; font-size: smaller;">th</sup> day December, 2019.</div>
+      <div><br>
+      </div>
+      <table cellspacing="0" cellpadding="0" id="z7ea1a44fd8004ba7ab41a38ad5c98229" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;">
+
+          <tr>
+            <td style="width: 50%; vertical-align: top;">&#160;</td>
+            <td style="width: 50%; vertical-align: top;">
+              <div><u>/s/ Patricia T. Civil</u></div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;">&#160;</td>
+            <td style="width: 50%; vertical-align: top;">
+              <div>Patricia T. Civil</div>
+            </td>
+          </tr>
+
+      </table>
+      <div><br>
+      </div>
+      <div><br>
+      </div>
+      <div>
+        <hr noshade="noshade" align="center" style="height: 2px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;"></div>
+    </div>
+  </div>
+
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,206 @@
+<SEC-DOCUMENT>0000899243-20-017728.txt : 20200625
+<SEC-HEADER>0000899243-20-017728.hdr.sgml : 20200625
+<ACCEPTANCE-DATETIME>20200625201850
+ACCESSION NUMBER:		0000899243-20-017728
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20200625
+FILED AS OF DATE:		20200625
+DATE AS OF CHANGE:		20200625
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			QUAIN MITCHELL I
+		CENTRAL INDEX KEY:			0001213693
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39345
+		FILM NUMBER:		20990686
+
+	MAIL ADDRESS:	
+		STREET 1:		THE ROYAL POINCIANA, APT. 307
+		STREET 2:		333 SUNSET AVENUE
+		CITY:			PALM BEACH
+		STATE:			FL
+		ZIP:			33480
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Kensington Capital Acquisition Corp.
+		CENTRAL INDEX KEY:			0001811414
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				850796578
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1400 OLD COUNTRY ROAD
+		STREET 2:		SUITE 301
+		CITY:			WESTBURY
+		STATE:			NY
+		ZIP:			11590
+		BUSINESS PHONE:		703-674-6514
+
+	MAIL ADDRESS:	
+		STREET 1:		1400 OLD COUNTRY ROAD
+		STREET 2:		SUITE 301
+		CITY:			WESTBURY
+		STATE:			NY
+		ZIP:			11590
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc3.xml
+<DESCRIPTION>FORM 3 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-06-25</periodOfReport>
+
+    <noSecuritiesOwned>1</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001811414</issuerCik>
+        <issuerName>Kensington Capital Acquisition Corp.</issuerName>
+        <issuerTradingSymbol>KCAC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001213693</rptOwnerCik>
+            <rptOwnerName>QUAIN MITCHELL I</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1400 OLD COUNTRY ROAD, SUITE 301</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>WESTBURY</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>11590</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <footnotes></footnotes>
+
+    <remarks>The reporting person has an indirect pecuniary interest in the issuer's shares of Class B common stock, par value $0.0001 per share, through his membership interests in Kensington Capital Sponsor LLC, over which the reporting person does not have voting or dispositive control.  As described in the issuer's registration statement on Form S-1 (File No. 333-239053) under the heading &quot;Description of Securities-Founder Shares&quot;, the shares of Class B common stock will automatically convert into shares of Class A common stock, par value $0.0001 per share, of the issuer at the time of the issuer's initial business combination, or earlier at the option of the holder, on a one-for-one basis, subject to adjustment for stock splits, stock dividends, reorganizations, recapitalizations and the like, and certain anti-dilution rights and have no expiration date.
+
+Exhibit 24  Power of Attorney</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Justin Mirro attorney-in-fact for Mitchell Quain</signatureName>
+        <signatureDate>2020-06-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>attachment1.htm
+<DESCRIPTION>EX-24 DOCUMENT
+<TEXT>
+<HTML>
+<HEAD>
+</HEAD>
+<BODY>
+<PRE>
+                                                                      Exhibit 24
+
+                               POWER OF ATTORNEY FOR
+                          SECTION 16 REPORTING OBLIGATIONS
+
+    Know all by these presents, that the undersigned hereby makes, constitutes
+and appoints each of Justin Mirro and Daniel Huber, each acting individually, as
+the undersigned's true and lawful attorney-in-fact, with full power and
+authority as described below, to take the following actions on behalf of and in
+the name, place and stead of the undersigned:
+
+    (1)   prepare, execute, and file on behalf of the undersigned Forms 3, 4,
+and 5 (including any amendments thereto) with respect to the securities of
+Kensington Capital Acquisition Corp. (the "Company"), with the United States
+Securities and Exchange Commission, any stock exchange and the Company, as
+considered necessary or advisable under Section 16(a) of the Securities Exchange
+Act of 1934 (the "Exchange Act") and the rules and regulations thereunder;
+
+    (2)   seek or obtain, as the undersigned's representative and on the
+undersigned's behalf, information regarding transactions in the Company's
+securities from any third party, including brokers and employee benefit plan
+administrators and trustees, and the undersigned hereby authorizes any such
+person to release any such information to such attorneys-in-fact and approves
+and ratifies any such release of information; and
+
+    (3)   do and perform any and all other acts which in the discretion of such
+attorney-in-fact are necessary or desirable for and on behalf of the
+undersigned in connection with the foregoing.
+
+    The undersigned acknowledges that:
+
+    (1)   this Power of Attorney authorizes, but does not require, each such
+attorney-in-fact to act in their discretion on information provided to such
+attorney-in-fact without independent verification of such information;
+
+    (2)   any documents prepared and/or executed by any such attorney-in-fact on
+behalf of the undersigned pursuant to this Power of Attorney will be in such
+form and will contain such information and disclosure as such attorney-in-fact,
+in his or her discretion, deems necessary or desirable;
+
+    (3)   neither the Company nor any of such attorneys-in-fact assumes (i) any
+liability for the undersigned's responsibility to comply with the requirements
+of the Exchange Act, (ii) any liability of the undersigned for any failure to
+comply with such requirements, or (iii) any obligation or liability of the
+undersigned for profit disgorgement under Section 16(b) of the Exchange Act; and
+
+    (4)   this Power of Attorney does not relieve the undersigned from
+responsibility for compliance with the undersigned's obligations under the
+Exchange Act, including without limitation the reporting requirements under
+Section 16 of the Exchange Act.
+
+    The undersigned hereby gives and grants each of the foregoing attorneys-in-
+fact full power and authority to do and perform all and every act and thing
+whatsoever necessary or appropriate to be done in the exercise of the rights and
+powers granted by this Power of Attorney as fully to all intents and purposes as
+the undersigned might or could do personally, hereby ratifying all that each
+such attorney-in-fact, shall lawfully do or cause to be done for and on behalf
+of the undersigned by virtue of this Power of Attorney.
+
+    This Power of Attorney shall remain in full force and effect until revoked
+by the undersigned in a signed writing delivered to each such attorney-in-fact
+or until such earlier time as the undersigned is no longer required to file
+Forms 3, 4, and 5 with respect to the Company.
+
+    IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to be
+executed as of this 25th day of June 2020.
+
+
+                                         /s/ Mitchell Quain
+                                        ----------------------------------------
+                                        Signature
+
+                                         Mitchell Quain
+                                        ----------------------------------------
+                                        Print Name
+
+</PRE>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

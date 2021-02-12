@@ -1,0 +1,357 @@
+<SEC-DOCUMENT>0001213900-20-040899.txt : 20201203
+<SEC-HEADER>0001213900-20-040899.hdr.sgml : 20201203
+<ACCEPTANCE-DATETIME>20201203214430
+ACCESSION NUMBER:		0001213900-20-040899
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20201203
+FILED AS OF DATE:		20201203
+DATE AS OF CHANGE:		20201203
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			FinTech Masala, LLC
+		CENTRAL INDEX KEY:			0001768156
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39760
+		FILM NUMBER:		201368610
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3 COLUMBUS CIRCLE 24TH FL
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		2127351498
+
+	MAIL ADDRESS:	
+		STREET 1:		3 COLUMBUS CIRCLE 24TH FL
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			FinTech Masala Holdings, LLC
+		CENTRAL INDEX KEY:			0001768157
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39760
+		FILM NUMBER:		201368611
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3 COLUMBUS CIRCLE 24TH FL
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		2127351498
+
+	MAIL ADDRESS:	
+		STREET 1:		3 COLUMBUS CIRCLE 24TH FL
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Cohen Sponsor Interests V, LLC
+		CENTRAL INDEX KEY:			0001831139
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39760
+		FILM NUMBER:		201368612
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2929 ARCH STREET STE 1703
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19104
+		BUSINESS PHONE:		4844593476
+
+	MAIL ADDRESS:	
+		STREET 1:		2929 ARCH STREET STE 1703
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19104
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Fintech Acquisition Corp V
+		CENTRAL INDEX KEY:			0001829328
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				844794021
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2929 ARCH STREET STE 1703
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19104
+		BUSINESS PHONE:		4844593476
+
+	MAIL ADDRESS:	
+		STREET 1:		2929 ARCH STREET STE 1703
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19104
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>OWNERSHIP DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-12-03</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001829328</issuerCik>
+        <issuerName>Fintech Acquisition Corp V</issuerName>
+        <issuerTradingSymbol>FTCV</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001831139</rptOwnerCik>
+            <rptOwnerName>Cohen Sponsor Interests V, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O FINTECH ACQUISITION CORP. V</rptOwnerStreet1>
+            <rptOwnerStreet2>2929 ARCH STREET, SUITE 1703</rptOwnerStreet2>
+            <rptOwnerCity>PHILADELPHIA</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>19104</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001768156</rptOwnerCik>
+            <rptOwnerName>FinTech Masala, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3 COLUMBUS CIRCLE 24TH FL</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10019</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001768157</rptOwnerCik>
+            <rptOwnerName>FinTech Masala Holdings, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3 COLUMBUS CIRCLE 24TH FL</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10019</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>640000</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By FinTech Investor Holdings V, LLC</value>
+                    <footnoteId id="F6"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Class B Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2660000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By FinTech Investor Holdings V, LLC</value>
+                    <footnoteId id="F6"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Warrants</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>11.5</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F4"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>213333</value>
+                    <footnoteId id="F5"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By FinTech Investor Holdings V, LLC</value>
+                    <footnoteId id="F6"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Class B Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>5910000</value>
+                    <footnoteId id="F7"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By FinTech Masala Advisors V, LLC</value>
+                    <footnoteId id="F6"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These shares underlie 640,000 units of the issuer that FinTech Investor Holdings V, LLC has irrevocably committed to purchase.</footnote>
+        <footnote id="F2">The shares of Class B common stock will automatically convert into shares of Class A common stock at the time of the issuer's initial business combination on a one-for-one basis, subject to certain adjustments described in the issuer's charter documents and have no expiration date.</footnote>
+        <footnote id="F3">The warrants will become exercisable at the later of 30 days after the consummation of the issuer's initial business combination or 12 months from the completion of the issuer's initial public offering.</footnote>
+        <footnote id="F4">The warrants will expire five years after the consummation of the issuer's initial business combination or earlier upon redemption of all of the issuer's outstanding common stock or the issuer's liquidation.</footnote>
+        <footnote id="F5">These warrants underlie 640,000 units of the issuer that FinTech Investor Holdings V, LLC has irrevocably committed to purchase.</footnote>
+        <footnote id="F6">These shares are held directly by the issuer's sponsors, FinTech Investor Holdings V, LLC and FinTech Masala Advisors V, LLC, each of which is managed by Cohen Sponsor Interests V, LLC. FinTech Masala, LLC is the sole member of Cohen Sponsor Interests V, LLC. FinTech Masala Holdings, LLC is the sole member of FinTech Masala, LLC. As a result, each of Cohen Sponsor Interests V, LLC, FinTech Masala, LLC and FinTech Masala Holdings, LLC shares voting and investment power over the issuer's shares held directly by FinTech Investor Holdings V, LLC and FinTech Masala Advisors V, LLC.</footnote>
+        <footnote id="F7">These shares represent Class B common stock held by the reporting person acquired pursuant to a securities assignment agreement by and between the reporting person and FinTech Investor Holdings V, LLC. The shares of Class B common stock owned by the reporting person include up to 1,090,000 shares that are subject to forfeiture in the event the underwriters of the issuer's initial public offering do not exercise in full their over-allotment option.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Daniel G. Cohen, President of FinTech Masala, LLC, sole member of Cohen Sponsor Interests V, LLC</signatureName>
+        <signatureDate>2020-12-03</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>/s/ Daniel G. Cohen, President of FinTech Masala, LLC</signatureName>
+        <signatureDate>2020-12-03</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>s/ Daniel G. Cohen, President of FinTech Masala Holdings, LLC</signatureName>
+        <signatureDate>2020-12-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,173 @@
+<SEC-DOCUMENT>0001415889-20-001288.txt : 20200521
+<SEC-HEADER>0001415889-20-001288.hdr.sgml : 20200521
+<ACCEPTANCE-DATETIME>20200521202905
+ACCESSION NUMBER:		0001415889-20-001288
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200511
+FILED AS OF DATE:		20200521
+DATE AS OF CHANGE:		20200521
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			MAIDA ANTHONY E III
+		CENTRAL INDEX KEY:			0001273213
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-21990
+		FILM NUMBER:		20903427
+
+	MAIL ADDRESS:	
+		STREET 1:		157 TECHNOLOGY DR
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92618
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MATEON THERAPEUTICS INC
+		CENTRAL INDEX KEY:			0000908259
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				133679168
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		701 GATEWAY BLVD.
+		STREET 2:		SUITE 210
+		CITY:			SOUTH SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94080
+		BUSINESS PHONE:		650-635-7000
+
+	MAIL ADDRESS:	
+		STREET 1:		701 GATEWAY BLVD.
+		STREET 2:		SUITE 210
+		CITY:			SOUTH SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94080
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	OXIGENE INC
+		DATE OF NAME CHANGE:	19930628
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>form3-05212020_050551.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-05-11</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000908259</issuerCik>
+        <issuerName>MATEON THERAPEUTICS INC</issuerName>
+        <issuerTradingSymbol>MATN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001273213</rptOwnerCik>
+            <rptOwnerName>MAIDA ANTHONY E III</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O MATEON THERAPEUTICS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>29397 AGOURA RD., SUITE 107</rptOwnerStreet2>
+            <rptOwnerCity>AGOURA HILLS</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>91301</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>198668</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Series A Convertible Preferred Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>938646</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects securities of the Issuer acquired by the reporting person pursuant to the Agreement and Plan of Merger, effective April 22, 2019, by and among the Issuer, Oncotelic Acquisition Corporation and Oncotelic, Inc.</footnote>
+        <footnote id="F2">The Series A Convertible Preferred Stock is automatically convertible in the event of a recapitalization and upon approval by stockholders.</footnote>
+        <footnote id="F3">Each share of Series A Convertible Preferred Stock is convertible into 1,000 shares of Common Stock.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Anthony Maida, III</signatureName>
+        <signatureDate>2020-05-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

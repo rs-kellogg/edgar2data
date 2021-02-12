@@ -1,0 +1,132 @@
+<SEC-DOCUMENT>0001437749-20-017595.txt : 20200812
+<SEC-HEADER>0001437749-20-017595.hdr.sgml : 20200812
+<ACCEPTANCE-DATETIME>20200812085528
+ACCESSION NUMBER:		0001437749-20-017595
+CONFORMED SUBMISSION TYPE:	5
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200630
+FILED AS OF DATE:		20200812
+DATE AS OF CHANGE:		20200812
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			PADEN FRANK L
+		CENTRAL INDEX KEY:			0001193016
+
+	FILING VALUES:
+		FORM TYPE:		5
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	033-79130
+		FILM NUMBER:		201094268
+
+	MAIL ADDRESS:	
+		STREET 1:		7465 JAGUAR DR
+		CITY:			BOARDMAN
+		STATE:			OH
+		ZIP:			44512
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CONSUMERS BANCORP INC /OH/
+		CENTRAL INDEX KEY:			0001006830
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				341771400
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		614 E LINCOLN WAY
+		STREET 2:		PO BOX 256
+		CITY:			MINERVA
+		STATE:			OH
+		ZIP:			44657-2096
+		BUSINESS PHONE:		3308687701
+
+	MAIL ADDRESS:	
+		STREET 1:		614 E LINCOLN WAY
+		STREET 2:		PO BOX 256
+		CITY:			MINERVA
+		STATE:			OH
+		ZIP:			44657-2095
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>5
+<SEQUENCE>1
+<FILENAME>rdgdoc.xml
+<DESCRIPTION>FORM 5
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>5</documentType>
+
+    <periodOfReport>2020-06-30</periodOfReport>
+
+    <form3HoldingsReported>0</form3HoldingsReported>
+
+    <form4TransactionsReported>0</form4TransactionsReported>
+
+    <issuer>
+        <issuerCik>0001006830</issuerCik>
+        <issuerName>CONSUMERS BANCORP INC /OH/</issuerName>
+        <issuerTradingSymbol>CBKM</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001193016</rptOwnerCik>
+            <rptOwnerName>PADEN FRANK L</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>7465 JAGUAR DR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BOARDMAN</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>44512</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionCoding>
+                <transactionFormType></transactionFormType>
+            </transactionCoding>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5029.734</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes shares acquired through dividend reinvestment plan</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/Frank L Paden</signatureName>
+        <signatureDate>2020-08-12</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

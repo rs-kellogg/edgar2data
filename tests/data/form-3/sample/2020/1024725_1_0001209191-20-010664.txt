@@ -1,0 +1,221 @@
+<SEC-DOCUMENT>0001209191-20-010664.txt : 20200219
+<SEC-HEADER>0001209191-20-010664.hdr.sgml : 20200219
+<ACCEPTANCE-DATETIME>20200219171233
+ACCESSION NUMBER:		0001209191-20-010664
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20200210
+FILED AS OF DATE:		20200219
+DATE AS OF CHANGE:		20200219
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Usitalo Scott
+		CENTRAL INDEX KEY:			0001802439
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12387
+		FILM NUMBER:		20631060
+
+	MAIL ADDRESS:	
+		STREET 1:		500 NORTH FIELD DRIVE
+		CITY:			LAKE FOREST
+		STATE:			IL
+		ZIP:			60045
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TENNECO INC
+		CENTRAL INDEX KEY:			0001024725
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLE PARTS & ACCESSORIES [3714]
+		IRS NUMBER:				760515284
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 NORTH FIELD DRIVE
+		CITY:			LAKE FOREST
+		STATE:			IL
+		ZIP:			60045
+		BUSINESS PHONE:		847-482-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		500 N FIELD DR
+		STREET 2:		ROOM T 2560B
+		CITY:			LAKE FOREST
+		STATE:			IL
+		ZIP:			60045
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TENNECO AUTOMOTIVE INC
+		DATE OF NAME CHANGE:	19991112
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NEW TENNECO INC
+		DATE OF NAME CHANGE:	19961011
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc3.xml
+<DESCRIPTION>FORM 3 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-02-10</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001024725</issuerCik>
+        <issuerName>TENNECO INC</issuerName>
+        <issuerTradingSymbol>TEN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001802439</rptOwnerCik>
+            <rptOwnerName>Usitalo Scott</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>500 NORTH FIELD DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>LAKE FOREST</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60045</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Executive Vice President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>16351</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.00</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>4090</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects restricted stock units granted to the Reporting Person, one third of which vested on February 5, 2020, and one third of which vest on each of February 5, 2021 and February 5, 2022. Each restricted stock unit represents the contingent right to receive one share of Class A Common Stock.</footnote>
+    </footnotes>
+
+    <remarks>Exhibit List 1. Exhibit 24 - Power of Attorney</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Brandon B. Smith, Attorney-in-fact for Scott Usitalo</signatureName>
+        <signatureDate>2020-02-19</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.1
+<SEQUENCE>2
+<FILENAME>attachment1.htm
+<DESCRIPTION>EX-24.1 DOCUMENT
+<TEXT>
+<HTML>
+<HEAD>
+</HEAD>
+<BODY>
+<PRE>
+EX-24.1
+POWER OF ATTORNEY
+AND
+CONFIRMING STATEMENT
+
+KNOW ALL PERSONS BY THESE PRESENTS, that I hereby designate, appoint, and
+constitute, and hereby confirm the designation, appointment and constitution of,
+each of Ashley Bancroft, Maja Fabula, Kevin L. Freeman, Jason M. Hollar, Paul D.
+Novas and Brandon B. Smith  as my true and lawful attorney-in-fact and agent,
+with full power of substitution, for me and in my name, place and stead, in any
+and all capacities, to execute and file on my behalf all Forms 3, 4 and 5
+(including any amendments thereto) that I may be required to file with the U.S.
+Securities and Exchange Commission (the "SEC") and any stock exchange as a
+result of my direct or indirect ownership of, or transactions in, securities of
+Tenneco Inc. or its subsidiary companies.  I hereby further grant unto each said
+attorney-in-fact and agent all full power and authority to do and perform each
+and every act and thing requisite and necessary to be done in and about the
+premises, fully to all intents and purposes as I might or could do in person,
+hereby ratifying and confirming all that each said attorney-in-fact and agent or
+my substitute or substitutes may lawfully do or cause to be done by virtue of
+the power and authority granted hereunder to each attorney-in-fact including,
+without limitation, the full power and authority to apply for, change or
+otherwise access any codes or other authorizations necessary to make the filings
+with the SEC. The authority of Ashley Bancroft, Maja Fabula, Kevin L. Freeman,
+Jason M. Hollar, Paul D. Novas and Brandon B. Smith under this Power of Attorney
+and Confirming Statement shall continue until I am no longer required to file
+Forms 3, 4 and 5 with regard to my direct or indirect ownership of or
+transactions in securities of Tenneco Inc. or its subsidiary companies.
+
+	I hereby acknowledge Ashley Bancroft, Maja Fabula, Kevin L. Freeman, Jason M.
+Hollar, Paul D. Novas and Brandon B. Smith are not assuming any of the
+undersigned's responsibilities to comply with Section 16 of the Securities
+Exchange Act of 1934, as amended.
+
+1/4/2020
+/s/ Scott K. Usitalo
+</PRE>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

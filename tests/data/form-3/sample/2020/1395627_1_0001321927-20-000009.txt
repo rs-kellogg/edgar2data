@@ -1,0 +1,111 @@
+<SEC-DOCUMENT>0001321927-20-000009.txt : 20200123
+<SEC-HEADER>0001321927-20-000009.hdr.sgml : 20200123
+<ACCEPTANCE-DATETIME>20200123112604
+ACCESSION NUMBER:		0001321927-20-000009
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20180601
+FILED AS OF DATE:		20200123
+DATE AS OF CHANGE:		20200123
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Costa Vincent J
+		CENTRAL INDEX KEY:			0001305954
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-22051
+		FILM NUMBER:		20541071
+
+	MAIL ADDRESS:	
+		STREET 1:		800 SCUDDERS MILL ROAD
+		CITY:			PLAINSBORO
+		STATE:			NJ
+		ZIP:			08536
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Voya International High Dividend Equity Income Fund
+		CENTRAL INDEX KEY:			0001395627
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0228
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7337 E. DOUBLETREE RANCH ROAD
+		STREET 2:		SUITE 100
+		CITY:			SCOTTSDALE
+		STATE:			AZ
+		ZIP:			85258
+		BUSINESS PHONE:		8009920180
+
+	MAIL ADDRESS:	
+		STREET 1:		7337 E. DOUBLETREE RANCH ROAD
+		STREET 2:		SUITE 100
+		CITY:			SCOTTSDALE
+		STATE:			AZ
+		ZIP:			85258
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ING International High Dividend Equity Income Fund
+		DATE OF NAME CHANGE:	20070405
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2018-06-01</periodOfReport>
+
+    <noSecuritiesOwned>1</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001395627</issuerCik>
+        <issuerName>Voya International High Dividend Equity Income Fund</issuerName>
+        <issuerTradingSymbol>IID</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001305954</rptOwnerCik>
+            <rptOwnerName>Costa Vincent J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>800 SCUDDERS MILL ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>PLAINSBORO</rptOwnerCity>
+            <rptOwnerState>NJ</rptOwnerState>
+            <rptOwnerZipCode>08536</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <otherText>Managing Director</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <ownerSignature>
+        <signatureName>Brenda DeBlasio</signatureName>
+        <signatureDate>2020-01-23</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

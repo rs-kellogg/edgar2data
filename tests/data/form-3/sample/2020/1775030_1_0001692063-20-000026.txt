@@ -1,0 +1,134 @@
+<SEC-DOCUMENT>0001692063-20-000026.txt : 20200218
+<SEC-HEADER>0001692063-20-000026.hdr.sgml : 20200218
+<ACCEPTANCE-DATETIME>20200218171431
+ACCESSION NUMBER:		0001692063-20-000026
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20190501
+FILED AS OF DATE:		20200218
+DATE AS OF CHANGE:		20200218
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Reich Robert M JR
+		CENTRAL INDEX KEY:			0001775030
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38054
+		FILM NUMBER:		20626375
+
+	MAIL ADDRESS:	
+		STREET 1:		3101 SOUTH PACKERLAND DRIVE
+		CITY:			GREEN BAY
+		STATE:			WI
+		ZIP:			54313
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Schneider National, Inc.
+		CENTRAL INDEX KEY:			0001692063
+		STANDARD INDUSTRIAL CLASSIFICATION:	TRUCKING (NO LOCAL) [4213]
+		IRS NUMBER:				391258315
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3101 SOUTH PACKERLAND DRIVE
+		CITY:			GREEN BAY
+		STATE:			WI
+		ZIP:			54313
+		BUSINESS PHONE:		920-592-2000
+
+	MAIL ADDRESS:	
+		STREET 1:		3101 SOUTH PACKERLAND DRIVE
+		CITY:			GREEN BAY
+		STATE:			WI
+		ZIP:			54313
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>wf-form3_158206405453859.xml
+<DESCRIPTION>FORM 3
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2019-05-01</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001692063</issuerCik>
+        <issuerName>Schneider National, Inc.</issuerName>
+        <issuerTradingSymbol>SNDR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001775030</rptOwnerCik>
+            <rptOwnerName>Reich Robert M JR</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3101 S. PACKERLAND DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>GREEN BAY</rptOwnerCity>
+            <rptOwnerState>WI</rptOwnerState>
+            <rptOwnerZipCode>54313</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Admin Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class B Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>81910</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Reporting Person's original Form 3 overstated the number of shares beneficially owned by 2,089 shares.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Sarah E. Klaver, by power of attorney</signatureName>
+        <signatureDate>2020-02-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

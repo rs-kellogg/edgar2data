@@ -1,0 +1,219 @@
+<SEC-DOCUMENT>0001104659-20-016112.txt : 20200211
+<SEC-HEADER>0001104659-20-016112.hdr.sgml : 20200211
+<ACCEPTANCE-DATETIME>20200211121645
+ACCESSION NUMBER:		0001104659-20-016112
+CONFORMED SUBMISSION TYPE:	5
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20191228
+FILED AS OF DATE:		20200211
+DATE AS OF CHANGE:		20200211
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			WENTZ MYRON W
+		CENTRAL INDEX KEY:			0001203301
+
+	FILING VALUES:
+		FORM TYPE:		5
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35024
+		FILM NUMBER:		20595425
+
+	MAIL ADDRESS:	
+		STREET 1:		3838 W PARKWAY BLVD
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84120
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Gull Global Ltd
+		CENTRAL INDEX KEY:			0001636301
+
+	FILING VALUES:
+		FORM TYPE:		5
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35024
+		FILM NUMBER:		20595426
+
+	BUSINESS ADDRESS:	
+		STREET 1:		PO BOX N-4899, 2/F BAHAMAS FINANCIAL CTR
+		STREET 2:		SHIRLEY & CHARLOTTE STREETS
+		CITY:			NASSAU
+		STATE:			C5
+		ZIP:			BH1-1000
+		BUSINESS PHONE:		8019547100
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX N-4899, 2/F BAHAMAS FINANCIAL CTR
+		STREET 2:		SHIRLEY & CHARLOTTE STREETS
+		CITY:			NASSAU
+		STATE:			C5
+		ZIP:			BH1-1000
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			USANA HEALTH SCIENCES INC
+		CENTRAL INDEX KEY:			0000896264
+		STANDARD INDUSTRIAL CLASSIFICATION:	MEDICINAL CHEMICALS & BOTANICAL PRODUCTS [2833]
+		IRS NUMBER:				870500306
+		STATE OF INCORPORATION:			UT
+		FISCAL YEAR END:			1228
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3838 WEST PARKWAY BLVD.
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84120-6336
+		BUSINESS PHONE:		8019547100
+
+	MAIL ADDRESS:	
+		STREET 1:		3838 WEST PARKWAY BLVD.
+		STREET 2:		3838 WEST PARKWAY BLVD.
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84120-6336
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	USANA INC
+		DATE OF NAME CHANGE:	19930125
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>5
+<SEQUENCE>1
+<FILENAME>tm207422d2_5.xml
+<DESCRIPTION>OWNERSHIP DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>5</documentType>
+
+    <periodOfReport>2019-12-28</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <form3HoldingsReported>0</form3HoldingsReported>
+
+    <form4TransactionsReported>0</form4TransactionsReported>
+
+    <issuer>
+        <issuerCik>0000896264</issuerCik>
+        <issuerName>USANA HEALTH SCIENCES INC</issuerName>
+        <issuerTradingSymbol>USNA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001203301</rptOwnerCik>
+            <rptOwnerName>WENTZ MYRON W</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O USANA HEALTH SCIENCES, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>3838 WEST PARKWAY BLVD</rptOwnerStreet2>
+            <rptOwnerCity>SALT LAKE CITY</rptOwnerCity>
+            <rptOwnerState>UT</rptOwnerState>
+            <rptOwnerZipCode>84120</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001636301</rptOwnerCik>
+            <rptOwnerName>Gull Global Ltd</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>PO BOX N-4899, 2/F BAHAMAS FINANCIAL CTR</rptOwnerStreet1>
+            <rptOwnerStreet2>SHIRLEY &amp; CHARLOTTE STREETS</rptOwnerStreet2>
+            <rptOwnerCity>NASSAU</rptOwnerCity>
+            <rptOwnerState>C5</rptOwnerState>
+            <rptOwnerZipCode>BH1-1000</rptOwnerZipCode>
+            <rptOwnerStateDescription>BAHAMAS</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2019-12-27</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>G</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>129871</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>9735743</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                    <footnoteId id="F1"/>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Shares owned of record by Gull Global Limited</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The holder of record of the shares of Common Stock disposed of is Gull Global Limited, an entity wholly indirectly owned and controlled by Dr. Myron Wentz. Gull Global Limited is a 10% Owner of the Issuer.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Myron W. Wentz By: /s/ Valarie A. Hing, Attorney in Fact</signatureName>
+        <signatureDate>2020-02-11</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>Gull Global Limited By: /s/ Valarie A. Hing, Attorney in Fact</signatureName>
+        <signatureDate>2020-02-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

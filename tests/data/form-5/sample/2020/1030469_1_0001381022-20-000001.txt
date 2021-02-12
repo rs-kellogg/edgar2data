@@ -1,0 +1,114 @@
+<SEC-DOCUMENT>0001381022-20-000001.txt : 20200226
+<SEC-HEADER>0001381022-20-000001.hdr.sgml : 20200226
+<ACCEPTANCE-DATETIME>20200226153113
+ACCESSION NUMBER:		0001381022-20-000001
+CONFORMED SUBMISSION TYPE:	5
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20191231
+FILED AS OF DATE:		20200226
+DATE AS OF CHANGE:		20200226
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			ROSADO RAMON A
+		CENTRAL INDEX KEY:			0001381022
+
+	FILING VALUES:
+		FORM TYPE:		5
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12647
+		FILM NUMBER:		20655396
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 195115
+		CITY:			SAN JUAN
+		STATE:			PR
+		ZIP:			00919-5115
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			OFG BANCORP
+		CENTRAL INDEX KEY:			0001030469
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				660538893
+		STATE OF INCORPORATION:			PR
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		254 MU?OZ RIVERA AVENUE
+		CITY:			SAN JUAN
+		STATE:			PR
+		ZIP:			00918
+		BUSINESS PHONE:		7877716800
+
+	MAIL ADDRESS:	
+		STREET 1:		254 MU?OZ RIVERA AVENUE
+		CITY:			SAN JUAN
+		STATE:			PR
+		ZIP:			00918
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ORIENTAL FINANCIAL GROUP INC
+		DATE OF NAME CHANGE:	19970110
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>5
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>5</documentType>
+
+    <periodOfReport>2019-12-31</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <form3HoldingsReported>0</form3HoldingsReported>
+
+    <form4TransactionsReported>0</form4TransactionsReported>
+
+    <issuer>
+        <issuerCik>0001030469</issuerCik>
+        <issuerName>OFG BANCORP</issuerName>
+        <issuerTradingSymbol>OFG</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001381022</rptOwnerCik>
+            <rptOwnerName>ROSADO RAMON A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>PO BOX 195115</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN JUAN</rptOwnerCity>
+            <rptOwnerState>PR</rptOwnerState>
+            <rptOwnerZipCode>00919-5115</rptOwnerZipCode>
+            <rptOwnerStateDescription>PUERTO RICO</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>SVP &amp; Director US Loan Program</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <ownerSignature>
+        <signatureName>/s/ Ramon A. Rosado</signatureName>
+        <signatureDate>2020-02-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

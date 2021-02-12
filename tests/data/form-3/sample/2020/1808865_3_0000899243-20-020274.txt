@@ -1,0 +1,283 @@
+<SEC-DOCUMENT>0000899243-20-020274.txt : 20200723
+<SEC-HEADER>0000899243-20-020274.hdr.sgml : 20200723
+<ACCEPTANCE-DATETIME>20200723193051
+ACCESSION NUMBER:		0000899243-20-020274
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20200723
+FILED AS OF DATE:		20200723
+DATE AS OF CHANGE:		20200723
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hallal David
+		CENTRAL INDEX KEY:			0001457477
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39401
+		FILM NUMBER:		201044818
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ALEXION PHARMACEUTICALS, INC
+		STREET 2:		352 KNOTTER DRIVE
+		CITY:			CHESHIRE
+		STATE:			CT
+		ZIP:			06410
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			iTeos Therapeutics, Inc.
+		CENTRAL INDEX KEY:			0001808865
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		139 MAIN STREET
+		CITY:			CAMBRIDGE
+		STATE:			MA
+		ZIP:			02142
+		BUSINESS PHONE:		857-204-4583
+
+	MAIL ADDRESS:	
+		STREET 1:		139 MAIN STREET
+		CITY:			CAMBRIDGE
+		STATE:			MA
+		ZIP:			02142
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc3.xml
+<DESCRIPTION>FORM 3 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-07-23</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001808865</issuerCik>
+        <issuerName>iTeos Therapeutics, Inc.</issuerName>
+        <issuerTradingSymbol>ITOS</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001457477</rptOwnerCik>
+            <rptOwnerName>Hallal David</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O ITEOS THERAPEUTICS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>139 MAIN STREET</rptOwnerStreet2>
+            <rptOwnerCity>CAMBRIDGE</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02142</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>4.30</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2025-06-11</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>134.682</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>2.95</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2029-12-04</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>67039</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>4.23</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2030-05-01</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>163876</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">One-fourth of the shares subject to the stock option vest on the one-year anniversary of the vesting commencement date, subject to the reporting persons continuous service relationship with the Issuer through such date. Thereafter, 1/48 of the shares subject to the stock option vest on a monthly basis following the one-year anniversary of the vesting commencement date, subject to the reporting persons continuous service relationship with the Issuer through each applicable vesting date</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ David L. Hallal</signatureName>
+        <signatureDate>2020-07-23</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>attachment1.htm
+<DESCRIPTION>EX-24 DOCUMENT
+<TEXT>
+<HTML>
+<HEAD>
+</HEAD>
+<BODY>
+<PRE>
+                                                                      Exhibit 24
+
+                                   POWER OF ATTORNEY
+
+        Know all by these presents, that the undersigned hereby constitutes and
+appoints each of  Michel Detheux, Matthew Call and Matthew Gall, signing singly,
+the undersigned's true and lawful attorney-in-fact to:
+
+        (1)     execute for and on behalf of the undersigned, in the
+                undersigned's capacity as an officer and/or director of iTeos
+                Therapeutics, Inc. (the "Company"), (i) Form ID, including any
+                attached documents, to effect the assignment of codes to the
+                undersigned to be used in the transmission of information to the
+                United States Securities and Exchange Commission using the EDGAR
+                System, (ii) Forms 3, 4 and 5, (iii) Schedule 13D, (iv) Schedule
+                13G and (v) amendments of each thereof, in accordance with
+                Section 16(a) of the Securities Exchange Act of 1934, as
+                amended, and the rules thereunder;
+
+        (2)     do and perform any and all acts for and on behalf of the
+                undersigned which may be necessary or desirable to complete and
+                execute any such Form 3, 4 or 5, Schedule 13D. Schedule 13G or
+                any amendments thereto and timely file such form with the United
+                States Securities and Exchange Commission and any stock exchange
+                or similar authority; and
+
+        (3)     take any other action of any type whatsoever in  connection
+                with the foregoing which, in the opinion of such attorney-in-
+                fact, may be of benefit to, in the best interest of, or legally
+                required by, the undersigned, it being understood that the
+                documents executed by such attorney-in-fact on behalf of the
+                undersigned pursuant to this Power of Attorney shall be in such
+                form and shall contain such terms and conditions as such
+                attorney-in-fact may approve in such attorney-in-fact's
+                discretion.
+
+        The undersigned hereby grants to each such attorney-in-fact full power
+and authority to do and perform any and every act and thing whatsoever
+requisite, necessary, or proper to be done in the exercise of any of the rights
+and powers herein granted, as fully to all intents and purposes as the
+undersigned might or could do if personally present, with full power of
+substitution or revocation, hereby ratifying and confirming all that such
+attorney-in-fact, or such attorney-in-fact's substitute or substitutes, shall
+lawfully do or cause to be done by virtue of this Power of Attorney and the
+rights and powers herein granted. The undersigned acknowledges that the
+foregoing attorneys-in-fact, in serving in such capacity at the request of the
+undersigned, are not assuming, nor is the Company assuming, any of the
+undersigned's responsibilities to comply with Section 16 or Regulation 13D-G of
+the Securities Exchange Act of 1934, as amended. The undersigned hereby agrees
+to indemnify the attorney-in-fact and the Company from and against any demand,
+damage, loss, cost or expense arising from any false or misleading information
+provided by the undersigned to the attorney-in-fact.
+
+        This Power of Attorney shall remain in full force and effect until the
+undersigned is no longer required to file Forms 3, 4 and 5 with respect to the
+undersigned's holdings of and transactions in securities issued by the Company,
+unless earlier revoked by the undersigned in a signed writing delivered to the
+foregoing attorneys-in-fact.  This Power of Attorney may be filed with the
+United States Securities and Exchange Commission as a confirming statement of
+the authority granted herein. This Power of Attorney supersedes any prior power
+of attorney in connection with the undersigned's capacity as an officer and/or
+director of the Company.  This Power of Attorney shall expire as to any
+individual attorney-in-fact if such attorney-in-fact ceases to be an executive
+officer of the Company.
+
+        IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to
+be executed as of July 23,2020.
+
+                                        /s/ David Hallal
+                                        ----------------------------
+                                        Name: David Hallal
+</PRE>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

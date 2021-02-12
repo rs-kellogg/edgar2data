@@ -1,0 +1,1039 @@
+<SEC-DOCUMENT>0001213900-20-041181.txt : 20201204
+<SEC-HEADER>0001213900-20-041181.hdr.sgml : 20201204
+<ACCEPTANCE-DATETIME>20201204205422
+ACCESSION NUMBER:		0001213900-20-041181
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20201124
+FILED AS OF DATE:		20201204
+DATE AS OF CHANGE:		20201204
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			B. Riley Financial, Inc.
+		CENTRAL INDEX KEY:			0001464790
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12471
+		FILM NUMBER:		201371165
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11100 SANTA MONICA BLVD
+		STREET 2:		SUITE 800
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90025
+		BUSINESS PHONE:		818-884-3737
+
+	MAIL ADDRESS:	
+		STREET 1:		11100 SANTA MONICA BLVD
+		STREET 2:		SUITE 800
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90025
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	Great American Group, Inc.
+		DATE OF NAME CHANGE:	20090522
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BRC Partners Opportunity Fund, LP
+		CENTRAL INDEX KEY:			0001642765
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12471
+		FILM NUMBER:		201371166
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11100 SANTA MONICA BLVD. SUITE 800
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90025
+		BUSINESS PHONE:		310-966-1445
+
+	MAIL ADDRESS:	
+		STREET 1:		11100 SANTA MONICA BLVD. SUITE 800
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90025
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BRC Partners Management GP, LLC
+		CENTRAL INDEX KEY:			0001749420
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12471
+		FILM NUMBER:		201371167
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11100 SANTA MONICA BLVD SUITE 800
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90025
+		BUSINESS PHONE:		310-689-2220
+
+	MAIL ADDRESS:	
+		STREET 1:		11100 SANTA MONICA BLVD SUITE 800
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90025
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Dialectic Antithesis Partners, LP
+		CENTRAL INDEX KEY:			0001325552
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12471
+		FILM NUMBER:		201371168
+
+	BUSINESS ADDRESS:	
+		STREET 1:		119 ROWAYTON AVENUE
+		STREET 2:		2ND FLOOR
+		CITY:			NORWALK
+		STATE:			CT
+		ZIP:			06853
+		BUSINESS PHONE:		212-230-3220
+
+	MAIL ADDRESS:	
+		STREET 1:		119 ROWAYTON AVENUE
+		STREET 2:		2ND FLOOR
+		CITY:			NORWALK
+		STATE:			CT
+		ZIP:			06853
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	DIALECTIC ANTITHESIS PARTNERS, LP
+		DATE OF NAME CHANGE:	20081028
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	Dialectic Antithesis Partners L P
+		DATE OF NAME CHANGE:	20050429
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BR Dialectic Capital Management, LLC
+		CENTRAL INDEX KEY:			0001704985
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12471
+		FILM NUMBER:		201371169
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11100 SANTA MONICA BLVD., SUITE 800
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90025
+		BUSINESS PHONE:		310-966-1444
+
+	MAIL ADDRESS:	
+		STREET 1:		11100 SANTA MONICA BLVD., SUITE 800
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90025
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			B. RILEY CAPITAL MANAGEMENT, LLC
+		CENTRAL INDEX KEY:			0001658704
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12471
+		FILM NUMBER:		201371170
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11100 SANTA MONICA BLVD.
+		STREET 2:		SUITE 800
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90025
+		BUSINESS PHONE:		310-966-1445
+
+	MAIL ADDRESS:	
+		STREET 1:		11100 SANTA MONICA BLVD.
+		STREET 2:		SUITE 800
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90025
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			B. RILEY PRINCIPAL INVESTMENTS, LLC
+		CENTRAL INDEX KEY:			0001776226
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12471
+		FILM NUMBER:		201371171
+
+	BUSINESS ADDRESS:	
+		STREET 1:		21255 BURBANK BLVD, SUITE 400
+		CITY:			WOODLAND HILLS
+		STATE:			CA
+		ZIP:			91367
+		BUSINESS PHONE:		818-884-3737
+
+	MAIL ADDRESS:	
+		STREET 1:		21255 BURBANK BLVD, SUITE 400
+		CITY:			WOODLAND HILLS
+		STATE:			CA
+		ZIP:			91367
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BRF Finance Co., LLC
+		CENTRAL INDEX KEY:			0001835164
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12471
+		FILM NUMBER:		201371172
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11100 SANTA MONICA BLVD., SUITE 800
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90025
+		BUSINESS PHONE:		818-884-3737
+
+	MAIL ADDRESS:	
+		STREET 1:		30870 RUSSELL RANCH RD., SUITE 250
+		CITY:			WESTLAKE VILLAGE
+		STATE:			CA
+		ZIP:			91362
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			RILEY BRYANT R
+		CENTRAL INDEX KEY:			0001207269
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12471
+		FILM NUMBER:		201371173
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O B. RILEY FINANCIAL, INC.
+		STREET 2:		21255 BURBANK BLVD, SUITE 400
+		CITY:			WOODLAND HILLS
+		STATE:			CA
+		ZIP:			91367
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			theMaven, Inc.
+		CENTRAL INDEX KEY:			0000894871
+		STANDARD INDUSTRIAL CLASSIFICATION:	CABLE & OTHER PAY TELEVISION SERVICES [4841]
+		IRS NUMBER:				680232575
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1500 FOURTH AVENUE, SUITE 200
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98101
+		BUSINESS PHONE:		775-600-2765
+
+	MAIL ADDRESS:	
+		STREET 1:		1500 FOURTH AVENUE, SUITE 200
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98101
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	THEMAVEN, INC.
+		DATE OF NAME CHANGE:	20161209
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INTEGRATED SURGICAL SYSTEMS INC
+		DATE OF NAME CHANGE:	19960725
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-11-24</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000894871</issuerCik>
+        <issuerName>theMaven, Inc.</issuerName>
+        <issuerTradingSymbol>MVEN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001464790</rptOwnerCik>
+            <rptOwnerName>B. Riley Financial, Inc.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>11100 SANTA MONICA BLVD.,</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 800</rptOwnerStreet2>
+            <rptOwnerCity>LOS ANGELES</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>90025</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <officerTitle></officerTitle>
+            <otherText>See Remarks.</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001642765</rptOwnerCik>
+            <rptOwnerName>BRC Partners Opportunity Fund, LP</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>11100 SANTA MONICA BLVD.,</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 800</rptOwnerStreet2>
+            <rptOwnerCity>LOS ANGELES</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>90025</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <officerTitle></officerTitle>
+            <otherText>See Remarks.</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001749420</rptOwnerCik>
+            <rptOwnerName>BRC Partners Management GP, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>11100 SANTA MONICA BLVD.,</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 800</rptOwnerStreet2>
+            <rptOwnerCity>LOS ANGELES</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>90025</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <officerTitle></officerTitle>
+            <otherText>See Remarks.</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001325552</rptOwnerCik>
+            <rptOwnerName>Dialectic Antithesis Partners, LP</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>119 ROWAYTON AVENUE,</rptOwnerStreet1>
+            <rptOwnerStreet2>2ND FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NORWALK</rptOwnerCity>
+            <rptOwnerState>CT</rptOwnerState>
+            <rptOwnerZipCode>06853</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <officerTitle></officerTitle>
+            <otherText>See Remarks.</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001704985</rptOwnerCik>
+            <rptOwnerName>BR Dialectic Capital Management, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>119 ROWAYTON AVENUE,</rptOwnerStreet1>
+            <rptOwnerStreet2>2ND FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NORWALK</rptOwnerCity>
+            <rptOwnerState>CT</rptOwnerState>
+            <rptOwnerZipCode>06853</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <officerTitle></officerTitle>
+            <otherText>See Remarks.</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001658704</rptOwnerCik>
+            <rptOwnerName>B. RILEY CAPITAL MANAGEMENT, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>11100 SANTA MONICA BLVD.,</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 800</rptOwnerStreet2>
+            <rptOwnerCity>LOS ANGELES</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>90025</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <officerTitle></officerTitle>
+            <otherText>See Remarks.</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001776226</rptOwnerCik>
+            <rptOwnerName>B. RILEY PRINCIPAL INVESTMENTS, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>11100 SANTA MONICA BLVD.,</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 800</rptOwnerStreet2>
+            <rptOwnerCity>LOS ANGELES</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>90025</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <officerTitle></officerTitle>
+            <otherText>See Remarks.</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001835164</rptOwnerCik>
+            <rptOwnerName>BRF Finance Co., LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>11100 SANTA MONICA BLVD.,</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 800</rptOwnerStreet2>
+            <rptOwnerCity>LOS ANGELES</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>90025</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <officerTitle></officerTitle>
+            <otherText>See Remarks.</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001207269</rptOwnerCik>
+            <rptOwnerName>RILEY BRYANT R</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>11100 SANTA MONICA BLVD.,</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 800</rptOwnerStreet2>
+            <rptOwnerCity>LOS ANGELES</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>90025</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <officerTitle></officerTitle>
+            <otherText>See Remarks.</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Series H Preferred Stock, par value $0.01 per share</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.33</value>
+                <footnoteId id="F4"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2018-08-10</value>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F4"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, par value $0.01 per share</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>7575758</value>
+                    <footnoteId id="F4"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By BRC Partners Opportunity Fund, LP</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Series H Preferred Stock, par value $0.01 per share</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.33</value>
+                <footnoteId id="F4"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2018-08-10</value>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F4"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, par value $0.01 per share</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2666667</value>
+                    <footnoteId id="F4"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Dialectic Antithesis Partners, LP</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Series H Preferred Stock, par value $0.01 per share</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.33</value>
+                <footnoteId id="F4"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2018-08-10</value>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F4"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, par value $0.01 per share</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2621212</value>
+                    <footnoteId id="F4"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By B. Riley Principal Investments, LLC</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Series J Preferred Stock, par value $0.01 per share</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.70</value>
+                <footnoteId id="F5"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F5"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F5"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, par value $0.01 per share</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1780000</value>
+                    <footnoteId id="F5"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By BRC Partners Opportunity Fund, LP</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Series J Preferred Stock, par value $0.01 per share</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.70</value>
+                <footnoteId id="F5"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F5"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F5"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, par value $0.01 per share</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>21785714</value>
+                    <footnoteId id="F5"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By B. Riley Principal Investments, LLC</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Series K Preferred Stock, par value $0.01 per share</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.40</value>
+                <footnoteId id="F6"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F6"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F6"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, par value $0.01 per share</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>8417500</value>
+                    <footnoteId id="F6"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By BRF Finance Co., LLC</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F6"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Warrants to purchase Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.00</value>
+                <footnoteId id="F7"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F7"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2025-10-20</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, par value $0.01 per share</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>625000</value>
+                    <footnoteId id="F7"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By B. Riley Principal Investments, LLC</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F7"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Warrants to purchase Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.00</value>
+                <footnoteId id="F7"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F7"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2025-10-20</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, par value $0.01 per share</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>250000</value>
+                    <footnoteId id="F7"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By BRC Partners Opportunity Fund, LP</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F7"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>12% Senior Secured Subordinated Convertible Debentures</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.33</value>
+                <footnoteId id="F8"/>
+                <footnoteId id="F9"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F8"/>
+                <footnoteId id="F9"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2020-12-31</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, par value $0.01 per share</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>4590067</value>
+                    <footnoteId id="F8"/>
+                    <footnoteId id="F9"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By BRC Partners Opportunity Fund, LP</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F8"/>
+                    <footnoteId id="F9"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>12% Senior Secured Subordinated Convertible Debentures</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.33</value>
+                <footnoteId id="F8"/>
+                <footnoteId id="F9"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F8"/>
+                <footnoteId id="F9"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2020-12-31</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, par value $0.01 per share</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>29929714</value>
+                    <footnoteId id="F8"/>
+                    <footnoteId id="F9"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By B. Riley Principal Investments, LLC</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F8"/>
+                    <footnoteId id="F9"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>12% Senior Secured Subordinated Convertible Debentures</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.4</value>
+                <footnoteId id="F8"/>
+                <footnoteId id="F9"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F8"/>
+                <footnoteId id="F9"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2020-12-31</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, par value $0.01 per share</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>285000</value>
+                    <footnoteId id="F8"/>
+                    <footnoteId id="F9"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By B. Riley Principal Investments, LLC</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F8"/>
+                    <footnoteId id="F9"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>12% Senior Secured Subordinated Convertible Debentures</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.33</value>
+                <footnoteId id="F8"/>
+                <footnoteId id="F9"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F8"/>
+                <footnoteId id="F9"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2020-12-31</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, par value $0.01 per share</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1515152</value>
+                    <footnoteId id="F8"/>
+                    <footnoteId id="F9"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Dialectic Antithesis Partners, LP</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F8"/>
+                    <footnoteId id="F9"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">In addition to B. Riley Financial, Inc., a Delaware corporation (&quot;BRF&quot;), this Form 3 is being filed jointly by BRC Partners Opportunity Fund, LP, a Delaware limited partnership (&quot;BRPLP&quot;), BRC Partners Management GP, LLC, a Delaware limited liability company (&quot;BRPGP&quot;), Dialectic Antithesis Partners, LP, a Delaware limited partnership (&quot;Dialectic&quot;), BR Dialectic Capital Management, LLC, a Delaware limited liability company (&quot;BR Dialectic&quot;), B. Riley Capital Management, LLC, a New York limited liability company (&quot;BRCM&quot;), B. Riley Principal Investments, LLC, a Delaware limited liability company (&quot;BRPI&quot;), BRF Finance Co., LLC, a Delaware limited liability company (&quot;BRF Finance&quot;) and Bryant Riley.</footnote>
+        <footnote id="F2">BRPGP is a subsidiary of BRCM, a registered investment advisor, and is the general partner of BRPLP. BRF is the parent company of BRCM. As a result, BRPGP, BRCM, and BRF may be deemed to indirectly beneficially own the securities of the Issuer held by BRPLP. BR Dialectic is the general partner of, and an investment advisor to, Dialectic. BR Dialectic is a wholly-owned subsidiary of BRCM, and BRF is the parent company of BRCM. As a result, BR Dialectic, BRCM and BRF may be deemed to indirectly beneficially own the securities of the Issuer held by Dialectic. BRF is the parent company of BRPI. As a result, BRF may be deemed to indirectly beneficially own the securities of the Issuer held by BRPI. BRF Finance is a wholly-owned subsidiary of BRF. As a result, BRF may be deemed to indirectly beneficially own the securities of the Issuer held by BRF Finance.</footnote>
+        <footnote id="F3">Bryant Riley, as Chief Executive Officer of BRCM and Chairman and Co-Chief Executive Officer of BRF, has voting power and dispositive power over the securities of the Issuer held by BRPLP, Dialectic, BRPI and BRF Finance. As a result, Bryant Riley may be deemed to indirectly beneficially own the securities of the Issuer held by BRPLP, Dialectic, BRPI and BRF Finance. Each Reporting Person expressly disclaims beneficial ownership of the securities of the Issuer reported herein held indirectly except to the extent of such Reporting Person's pecuniary interest therein.</footnote>
+        <footnote id="F4">The Issuer issued its Series H Convertible Preferred Stock, par value $0.01 per share (the &quot;Series H Preferred Stock&quot;) at a stated value equal to $1,000 per share. The Series H Preferred Stock is convertible at the option of the holder, subject to a beneficial ownership limitation of 4.99%, at a rate equal to the stated value of $1,000 per share divided by an initial conversion price equal to $0.33. The beneficial ownership limitation may be increased to up to 9.99% at the election of the applicable holder upon 60 days' prior notice to the Issuer. The Reporting Persons have not made this election in respect of the Series H Preferred Stock held by BRPLP, Dialectic and BRPI (as applicable) as of the date of this filing. The Series H Preferred Stock does not have an expiration date.</footnote>
+        <footnote id="F5">The Issuer issued it Series J Convertible Preferred Stock, par value $0.01 per share (the &quot;Series J Preferred Stock&quot;) at a stated value equal to $1,000 per share. The shares of Series J Preferred Stock reported herein are only convertible into shares of the Issuer's common stock, par value $0.01 (the &quot;Common Stock&quot;), if the Issuer amends its Certificate of Incorporation to authorize additional shares of Common Stock upon receiving shareholder approval of such amendment. This amendment has not been filed and/or accepted by the State of Delaware as of the date of this filing. Subject to the limitations on conversion described herein, the Series J Preferred Stock is convertible at a rate equal to the stated value of $1,000 per share divided by an initial conversion price equal to $0.70. The Series J Preferred Stock does not have an expiration date.</footnote>
+        <footnote id="F6">The Issuer issued its Series K Convertible Preferred Stock, par value $0.01 per share (the &quot;Series K Preferred Stock&quot;) at a stated value equal to $1,000 per share. The shares of Series K Preferred Stock reported herein are only convertible into shares of Common Stock if the Issuer amends its Certificate of Incorporation to authorize additional shares of Common Stock upon receiving shareholder approval of such amendment. This amendment has not been filed and/or accepted by the State of Delaware as of the date of this filing. Subject to the limitations on conversion described herein, the Series K Preferred Stock is convertible at a rate equal to the stated value of $1,000 per share divided by an initial conversion price equal to $0.40. The Series K Preferred Stock does not have an expiration date.</footnote>
+        <footnote id="F7">The warrants to purchase shares of Common Stock (the &quot;Warrants&quot;) held by BRPI and BRPLP are exercisable on or prior to October 20, 2025 at an initial exercise price of $1.00 per share. The Warrants are only exercisable in the event the Issuer amends its Certificate of Incorporation to authorize additional shares of Common Stock upon receiving shareholder approval of such amendment. This amendment has not been filed and/or accepted by the State of Delaware as of the date of this filing. The Warrants are also subject to a beneficial ownership limitation of 4.99%.</footnote>
+        <footnote id="F8">The 12% Senior Secured Subordinated Convertible Debentures of the Issuer (the &quot;Convertible Debentures&quot;) accrue interest at 12% per annum and mature on December 31, 2020. Principal and interest accrued on the Convertible Debentures are only convertible into shares of Common Stock in the event the Issuer amends its Certificate of Incorporation to authorize additional shares of Common Stock upon receiving shareholder approval of such amendment. This amendment has not been filed and/or accepted by the State of Delaware as of the date of this filing.</footnote>
+        <footnote id="F9">Subject to the limitations on conversion described herein, the Convertible Debentures are convertible into shares of Common Stock at the option of the Reporting Persons at any time prior to December 31, 2020 at a conversion price equal to (i) $0.33 per share in respect of the Convertible Debentures purchased on December 12, 2018 and currently held by BRPLP, BRPI and Dialectic and (ii) $0.40 per share in respect of the Convertible Debentures purchased on March 18, 2019 and currently held by BRPI.</footnote>
+    </footnotes>
+
+    <remarks>The Reporting Persons, together with 180 Degree Capital Corp. (&quot;180&quot;), may be deemed to be members of a Section 13(d) group that collectively owns more than 10% of the Issuer's voting securities. The Reporting Persons expressly disclaim beneficial ownership of any securities of the Issuer held or beneficially owned by 180 and its affiliates.</remarks>
+
+    <ownerSignature>
+        <signatureName>B. RILEY FINANCIAL, INC., /s/ Bryant R. Riley, By: Bryant R. Riley, Its: Co-Chief Executive Officer</signatureName>
+        <signatureDate>2020-12-04</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>BRC PARTNERS OPPORTUNITY FUND, LP, /s/ Bryant R. Riley, By: Bryant R. Riley, Its: Chief Investment Officer</signatureName>
+        <signatureDate>2020-12-04</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>BRC PARTNERS MANAGEMENT GP, LLC, By: B. Riley Capital Management, LLC, Its: Sole Member, /s/ Bryant R. Riley, By: Bryant R. Riley, Its: Chief Executive Officer</signatureName>
+        <signatureDate>2020-12-04</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>DIALECTIC ANTITHESIS PARTNERS, LP, By: BR Dialectic Capital Management, LLC , Its: General Partner, /s/ Bryant R. Riley, By: Bryant R. Riley , Its: Authorized Signatory</signatureName>
+        <signatureDate>2020-12-04</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>BR DIALECTIC CAPITAL MANAGEMENT, LLC, /s/ Bryant R. Riley, By: Bryant R. Riley, Its: Chief Executive Officer</signatureName>
+        <signatureDate>2020-12-04</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>B. RILEY CAPITAL MANAGEMENT, LLC, /s/ Bryant R. Riley, By: Bryant R. Riley, Its: Chief Executive Officer</signatureName>
+        <signatureDate>2020-12-04</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>B. RILEY PRINCIPAL INVESTMENTS, LLC, /s/ Daniel Shribman, By: Daniel Shribman, Its: President</signatureName>
+        <signatureDate>2020-12-04</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>BRF FINANCE CO., LLC, /s/ Daniel Shribman, By: Daniel Shribman, Its: Chief Investment Officer</signatureName>
+        <signatureDate>2020-12-04</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>BRYANT R. RILEY, /s/ Bryant R. Riley, By: Bryant R. Riley</signatureName>
+        <signatureDate>2020-12-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

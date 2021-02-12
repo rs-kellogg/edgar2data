@@ -1,0 +1,216 @@
+<SEC-DOCUMENT>0001567619-20-013095.txt : 20200709
+<SEC-HEADER>0001567619-20-013095.hdr.sgml : 20200709
+<ACCEPTANCE-DATETIME>20200709130243
+ACCESSION NUMBER:		0001567619-20-013095
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20200701
+FILED AS OF DATE:		20200709
+DATE AS OF CHANGE:		20200709
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Poppen Lauren
+		CENTRAL INDEX KEY:			0001817240
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-56049
+		FILM NUMBER:		201020098
+
+	MAIL ADDRESS:	
+		STREET 1:		2290 NORTH MAYFAIR ROAD
+		CITY:			WAUWATOSA
+		STATE:			WI
+		ZIP:			53226
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TEB Bancorp, Inc.
+		CENTRAL INDEX KEY:			0001751700
+		STANDARD INDUSTRIAL CLASSIFICATION:	SAVINGS INSTITUTIONS, NOT FEDERALLY CHARTERED [6036]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2290 NORTH MAYFAIR ROAD
+		CITY:			WAUWATOSA
+		STATE:			WI
+		ZIP:			53226
+		BUSINESS PHONE:		(414) 476-6434
+
+	MAIL ADDRESS:	
+		STREET 1:		2290 NORTH MAYFAIR ROAD
+		CITY:			WAUWATOSA
+		STATE:			WI
+		ZIP:			53226
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc1.xml
+<DESCRIPTION>FORM 3
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-07-01</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001751700</issuerCik>
+        <issuerName>TEB Bancorp, Inc.</issuerName>
+        <issuerTradingSymbol>TBBA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001817240</rptOwnerCik>
+            <rptOwnerName>Poppen Lauren</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>2290 NORTH MAYFAIR ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>WAUWATOSA</rptOwnerCity>
+            <rptOwnerState>WI</rptOwnerState>
+            <rptOwnerZipCode>53226</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>200</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By 401(k)</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes></footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Edward Quint, pursuant to Power of Attorney</signatureName>
+        <signatureDate>2020-07-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>poppenpoa.htm
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Luse Gorman
+         Document created using EDGARfilings PROfile 7.0.1.0
+         Copyright 1995 - 2020 Broadridge -->
+  </head>
+<body style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;" bgcolor="#ffffff">
+  <div>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-size: 12pt; font-weight: bold;">POWER OF ATTORNEY</div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div style="text-align: justify; text-indent: 36pt; font-size: 12pt;">I hereby appoint John P. Matter, Jennifer L. Provancher, Ned Quint, Kip Weissman, D. Max Seltzer and Jeffrey Cass to act as my true and
+      lawful attorney-in-fact with authority to execute on my behalf any Form ID, 3, 4 or 5 or any amendment thereto required to be filed by the undersigned under Section 16 of the Securities Exchange Act of 1934, as amended, and the rules and regulations
+      promulgated thereunder with the appropriate regulatory authorities and to do all things incident and necessary to that end, until such time as I notify Messrs. Matter, Quint, Weissman, Seltzer, Cass or Ms. Provancher in writing that their authority
+      to act on my behalf in this manner has been withdrawn.</div>
+    <div><br>
+    </div>
+    <div style="text-align: justify; text-indent: 36pt; font-size: 12pt;">I have signed this power of attorney on July 6, 2020.</div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" id="zf3cfd9861182492cb32cb3d5e82e6cd5" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 41.39%; vertical-align: top;">
+            <div style="text-align: right; font-size: 12pt;">By&#160;&#160;&#160; <br>
+            </div>
+          </td>
+          <td style="width: 58.61%; vertical-align: top;">
+            <div style="font-size: 12pt;">&#160;<u>/s/ Lauren Poppen</u></div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 41.39%; vertical-align: top;">&#160;</td>
+          <td style="width: 58.61%; vertical-align: top;">
+            <div style="font-size: 12pt;">Lauren Poppen</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 41.39%; vertical-align: top;">&#160;</td>
+          <td style="width: 58.61%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 41.39%; vertical-align: top;">
+            <div style="text-align: right; font-size: 12pt;">In presence of&#160;&#160;&#160; <br>
+            </div>
+          </td>
+          <td style="width: 58.61%; vertical-align: top;">
+            <div style="font-size: 12pt;">&#160;<u>/s/ Thomas J. Sattler</u></div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 41.39%; vertical-align: top;">&#160;</td>
+          <td style="width: 58.61%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 41.39%; vertical-align: top;">
+            <div style="text-align: right; font-size: 12pt;">At&#160;&#160;&#160; <br>
+            </div>
+          </td>
+          <td style="width: 58.61%; vertical-align: top;">
+            <div style="font-size: 12pt;">&#160;<u>Wauwatosa, WI</u></div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

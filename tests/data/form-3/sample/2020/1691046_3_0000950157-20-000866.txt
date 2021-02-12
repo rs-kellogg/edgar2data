@@ -1,0 +1,254 @@
+<SEC-DOCUMENT>0000950157-20-000866.txt : 20200709
+<SEC-HEADER>0000950157-20-000866.hdr.sgml : 20200709
+<ACCEPTANCE-DATETIME>20200709191221
+ACCESSION NUMBER:		0000950157-20-000866
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20200701
+FILED AS OF DATE:		20200709
+DATE AS OF CHANGE:		20200709
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Denecour Jessica
+		CENTRAL INDEX KEY:			0001691046
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12609
+		FILM NUMBER:		201021436
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O MOBILEIRON, INC.
+		STREET 2:		415 EAST MIDDLEFIELD ROAD
+		CITY:			MOUNTAIN VIEW
+		STATE:			CA
+		ZIP:			94043
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PG&E Corp
+		CENTRAL INDEX KEY:			0001004980
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC & OTHER SERVICES COMBINED [4931]
+		IRS NUMBER:				943234914
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		77 BEALE STREET
+		STREET 2:		P.O. BOX 770000
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94177
+		BUSINESS PHONE:		4159731000
+
+	MAIL ADDRESS:	
+		STREET 1:		77 BEALE STREET
+		STREET 2:		P.O. BOX 770000
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94177
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PG&E CORP
+		DATE OF NAME CHANGE:	19961219
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PG&E PARENT CO INC
+		DATE OF NAME CHANGE:	19951214
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>form3.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-07-01</periodOfReport>
+
+    <noSecuritiesOwned>1</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001004980</issuerCik>
+        <issuerName>PG&amp;E Corp</issuerName>
+        <issuerTradingSymbol>PCG</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001691046</rptOwnerCik>
+            <rptOwnerName>Denecour Jessica</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O PG&amp;E CORPORATION, 77 BEALE ST.</rptOwnerStreet1>
+            <rptOwnerStreet2>P.O. BOX 770000</rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94177</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <ownerSignature>
+        <signatureName>/s/ J. Ellen Conti, attorney-in-fact for Jessica Denecour (signed power of attorney on file with SEC)</signatureName>
+        <signatureDate>2020-07-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.1
+<SEQUENCE>2
+<FILENAME>ex24-1.htm
+<DESCRIPTION>POWER OF ATTORNEY
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Cravath, Swaine & Moore LLP
+         Document created using EDGARfilings PROfile 7.0.1.0
+         Copyright 1995 - 2020 Broadridge -->
+  </head>
+<body style="font-family: 'Times New Roman'; font-size: 10pt; text-align: left; color: #000000;" bgcolor="#ffffff">
+  <div>
+    <div style="text-align: right; font-weight: bold;">Exhibit 24.1</div>
+    <div><br>
+    </div>
+    <div style="text-align: center; color: #000000;">POWER OF ATTORNEY</div>
+    <div>&#160;</div>
+    <div style="text-indent: 72pt; color: #000000;">Know all by these presents, that the undersigned, Jessica Denecour, hereby constitutes and appoints each of Brian M. Wong, J. Ellen Conti, Eric Montizambert, Sujata Pagedar, Robin J. Reilly, Hank
+      Weintraub, and Koyo Konishi signing singly, the undersigned&#8217;s true and lawful attorney-in-fact to:</div>
+    <div><br>
+    </div>
+    <table style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z846b64da38a24e21b125c095c29dc34f" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 72pt;"><br>
+          </td>
+          <td style="width: 36pt; vertical-align: top; align: right; color: #000000;">(1)</td>
+          <td style="width: auto; vertical-align: top;">
+            <div style="color: #000000;">prepare, execute in the undersigned&#8217;s name and on the undersigned&#8217;s behalf, and submit to the United States Securities and Exchange Commission (SEC) a Form ID, including amendments thereto, and any other documents
+              necessary or appropriate to obtain codes and passwords enabling the undersigned to make electronic filings with the SEC of reports required by Section 16(a) of the Securities Exchange Act of 1934 or any rule or regulation of the SEC;</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <table style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z86e51f1c3784462aa92cda8912757971" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 72pt;"><br>
+          </td>
+          <td style="width: 36pt; vertical-align: top; align: right; color: #000000;">(2)</td>
+          <td style="width: auto; vertical-align: top;">
+            <div style="color: #000000;">execute for and on behalf of the undersigned Forms 3, 4, and 5 in accordance with Section 16(a) of the Securities Exchange Act of 1934 and the rules thereunder and any other forms or reports the undersigned may be
+              required to file in connection with the undersigned&#8217;s ownership, acquisition, or disposition of securities of PG&amp;E CORPORATION;</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <table style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="zdb512deb7fa5491b950fe1136ed45361" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 72pt;"><br>
+          </td>
+          <td style="width: 36pt; vertical-align: top; align: right; color: #000000;">(3)</td>
+          <td style="width: auto; vertical-align: top;">
+            <div style="color: #000000;">do and perform any and all acts for and on behalf of the undersigned which may be necessary or desirable to complete and execute any such Form 3, 4, or 5, or other forms or report, and timely file such forms or report
+              with the SEC and any other authority; and</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <table style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z52488cfbce6b45e9ac3e3921d55795a7" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 72pt;"><br>
+          </td>
+          <td style="width: 36pt; vertical-align: top; align: right; color: #000000;">(4)</td>
+          <td style="width: auto; vertical-align: top;">
+            <div style="color: #000000;">take any other action of any type whatsoever in connection with the foregoing which, in the opinion of such attorney-in fact, may be of benefit to, in the best interest of, or legally required by, the undersigned,
+              it being understood that the documents executed by such attorney-in-fact on behalf of the undersigned pursuant to this Power of Attorney shall be in such form and shall contain such terms and conditions as such attorney-in-fact may approve in
+              such attorney-in-fact&#8217;s discretion.</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div style="text-indent: 72pt;">The undersigned hereby grants to each such attorney-in-fact full power and authority to do and perform any and every act and thing whatsoever requisite, necessary, or proper to be done in the exercise of any of the
+      rights and powers herein granted, as fully to all intents and purposes as the undersigned might or could do if personally present, with full power of substitution or revocation, hereby ratifying and confirming all that such attorney-in-fact, or the
+      substitute or substitutes of such attorney-in-fact, shall lawfully do or cause to be done by virtue of this power of attorney and the rights and powers herein granted. The undersigned acknowledges that the foregoing attorneys-in-fact, in serving in
+      such capacity at the request of the undersigned, are not assuming, nor is PG&amp;E CORPORATION assuming, any of the undersigned&#8217;s responsibilities to comply with Section 16 of the Securities Exchange Act of 1934.</div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" id="DSPFPageBreakArea">
+      <div style="page-break-after:always;" id="DSPFPageBreak">
+        <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #BFBFBF; background-color: #BFBFBF; clear: both;" noshade="noshade"></div>
+    </div>
+    <!--PROfilePageNumberReset%Num%2%%%-->
+    <div><br>
+    </div>
+    <div style="text-indent: 72pt;">This Power of Attorney shall remain in full force and effect until the undersigned is no longer required to file Forms 3, 4, and 5 with respect to the undersigned&#8217;s holdings of and transactions in PG&amp;E CORPORATION
+      securities, unless earlier revoked by the undersigned in a signed writing delivered to any of the foregoing attorneys-in-fact; provided, however, that this Power of Attorney shall immediately terminate as to any of the foregoing attorneys-in-fact
+      when such attorney-in-fact ceases to hold the position of either (1) Corporate Secretary or Assistant Corporate Secretary, (2) attorney, or (3) paralegal of PG&amp;E CORPORATION or PACIFIC GAS AND ELECTRIC COMPANY.</div>
+    <div><br>
+    </div>
+    <div style="text-indent: 72pt;">IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to be executed as of this 23 day of June, 2020.</div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <table style="border-collapse: collapse; width: 60%; color: #000000; font-family: 'Times New Roman'; font-size: 10pt; text-align: left;" id="z885890acb6dc4a6f9c82971889e5b3f4" align="right" border="0" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 50%; vertical-align: top; padding-bottom: 2px;">&#160;</td>
+          <td rowspan="1" style="width: 25%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">
+            <div>/s/ Jessica Denecour</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">&#160;</td>
+          <td style="width: 50%; vertical-align: top; border-top: #000000 2px solid;">
+            <div>Signature</div>
+          </td>
+        </tr>
+
+    </table>
+    <div style="clear: both;"><br>
+    </div>
+    <div style="clear: both;"><br>
+    </div>
+    <div style="clear: both;"><br>
+    </div>
+    <div style="clear: both;"><br>
+    </div>
+    <div style="clear: both;"><br>
+    </div>
+    <div style="clear: both;"><br>
+    </div>
+  </div>
+  <div id="DSPFPageNumberArea" style="text-align: center;"><font id="DSPFPageNumber" style="font-size: 8pt; font-weight: normal; font-style: normal;">2</font></div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

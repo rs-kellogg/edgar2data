@@ -1,0 +1,134 @@
+<SEC-DOCUMENT>0001104659-20-007271.txt : 20200127
+<SEC-HEADER>0001104659-20-007271.hdr.sgml : 20200127
+<ACCEPTANCE-DATETIME>20200127192850
+ACCESSION NUMBER:		0001104659-20-007271
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20191016
+FILED AS OF DATE:		20200127
+DATE AS OF CHANGE:		20200127
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Haymarket Insurance Co
+		CENTRAL INDEX KEY:			0001792617
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	814-01269
+		FILM NUMBER:		20551045
+
+	BUSINESS ADDRESS:	
+		STREET 1:		415 BEDFORD ROAD
+		STREET 2:		SUITE 102
+		CITY:			PLEASANTVILLE
+		STATE:			NY
+		ZIP:			10570
+		BUSINESS PHONE:		9293837504
+
+	MAIL ADDRESS:	
+		STREET 1:		415 BEDFORD ROAD
+		STREET 2:		SUITE 102
+		CITY:			PLEASANTVILLE
+		STATE:			NY
+		ZIP:			10570
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BC Partners Lending Corp
+		CENTRAL INDEX KEY:			0001726548
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MD
+
+	BUSINESS ADDRESS:	
+		STREET 1:		650 MADISON AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		212-891-2880
+
+	MAIL ADDRESS:	
+		STREET 1:		650 MADISON AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>tv532266_form3.xml
+<DESCRIPTION>FORM 3
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2019-10-16</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001726548</issuerCik>
+        <issuerName>BC Partners Lending Corp</issuerName>
+        <issuerTradingSymbol>NONE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001792617</rptOwnerCik>
+            <rptOwnerName>Haymarket Insurance Co</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>49 W 23RD STREET, 8TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10010</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>BC Partners Lending Corp</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>200000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Frank Mayer</signatureName>
+        <signatureDate>2019-11-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

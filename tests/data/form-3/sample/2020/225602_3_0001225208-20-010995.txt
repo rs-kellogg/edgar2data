@@ -1,0 +1,154 @@
+<SEC-DOCUMENT>0001225208-20-010995.txt : 20200825
+<SEC-HEADER>0001225208-20-010995.hdr.sgml : 20200825
+<ACCEPTANCE-DATETIME>20200825171340
+ACCESSION NUMBER:		0001225208-20-010995
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200825
+FILED AS OF DATE:		20200825
+DATE AS OF CHANGE:		20200825
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			MASSACHUSETTS MUTUAL LIFE INSURANCE CO
+		CENTRAL INDEX KEY:			0000225602
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	814-01348
+		FILM NUMBER:		201133204
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1295 STATE STREET
+		CITY:			SPRINGFIELD
+		STATE:			MA
+		ZIP:			01111
+		BUSINESS PHONE:		4137448411
+
+	MAIL ADDRESS:	
+		STREET 1:		1295 STATE STREET
+		CITY:			SPRINGFIELD
+		STATE:			MA
+		ZIP:			01111
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Barings Capital Investment Corp
+		CENTRAL INDEX KEY:			0001811972
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		300 SOUTH TRYON STREET
+		STREET 2:		SUITE 2500
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28202
+		BUSINESS PHONE:		(704) 805-7200
+
+	MAIL ADDRESS:	
+		STREET 1:		300 SOUTH TRYON STREET
+		STREET 2:		SUITE 2500
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28202
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc3.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-08-25</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001811972</issuerCik>
+        <issuerName>Barings Capital Investment Corp</issuerName>
+        <issuerTradingSymbol>NONE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000225602</rptOwnerCik>
+            <rptOwnerName>MASSACHUSETTS MUTUAL LIFE INSURANCE CO</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1295 STATE STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SPRINGFIELD</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>01111</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>1</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1773105.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>93321.3200</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By C.M. Life Insurance  Company</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">C.M. Life Insurance Company is a wholly-owned subsidiary of the Reporting Person.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Philip Wellman</signatureName>
+        <signatureDate>2020-08-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

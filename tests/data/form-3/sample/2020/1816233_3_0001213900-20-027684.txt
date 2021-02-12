@@ -1,0 +1,196 @@
+<SEC-DOCUMENT>0001213900-20-027684.txt : 20200921
+<SEC-HEADER>0001213900-20-027684.hdr.sgml : 20200921
+<ACCEPTANCE-DATETIME>20200921191158
+ACCESSION NUMBER:		0001213900-20-027684
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20200921
+FILED AS OF DATE:		20200921
+DATE AS OF CHANGE:		20200921
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SAGANSKY JEFFREY
+		CENTRAL INDEX KEY:			0001207119
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39535
+		FILM NUMBER:		201187526
+
+	MAIL ADDRESS:	
+		STREET 1:		1450 2ND STREET
+		STREET 2:		SUITE 247
+		CITY:			SANTA MONICA
+		STATE:			CA
+		ZIP:			90401
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Falcon Capital Acquisition Corp.
+		CENTRAL INDEX KEY:			0001816233
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				851365053
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		660 MADISON AVENUE
+		STREET 2:		12TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10065
+		BUSINESS PHONE:		(212) 812-7702
+
+	MAIL ADDRESS:	
+		STREET 1:		660 MADISON AVENUE
+		STREET 2:		12TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10065
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Falcon Capital Corp I
+		DATE OF NAME CHANGE:	20200625
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>OWNERSHIP DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-09-21</periodOfReport>
+
+    <noSecuritiesOwned>1</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001816233</issuerCik>
+        <issuerName>Falcon Capital Acquisition Corp.</issuerName>
+        <issuerTradingSymbol>FCAC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001207119</rptOwnerCik>
+            <rptOwnerName>SAGANSKY JEFFREY</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O FALCON CAPITAL ACQUISITION CORP.</rptOwnerStreet1>
+            <rptOwnerStreet2>660 MADISON AVENUE, 12TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10065</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <remarks>See Exhibit 24.1 - Power of Attorney.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Daniel Nussen, Attorney-in-Fact</signatureName>
+        <signatureDate>2020-09-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.1
+<SEQUENCE>2
+<FILENAME>ea127157ex24-1_falconcap.htm
+<DESCRIPTION>POWER OF ATTORNEY
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right"><B>Exhibit 24.1</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>POWER OF ATTORNEY</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">The undersigned constitutes
+and appoints Joel Rubinstein, Daniel Nussen, Audrey Bae and Forrest Brown, or any of them acting singly, as the undersigned&rsquo;s
+true and lawful attorneys-in-fact and agents, with full power of substitution and resubstitution, for the undersigned and in the
+undersigned&rsquo;s name, place and stead, to:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">1. prepare, sign, and
+submit to the Securities and Exchange Commission (the &ldquo;<U>SEC</U>&rdquo;) on its Electronic Data Gathering, Analysis, and
+Retrieval (&ldquo;<U>EDGAR</U>&rdquo;) Filer Management website a Form ID application, including any amendments and exhibits thereto,
+and any other related documents as may be necessary or appropriate, to obtain from the SEC access codes to permit filing on the
+SEC&rsquo;s EDGAR system, granting unto said attorneys-in-fact and agents, and each of them, full power and authority to do and
+perform each act and thing requisite and necessary to be done as required by any rule or regulation of the SEC and the EDGAR Filer
+Manual as fully and to all intents and purposes as the undersigned might or could do in person, hereby ratifying and confirming
+all that said attorneys-in-fact and agents, and each of them, may lawfully do or cause to be done by virtue hereof; and</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">2. sign any and all
+SEC statements of beneficial ownership of securities of Falcon Capital Acquisition Corp. (the &ldquo;<U>Company</U>&rdquo;) on
+Schedule 13D as required under Section 13 and Forms 3, 4 and 5 as required under Section 16(a) of the Securities Exchange Act of
+1934, as amended, and any amendments thereto, and to file the same with all exhibits thereto, and other documents in connection
+therewith, with the SEC, the Company and any stock exchange on which any of the Company&rsquo;s securities are listed, granting
+unto said attorneys-in-fact and agents, and each of them, full power and authority to do and perform each act and thing requisite
+and necessary to be done under said Section 13 and Section 16(a), as fully and to all intents and purposes as the undersigned might
+or could do in person, hereby ratifying and confirming all that said attorneys-in-fact and agents, and each of them, may lawfully
+do or cause to be done by virtue hereof.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">A copy of this power
+of attorney shall be filed with the SEC.&nbsp;&nbsp;The authorization set forth above shall continue in full force and effect until
+the undersigned revokes such authorization by written instructions to the attorneys-in-fact.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">The authority granted
+hereby shall in no event be deemed to impose or create any duty on behalf of the attorneys-in-fact with respect to the undersigned&rsquo;s
+obligations to file a Form ID, Schedule 13Ds and Forms 3, 4 and 5 with the SEC.&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Dated:&nbsp;July 23, 2020</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 60%; font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; width: 40%; font-size: 10pt">/s/ Jeff Sagansky</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt">Jeff Sagansky</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

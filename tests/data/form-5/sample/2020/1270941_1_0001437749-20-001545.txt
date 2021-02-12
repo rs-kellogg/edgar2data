@@ -1,0 +1,152 @@
+<SEC-DOCUMENT>0001437749-20-001545.txt : 20200203
+<SEC-HEADER>0001437749-20-001545.hdr.sgml : 20200203
+<ACCEPTANCE-DATETIME>20200203155609
+ACCESSION NUMBER:		0001437749-20-001545
+CONFORMED SUBMISSION TYPE:	5
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20190424
+FILED AS OF DATE:		20200203
+DATE AS OF CHANGE:		20200203
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			PARKE DAVID C
+		CENTRAL INDEX KEY:			0001270941
+
+	FILING VALUES:
+		FORM TYPE:		5
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37419
+		FILM NUMBER:		20568598
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O PETROLEUM DEVELOPMENT CORP
+		STREET 2:		1775 SHERMAN STREET, SUITE 3000
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80203
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PDC ENERGY, INC.
+		CENTRAL INDEX KEY:			0000077877
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		IRS NUMBER:				952636730
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1775 SHERMAN STREET
+		STREET 2:		SUITE 3000
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80203
+		BUSINESS PHONE:		303-860-5800
+
+	MAIL ADDRESS:	
+		STREET 1:		PDC ENERGY, INC.
+		STREET 2:		1775 SHERMAN ST
+		CITY:			SUITE 3000
+		STATE:			CO
+		ZIP:			80203
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PETROLEUM DEVELOPMENT CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	YELLOW WING URANIUM CORP
+		DATE OF NAME CHANGE:	19730606
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>5
+<SEQUENCE>1
+<FILENAME>rdgdoc.xml
+<DESCRIPTION>FORM 5
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>5</documentType>
+
+    <periodOfReport>2019-04-24</periodOfReport>
+
+    <form3HoldingsReported>0</form3HoldingsReported>
+
+    <form4TransactionsReported>0</form4TransactionsReported>
+
+    <issuer>
+        <issuerCik>0000077877</issuerCik>
+        <issuerName>PDC ENERGY, INC.</issuerName>
+        <issuerTradingSymbol>PDCE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001270941</rptOwnerCik>
+            <rptOwnerName>PARKE DAVID C</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1775 SHERMAN STREET, SUITE 3000</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>DENVER</rptOwnerCity>
+            <rptOwnerState>CO</rptOwnerState>
+            <rptOwnerZipCode>80203</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2019-04-24</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>G</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>100</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>15591</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Nicole L. Martinet, by power of attorney</signatureName>
+        <signatureDate>2020-02-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

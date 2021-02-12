@@ -1,0 +1,207 @@
+<SEC-DOCUMENT>0001209191-20-007132.txt : 20200206
+<SEC-HEADER>0001209191-20-007132.hdr.sgml : 20200206
+<ACCEPTANCE-DATETIME>20200206150838
+ACCESSION NUMBER:		0001209191-20-007132
+CONFORMED SUBMISSION TYPE:	5
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20191231
+FILED AS OF DATE:		20200206
+DATE AS OF CHANGE:		20200206
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Blankenship W C Jr
+		CENTRAL INDEX KEY:			0001565546
+
+	FILING VALUES:
+		FORM TYPE:		5
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-19297
+		FILM NUMBER:		20582421
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O FIRST COMMUNITY BANCSHARES, INC.
+		STREET 2:		P. O. BOX 989
+		CITY:			BLUEFIELD
+		STATE:			VA
+		ZIP:			24605
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FIRST COMMUNITY BANKSHARES INC /VA/
+		CENTRAL INDEX KEY:			0000859070
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				550694814
+		STATE OF INCORPORATION:			VA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		PO BOX 989
+		CITY:			BLUEFIELD
+		STATE:			VA
+		ZIP:			24605
+		BUSINESS PHONE:		3043236300
+
+	MAIL ADDRESS:	
+		STREET 1:		29 COLLEGE DRIVE
+		STREET 2:		P O BOX 989
+		CITY:			BLUEFIELD
+		STATE:			VA
+		ZIP:			24605
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FIRST COMMUNITY BANCSHARES INC /NV/
+		DATE OF NAME CHANGE:	19971121
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FCFT INC
+		DATE OF NAME CHANGE:	19930328
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>5
+<SEQUENCE>1
+<FILENAME>doc5.xml
+<DESCRIPTION>FORM 5 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>5</documentType>
+
+    <periodOfReport>2019-12-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <form3HoldingsReported>0</form3HoldingsReported>
+
+    <form4TransactionsReported>1</form4TransactionsReported>
+
+    <issuer>
+        <issuerCik>0000859070</issuerCik>
+        <issuerName>FIRST COMMUNITY BANKSHARES INC /VA/</issuerName>
+        <issuerTradingSymbol>FCBC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001565546</rptOwnerCik>
+            <rptOwnerName>Blankenship W C Jr</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>P. O. BOX 989</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BLUEFIELD</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>24605</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>COMMON STOCK</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2019-04-29</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>G</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2202</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>22165</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F1"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>STOCK OPTION</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>12.07</value>
+            </conversionOrExercisePrice>
+            <transactionCoding>
+                <transactionFormType></transactionFormType>
+            </transactionCoding>
+            <exerciseDate>
+                <value>2011-12-19</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2020-06-04</value>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>COMMON STOCK</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>3407</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3407</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Owned jointly with spouse.</footnote>
+        <footnote id="F2">As a result of Mr. Blankenship's death on June 4, 2019, the options will expire one year from the date of death.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Sarah W. Harmon</signatureName>
+        <signatureDate>2020-02-06</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

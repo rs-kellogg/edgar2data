@@ -1,0 +1,138 @@
+<SEC-DOCUMENT>0001209191-20-007476.txt : 20200207
+<SEC-HEADER>0001209191-20-007476.hdr.sgml : 20200207
+<ACCEPTANCE-DATETIME>20200207160831
+ACCESSION NUMBER:		0001209191-20-007476
+CONFORMED SUBMISSION TYPE:	5
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20191231
+FILED AS OF DATE:		20200207
+DATE AS OF CHANGE:		20200207
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hennigan Michael J
+		CENTRAL INDEX KEY:			0001352283
+
+	FILING VALUES:
+		FORM TYPE:		5
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35054
+		FILM NUMBER:		20587462
+
+	MAIL ADDRESS:	
+		STREET 1:		3807 WEST CHESTER PIKE
+		CITY:			NEWTOWN SQUARE
+		STATE:			PA
+		ZIP:			19073
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Marathon Petroleum Corp
+		CENTRAL INDEX KEY:			0001510295
+		STANDARD INDUSTRIAL CLASSIFICATION:	PETROLEUM REFINING [2911]
+		IRS NUMBER:				271284632
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		539 SOUTH MAIN STREET
+		CITY:			FINDLAY
+		STATE:			OH
+		ZIP:			45840-3229
+		BUSINESS PHONE:		419-421-2159
+
+	MAIL ADDRESS:	
+		STREET 1:		539 SOUTH MAIN STREET
+		CITY:			FINDLAY
+		STATE:			OH
+		ZIP:			45840-3229
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>5
+<SEQUENCE>1
+<FILENAME>doc5.xml
+<DESCRIPTION>FORM 5 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>5</documentType>
+
+    <periodOfReport>2019-12-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <form3HoldingsReported>1</form3HoldingsReported>
+
+    <form4TransactionsReported>0</form4TransactionsReported>
+
+    <issuer>
+        <issuerCik>0001510295</issuerCik>
+        <issuerName>Marathon Petroleum Corp</issuerName>
+        <issuerTradingSymbol>MPC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001352283</rptOwnerCik>
+            <rptOwnerName>Hennigan Michael J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O MARATHON PETROLEUM CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>539 S. MAIN STREET</rptOwnerStreet2>
+            <rptOwnerCity>FINDLAY</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>45840</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>President &amp; CEO, MPLX GP LLC</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionCoding>
+                <transactionFormType>3</transactionFormType>
+            </transactionCoding>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>42054</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This Form 5 is being filed solely to reflect holdings that were omitted from the Reporting Person's original Form 3 filed on November 8, 2019 related to his appointment as President and Chief Executive Officer of MPLX GP LLC, a subsidiary of the Issuer.</footnote>
+    </footnotes>
+
+    <remarks>The Reporting Person is the President and Chief Executive Officer of MPLX GP LLC, a subsidiary of the Issuer.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Molly R. Benson, Attorney-in-Fact for Michael J. Hennigan</signatureName>
+        <signatureDate>2020-02-07</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

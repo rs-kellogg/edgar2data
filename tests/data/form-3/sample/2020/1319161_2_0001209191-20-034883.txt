@@ -1,0 +1,159 @@
+<SEC-DOCUMENT>0001209191-20-034883.txt : 20200605
+<SEC-HEADER>0001209191-20-034883.hdr.sgml : 20200605
+<ACCEPTANCE-DATETIME>20200605213022
+ACCESSION NUMBER:		0001209191-20-034883
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200602
+FILED AS OF DATE:		20200605
+DATE AS OF CHANGE:		20200605
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Blavatnik Family Foundation LLC
+		CENTRAL INDEX KEY:			0001813893
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32502
+		FILM NUMBER:		20947936
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O ACCESS INDUSTRIES, LLC
+		STREET 2:		40 WEST 57TH ST, 28TH FLR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		212-247-6400
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ACCESS INDUSTRIES, LLC
+		STREET 2:		40 WEST 57TH ST, 28TH FLR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Warner Music Group Corp.
+		CENTRAL INDEX KEY:			0001319161
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-AMUSEMENT & RECREATION SERVICES [7900]
+		IRS NUMBER:				134271875
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1633 BROADWAY
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		212-275-2000
+
+	MAIL ADDRESS:	
+		STREET 1:		1633 BROADWAY
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WMG Parent Corp.
+		DATE OF NAME CHANGE:	20050228
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc3.xml
+<DESCRIPTION>FORM 3 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-06-02</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001319161</issuerCik>
+        <issuerName>Warner Music Group Corp.</issuerName>
+        <issuerTradingSymbol>WMG</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001813893</rptOwnerCik>
+            <rptOwnerName>Blavatnik Family Foundation LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O ACCESS INDUSTRIES, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>40 WEST 57TH STREET, 28TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10019</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <otherText>Affiliate of 10% Owner</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Class B  Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>20000000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F2"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each share of Class B Common Stock is convertible at any time at the option of the holder into one share of Class A Common Stock and has no expiration date.</footnote>
+        <footnote id="F2">The securities reported are held directly by Blavatnik Family Foundation LLC (&quot;BFF&quot;) and may be deemed to be beneficially owned by AI, AIM and Mr. Blavatnik, because AI is the sole member of BFF, AIM controls AI and Mr. Blavatnik is the controlling person of AIM and controls a majority of the outstanding voting interests in AI. Each of the reporting persons (other than BFF) disclaims beneficial ownership of these securities, except to the extent of its or his pecuniary interest therein, and this Form shall not be construed as an admission that any such reporting person is the beneficial owner of any of the securities reported on this Form.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Alejandro Moreno for Blavatnik Family Foundation LLC</signatureName>
+        <signatureDate>2020-06-05</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

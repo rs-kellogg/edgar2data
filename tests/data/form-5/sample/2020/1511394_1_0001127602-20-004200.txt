@@ -1,0 +1,128 @@
+<SEC-DOCUMENT>0001127602-20-004200.txt : 20200207
+<SEC-HEADER>0001127602-20-004200.hdr.sgml : 20200207
+<ACCEPTANCE-DATETIME>20200207114815
+ACCESSION NUMBER:		0001127602-20-004200
+CONFORMED SUBMISSION TYPE:	5
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20191231
+FILED AS OF DATE:		20200207
+DATE AS OF CHANGE:		20200207
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Robinson Joseph R
+		CENTRAL INDEX KEY:			0001511394
+
+	FILING VALUES:
+		FORM TYPE:		5
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-08467
+		FILM NUMBER:		20586093
+
+	MAIL ADDRESS:	
+		STREET 1:		38 FOUNTAIN SQUARE PLAZA
+		STREET 2:		MD 10AT76
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45263
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WESBANCO INC
+		CENTRAL INDEX KEY:			0000203596
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				550571723
+		STATE OF INCORPORATION:			WV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 BANK PLAZA
+		CITY:			WHEELING
+		STATE:			WV
+		ZIP:			26003
+		BUSINESS PHONE:		3042349000
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE BANK PLZ
+		CITY:			WHEELING
+		STATE:			WV
+		ZIP:			26003
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>5
+<SEQUENCE>1
+<FILENAME>form5.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>5</documentType>
+
+    <periodOfReport>2019-12-31</periodOfReport>
+
+    <form3HoldingsReported>0</form3HoldingsReported>
+
+    <form4TransactionsReported>0</form4TransactionsReported>
+
+    <issuer>
+        <issuerCik>0000203596</issuerCik>
+        <issuerName>WESBANCO INC</issuerName>
+        <issuerTradingSymbol>WSBC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001511394</rptOwnerCik>
+            <rptOwnerName>Robinson Joseph R</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>38 FOUNTAIN SQUARE PLAZA</rptOwnerStreet1>
+            <rptOwnerStreet2>MD 10AT76</rptOwnerStreet2>
+            <rptOwnerCity>CINCINNATI</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>45263</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1248.028</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes 4.028 shares acquired from the WesBanco, Inc. Dividend Reinvestment Plan.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Robert H. Young, Attorney-in-Fact</signatureName>
+        <signatureDate>2020-02-07</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

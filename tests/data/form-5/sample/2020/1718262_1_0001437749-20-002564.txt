@@ -1,0 +1,135 @@
+<SEC-DOCUMENT>0001437749-20-002564.txt : 20200213
+<SEC-HEADER>0001437749-20-002564.hdr.sgml : 20200213
+<ACCEPTANCE-DATETIME>20200213141316
+ACCESSION NUMBER:		0001437749-20-002564
+CONFORMED SUBMISSION TYPE:	5
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20191231
+FILED AS OF DATE:		20200213
+DATE AS OF CHANGE:		20200213
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			DeNaples Joseph L
+		CENTRAL INDEX KEY:			0001718262
+
+	FILING VALUES:
+		FORM TYPE:		5
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38408
+		FILM NUMBER:		20609101
+
+	MAIL ADDRESS:	
+		STREET 1:		FNCB BANCORP, INC.
+		STREET 2:		102 E. DRINKER ST.
+		CITY:			DUNMORE
+		STATE:			PA
+		ZIP:			18512
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FNCB Bancorp, Inc.
+		CENTRAL INDEX KEY:			0001035976
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				232900790
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		102 EAST DRINKER STREET
+		CITY:			DUMORE
+		STATE:			PA
+		ZIP:			18512
+		BUSINESS PHONE:		7173486438
+
+	MAIL ADDRESS:	
+		STREET 1:		102 EAST DRINKER STREET
+		CITY:			DUNMORE
+		STATE:			PA
+		ZIP:			18512
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FIRST NATIONAL COMMUNITY BANCORP INC
+		DATE OF NAME CHANGE:	19970318
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>5
+<SEQUENCE>1
+<FILENAME>rdgdoc.xml
+<DESCRIPTION>FORM 5
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>5</documentType>
+
+    <periodOfReport>2019-12-31</periodOfReport>
+
+    <form3HoldingsReported>0</form3HoldingsReported>
+
+    <form4TransactionsReported>0</form4TransactionsReported>
+
+    <issuer>
+        <issuerCik>0001035976</issuerCik>
+        <issuerName>FNCB Bancorp, Inc.</issuerName>
+        <issuerTradingSymbol>FNCB</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001718262</rptOwnerCik>
+            <rptOwnerName>DeNaples Joseph L</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O FNCB BANK</rptOwnerStreet1>
+            <rptOwnerStreet2>102 E. DRINKER ST.</rptOwnerStreet2>
+            <rptOwnerCity>DUNMORE</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>18512</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionCoding>
+                <transactionFormType></transactionFormType>
+            </transactionCoding>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>303740.149</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This amount includes 1,174.5380 shares acquired under the Issuer's Dividend Reinvestment  and Stock Purchase Plan (&quot;DRP&quot;) for 9/16/2019, 1,234.3160 shares acquired under the DRP for 12/16/2019, owned solely by Atty. DeNaples; 34.734 shares acquired under the DRP for 9/16/2019, 36.437 shares acquired under the DRP for 12/16/2019, owned jointly with a sibling. Therefore, Atty. DeNaples owns 291,699.1910 shares individually; and 12,040.9580 shares owned jointly with a sibling.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ James M. Bone, Jr., As Attorney in Fact</signatureName>
+        <signatureDate>2020-02-13</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

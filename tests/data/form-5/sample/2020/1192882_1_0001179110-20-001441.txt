@@ -1,0 +1,160 @@
+<SEC-DOCUMENT>0001179110-20-001441.txt : 20200211
+<SEC-HEADER>0001179110-20-001441.hdr.sgml : 20200211
+<ACCEPTANCE-DATETIME>20200211164413
+ACCESSION NUMBER:		0001179110-20-001441
+CONFORMED SUBMISSION TYPE:	5
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20191231
+FILED AS OF DATE:		20200211
+DATE AS OF CHANGE:		20200211
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			ROESSLEIN CHARLES J
+		CENTRAL INDEX KEY:			0001192882
+
+	FILING VALUES:
+		FORM TYPE:		5
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12593
+		FILM NUMBER:		20597487
+
+	MAIL ADDRESS:	
+		STREET 1:		AUSTIN TELE SERVICES
+		STREET 2:		4020 INDUSTRIAL DRIVE, SUITE 100
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78744
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ATN International, Inc.
+		CENTRAL INDEX KEY:			0000879585
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEPHONE COMMUNICATIONS (NO RADIO TELEPHONE) [4813]
+		IRS NUMBER:				470728886
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 CUMMINGS CENTER
+		CITY:			BEVERLY
+		STATE:			MA
+		ZIP:			01915
+		BUSINESS PHONE:		9786191300
+
+	MAIL ADDRESS:	
+		STREET 1:		500 CUMMINGS CENTER
+		CITY:			BEVERLY
+		STATE:			MA
+		ZIP:			01915
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ATLANTIC TELE NETWORK INC /DE
+		DATE OF NAME CHANGE:	19930328
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>5
+<SEQUENCE>1
+<FILENAME>edgar.xml
+<DESCRIPTION>FORM 5 -
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>5</documentType>
+
+    <periodOfReport>2019-12-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <form3HoldingsReported>0</form3HoldingsReported>
+
+    <form4TransactionsReported>0</form4TransactionsReported>
+
+    <issuer>
+        <issuerCik>0000879585</issuerCik>
+        <issuerName>ATN International, Inc.</issuerName>
+        <issuerTradingSymbol>ATNI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001192882</rptOwnerCik>
+            <rptOwnerName>ROESSLEIN CHARLES J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O ATN INTERNATIONAL, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>500 CUMMINGS CENTER</rptOwnerStreet2>
+            <rptOwnerCity>BEVERLY</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>01915</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2019-06-04</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1969</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>11183</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents fully vested shares of restricted stock grant pursuant to the Issuer's 2008 Equity Incentive Plan in payment of Mr. Roesslein's 2019 annual director retainer based on the closing per share price of $58.77 of the Issuer's common stock on June 4, 2019.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Andrew S. Fienberg, as Attorney-in-Fact for Charles J. Roesslein</signatureName>
+        <signatureDate>2020-02-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

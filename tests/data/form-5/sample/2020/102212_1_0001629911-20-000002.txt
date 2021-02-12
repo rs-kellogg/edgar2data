@@ -1,0 +1,184 @@
+<SEC-DOCUMENT>0001629911-20-000002.txt : 20200107
+<SEC-HEADER>0001629911-20-000002.hdr.sgml : 20200107
+<ACCEPTANCE-DATETIME>20200107161733
+ACCESSION NUMBER:		0001629911-20-000002
+CONFORMED SUBMISSION TYPE:	5
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20191231
+FILED AS OF DATE:		20200107
+DATE AS OF CHANGE:		20200107
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Turner Michael L.
+		CENTRAL INDEX KEY:			0001629911
+
+	FILING VALUES:
+		FORM TYPE:		5
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-07617
+		FILM NUMBER:		20513512
+
+	MAIL ADDRESS:	
+		STREET 1:		14 NORTH MAIN STREET
+		STREET 2:		P.O. BOX 197
+		CITY:			SOUDERTON
+		STATE:			PA
+		ZIP:			18964-0197
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			UNIVEST FINANCIAL Corp
+		CENTRAL INDEX KEY:			0000102212
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				231886144
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		14 NORTH MAIN STREET
+		STREET 2:		P. O. BOX 64197
+		CITY:			SOUDERTON
+		STATE:			PA
+		ZIP:			18964
+		BUSINESS PHONE:		2157212400
+
+	MAIL ADDRESS:	
+		STREET 1:		14 NORTH MAIN STREET
+		STREET 2:		P. O. BOX 64197
+		CITY:			SOUDERTON
+		STATE:			PA
+		ZIP:			18964
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	UNIVEST CORP OF PENNSYLVANIA
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>5
+<SEQUENCE>1
+<FILENAME>wf-form5_157843183581769.xml
+<DESCRIPTION>FORM 5
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>5</documentType>
+
+    <periodOfReport>2019-12-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <form3HoldingsReported>0</form3HoldingsReported>
+
+    <form4TransactionsReported>0</form4TransactionsReported>
+
+    <issuer>
+        <issuerCik>0000102212</issuerCik>
+        <issuerName>UNIVEST FINANCIAL Corp</issuerName>
+        <issuerTradingSymbol>UVSP</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001629911</rptOwnerCik>
+            <rptOwnerName>Turner Michael L.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>134 PLYMOUTH ROAD, #4416</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>PLYMOUTH MEETING</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>19462</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>22393.3497</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2021-01-31</value>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2021-01-31</value>
+                <footnoteId id="F4"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1384.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1384</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">INCLUDES 1,000 RESTRICTED SHARES SUBJECT TO VESTING.</footnote>
+        <footnote id="F2">INCLUDES 436.3497 SHARES ACQUIRED THROUGH THE DIVIDEND REINVESTMENT PLAN.</footnote>
+        <footnote id="F3">EACH RESTRICTED STOCK UNIT REPRESENTS A CONTINGENT RIGHT TO RECEIVE ONE SHARE OF COMMON STOCK UPON VESTING OF THE UNIT.</footnote>
+        <footnote id="F4">THE RESTRICTED STOCK UNITS VEST ON THE DATE INDICATED, ASSUMING CONTINUED SERVICE THROUGH THE VESTING DATE.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Megan D. Santana</signatureName>
+        <signatureDate>2020-01-07</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

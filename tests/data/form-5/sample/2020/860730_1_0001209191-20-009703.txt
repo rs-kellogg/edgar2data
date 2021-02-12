@@ -1,0 +1,377 @@
+<SEC-DOCUMENT>0001209191-20-009703.txt : 20200214
+<SEC-HEADER>0001209191-20-009703.hdr.sgml : 20200214
+<ACCEPTANCE-DATETIME>20200214164356
+ACCESSION NUMBER:		0001209191-20-009703
+CONFORMED SUBMISSION TYPE:	5
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20191231
+FILED AS OF DATE:		20200214
+DATE AS OF CHANGE:		20200214
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			FRIST THOMAS F III
+		CENTRAL INDEX KEY:			0001223892
+
+	FILING VALUES:
+		FORM TYPE:		5
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11239
+		FILM NUMBER:		20621218
+
+	MAIL ADDRESS:	
+		STREET 1:		3100 WEST END AVENUE SUITE 1225
+		CITY:			NASHVILLE
+		STATE:			TN
+		ZIP:			37203
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HCA Healthcare, Inc.
+		CENTRAL INDEX KEY:			0000860730
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-GENERAL MEDICAL & SURGICAL HOSPITALS, NEC [8062]
+		IRS NUMBER:				273865930
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE PARK PLZ
+		CITY:			NASHVILLE
+		STATE:			TN
+		ZIP:			37203
+		BUSINESS PHONE:		6153449551
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE PARK PLAZA
+		CITY:			NASHVILLE
+		STATE:			TN
+		ZIP:			37203
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HCA Holdings, Inc.
+		DATE OF NAME CHANGE:	20101126
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HCA INC/TN
+		DATE OF NAME CHANGE:	20010627
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HCA THE HEALTHCARE CO
+		DATE OF NAME CHANGE:	20010419
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>5
+<SEQUENCE>1
+<FILENAME>doc5.xml
+<DESCRIPTION>FORM 5 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>5</documentType>
+
+    <periodOfReport>2019-12-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <form3HoldingsReported>0</form3HoldingsReported>
+
+    <form4TransactionsReported>0</form4TransactionsReported>
+
+    <issuer>
+        <issuerCik>0000860730</issuerCik>
+        <issuerName>HCA Healthcare, Inc.</issuerName>
+        <issuerTradingSymbol>HCA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001223892</rptOwnerCik>
+            <rptOwnerName>FRIST THOMAS F III</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3100 WEST END AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NASHVILLE</rptOwnerCity>
+            <rptOwnerState>TN</rptOwnerState>
+            <rptOwnerZipCode>37203</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.01 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2019-05-21</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>G</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>13593.169</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>843617.1889</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Held indirectly through Hercules Holding II by Thomas F. Frist III 2019 Annuity Trust I</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.01 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2019-08-20</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>G</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>315.235</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>843932.4239</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Held indirectly through Hercules Holding II by Thomas F. Frist III 2019 Annuity Trust I</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, par value $0.01 per share</value>
+            </securityTitle>
+            <transactionCoding>
+                <transactionFormType></transactionFormType>
+            </transactionCoding>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5312</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, par value $0.01 per share</value>
+            </securityTitle>
+            <transactionCoding>
+                <transactionFormType></transactionFormType>
+            </transactionCoding>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>9496.54</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Held indirectly through Hercules Holding by Spouse</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, par value $0.01 per share</value>
+            </securityTitle>
+            <transactionCoding>
+                <transactionFormType></transactionFormType>
+            </transactionCoding>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2736579.4372</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Held indirectly through Hercules Holding II by Thomas F. Frist III 2018 Annuity Trust I</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, par value $0.01 per share</value>
+            </securityTitle>
+            <transactionCoding>
+                <transactionFormType></transactionFormType>
+            </transactionCoding>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1033528.4872</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Held indirectly through Hercules Holding II by Thomas F. Frist III 2007 Family Trust</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, par value $0.01 per share</value>
+            </securityTitle>
+            <transactionCoding>
+                <transactionFormType></transactionFormType>
+            </transactionCoding>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>28489.62</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Held indirectly through Hercules Holding II by Trusts for Children</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F6"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, par value $0.01 per share</value>
+            </securityTitle>
+            <transactionCoding>
+                <transactionFormType></transactionFormType>
+            </transactionCoding>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2348330.3547</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Held indirectly through Hercules Holding II by Trusts for Children</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F6"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, par value $0.01 per share</value>
+            </securityTitle>
+            <transactionCoding>
+                <transactionFormType></transactionFormType>
+            </transactionCoding>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>36629163.8593</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Held indirectly through Hercules Holding II by Frisco, Inc.</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F7"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Hercules Holding II (&quot;Hercules&quot;) holds 68,912,077 shares of common stock of HCA Healthcare, Inc.  Hercules is held by a private investor group, including affiliates of HCA Inc. founder Dr. Thomas F. Frist Jr.  The Reporting Person may be deemed to be a member of a group exercising voting and investment control over the shares of common stock of HCA Healthcare, Inc. held by Hercules.  However, the Reporting Person disclaims membership in any such group and disclaims beneficial ownership of these securities, except to the extent of his pecuniary interest therein.</footnote>
+        <footnote id="F2">The Reporting Person received gifts of 13,593.168989 and 315.234983 units of Hercules on May 21, 2019 and August 20, 2019, respectively, which were subsequently transferred to the Thomas F. Frist III 2019 Annuity Trust I, of which he serves as trustee. Following receipt of these gifts, the Reporting Person may be deemed the beneficial owner of the units of Hercules held by this trust and therefore may be deemed to own indirectly the same number of shares of common stock of HCA Healthcare, Inc.</footnote>
+        <footnote id="F3">The Reporting Person may be deemed to have an indirect beneficial ownership in respect of 9,496.54 units of Hercules through an indirect pecuniary interest in such units held by his spouse, and therefore may be deemed to own indirectly the same number of shares of common stock of HCA Healthcare, Inc.</footnote>
+        <footnote id="F4">The Reporting Person is trustee of The Thomas F. Frist III 2018 Annuity Trust I and may be deemed to be the beneficial owner of the units of Hercules held by such trust and therefore may be deemed to own indirectly the same number of shares of common stock of HCA Healthcare, Inc.</footnote>
+        <footnote id="F5">The Reporting Person's spouse is trustee of the Thomas F. Frist III 2007 Family Trust and the Reporting Person may be deemed to be the beneficial owner of the units of Hercules held by such trust and therefore may be deemed to own indirectly the same number of shares of common stock of HCA Healthcare, Inc.</footnote>
+        <footnote id="F6">The Reporting Person may be deemed to be the beneficial owner of the aggregate (i) 28,849.62 units of Hercules held by certain trusts for the benefit of the Reporting Person's children, each of which his sister serves as trustee, and (ii) 2,348,330.3574 units of Hercules held by certain trusts for the benefit of the Reporting Person's children, each of which his spouse serves as trustee, and therefore may be deemed to own indirectly the same number of shares of common stock of HCA Healthcare, Inc.</footnote>
+        <footnote id="F7">The Reporting Person may be deemed to share voting and dispositive power with respect to 36,629,163.8593 shares of HCA Healthcare, Inc. beneficially owned by Frisco, Inc., by virtue of his position as a director of Frisco, Inc. Frisco, Inc. has beneficial ownership of 36,629,163.8593 units of Hercules, and therefore may be deemed to own indirectly the same number of shares of common stock of HCA Healthcare, Inc.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Natalie Harrison Cline, Attorney-in-Fact</signatureName>
+        <signatureDate>2020-02-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

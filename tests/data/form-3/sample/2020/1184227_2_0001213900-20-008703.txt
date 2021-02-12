@@ -1,0 +1,163 @@
+<SEC-DOCUMENT>0001213900-20-008703.txt : 20200406
+<SEC-HEADER>0001213900-20-008703.hdr.sgml : 20200406
+<ACCEPTANCE-DATETIME>20200406191232
+ACCESSION NUMBER:		0001213900-20-008703
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200331
+FILED AS OF DATE:		20200406
+DATE AS OF CHANGE:		20200406
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			OMENN GILBERT S
+		CENTRAL INDEX KEY:			0001184227
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-55804
+		FILM NUMBER:		20778074
+
+	MAIL ADDRESS:	
+		STREET 1:		AMGEN INC.
+		STREET 2:		ONE AMGEN CENTER DRIVE
+		CITY:			THOUSAND OAKS
+		STATE:			CA
+		ZIP:			91320-1799
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Amesite Inc.
+		CENTRAL INDEX KEY:			0001707258
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				821433756
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		207 EAST WASHINGTON STREET
+		CITY:			ANN ARBOR
+		STATE:			MI
+		ZIP:			48104
+		BUSINESS PHONE:		650-516-7633
+
+	MAIL ADDRESS:	
+		STREET 1:		207 EAST WASHINGTON STREET
+		CITY:			ANN ARBOR
+		STATE:			MI
+		ZIP:			48104
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Lola One Acquisition Corp
+		DATE OF NAME CHANGE:	20170522
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-03-31</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001707258</issuerCik>
+        <issuerName>Amesite Inc.</issuerName>
+        <issuerTradingSymbol>NONE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001184227</rptOwnerCik>
+            <rptOwnerName>OMENN GILBERT S</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O AMESITE INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>205 EAST WASHINGTON STREET SUITE B</rptOwnerStreet2>
+            <rptOwnerCity>ANN ARBOR</rptOwnerCity>
+            <rptOwnerState>MI</rptOwnerState>
+            <rptOwnerZipCode>48104</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>41666</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.50</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-03-29</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>36458</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The stock options (the &quot;Options&quot;) previously vested as follows: 50% of the Options vested on 03/29/2019, and the remainder of the Options vested in twelve (12) equal monthly installments thereafter.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Gilbert S. Omenn, M.D., Ph.D.</signatureName>
+        <signatureDate>2020-04-06</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

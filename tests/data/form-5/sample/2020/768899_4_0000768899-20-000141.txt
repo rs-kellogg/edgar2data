@@ -1,0 +1,163 @@
+<SEC-DOCUMENT>0000768899-20-000141.txt : 20201229
+<SEC-HEADER>0000768899-20-000141.hdr.sgml : 20201229
+<ACCEPTANCE-DATETIME>20201229170500
+ACCESSION NUMBER:		0000768899-20-000141
+CONFORMED SUBMISSION TYPE:	5
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20201227
+FILED AS OF DATE:		20201229
+DATE AS OF CHANGE:		20201229
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SAKAGUCHI JEFFREY B
+		CENTRAL INDEX KEY:			0001506988
+
+	FILING VALUES:
+		FORM TYPE:		5
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14543
+		FILM NUMBER:		201423153
+
+	MAIL ADDRESS:	
+		STREET 1:		861 11TH STREET
+		CITY:			MANHATTAN BEACH
+		STATE:			CA
+		ZIP:			90266
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TrueBlue, Inc.
+		CENTRAL INDEX KEY:			0000768899
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-HELP SUPPLY SERVICES [7363]
+		IRS NUMBER:				911287341
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			1227
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1015 A STREET
+		CITY:			TACOMA
+		STATE:			WA
+		ZIP:			98402
+		BUSINESS PHONE:		253-383-9101
+
+	MAIL ADDRESS:	
+		STREET 1:		P.O. BOX 2910
+		STREET 2:		1015 A. ST.
+		CITY:			TACOMA
+		STATE:			WA
+		ZIP:			98402
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LABOR READY INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DICKS HAMBURGERS INC
+		DATE OF NAME CHANGE:	19900329
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>5
+<SEQUENCE>1
+<FILENAME>wf-form5_160927948379944.xml
+<DESCRIPTION>FORM 5
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>5</documentType>
+
+    <periodOfReport>2020-12-27</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <form3HoldingsReported>0</form3HoldingsReported>
+
+    <form4TransactionsReported>0</form4TransactionsReported>
+
+    <issuer>
+        <issuerCik>0000768899</issuerCik>
+        <issuerName>TrueBlue, Inc.</issuerName>
+        <issuerTradingSymbol>TBI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001506988</rptOwnerCik>
+            <rptOwnerName>SAKAGUCHI JEFFREY B</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1015 A STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>TACOMA</rptOwnerCity>
+            <rptOwnerState>WA</rptOwnerState>
+            <rptOwnerZipCode>98402</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-11-13</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>G</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>290</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>32348</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes></footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Todd N. Gilman, Attorney-in-fact</signatureName>
+        <signatureDate>2020-12-29</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

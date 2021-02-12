@@ -1,0 +1,115 @@
+<SEC-DOCUMENT>0001700264-20-000020.txt : 20200206
+<SEC-HEADER>0001700264-20-000020.hdr.sgml : 20200206
+<ACCEPTANCE-DATETIME>20200206161930
+ACCESSION NUMBER:		0001700264-20-000020
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200131
+FILED AS OF DATE:		20200206
+DATE AS OF CHANGE:		20200206
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			GOULET JACQUES JR
+		CENTRAL INDEX KEY:			0001802391
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-05440
+		FILM NUMBER:		20582934
+
+	MAIL ADDRESS:	
+		STREET 1:		111 HUNTINGTON AVENUE
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02199
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MFS INTERMEDIATE INCOME TRUST
+		CENTRAL INDEX KEY:			0000826735
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			1031
+
+	BUSINESS ADDRESS:	
+		STREET 1:		111 HUNTINGTON AVENUE
+		STREET 2:		24TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02199
+		BUSINESS PHONE:		18006372929
+
+	MAIL ADDRESS:	
+		STREET 1:		111 HUNTINGTON AVENUE
+		STREET 2:		24TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02199
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MFS MULTI GOVERNMENT INTERMEDIATE TRUST
+		DATE OF NAME CHANGE:	19880308
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INTERNATIONAL GOVERNMENT INCOME TRUST
+		DATE OF NAME CHANGE:	19880211
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-01-31</periodOfReport>
+
+    <noSecuritiesOwned>1</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000826735</issuerCik>
+        <issuerName>MFS INTERMEDIATE INCOME TRUST</issuerName>
+        <issuerTradingSymbol>MIN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001802391</rptOwnerCik>
+            <rptOwnerName>GOULET JACQUES JR</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>111 HUNTINGTON AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BOSTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02199</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <otherText>ADVISOR TO OFFICER</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <ownerSignature>
+        <signatureName>CHRISTOPHER R. BOHANE</signatureName>
+        <signatureDate>2020-02-06</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

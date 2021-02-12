@@ -1,0 +1,142 @@
+<SEC-DOCUMENT>0001804444-20-000001.txt : 20200722
+<SEC-HEADER>0001804444-20-000001.hdr.sgml : 20200722
+<ACCEPTANCE-DATETIME>20200722192001
+ACCESSION NUMBER:		0001804444-20-000001
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200714
+FILED AS OF DATE:		20200722
+DATE AS OF CHANGE:		20200722
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SARAH JEWELL MATHIAS INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0001804444
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-54546
+		FILM NUMBER:		201042457
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2575 EASTERN BLVD
+		STREET 2:		SUITE 105
+		CITY:			YORK
+		STATE:			PA
+		ZIP:			17402
+		BUSINESS PHONE:		7174340668
+
+	MAIL ADDRESS:	
+		STREET 1:		2575 EASTERN BLVD
+		STREET 2:		SUITE 105
+		CITY:			YORK
+		STATE:			PA
+		ZIP:			17402
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ameri Metro, Inc. (formerly Yellowwood)
+		CENTRAL INDEX KEY:			0001534155
+		STANDARD INDUSTRIAL CLASSIFICATION:	HEAVY CONSTRUCTION OTHER THAN BUILDING CONST - CONTRACTORS [1600]
+		IRS NUMBER:				451877342
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0731
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2575 EASTERN BLVD. # 211
+		CITY:			YORK
+		STATE:			PA
+		ZIP:			17402
+		BUSINESS PHONE:		717-701-7726
+
+	MAIL ADDRESS:	
+		STREET 1:		2575 EASTERN BLVD. # 211
+		CITY:			YORK
+		STATE:			PA
+		ZIP:			17402
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Yellowwood Acquisition Corp
+		DATE OF NAME CHANGE:	20111102
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-07-14</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001534155</issuerCik>
+        <issuerName>Ameri Metro, Inc. (formerly Yellowwood)</issuerName>
+        <issuerTradingSymbol>ARMT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001804444</rptOwnerCik>
+            <rptOwnerName>SARAH JEWELL MATHIAS INTERNATIONAL INC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>2575 EASTERN BLVD</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 105</rptOwnerStreet2>
+            <rptOwnerCity>YORK</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>17402</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <otherText>FOUNDER OF THE COMPANY</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>CLASS B</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>147475000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>FOUNDER OF THE COMPANY</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>SHAH MATHIAS</signatureName>
+        <signatureDate>2020-07-22</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,493 @@
+<SEC-DOCUMENT>0001567619-20-003073.txt : 20200212
+<SEC-HEADER>0001567619-20-003073.hdr.sgml : 20200212
+<ACCEPTANCE-DATETIME>20200212180224
+ACCESSION NUMBER:		0001567619-20-003073
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20200212
+FILED AS OF DATE:		20200212
+DATE AS OF CHANGE:		20200212
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			GOLDSMITH MARK A
+		CENTRAL INDEX KEY:			0001246842
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39219
+		FILM NUMBER:		20605893
+
+	MAIL ADDRESS:	
+		STREET 1:		925 PAGE MILL ROAD
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94304
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Revolution Medicines, Inc.
+		CENTRAL INDEX KEY:			0001628171
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		IRS NUMBER:				472029180
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		700 SAGINAW DR
+		CITY:			REDWOOD CITY
+		STATE:			CA
+		ZIP:			94063
+		BUSINESS PHONE:		415-766-3638
+
+	MAIL ADDRESS:	
+		STREET 1:		700 SAGINAW DR
+		CITY:			REDWOOD CITY
+		STATE:			CA
+		ZIP:			94063
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc1.xml
+<DESCRIPTION>FORM 3
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-02-12</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001628171</issuerCik>
+        <issuerName>Revolution Medicines, Inc.</issuerName>
+        <issuerTradingSymbol>RVMD</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001246842</rptOwnerCik>
+            <rptOwnerName>GOLDSMITH MARK A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O REVOLUTION MEDICINES, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>700 SAGINAW DRIVE</rptOwnerStreet2>
+            <rptOwnerCity>REDWOOD CITY</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94063</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>See Remarks</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>493208</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Trust</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>143852</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Trust</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>.49</value>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2027-03-20</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>205503</value>
+                    <footnoteId id="F1"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>.54</value>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F5"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-02-11</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>223496</value>
+                    <footnoteId id="F1"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.12</value>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F6"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-04-19</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>154127</value>
+                    <footnoteId id="F1"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>4.73</value>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F7"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2029-08-08</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>583465</value>
+                    <footnoteId id="F1"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>4.09</value>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F8"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2029-03-12</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>397964</value>
+                    <footnoteId id="F1"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects a 1-for-4.8661 reverse stock split of the Issuer's outstanding securities effected prior to the effectiveness of the Issuer's S-1 Registration Statement.</footnote>
+        <footnote id="F2">Held by Mark A. Goldsmith and Anne E. Midler 2002 Revocable Living Trust.</footnote>
+        <footnote id="F3">Held by the Goldsmith Children 2011 Irrevocable Education Trust.</footnote>
+        <footnote id="F4">This option is early exercisable. One forty-eighth (1/48th) of the shares subject to the option will vest on each monthly anniversary measured from December 1, 2016 (the &quot;Vesting Commencement Date&quot;), so that 100% of the shares subject to the option will be fully vested and exercisable as of the fourth anniversary of the Vesting Commencement Date, subject to the Reporting Person's continued service through each vesting date.</footnote>
+        <footnote id="F5">This option is early exercisable. One forty-eighth (1/48th) of the shares subject to the option will vest on each monthly anniversary measured from March 1, 2018 (the &quot;Vesting Commencement Date&quot;), so that 100% of the shares subject to the option will be fully vested and exercisable as of the fourth anniversary of the Vesting Commencement Date, subject to the Reporting Person's continued service through each vesting date.</footnote>
+        <footnote id="F6">This option is early exercisable. One forty-eighth (1/48th) of the shares subject to the option will vest on each monthly anniversary measured from March 29, 2018 (the &quot;Vesting Commencement Date&quot;), so that 100% of the shares subject to the option will be fully vested and exercisable as of the fourth anniversary of the Vesting Commencement Date, subject to the Reporting Person's continued service through each vesting date.</footnote>
+        <footnote id="F7">This option is early exercisable. One forty-eighth (1/48th) of the shares subject to the option will vest on each monthly anniversary measured from August 9, 2019 (the &quot;Vesting Commencement Date&quot;), so that 100% of the shares subject to the option will be fully vested and exercisable as of the fourth anniversary of the Vesting Commencement Date, subject to the Reporting Person's continued service through each vesting date.</footnote>
+        <footnote id="F8">This option is early exercisable. One forty-eighth (1/48th) of the shares subject to the option will vest on each monthly anniversary measured from March 13, 2019 (the &quot;Vesting Commencement Date&quot;), so that 100% of the shares subject to the option will be fully vested and exercisable as of the fourth anniversary of the Vesting Commencement Date, subject to the Reporting Person's continued service through each vesting date.</footnote>
+    </footnotes>
+
+    <remarks>President and Chief Executive Officer</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Jack Anders, as Attorney-in-fact for Mark A. Goldsmith</signatureName>
+        <signatureDate>2020-02-12</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.1
+<SEQUENCE>2
+<FILENAME>poa_goldsmith.htm
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Broadridge
+         Document created using EDGARfilings PROfile 6.5.1.0
+         Copyright 1995 - 2020 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;">
+  <div>
+    <div style="text-align: center; line-height: 12.55pt; font-variant: small-caps; font-weight: bold;">POWER OF ATTORNEY</div>
+    <div style="line-height: 12.55pt">&#160;</div>
+    <div style="text-align: justify; text-indent: 36pt; line-height: 12.55pt;">KNOW ALL BY THESE PRESENTS, that the undersigned hereby constitutes and appoints each of (i)&#160;the Chief Executive
+      Officer of Revolution Medicines, Inc., a Delaware corporation (the &#8220;<font style="font-weight: bold; font-style: italic;">Company</font>&#8221;), who is currently Mark A. Goldsmith, (ii)&#160;the
+      Company&#8217;s General Counsel, who is currently Margaret Horn, (iii) the Company&#8217;s Principal Financial Officer, who is currently Jack Anders and (iv) the Company&#8217;s Principal Accounting Officer, who is currently Jack Anders and their respective
+      successors, signing singly, with full power of substitution, as the undersigned&#8217;s true and lawful attorney-in-fact to:</div>
+    <div style="line-height: 12.55pt">&#160;</div>
+    <div style="line-height: 12.55pt">&#160;</div>
+    <div style="text-align: justify; line-height: 12.55pt;">
+      <div>
+        <table cellspacing="0" cellpadding="0" id="z1d45b64721f349ac8d9184ec658ebb51" class="DSPFListTable" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+            <tr>
+              <td style="width: 36pt;"><br>
+              </td>
+              <td style="width: 36pt; vertical-align: top; align: right;">(1)</td>
+              <td style="width: auto; vertical-align: top; text-align: justify;">
+                <div>execute for and on behalf of the undersigned, in the undersigned&#8217;s capacity as an officer and/or director of the Company, Forms&#160;3, 4 and 5 (including amendments
+                  thereto) in accordance with Section&#160;16(a) of the Securities Exchange Act of 1934 and the rules and regulations thereunder and a Form ID, Uniform Application for Access Codes to File on EDGAR;</div>
+              </td>
+            </tr>
+
+        </table>
+      </div>
+    </div>
+    <div style="line-height: 12pt">&#160;</div>
+    <div style="text-align: justify; line-height: 12pt;">
+      <div>
+        <table cellspacing="0" cellpadding="0" id="ze21281ee542d4b91b2c6d47e2e3f668e" class="DSPFListTable" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+            <tr>
+              <td style="width: 36pt;"><br>
+              </td>
+              <td style="width: 36pt; vertical-align: top; align: right;">(2)</td>
+              <td style="width: auto; vertical-align: top; text-align: justify;">
+                <div>do and perform any and all acts for and on behalf of the undersigned which may be necessary or desirable to complete and execute any such Forms 3, 4 or 5 or Form ID
+                  and timely file such forms (including amendments thereto) and application with the United States Securities and Exchange Commission and any stock exchange or similar authority; and</div>
+              </td>
+            </tr>
+
+        </table>
+      </div>
+    </div>
+    <div style="line-height: 12pt">&#160;</div>
+    <div style="text-align: justify; line-height: 12pt;">
+      <div>
+        <table cellspacing="0" cellpadding="0" id="z3d3d883e1ad94231907034ef8603571b" class="DSPFListTable" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+            <tr>
+              <td style="width: 36pt;"><br>
+              </td>
+              <td style="width: 36pt; vertical-align: top; align: right;">(3)</td>
+              <td style="width: auto; vertical-align: top; text-align: justify;">
+                <div>take any other action of any type whatsoever in connection with the foregoing which, in the opinion of such attorney-in-fact, may be of benefit to, in the best
+                  interest of, or legally required by, the undersigned, it being understood that the documents executed by such attorney-in-fact on behalf of the undersigned pursuant to this Power of Attorney shall be in such form and shall contain such
+                  terms and conditions as such attorney-in-fact may approve in such attorney-in-fact's discretion.</div>
+              </td>
+            </tr>
+
+        </table>
+      </div>
+    </div>
+    <div style="line-height: 12pt">&#160;</div>
+    <div style="text-align: justify; text-indent: 36pt; line-height: 12.55pt;">The undersigned hereby grants to each such attorney-in-fact full power and authority to do and perform any and
+      every act and thing whatsoever requisite, necessary or proper to be done in the exercise of any of the rights and powers herein granted, as fully to all intents and purposes as the undersigned might or could do if personally present, with full power
+      of substitution or revocation, hereby ratifying and confirming all that such attorney-in-fact, or such attorney-in-fact's substitute or substitutes, shall lawfully do or cause to be done by virtue of this power of attorney and the rights and powers
+      herein granted.&#160; The undersigned acknowledges that the foregoing attorneys-in-fact, in serving in such capacity at the request of the undersigned, are not assuming, nor is the Company assuming, any of the undersigned's responsibilities to comply with
+      Section&#160;16 of the Securities Exchange Act of 1934.</div>
+    <div style="line-height: 12.55pt">&#160;</div>
+    <div style="text-align: justify; text-indent: 36pt; line-height: 12.55pt;">The undersigned agrees that each such attorney-in-fact herein may rely entirely on information furnished orally or
+      in writing by the undersigned to such attorney-in-fact.&#160; The undersigned also agrees to indemnify and hold harmless the Company and each such attorney-in-fact against any losses, claims, damages or liabilities (or actions in these respects) that
+      arise out of or are based upon any untrue statements or omission of necessary facts in the information provided by the undersigned to such attorney-in fact for purposes of executing, acknowledging, delivering or filing Forms 3, 4 or 5 (including
+      amendments thereto) or Form ID and agrees to reimburse the Company and such attorney-in-fact for any legal or other expenses reasonably incurred in connection with investigating or defending against any such loss, claim, damage, liability or action.</div>
+    <div style="line-height: 12.55pt">&#160;</div>
+    <div style="text-align: justify; text-indent: 36pt; line-height: 12.55pt;">This Power of Attorney supersedes any power of attorney previously executed by the undersigned regarding the
+      purposes outlined in the first paragraph hereof ("<font style="font-weight: bold; font-style: italic;">Prior Powers of Attorney</font>"), and the authority of the attorneys-in-fact named
+      in any Prior Powers of Attorney is hereby revoked.</div>
+    <div style="line-height: 12.55pt">&#160;</div>
+    <div style="text-align: justify; text-indent: 36pt; line-height: 12.55pt;">This Power of Attorney shall remain in full force and effect until the undersigned is no longer required to file
+      Forms&#160;3, 4 or 5 with respect to the undersigned's holdings of and transactions in securities issued by the Company, unless earlier (a)&#160;revoked by the undersigned in a signed writing delivered to the foregoing attorneys-in-fact or (b)&#160;superseded by a
+      new power of attorney regarding the purposes outlined in the first paragraph hereof dated as of a later date.</div>
+    <div style="line-height: 12.55pt">&#160;</div>
+    <div style="line-height: 12.55pt;"><br style="line-height: 12.55pt;">
+    </div>
+    <div style="line-height: 12.55pt">&#160;</div>
+    <div style="line-height: 12.55pt;"><br style="line-height: 12.55pt;">
+    </div>
+    <div style="line-height: 12.55pt">&#160;</div>
+    <div style="line-height: 12.55pt;"><br style="line-height: 12.55pt;">
+    </div>
+    <div style="line-height: 12.55pt">&#160;</div>
+    <div style="line-height: 12.55pt;"><br style="line-height: 12.55pt;">
+    </div>
+    <div style="line-height: 12.55pt">&#160;</div>
+    <div style="line-height: 12.55pt;"><br style="line-height: 12.55pt;">
+    </div>
+    <div style="line-height: 12.55pt">&#160;</div>
+    <div style="line-height: 12.55pt;"><br style="line-height: 12.55pt;">
+    </div>
+    <div style="line-height: 12.55pt">&#160;</div>
+    <div style="line-height: 12.55pt;"><br style="line-height: 12.55pt;">
+    </div>
+    <div style="line-height: 12.55pt">&#160;</div>
+    <div style="line-height: 12.55pt;"><br style="line-height: 12.55pt;">
+    </div>
+    <div style="line-height: 12.55pt">&#160;</div>
+    <div style="line-height: 12.55pt;"><br style="line-height: 12.55pt;">
+    </div>
+    <div style="line-height: 12.55pt">&#160;</div>
+    <div style="line-height: 12.55pt;"><br style="line-height: 12.55pt;">
+    </div>
+    <div style="line-height: 12.55pt">&#160;</div>
+    <div style="line-height: 12.55pt;"><br style="line-height: 12.55pt;">
+    </div>
+    <div style="line-height: 12.55pt">&#160;</div>
+    <div style="line-height: 12.55pt;"><br style="line-height: 12.55pt;">
+    </div>
+    <div style="line-height: 12.55pt">&#160;</div>
+    <div style="line-height: 12.55pt;"><br style="line-height: 12.55pt;">
+    </div>
+    <div style="line-height: 12.55pt">&#160;</div>
+    <div style="line-height: 12.55pt;"><br style="line-height: 12.55pt;">
+    </div>
+    <div style="line-height: 12.55pt">&#160;</div>
+    <div style="line-height: 12.55pt;"><br style="line-height: 12.55pt;">
+    </div>
+    <div style="line-height: 12.55pt">&#160;</div>
+    <div style="line-height: 12.55pt;"><br style="line-height: 12.55pt;">
+    </div>
+    <div style="line-height: 12.55pt">&#160;</div>
+    <div style="line-height: 12.55pt;"><br style="line-height: 12.55pt;">
+    </div>
+    <div style="line-height: 12.55pt">&#160;</div>
+    <div style="line-height: 12.55pt;"><br style="line-height: 12.55pt;">
+    </div>
+    <div style="line-height: 12.55pt">&#160;</div>
+    <div style="line-height: 12.55pt;"><br style="line-height: 12.55pt;">
+    </div>
+    <div style="line-height: 12.55pt">&#160;</div>
+    <div style="line-height: 12.55pt;"><br style="line-height: 12.55pt;">
+    </div>
+    <div style="line-height: 12.55pt">&#160;</div>
+    <div id="DSPFPageBreakArea" style="clear: both; margin-top: 10pt; margin-bottom: 10pt;">
+      <div id="DSPFPageFooter">
+        <div style="text-align: center; line-height: 10.25pt; font-weight: bold;">SIGNATURE PAGE TO POWER OF ATTORNEY</div>
+        <div style="line-height: 9.1pt;"><br style="line-height: 9.1pt;">
+        </div>
+      </div>
+      <div id="DSPFPageBreak" style="page-break-after:always;">
+        <hr noshade="noshade" style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;"></div>
+      <div id="DSPFPageHeader"></div>
+    </div>
+    <div style="text-align: justify; text-indent: 36pt; line-height: 12.55pt;">IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to be executed as of this 6<sup style="vertical-align: text-top; line-height: 1; font-size: smaller;">th</sup> day
+      of February, 2020.</div>
+    <div style="line-height: 12.55pt">&#160;</div>
+    <div style="margin-left: 211.5pt; line-height: 12.55pt;"><u>/s/ Mark A. Goldsmith</u><font id="TRGRRTFtoHTMLTab" style="display: inline-block; text-indent: 0px; font-size: 1px; width: 243pt">&#160;</font><br>
+        <font style="font-weight: bold; font-variant: small-caps;">Mark A. Goldsmith</font></div>
+    <div style="line-height: 12.55pt">&#160;</div>
+    <div id="DSPFPageFooter">
+      <div style="text-align: center; line-height: 10.25pt; font-weight: bold;">SIGNATURE PAGE TO POWER OF ATTORNEY</div>
+      <div style="line-height: 9.1pt;"><br style="line-height: 9.1pt;">
+      </div>
+    </div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

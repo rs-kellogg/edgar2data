@@ -1,0 +1,228 @@
+<SEC-DOCUMENT>0001127602-20-005467.txt : 20200214
+<SEC-HEADER>0001127602-20-005467.hdr.sgml : 20200214
+<ACCEPTANCE-DATETIME>20200214121243
+ACCESSION NUMBER:		0001127602-20-005467
+CONFORMED SUBMISSION TYPE:	5
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20191231
+FILED AS OF DATE:		20200214
+DATE AS OF CHANGE:		20200214
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Chloe R. Seelbach, Trustee under Claiborne Rankin Trust for Children of Chloe R. Seelbach DTD 12/21/04 FBO Thomas Wilson Seelbach
+		CENTRAL INDEX KEY:			0001558832
+
+	FILING VALUES:
+		FORM TYPE:		5
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09172
+		FILM NUMBER:		20616612
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O NACCO INDUSTRIES, INC.
+		STREET 2:		5875 LANDERBROOK DRIVE, SUITE 300
+		CITY:			MAYFIELD HEIGHTS
+		STATE:			OH
+		ZIP:			44124
+		BUSINESS PHONE:		440-449-9600
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O NACCO INDUSTRIES, INC.
+		STREET 2:		5875 LANDERBROOK DRIVE, SUITE 300
+		CITY:			MAYFIELD HEIGHTS
+		STATE:			OH
+		ZIP:			44124
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NACCO INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000789933
+		STANDARD INDUSTRIAL CLASSIFICATION:	HOUSEHOLD APPLIANCES [3630]
+		IRS NUMBER:				341505819
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5875 LANDERBROOK DR
+		STREET 2:		SUITE 220
+		CITY:			CLEVELAND
+		STATE:			OH
+		ZIP:			44124-4069
+		BUSINESS PHONE:		4402295123
+
+	MAIL ADDRESS:	
+		STREET 1:		5875 LANDERBROOK DR
+		CITY:			CLEVELAND
+		STATE:			OH
+		ZIP:			44124
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>5
+<SEQUENCE>1
+<FILENAME>form5.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>5</documentType>
+
+    <periodOfReport>2019-12-31</periodOfReport>
+
+    <form3HoldingsReported>0</form3HoldingsReported>
+
+    <form4TransactionsReported>0</form4TransactionsReported>
+
+    <issuer>
+        <issuerCik>0000789933</issuerCik>
+        <issuerName>NACCO INDUSTRIES INC</issuerName>
+        <issuerTradingSymbol>NC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001558832</rptOwnerCik>
+            <rptOwnerName>Chloe R. Seelbach, Trustee under Claiborne Rankin Trust for Children of Chloe R. Seelbach DTD 12/21/04 FBO Thomas Wilson Seelbach</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>NACCO INDUSTRIES, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>5875 LANDERBROOK DR., SUITE 220</rptOwnerStreet2>
+            <rptOwnerCity>CLEVELAND</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>44124</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOther>1</isOther>
+            <otherText>Member of a Group</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2019-12-05</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>G</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>222</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1075</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Proportionate limited partnership interest in shares held by Rankin Associates II, L.P.</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">N/A</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Matthew J. Dilluvio, attorney-in-fact</signatureName>
+        <signatureDate>2020-02-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>doc1.txt
+<DESCRIPTION>POWER OF ATTORNEY (PUBLIC): 2020 POA
+<TEXT>
+POWER OF ATTORNEY
+
+        KNOW ALL MEN BY THESE PRESENTS, that the undersigned hereby constitutes
+and appoints John D. Neumann, Matthew J. Dilluvio, Kimberly J. Pustulka, Andrew
+C. Thomas and Eric Orsic, and each of them, as the true and lawful attorney or
+attorneys-in-fact, with full power of substitution and revocation, for the
+undersigned and in the name, place and stead of the undersigned, in any and all
+capacities, to execute, on behalf of the undersigned, any and all statements or
+reports under Section 16 of the Securities Exchange Act of 1934, as amended,
+with respect to the beneficial ownership of shares of Class A Common Stock, par
+value $1.00 per share, of NACCO Industries, Inc. (the ?Company?) and Class B
+Common Stock, par value $1.00 per share, of the Company, including, without
+limitation, all initial statements of beneficial ownership on Form 3, all
+statements of changes of beneficial ownership on Form 4 and all annual
+statements of beneficial ownership on Form 5 and any and all other documents
+that may be required, from time to time, to be filed with the Securities and
+Exchange Commission, to execute any and all amendments or supplements to any
+such statements or forms, and to file the same, with all exhibits thereto, and
+other documents in connection therewith, with the Securities and  Exchange
+Commission, granting to said attorney or attorneys-in-fact, and each of them,
+full power and authority to do so and perform each and every act and thing
+requisite and necessary to be done in and about the premises, as fully to all
+intents and purposes as the undersigned might or could do in person, hereby
+ratifying and confirming all that said attorney or attorneys-in-fact or any of
+them or their substitute or substitutes, may lawfully do or cause to be done
+by virtue hereof.
+
+Chloe R. Seelbach (f/k/a Chloe E. Rankin)
+
+Trust created by the Agreement, dated December 21, 2004, between Chloe R.
+Seelbach, as trustee, and Claiborne R. Rankin, creating a trust for the
+benefit of Taplin Elizabeth Seelbach;
+
+Trust created by the Agreement dated December 21, 2004, between Chloe R.
+Seelbach, as trustee, and Claiborne R. Rankin, creating a trust for the
+benefit of Isabelle Scott Seelbach;
+
+Trust created by the Agreement, dated December 21, 2004, between Chloe R.
+Seelbach, as trustee, and Claiborne R. Rankin, creating a trust for the
+benefit of Thomas Wilson Seelbach; and
+
+Trust created by the Agreement, dated April 10, 2009, between Chloe R.
+Seelbach, as trustee, creating a trust for the benefit of Chloe R. Seelbach
+
+	By:  Chloe R. Seelbach, as Trustee
+
+Isabelle Seelbach (by Chloe R. Seelbach, as Custodian); and
+
+Thomas Wilson Seelbach (by Chloe R. Seelbach, as Custodian)
+
+	By:  Chloe R. Seelbach, as Custodian
+
+
+Name:	/s/ Chloe R. Seelbach
+	Chloe R. Seelbach
+
+Date:	 January 23rd, 2020
+Address: 5875 Landerbrook Drive, Suite 220
+         Cleveland, Ohio 44124
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,241 @@
+<SEC-DOCUMENT>0001127602-20-004548.txt : 20200210
+<SEC-HEADER>0001127602-20-004548.hdr.sgml : 20200210
+<ACCEPTANCE-DATETIME>20200210150308
+ACCESSION NUMBER:		0001127602-20-004548
+CONFORMED SUBMISSION TYPE:	5
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20191231
+FILED AS OF DATE:		20200210
+DATE AS OF CHANGE:		20200210
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Trust dated 1/1/1977, PNC Bank & Alfred M. Rankin, Jr. as Co-Trustees & Clara L.T. Rankin, fbo Clara L.T. Rankin
+		CENTRAL INDEX KEY:			0001558789
+
+	FILING VALUES:
+		FORM TYPE:		5
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-54799
+		FILM NUMBER:		20591511
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O NACCO INDUSTRIES, INC.
+		STREET 2:		5875 LANDERBROOK DRIVE, SUITE 300
+		CITY:			MAYFIELD HEIGHTS
+		STATE:			OH
+		ZIP:			44124
+		BUSINESS PHONE:		440-449-9600
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O NACCO INDUSTRIES, INC.
+		STREET 2:		5875 LANDERBROOK DRIVE, SUITE 300
+		CITY:			MAYFIELD HEIGHTS
+		STATE:			OH
+		ZIP:			44124
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HYSTER-YALE MATERIALS HANDLING, INC.
+		CENTRAL INDEX KEY:			0001173514
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL TRUCKS TRACTORS TRAILERS & STACKERS [3537]
+		IRS NUMBER:				311637659
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5875 LANDERBROOK DRIVE
+		STREET 2:		SUITE 300
+		CITY:			CLEVELAND
+		STATE:			OH
+		ZIP:			44124
+		BUSINESS PHONE:		4404499600
+
+	MAIL ADDRESS:	
+		STREET 1:		5875 LANDERBROOK DRIVE
+		STREET 2:		SUITE 300
+		CITY:			CLEVELAND
+		STATE:			OH
+		ZIP:			44124
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HYSTER YALE MATERIALS HANDLING INC.
+		DATE OF NAME CHANGE:	20120628
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NMHG HOLDING CO
+		DATE OF NAME CHANGE:	20020515
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>5
+<SEQUENCE>1
+<FILENAME>form5.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>5</documentType>
+
+    <periodOfReport>2019-12-31</periodOfReport>
+
+    <form3HoldingsReported>0</form3HoldingsReported>
+
+    <form4TransactionsReported>0</form4TransactionsReported>
+
+    <issuer>
+        <issuerCik>0001173514</issuerCik>
+        <issuerName>HYSTER-YALE MATERIALS HANDLING, INC.</issuerName>
+        <issuerTradingSymbol>HY</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001558789</rptOwnerCik>
+            <rptOwnerName>Trust dated 1/1/1977, PNC Bank &amp; Alfred M. Rankin, Jr. as Co-Trustees &amp; Clara L.T. Rankin, fbo Clara L.T. Rankin</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>5875 LANDERBROOK DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MAYFIELD HEIGHTS</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>44124</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOther>1</isOther>
+            <otherText>member of a group</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2019-12-05</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>G</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>15467</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1503</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                    <footnoteId id="F1"/>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Proportionate Interest in Shares held by Rankin Associates V</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                    <footnoteId id="F2"/>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Proportionate Interest in Shares held by Rankin Associates VI</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>23629</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Class B Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Representing proportionate interest in shares held by RA V</footnote>
+        <footnote id="F2">Representing proporationate interest in shares held by RA VI</footnote>
+        <footnote id="F3">N/A</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Suzanne S. Taylor, attorney-in-fact</signatureName>
+        <signatureDate>2020-01-30</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

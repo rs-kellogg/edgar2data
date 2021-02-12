@@ -1,0 +1,681 @@
+<SEC-DOCUMENT>0000899243-20-028043.txt : 20201013
+<SEC-HEADER>0000899243-20-028043.hdr.sgml : 20201013
+<ACCEPTANCE-DATETIME>20201013171810
+ACCESSION NUMBER:		0000899243-20-028043
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20201008
+FILED AS OF DATE:		20201013
+DATE AS OF CHANGE:		20201013
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			H&F Corporate Investors VIII, Ltd.
+		CENTRAL INDEX KEY:			0001767563
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39228
+		FILM NUMBER:		201237356
+
+	BUSINESS ADDRESS:	
+		STREET 1:		415 MISSION STREET, SUITE 5700
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94105
+		BUSINESS PHONE:		(415) 788-5111
+
+	MAIL ADDRESS:	
+		STREET 1:		415 MISSION STREET, SUITE 5700
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94105
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hellman & Friedman Investors VIII, L.P.
+		CENTRAL INDEX KEY:			0001801252
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39228
+		FILM NUMBER:		201237357
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE MARTIME PLAZA, 12TH FLOOR
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+		BUSINESS PHONE:		415-788-5111
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE MARTIME PLAZA, 12TH FLOOR
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hellman & Friedman Capital Partners VIII, L.P.
+		CENTRAL INDEX KEY:			0001618933
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39228
+		FILM NUMBER:		201237358
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE MARITINE PLAZA, 12TH FLOOR
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+		BUSINESS PHONE:		415-788-5111
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE MARITINE PLAZA, 12TH FLOOR
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hellman & Friedman Capital Partners VIII (Parallel), L.P.
+		CENTRAL INDEX KEY:			0001618902
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39228
+		FILM NUMBER:		201237359
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE MARITINE PLAZA, 12TH FLOOR
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+		BUSINESS PHONE:		415-788-5111
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE MARITINE PLAZA, 12TH FLOOR
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			HFCP VIII (Parallel - A), L.P.
+		CENTRAL INDEX KEY:			0001618909
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39228
+		FILM NUMBER:		201237360
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE MARITINE PLAZA, 12TH FLOOR
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+		BUSINESS PHONE:		415-788-5111
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE MARITINE PLAZA, 12TH FLOOR
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			H&F Executives VIII, L.P.
+		CENTRAL INDEX KEY:			0001619367
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39228
+		FILM NUMBER:		201237361
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE MARITIME PLAZA, 12TH FLOOR
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+		BUSINESS PHONE:		415-788-5111
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE MARITIME PLAZA, 12TH FLOOR
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			H&F Associates VIII, L.P.
+		CENTRAL INDEX KEY:			0001621509
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39228
+		FILM NUMBER:		201237362
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE MARITINE PLAZA, 12TH FLOOR
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+		BUSINESS PHONE:		415-788-5111
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE MARITINE PLAZA, 12TH FLOOR
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			H&F Polaris Partners, L.P.
+		CENTRAL INDEX KEY:			0001677346
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39228
+		FILM NUMBER:		201237363
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE MARITIME PLAZA, 12TH FLOOR
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+		BUSINESS PHONE:		415-788-5111
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE MARITIME PLAZA, 12TH FLOOR
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			H&F Polaris Partners GP, LLC
+		CENTRAL INDEX KEY:			0001827933
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39228
+		FILM NUMBER:		201237364
+
+	BUSINESS ADDRESS:	
+		STREET 1:		415 MISSION STREET, SUITE 5700
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94105
+		BUSINESS PHONE:		415-788--5111
+
+	MAIL ADDRESS:	
+		STREET 1:		415 MISSION STREET, SUITE 5700
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94105
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MultiPlan Corp
+		CENTRAL INDEX KEY:			0001793229
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		IRS NUMBER:				843536151
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		115 FIFTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10003
+		BUSINESS PHONE:		(212) 780-2000
+
+	MAIL ADDRESS:	
+		STREET 1:		115 FIFTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10003
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Churchill Capital Corp III
+		DATE OF NAME CHANGE:	20200127
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Butler Acquisition Corp
+		DATE OF NAME CHANGE:	20191105
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc3.xml
+<DESCRIPTION>FORM 3 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2020-10-08</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001793229</issuerCik>
+        <issuerName>MultiPlan Corp</issuerName>
+        <issuerTradingSymbol>MPLN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001767563</rptOwnerCik>
+            <rptOwnerName>H&amp;F Corporate Investors VIII, Ltd.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>415 MISSION STREET, SUITE 5700</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94105</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001801252</rptOwnerCik>
+            <rptOwnerName>Hellman &amp; Friedman Investors VIII, L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>415 MISSION STREET, SUITE 5700</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94105</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001618933</rptOwnerCik>
+            <rptOwnerName>Hellman &amp; Friedman Capital Partners VIII, L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>415 MISSION STREET, SUITE 5700</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94105</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001618902</rptOwnerCik>
+            <rptOwnerName>Hellman &amp; Friedman Capital Partners VIII (Parallel), L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>415 MISSION STREET, SUITE 5700</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94105</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001618909</rptOwnerCik>
+            <rptOwnerName>HFCP VIII (Parallel - A), L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>415 MISSION STREET, SUITE 5700</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94105</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001619367</rptOwnerCik>
+            <rptOwnerName>H&amp;F Executives VIII, L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>415 MISSION STREET, SUITE 5700</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94105</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001621509</rptOwnerCik>
+            <rptOwnerName>H&amp;F Associates VIII, L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>415 MISSION STREET, SUITE 5700</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94105</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001677346</rptOwnerCik>
+            <rptOwnerName>H&amp;F Polaris Partners, L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>415 MISSION STREET, SUITE 5700</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94105</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001827933</rptOwnerCik>
+            <rptOwnerName>H&amp;F Polaris Partners GP, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>415 MISSION STREET, SUITE 5700</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94105</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A common stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>112593413</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F7"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A common stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>50532114</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F7"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A common stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>9549505</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F7"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A common stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2953631</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F7"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A common stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>496709</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F7"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A common stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>37677074</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F6"/>
+                    <footnoteId id="F7"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects securities directly held by Hellman &amp; Friedman Capital Partners VIII, L.P. (&quot;HFCP VIII&quot;).</footnote>
+        <footnote id="F2">Reflects securities directly held by Hellman &amp; Friedman Capital Partners VIII (Parallel), L.P. (&quot;HFCP VIII Parallel&quot;).</footnote>
+        <footnote id="F3">Reflects securities directly held by HFCP VIII (Parallel-A), L.P. (&quot;HFCP VIII Parallel-A&quot;).</footnote>
+        <footnote id="F4">Reflects securities directly held by H&amp;F Executives VIII, L.P. (&quot;H&amp;F VIII Executives&quot;).</footnote>
+        <footnote id="F5">Reflects securities directly held by H&amp;F Associates VIII, L.P. (&quot;H&amp;F VIII Associates&quot;, and together with HFCP VIII, HFCP VIII Parallel, HFCP VIII Parallel-A and H&amp;F VIII Executives, the &quot;H&amp;F VIII Funds&quot;).</footnote>
+        <footnote id="F6">Reflects securities directly held by H&amp;F Polaris Partners, L.P. (&quot;Polaris Partners&quot;), the general partner of which is H&amp;F Polaris Partners GP, LLC, the managing member of which is HFCP VIII.</footnote>
+        <footnote id="F7">Hellman &amp; Friedman Investors VIII, L.P. (&quot;H&amp;F Investors VIII&quot;) is the general partner of each of the H&amp;F VIII Funds. H&amp;F Corporate Investors VIII, Ltd. (&quot;H&amp;F VIII&quot;) is the general partner of H&amp;F Investors VIII. A three member board of directors of  H&amp;F VIII has investment discretion over the shares held by the H&amp;F VIII Funds and Polaris Partners. Allen R. Thorpe, a member of the board of directors of MultiPlan Corporation is a member of the board of directors of H&amp;F VIII.</footnote>
+    </footnotes>
+
+    <remarks>The Reporting Persons state that this filing shall not be an admission that the Reporting Persons are the beneficial owners of any of the securities reported herein, and each Reporting Person disclaims beneficial ownership of such securities except to the extent of such Reporting Person's pecuniary interest therein.</remarks>
+
+    <ownerSignature>
+        <signatureName>H&amp;F CORPORATE INVESTORS VIII, LTD. By: /s/ P. Hunter Philbrick Name: P. Hunter Philbrick Title: Vice President</signatureName>
+        <signatureDate>2020-10-13</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>HELLMAN &amp; FRIEDMAN INVESTORS VIII, L.P. By: H&amp;F Corporate Investors VIII, Ltd., as general partner By: /s/ P. Hunter Philbrick Name: P. Hunter Philbrick Title: Vice President</signatureName>
+        <signatureDate>2020-10-13</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>HELLMAN &amp; FRIEDMAN CAPITAL PARTNERS VIII, L.P. By: Hellman &amp; Friedman Investors VIII, L.P., as general partner By: H&amp;F Corporate Investors VIII, Ltd., as general partner By: /s/ P. Hunter Philbrick Name: P. Hunter Philbrick Title: Vice President</signatureName>
+        <signatureDate>2020-10-13</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>HELLMAN &amp; FRIEDMAN CAPITAL PARTNERS VIII (PARALLEL), L.P. By: Hellman &amp; Friedman Investors VIII, L.P., as general partner By: H&amp;F Corporate Investors VIII, Ltd., general partner By: /s/ P. Hunter Philbrick Name: P. Hunter Philbrick Title: Vice President</signatureName>
+        <signatureDate>2020-10-13</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>HFCP VIII (PARALLEL-A), L.P. By: Hellman &amp; Friedman Investors VIII, L.P., as general partner By: H&amp;F Corporate Investors VIII, Ltd., as general partner By: /s/ P. Hunter Philbrick Name: P. Hunter Philbrick Title: Vice President</signatureName>
+        <signatureDate>2020-10-13</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>H&amp;F EXECUTIVES VIII, L.P. By: Hellman &amp; Friedman Investors VIII, L.P., as general partner By: H&amp;F Corporate Investors VIII, Ltd., as general partner By: /s/ P. Hunter Philbrick Name: P. Hunter Philbrick Title: Vice President</signatureName>
+        <signatureDate>2020-10-13</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>H&amp;F ASSOCIATES VIII, L.P. By: Hellman &amp; Friedman Investors VIII, L.P., as general partner By: H&amp;F Corporate Investors VIII, Ltd., as general partner By: /s/ P. Hunter Philbrick Name: P. Hunter Philbrick Title: Vice President</signatureName>
+        <signatureDate>2020-10-13</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>H&amp;F POLARIS PARTNERS, L.P. By: H&amp;F Polaris Partners GP, LLC, its GP, Hellman &amp; Friedman Capital Partners VIII, L.P., its MM, Hellman &amp; Friedman Investors VIII, L.P., its GP, H&amp;F Corporate Investors VIII, Ltd., as GP By: /s/ P. Hunter Philbrick Title: VP</signatureName>
+        <signatureDate>2020-10-13</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>H&amp;F POLARIS PARTNERS GP, LLC By: Hellman &amp; Friedman Capital Partners VIII, L.P., its managing member, By: Hellman &amp; Friedman Investors VIII, L.P., its GP By: H&amp;F Corporate Investors VIII, Ltd., its GP By: /s/ P. Hunter Philbrick Title: Vice President</signatureName>
+        <signatureDate>2020-10-13</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
