@@ -6,6 +6,7 @@ For a copy, see <https://opensource.org/licenses/MIT>.
 """
 
 import os
+from conftest import validate
 from edgar.forms.form3 import Form3
 from edgar.forms.form4 import Form4
 from edgar.forms.form5 import Form5
@@ -14,6 +15,11 @@ dir_path = os.path.dirname(os.path.realpath(__file__))
 
 
 def test_extract_nonderivatives_form3_collection(test_form3_collection):
+    """
+    Validate Form3 extraction code against a random sample of documents
+    :param test_form3_collection:
+    :return:
+    """
     for file in test_form3_collection.glob("*.txt"):
         doc = Form3(file, replace={"true": "1", "false": "0"})
         assert doc.filename == file.name
@@ -26,12 +32,20 @@ def test_extract_nonderivatives_form3_collection(test_form3_collection):
             assert fields["order"] == f"{idx+1}"
             assert fields["type"] == "nonDerivHolding"
             assert fields["index"] == f"nonDerivHolding{idx+1}"
-            assert fields["security_title"] is not None
-            assert fields["shares_owned_following_transaction"] is not None
-            assert fields["direct_or_indirect_ownership"] is not None
+
+            assert validate(file, fields["security_title"], r".+")
+            assert validate(
+                file, fields["shares_owned_following_transaction"], r"[\d\.]+"
+            )
+            assert validate(file, fields["direct_or_indirect_ownership"], r"[DI]")
 
 
 def test_extract_signature_form3(test_form3):
+    """
+    Validate Form3 extraction code against a single detailed example
+    :param test_form3:
+    :return:
+    """
     doc = Form3(test_form3, replace={"true": "1", "false": "0"})
 
     assert doc.accession_num == "0001209191-20-054135"
@@ -51,6 +65,11 @@ def test_extract_signature_form3(test_form3):
 
 
 def test_extract_nonderivative_trans_form4_collection(test_form4_collection):
+    """
+    Validate Form4 extraction code against a random sample of documents
+    :param test_form4_collection:
+    :return:
+    """
     for file in test_form4_collection.glob("*.txt"):
         doc = Form4(file, replace={"true": "1", "false": "0"})
         assert doc.filename == file.name
@@ -63,19 +82,27 @@ def test_extract_nonderivative_trans_form4_collection(test_form4_collection):
             assert fields["order"] == f"{idx+1}"
             assert fields["type"] == "nonDerivTrans"
             assert fields["index"] == f"nonDerivTrans{idx+1}"
-            assert fields["security_title"] is not None
-            assert fields["transaction_date"] is not None
-            assert fields["transaction_acquired_disposed_code"] is not None
-            assert fields["transaction_price_per_share"] is not None
-            assert fields["transaction_shares"] is not None
-            assert fields["direct_or_indirect_ownership"] is not None
-            assert fields["equity_swap_involved"] is not None
-            assert fields["transaction_form_type"] is not None
-            assert fields["shares_owned_following_transaction"] is not None
-            assert fields["transaction_code"] is not None
+
+            assert validate(file, fields["security_title"], r".+")
+            assert validate(file, fields["transaction_date"], r"\d\d\d\d-\d\d-\d\d")
+            assert validate(file, fields["transaction_acquired_disposed_code"], r"[AD]")
+            assert validate(file, fields["transaction_price_per_share"], r"[\d\.]*")
+            assert validate(file, fields["transaction_shares"], r"[\d\.]*")
+            assert validate(file, fields["direct_or_indirect_ownership"], r"[DI]")
+            assert validate(file, fields["equity_swap_involved"], r"[10]")
+            assert validate(file, fields["transaction_form_type"], r"[45]")
+            assert validate(
+                file, fields["shares_owned_following_transaction"], r"[\d\.]*"
+            )
+            assert validate(file, fields["transaction_code"], r"[A-Z]")
 
 
 def test_extract_nonderivative_trans_form4(test_form4):
+    """
+    Validate Form4 extraction code against a single detailed example
+    :param test_form4:
+    :return:
+    """
     doc = Form4(test_form4, replace={"true": "1", "false": "0"})
 
     assert doc.accession_num == "0001012975-17-000759"
@@ -105,6 +132,11 @@ def test_extract_nonderivative_trans_form4(test_form4):
 
 
 def test_extract_nonderivative_trans_form5_collection(test_form5_collection):
+    """
+    Validate Form5 extraction code against a random sample of documents
+    :param test_form5_collection:
+    :return:
+    """
     for file in test_form5_collection.glob("*.txt"):
         doc = Form5(file, replace={"true": "1", "false": "0"})
         assert doc.filename == file.name
@@ -117,19 +149,27 @@ def test_extract_nonderivative_trans_form5_collection(test_form5_collection):
             assert fields["order"] == f"{idx+1}"
             assert fields["type"] == "nonDerivTrans"
             assert fields["index"] == f"nonDerivTrans{idx+1}"
-            assert fields["security_title"] is not None
-            assert fields["transaction_date"] is not None
-            assert fields["transaction_acquired_disposed_code"] is not None
-            assert fields["transaction_price_per_share"] is not None
-            assert fields["transaction_shares"] is not None
-            assert fields["direct_or_indirect_ownership"] is not None
-            assert fields["equity_swap_involved"] is not None
-            assert fields["transaction_form_type"] is not None
-            assert fields["shares_owned_following_transaction"] is not None
-            assert fields["transaction_code"] is not None
+
+            assert validate(file, fields["security_title"], r".+")
+            assert validate(file, fields["transaction_date"], r"\d\d\d\d-\d\d-\d\d")
+            assert validate(file, fields["transaction_acquired_disposed_code"], r"[AD]")
+            assert validate(file, fields["transaction_price_per_share"], r"[\d\.]*")
+            assert validate(file, fields["transaction_shares"], r"[\d\.]*")
+            assert validate(file, fields["direct_or_indirect_ownership"], r"[DI]")
+            assert validate(file, fields["equity_swap_involved"], r"[10]")
+            assert validate(file, fields["transaction_form_type"], r"[45]")
+            assert validate(
+                file, fields["shares_owned_following_transaction"], r"[\d\.]*"
+            )
+            assert validate(file, fields["transaction_code"], r"[A-Z]")
 
 
 def test_extract_nonderivative_trans_form5(test_form5):
+    """
+    Validate Form5 extraction code against a single detailed example
+    :param test_form5:
+    :return:
+    """
     doc = Form5(test_form5, replace={"true": "1", "false": "0"})
 
     assert doc.accession_num == "0000011544-20-000013"
