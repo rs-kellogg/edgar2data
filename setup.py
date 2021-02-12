@@ -26,7 +26,8 @@ setup(
         "click-spinner",
         "tabulate",
         "tqdm",
-        'fastapi'
+        "fastapi",
+        "uvicorn[standard]"
     ],
     extras_require={"interactive": ["jupyter", "rise"]},
     entry_points={"console_scripts": ["edgar2data=edgar.cli:app"]},

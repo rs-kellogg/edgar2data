@@ -8,6 +8,7 @@ For a copy, see <https://opensource.org/licenses/MIT>.
 import yaml
 import pytest
 import os
+import re
 
 from pathlib import Path
 
@@ -19,6 +20,15 @@ def config():
     with open(Path(f"{dir_path}/config.yaml")) as conf_file:
         conf = yaml.load(conf_file, Loader=yaml.FullLoader)
         return conf
+
+
+def validate(file: Path, value: str, pattern: str, none_allowed: bool = False):
+    if value is None and none_allowed:
+        return True
+    if re.compile(pattern).match(value):
+        return True
+    print(f"Validate error in file {file}: '{value}' does not match {pattern}")
+    return False
 
 
 @pytest.fixture

@@ -31,3 +31,4 @@ def test_script_on_form4():
         assert result.exit_code == 0
         assert "processing files in dir" in result.stdout
         assert "generating output in dir" in result.stdout
+        # TODO: add more tests here
