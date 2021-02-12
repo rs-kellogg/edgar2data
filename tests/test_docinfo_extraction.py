@@ -29,6 +29,7 @@ def test_extract_doclevel_form3_collection(test_form3_collection):
         assert fields["accession_num"] is not None
         assert fields["schema_version"] == "X0206"
         assert fields["document_type"] == "3"
+
         assert validate(file, fields["accession_num"], r"[\d-]+")
         assert validate(file, fields["sec_accept_datetime"], r"\d{14,14}")
         assert validate(file, fields["sec_file_num"], r"[\d-]+")
@@ -95,6 +96,7 @@ def test_extract_doclevel_form4_collection(test_form4_collection):
         assert fields["accession_num"] is not None
         assert fields["schema_version"] == "X0306"
         assert fields["document_type"] == "4"
+
         assert validate(file, fields["accession_num"], r"[\d-]+")
         assert validate(file, fields["sec_accept_datetime"], r"\d{14,14}")
         assert validate(file, fields["sec_file_num"], r"[\d-]+")
@@ -159,6 +161,7 @@ def test_extract_doclevel_form5_collection(test_form5_collection):
         assert fields["accession_num"] is not None
         assert fields["schema_version"] == "X0306"
         assert fields["document_type"] == "5"
+
         assert validate(file, fields["accession_num"], r"[\d-]+")
         assert validate(file, fields["sec_accept_datetime"], r"\d{14,14}")
         assert validate(file, fields["sec_file_num"], r"[\d-]+")

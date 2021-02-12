@@ -33,6 +33,8 @@ def test_extract_derivative_trans_form3_collection(test_form3_collection):
             assert fields["order"] == f"{idx+1}"
             assert fields["type"] == "derivHolding"
             assert fields["index"] == f"derivHolding{idx+1}"
+
+            assert validate(file, fields["accession_num"], r"[\d-]+")
             assert validate(file, fields["security_title"], r".+")
             assert validate(file, fields["conversion_or_exercise_price"], r"[\d+\.]*")
             assert validate(file, fields["exercise_date"], r"(\d\d\d\d-\d\d-\d\d)?")
@@ -108,6 +110,7 @@ def test_extract_derivative_trans_form4_collection(test_form4_collection):
             assert fields["type"] == "derivTrans"
             assert fields["index"] == f"derivTrans{idx+1}"
 
+            assert validate(file, fields["accession_num"], r"[\d-]+")
             assert validate(file, fields["security_title"], r".+")
             assert validate(file, fields["direct_or_indirect_ownership"], r"[DI]")
             assert validate(file, fields["transaction_date"], r"(\d\d\d\d-\d\d-\d\d)?")
@@ -185,6 +188,7 @@ def test_extract_derivative_trans_form5_collection(test_form5_collection):
             assert fields["type"] == "derivTrans"
             assert fields["index"] == f"derivTrans{idx + 1}"
 
+            assert validate(file, fields["accession_num"], r"[\d-]+")
             assert validate(file, fields["security_title"], r".+")
             assert validate(file, fields["direct_or_indirect_ownership"], r"[DI]")
             assert validate(file, fields["transaction_date"], r"(\d\d\d\d-\d\d-\d\d)?")
