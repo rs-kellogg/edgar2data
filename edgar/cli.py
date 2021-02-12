@@ -20,9 +20,7 @@ app = typer.Typer()
 
 @app.command()
 def process(
-    form_type: str = typer.Argument(
-        ..., help="The type of form to process"
-    ),
+    form_type: str = typer.Argument(..., help="The type of form to process"),
     in_dir: Path = typer.Argument(
         ..., help="The directory containing the input form files"
     ),
@@ -72,9 +70,7 @@ def process(
             doc = create_doc(form_type, file)
             write_records([doc.doc_info], out_file=out_dir / "document_info.csv")
             write_records(doc.report_owners, out_file=out_dir / "report_owners.csv")
-            write_records(
-                doc.nonderivatives, out_file=out_dir / "nonderivatives.csv"
-            )
+            write_records(doc.nonderivatives, out_file=out_dir / "nonderivatives.csv")
             write_records(doc.derivatives, out_file=out_dir / "derivatives.csv")
             write_records(doc.signatures, out_file=out_dir / "signatures.csv")
             write_records(doc.footnotes, out_file=out_dir / "footnotes.csv")
@@ -83,15 +79,17 @@ def process(
             return 1
 
 
-def create_doc(form_type:str, file:Path) -> Document:
+def create_doc(form_type: str, file: Path) -> Document:
     if form_type == "form3":
-        return Form3(file, replace={'true': '1', 'false': '0'})
+        return Form3(file, replace={"true": "1", "false": "0"})
     elif form_type == "form4":
-        return Form4(file, replace={'true': '1', 'false': '0'})
+        return Form4(file, replace={"true": "1", "false": "0"})
     elif form_type == "form5":
-        return Form5(file, replace={'true': '1', 'false': '0'})
+        return Form5(file, replace={"true": "1", "false": "0"})
     else:
-        typer.secho(f"WARNING: {form_type} not a supported form type", fg=typer.colors.RED)
+        typer.secho(
+            f"WARNING: {form_type} not a supported form type", fg=typer.colors.RED
+        )
         return None
 
 
