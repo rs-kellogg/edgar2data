@@ -29,7 +29,7 @@ def test_script_on_form3_collection(test_form3_collection):
         assert out_dir.exists()
         result = runner.invoke(
             app,
-            ["form4", str(test_form3_collection), "--out_dir", str(tmp_dir)],
+            [str(test_form3_collection), "--out_dir", str(tmp_dir)],
         )
         assert result.exit_code == 0
         assert "processing files in dir" in result.stdout
@@ -56,7 +56,7 @@ def test_script_on_form4_collection(test_form4_collection):
         assert out_dir.exists()
         result = runner.invoke(
             app,
-            ["form4", str(test_form4_collection), "--out_dir", str(tmp_dir)],
+            [str(test_form4_collection), "--out_dir", str(tmp_dir)],
         )
         assert result.exit_code == 0
         assert "processing files in dir" in result.stdout
@@ -83,7 +83,7 @@ def test_script_on_form5_collection(test_form5_collection):
         assert out_dir.exists()
         result = runner.invoke(
             app,
-            ["form4", str(test_form5_collection), "--out_dir", str(tmp_dir)],
+            [str(test_form5_collection), "--out_dir", str(tmp_dir)],
         )
         assert result.exit_code == 0
         assert "processing files in dir" in result.stdout
