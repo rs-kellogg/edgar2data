@@ -31,4 +31,17 @@ def test_script_on_form4():
         assert result.exit_code == 0
         assert "processing files in dir" in result.stdout
         assert "generating output in dir" in result.stdout
-        # TODO: add more tests here
+        assert result.stdout.count("processing file:") == 100
+
+        assert (Path(tmp_dir) / "document_info.csv").exists()
+        assert sum(1 for line in open((Path(tmp_dir) / "document_info.csv"))) == 101
+        assert (Path(tmp_dir) / "footnotes.csv").exists()
+        assert sum(1 for line in open((Path(tmp_dir) / "footnotes.csv"))) == 417
+        assert (Path(tmp_dir) / "report_owners.csv").exists()
+        assert sum(1 for line in open((Path(tmp_dir) / "report_owners.csv"))) == 130
+        assert (Path(tmp_dir) / "signatures.csv").exists()
+        assert sum(1 for line in open((Path(tmp_dir) / "signatures.csv"))) == 140
+        assert (Path(tmp_dir) / "derivatives.csv").exists()
+        assert sum(1 for line in open((Path(tmp_dir) / "derivatives.csv"))) == 53
+        assert (Path(tmp_dir) / "nonderivatives.csv").exists()
+        assert sum(1 for line in open((Path(tmp_dir) / "nonderivatives.csv"))) == 150

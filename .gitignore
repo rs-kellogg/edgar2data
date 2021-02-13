@@ -117,3 +117,8 @@ temp/
 tests/data/output/
 tests/conf/dbuser.json
 tests/data/out
+
+# Misc
+temp/
+tmp/
+scratch/
