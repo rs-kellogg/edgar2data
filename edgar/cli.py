@@ -7,6 +7,7 @@ For a copy, see <https://opensource.org/licenses/MIT>.
 
 import typer
 import os
+import re
 import csv
 from typing import Optional, List, Dict
 from pathlib import Path
@@ -20,7 +21,6 @@ app = typer.Typer()
 
 @app.command()
 def process(
-    form_type: str = typer.Argument(..., help="The type of form to process"),
     in_dir: Path = typer.Argument(
         ..., help="The directory containing the input form files"
     ),
@@ -67,7 +67,7 @@ def process(
         assert file.is_file()
 
         try:
-            doc = create_doc(form_type, file)
+            doc = create_doc(file)
             write_records([doc.doc_info], out_file=out_dir / "document_info.csv")
             write_records(doc.report_owners, out_file=out_dir / "report_owners.csv")
             write_records(doc.nonderivatives, out_file=out_dir / "nonderivatives.csv")
@@ -79,12 +79,15 @@ def process(
             return 1
 
 
-def create_doc(form_type: str, file: Path) -> Document:
-    if form_type == "form3":
+def create_doc(file: Path) -> Document:
+    xmlpath = Document.xml_document_fields["document_type"]
+    regex = re.compile(f"<{xmlpath}>(.+)</{xmlpath}>")
+    form_type = regex.findall(file.read_text())[0]
+    if form_type == "3":
         return Form3(file, replace={"true": "1", "false": "0"})
-    elif form_type == "form4":
+    elif form_type == "4":
         return Form4(file, replace={"true": "1", "false": "0"})
-    elif form_type == "form5":
+    elif form_type == "5":
         return Form5(file, replace={"true": "1", "false": "0"})
     else:
         typer.secho(
