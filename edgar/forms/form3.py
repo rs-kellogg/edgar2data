@@ -11,6 +11,10 @@ from edgar.forms.secdoc import Document
 
 
 class Form3(Document):
+    """
+    Represents SEC document Form 3
+    """
+
     xml_document_fields_form3: Dict[str, str] = {
         "no_securities_owned": "noSecuritiesOwned"
     }
@@ -30,6 +34,27 @@ class Form3(Document):
         "underlying_security_shares": "underlyingSecurity/underlyingSecurityShares",
         "direct_or_indirect_ownership": "ownershipNature/directOrIndirectOwnership",
     }
+
+    @property
+    def nonderivatives(self) -> List[Dict[str, str]]:
+        """
+        :return: List[Dict[str, str]]
+        """
+        return self._nonderivatives_dict_list
+
+    @property
+    def derivatives(self) -> List[Dict[str, str]]:
+        """
+        :return: List[Dict[str, str]]
+        """
+        return self._derivatives_dict_list
+
+    @property
+    def footnotes(self) -> List[Dict[str, str]]:
+        """
+        :return: List[Dict[str, str]]
+        """
+        return self._footnotes
 
     def __init__(self, file: Path, replace: Dict[str, str] = {}):
         Document.__init__(self, file, replace)
@@ -55,24 +80,3 @@ class Form3(Document):
             row_type="derivHolding",
         )
         self._footnotes.extend(footnotes)
-
-    @property
-    def nonderivatives(self) -> List[Dict[str, str]]:
-        """
-        :return: List[Dict[str, str]]
-        """
-        return self._nonderivatives_dict_list
-
-    @property
-    def derivatives(self) -> List[Dict[str, str]]:
-        """
-        :return: List[Dict[str, str]]
-        """
-        return self._derivatives_dict_list
-
-    @property
-    def footnotes(self) -> List[Dict[str, str]]:
-        """
-        :return: List[Dict[str, str]]
-        """
-        return self._footnotes

@@ -11,6 +11,10 @@ from edgar.forms.secdoc import Document
 
 
 class Form4(Document):
+    """
+    Represents SEC document Form 4
+    """
+
     xml_nonderivative_fields: Dict[str, str] = {
         "security_title": "securityTitle",
         "transaction_date": "transactionDate",

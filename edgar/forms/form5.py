@@ -11,5 +11,9 @@ from edgar.forms.form4 import Form4
 
 
 class Form5(Form4):
+    """
+    Represents SEC document Form 5
+    """
+
     def __init__(self, file: Path, replace: Dict[str, str] = {}):
         Form4.__init__(self, file, replace)
