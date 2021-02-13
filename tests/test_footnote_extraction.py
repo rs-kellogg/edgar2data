@@ -163,3 +163,11 @@ def test_extract_footnotes_form5(test_form5):
 
     fields_list = doc.footnotes
     assert len(fields_list) == 0
+
+
+def test_extract_many_footnotes_example(test_form4_collection):
+    file = test_form4_collection / "1363364_2_0001638599-20-000500.txt"
+    assert file.exists()
+    doc = Form4(file, replace={"true": "1", "false": "0"})
+    footnotes = doc.footnotes
+    assert len(footnotes) == 39

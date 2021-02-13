@@ -54,18 +54,41 @@ class Form4(Document):
 
     def __init__(self, file: Path, replace: Dict[str, str] = {}):
         Document.__init__(self, file, replace)
+
         self._footnotes = []
-        self._nonderivatives_dict_list, footnotes = self._extract_xml_fields(
+        self._nonderivatives_dict_list = []
+        self._derivatives_dict_list = []
+
+        dict_list, footnotes = self._extract_xml_fields(
             field_dict=Form4.xml_nonderivative_fields,
             xml_path="nonDerivativeTable/nonDerivativeTransaction",
             row_type="nonDerivTrans",
         )
+        self._nonderivatives_dict_list.extend(dict_list)
         self._footnotes.extend(footnotes)
-        self._derivatives_dict_list, footnotes = self._extract_xml_fields(
+
+        dict_list, footnotes = self._extract_xml_fields(
+            field_dict=Form4.xml_nonderivative_fields,
+            xml_path="nonDerivativeTable/nonDerivativeHolding",
+            row_type="nonDerivHolding",
+        )
+        self._nonderivatives_dict_list.extend(dict_list)
+        self._footnotes.extend(footnotes)
+
+        dict_list, footnotes = self._extract_xml_fields(
             field_dict=Form4.xml_derivative_fields,
             xml_path="derivativeTable/derivativeTransaction",
             row_type="derivTrans",
         )
+        self._derivatives_dict_list.extend(dict_list)
+        self._footnotes.extend(footnotes)
+
+        dict_list, footnotes = self._extract_xml_fields(
+            field_dict=Form4.xml_derivative_fields,
+            xml_path="derivativeTable/derivativeHolding",
+            row_type="derivHolding",
+        )
+        self._derivatives_dict_list.extend(dict_list)
         self._footnotes.extend(footnotes)
 
     @property

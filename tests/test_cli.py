@@ -6,6 +6,7 @@ For a copy, see <https://opensource.org/licenses/MIT>.
 """
 
 import os
+import re
 import tempfile
 import pytest
 from pathlib import Path
@@ -15,6 +16,11 @@ from edgar.cli import *
 runner = CliRunner()
 
 dir_path = os.path.dirname(os.path.realpath(__file__))
+
+
+def count_lines(text):
+    matches = re.compile(r"^\".+?\.txt\"", re.MULTILINE).findall(text)
+    return len(matches)
 
 
 def test_script_on_form4():
@@ -34,14 +40,14 @@ def test_script_on_form4():
         assert result.stdout.count("processing file:") == 100
 
         assert (Path(tmp_dir) / "document_info.csv").exists()
-        assert sum(1 for line in open((Path(tmp_dir) / "document_info.csv"))) == 101
+        assert count_lines((Path(tmp_dir) / "document_info.csv").read_text()) == 100
         assert (Path(tmp_dir) / "footnotes.csv").exists()
-        assert sum(1 for line in open((Path(tmp_dir) / "footnotes.csv"))) == 417
-        assert (Path(tmp_dir) / "report_owners.csv").exists()
-        assert sum(1 for line in open((Path(tmp_dir) / "report_owners.csv"))) == 130
-        assert (Path(tmp_dir) / "signatures.csv").exists()
-        assert sum(1 for line in open((Path(tmp_dir) / "signatures.csv"))) == 140
+        assert count_lines((Path(tmp_dir) / "footnotes.csv").read_text()) == 417
         assert (Path(tmp_dir) / "derivatives.csv").exists()
-        assert sum(1 for line in open((Path(tmp_dir) / "derivatives.csv"))) == 53
+        assert count_lines((Path(tmp_dir) / "derivatives.csv").read_text()) == 81
         assert (Path(tmp_dir) / "nonderivatives.csv").exists()
-        assert sum(1 for line in open((Path(tmp_dir) / "nonderivatives.csv"))) == 150
+        assert count_lines((Path(tmp_dir) / "nonderivatives.csv").read_text()) == 182
+        assert (Path(tmp_dir) / "report_owners.csv").exists()
+        assert count_lines((Path(tmp_dir) / "report_owners.csv").read_text()) == 129
+        assert (Path(tmp_dir) / "signatures.csv").exists()
+        assert count_lines((Path(tmp_dir) / "signatures.csv").read_text()) == 123

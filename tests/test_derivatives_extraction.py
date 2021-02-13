@@ -101,8 +101,9 @@ def test_extract_derivative_trans_form4_collection(test_form4_collection):
         doc = Form4(file, replace={"true": "1", "false": "0"})
         assert doc.filename == file.name
         fields_list = doc.derivatives
-        assert len(fields_list) >= 0
-        for idx, fields in enumerate(fields_list):
+
+        trans_fields_list = [f for f in fields_list if f["type"] == "derivTrans"]
+        for idx, fields in enumerate(trans_fields_list):
             assert (len(fields)) == 26
             assert fields["filename"] == file.name
             assert fields["accession_num"] == doc.accession_num
@@ -123,6 +124,19 @@ def test_extract_derivative_trans_form4_collection(test_form4_collection):
                 file, fields["shares_owned_following_transaction"], r"[\d\.]+"
             )
             assert validate(file, fields["transaction_code"], r"[ACMPS]")
+
+        holdings_fields_list = [f for f in fields_list if f["type"] == "derivHolding"]
+        for idx, fields in enumerate(holdings_fields_list):
+            assert (len(fields)) == 26
+            assert fields["filename"] == file.name
+            assert fields["accession_num"] == doc.accession_num
+            assert fields["order"] == f"{idx+1}"
+            assert fields["type"] == "derivHolding"
+            assert fields["index"] == f"derivHolding{idx+1}"
+
+            assert validate(file, fields["accession_num"], r"[\d-]+")
+            assert validate(file, fields["security_title"], r".+")
+            assert validate(file, fields["direct_or_indirect_ownership"], r"[DI]")
 
 
 def test_extract_derivative_trans_form4(test_form4):
@@ -179,14 +193,15 @@ def test_extract_derivative_trans_form5_collection(test_form5_collection):
         doc = Form5(file, replace={"true": "1", "false": "0"})
         assert doc.filename == file.name
         fields_list = doc.derivatives
-        assert len(fields_list) >= 0
-        for idx, fields in enumerate(fields_list):
+
+        trans_fields_list = [f for f in fields_list if f["type"] == "derivTrans"]
+        for idx, fields in enumerate(trans_fields_list):
             assert (len(fields)) == 26
             assert fields["filename"] == file.name
             assert fields["accession_num"] == doc.accession_num
-            assert fields["order"] == f"{idx + 1}"
+            assert fields["order"] == f"{idx+1}"
             assert fields["type"] == "derivTrans"
-            assert fields["index"] == f"derivTrans{idx + 1}"
+            assert fields["index"] == f"derivTrans{idx+1}"
 
             assert validate(file, fields["accession_num"], r"[\d-]+")
             assert validate(file, fields["security_title"], r".+")
@@ -194,13 +209,26 @@ def test_extract_derivative_trans_form5_collection(test_form5_collection):
             assert validate(file, fields["transaction_date"], r"(\d\d\d\d-\d\d-\d\d)?")
             assert validate(file, fields["transaction_acquired_disposed_code"], r"[AD]")
             assert validate(file, fields["transaction_price_per_share"], r"[\d+\.]*")
-            assert validate(file, fields["transaction_shares"], r"[\d\.]+")
+            assert validate(file, fields["transaction_shares"], r"[\d+\.]+")
             assert validate(file, fields["equity_swap_involved"], r"[10]")
             assert validate(file, fields["transaction_form_type"], r"[45]")
             assert validate(
                 file, fields["shares_owned_following_transaction"], r"[\d\.]+"
             )
-            assert validate(file, fields["transaction_code"], r"[ACGMPSZ]")
+            assert validate(file, fields["transaction_code"], r"[A-Z]")
+
+        holdings_fields_list = [f for f in fields_list if f["type"] == "derivHolding"]
+        for idx, fields in enumerate(holdings_fields_list):
+            assert (len(fields)) == 26
+            assert fields["filename"] == file.name
+            assert fields["accession_num"] == doc.accession_num
+            assert fields["order"] == f"{idx+1}"
+            assert fields["type"] == "derivHolding"
+            assert fields["index"] == f"derivHolding{idx+1}"
+
+            assert validate(file, fields["accession_num"], r"[\d-]+")
+            assert validate(file, fields["security_title"], r".+")
+            assert validate(file, fields["direct_or_indirect_ownership"], r"[DI]")
 
 
 def test_extract_derivative_trans_form5(test_form5):

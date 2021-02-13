@@ -75,7 +75,9 @@ def test_extract_nonderivative_trans_form4_collection(test_form4_collection):
         assert doc.filename == file.name
         fields_list = doc.nonderivatives
         assert len(fields_list) >= 0
-        for idx, fields in enumerate(fields_list):
+
+        trans_fields_list = [f for f in fields_list if f["type"] == "nonDerivTrans"]
+        for idx, fields in enumerate(trans_fields_list):
             assert (len(fields)) == 19
             assert fields["filename"] == file.name
             assert fields["accession_num"] == doc.accession_num
@@ -95,6 +97,21 @@ def test_extract_nonderivative_trans_form4_collection(test_form4_collection):
                 file, fields["shares_owned_following_transaction"], r"[\d\.]*"
             )
             assert validate(file, fields["transaction_code"], r"[A-Z]")
+
+        holdings_fields_list = [
+            f for f in fields_list if f["type"] == "nonDerivHolding"
+        ]
+        for idx, fields in enumerate(holdings_fields_list):
+            assert (len(fields)) == 19
+            assert fields["filename"] == file.name
+            assert fields["accession_num"] == doc.accession_num
+            assert fields["order"] == f"{idx+1}"
+            assert fields["type"] == "nonDerivHolding"
+            assert fields["index"] == f"nonDerivHolding{idx+1}"
+
+            assert validate(file, fields["accession_num"], r"[\d-]+")
+            assert validate(file, fields["security_title"], r".+")
+            assert validate(file, fields["direct_or_indirect_ownership"], r"[DI]")
 
 
 def test_extract_nonderivative_trans_form4(test_form4):
@@ -141,8 +158,9 @@ def test_extract_nonderivative_trans_form5_collection(test_form5_collection):
         doc = Form5(file, replace={"true": "1", "false": "0"})
         assert doc.filename == file.name
         fields_list = doc.nonderivatives
-        assert len(fields_list) >= 0
-        for idx, fields in enumerate(fields_list):
+
+        trans_fields_list = [f for f in fields_list if f["type"] == "nonDerivTrans"]
+        for idx, fields in enumerate(trans_fields_list):
             assert (len(fields)) == 19
             assert fields["filename"] == file.name
             assert fields["accession_num"] == doc.accession_num
@@ -162,6 +180,21 @@ def test_extract_nonderivative_trans_form5_collection(test_form5_collection):
                 file, fields["shares_owned_following_transaction"], r"[\d\.]*"
             )
             assert validate(file, fields["transaction_code"], r"[A-Z]")
+
+        holdings_fields_list = [
+            f for f in fields_list if f["type"] == "nonDerivHolding"
+        ]
+        for idx, fields in enumerate(holdings_fields_list):
+            assert (len(fields)) == 19
+            assert fields["filename"] == file.name
+            assert fields["accession_num"] == doc.accession_num
+            assert fields["order"] == f"{idx+1}"
+            assert fields["type"] == "nonDerivHolding"
+            assert fields["index"] == f"nonDerivHolding{idx+1}"
+
+            assert validate(file, fields["accession_num"], r"[\d-]+")
+            assert validate(file, fields["security_title"], r".+")
+            assert validate(file, fields["direct_or_indirect_ownership"], r"[DI]")
 
 
 def test_extract_nonderivative_trans_form5(test_form5):
