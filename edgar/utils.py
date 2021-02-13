@@ -8,7 +8,7 @@ For a copy, see <https://opensource.org/licenses/MIT>.
 import typer
 import re
 import csv
-from typing import Optional, List, Dict
+from typing import List, Dict
 from pathlib import Path
 from edgar.forms.secdoc import Document
 from edgar.forms.form3 import Form3

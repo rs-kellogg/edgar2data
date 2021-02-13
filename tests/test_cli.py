@@ -5,11 +5,7 @@ This work is licensed under the terms of the MIT license.
 For a copy, see <https://opensource.org/licenses/MIT>.
 """
 
-import os
-import re
 import tempfile
-import pytest
-from pathlib import Path
 from typer.testing import CliRunner
 from edgar.cli import *
 

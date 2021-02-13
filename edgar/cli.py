@@ -6,9 +6,8 @@ For a copy, see <https://opensource.org/licenses/MIT>.
 """
 
 import typer
-import os
+import typer
 from typing import Optional
-from pathlib import Path
 from edgar.utils import *
 
 app = typer.Typer()
