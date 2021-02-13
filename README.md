@@ -17,5 +17,6 @@ pip install .
 ## Running the tests:
 
 ```bash
+conda install pytest pytest-runner
 pytest ./tests
 ```
