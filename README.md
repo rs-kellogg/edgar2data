@@ -20,3 +20,10 @@ pip install .
 conda install pytest pytest-runner
 pytest ./tests
 ```
+
+## Running the CLI:
+
+```bash
+edgar2data --help
+```
+
