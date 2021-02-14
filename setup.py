@@ -27,7 +27,8 @@ setup(
         "tabulate",
         "tqdm",
         "fastapi",
-        "uvicorn[standard]"
+        "uvicorn[standard]",
+        "spacy"
     ],
     extras_require={"interactive": ["jupyter", "rise"]},
     entry_points={"console_scripts": ["edgar2data=edgar.cli:app"]},
