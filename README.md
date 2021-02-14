@@ -12,6 +12,7 @@ conda activate edgar
 git clone https://github.com/rs-kellogg/edgar2data.git
 cd edgar
 pip install .
+python -m spacy download en_core_web_md
 ```
 
 ## Running the tests:
