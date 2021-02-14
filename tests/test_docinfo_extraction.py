@@ -166,9 +166,9 @@ def test_extract_doclevel_form5_collection(test_form5_collection):
         assert validate(file, fields["sec_accept_datetime"], r"\d{14,14}")
         assert validate(file, fields["sec_file_num"], r"[\d-]+")
         assert validate(file, fields["doc_count"], r"\d+")
-        assert validate(file, fields["filed_date"], r"\d{8,8}")
-        assert validate(file, fields["conformed_period_of_report"], r"\d{8,8}")
-        assert validate(file, fields["change_date"], r"\d{8,8}")
+        assert validate(file, fields["filed_date"], r"\d{8}")
+        assert validate(file, fields["conformed_period_of_report"], r"\d{8}")
+        assert validate(file, fields["change_date"], r"\d{8}")
         assert validate(file, fields["period_of_report"], r"\d\d\d\d-\d\d-\d\d")
         assert validate(
             file, fields["not_subject_to_section_16"], r"[10]", none_allowed=True

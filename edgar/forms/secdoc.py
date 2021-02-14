@@ -19,24 +19,21 @@ class Document:
     xml_pat = re.compile(r"<XML>(.+)</XML>", flags=re.DOTALL)
 
     header_fields: Dict[str, re.Pattern] = {
-        "accession_num": re.compile(r"ACCESSION NUMBER:(.+?)$", flags=re.MULTILINE),
-        "sec_accept_datetime": re.compile(
-            r"<ACCEPTANCE-DATETIME>(.+?)$", flags=re.MULTILINE
-        ),
-        "sec_file_num": re.compile(r"SEC FILE NUMBER:(.+?)$", flags=re.MULTILINE),
-        "doc_count": re.compile(r"PUBLIC DOCUMENT COUNT:(.+?)$", flags=re.MULTILINE),
-        "filed_date": re.compile(r"FILED AS OF DATE:(.+?)$", flags=re.MULTILINE),
+        "accession_num": re.compile(r"ACCESSION NUMBER:\s*([\d-]+)"),
+        "sec_accept_datetime": re.compile(r"<ACCEPTANCE-DATETIME>(\d{14})"),
+        "sec_file_num": re.compile(r"SEC FILE NUMBER:\s*([\d-]+)"),
+        "doc_count": re.compile(r"PUBLIC DOCUMENT COUNT:\s*(\d+)"),
+        "filed_date": re.compile(r"FILED AS OF DATE:\s*(\d{8})"),
         "conformed_period_of_report": re.compile(
-            r"CONFORMED PERIOD OF REPORT:(.+?)$", flags=re.MULTILINE
+            r"CONFORMED PERIOD OF REPORT:\s*(\d{8})"
         ),
-        "change_date": re.compile(r"DATE AS OF CHANGE:(.+?)$", flags=re.MULTILINE),
+        "change_date": re.compile(r"DATE AS OF CHANGE:\s*(\d{8})"),
         "regcik": re.compile(
-            r"^ISSUER.+COMPANY\s+DATA.+CENTRAL\s+INDEX\s+KEY:(.+?)$",
-            re.MULTILINE | re.DOTALL,
+            r"ISSUER:.+COMPANY\s+DATA:.+CENTRAL\s+INDEX\s+KEY:\s*(\d+)", re.DOTALL
         ),
         "regsic": re.compile(
-            r"^ISSUER.+COMPANY\s+DATA.+STANDARD INDUSTRIAL CLASSIFICATION:.+?\[(.+?)\]$",
-            re.MULTILINE | re.DOTALL,
+            r"ISSUER:.+COMPANY\s+DATA:.+STANDARD\s+INDUSTRIAL\s+CLASSIFICATION:.+?\[(.+?)\]",
+            re.DOTALL,
         ),
     }
 
