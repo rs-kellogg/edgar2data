@@ -56,7 +56,7 @@ class Form3(Document):
         """
         return self._footnotes
 
-    def __init__(self, file: Path, replace: Dict[str, str] = {}):
+    def __init__(self, file: Path, replace: Dict[str, str] = {"true": "1", "false": "0"}):
         Document.__init__(self, file, replace)
         self._footnotes = []
 

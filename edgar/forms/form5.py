@@ -15,5 +15,5 @@ class Form5(Form4):
     Represents SEC document Form 5
     """
 
-    def __init__(self, file: Path, replace: Dict[str, str] = {}):
+    def __init__(self, file: Path, replace: Dict[str, str] = {"true": "1", "false": "0"}):
         Form4.__init__(self, file, replace)

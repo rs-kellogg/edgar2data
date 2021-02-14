@@ -21,7 +21,7 @@ def test_extract_signature_form3_collection(test_form3_collection):
     :return:
     """
     for file in test_form3_collection.glob("*.txt"):
-        doc = Form3(file, replace={"true": "1", "false": "0"})
+        doc = Form3(file)
         assert doc.filename == file.name
         fields_list = doc.signatures
         assert len(fields_list) > 0
@@ -43,7 +43,7 @@ def test_extract_signature_form3(test_form3):
     :param test_form3:
     :return:
     """
-    doc = Form3(test_form3, replace={"true": "1", "false": "0"})
+    doc = Form3(test_form3)
 
     assert doc.accession_num == "0001209191-20-054135"
     assert doc.filename == test_form3.name
@@ -68,7 +68,7 @@ def test_extract_signature_form4_collection(test_form4_collection):
     :return:
     """
     for file in test_form4_collection.glob("*.txt"):
-        doc = Form4(file, replace={"true": "1", "false": "0"})
+        doc = Form4(file)
         assert doc.filename == file.name
         fields_list = doc.signatures
         assert len(fields_list) > 0
@@ -90,7 +90,7 @@ def test_extract_signature_form4(test_form4):
     :param test_form4:
     :return:
     """
-    doc = Form4(test_form4, replace={"true": "1", "false": "0"})
+    doc = Form4(test_form4)
 
     assert doc.accession_num == "0001012975-17-000759"
     assert doc.filename == test_form4.name
@@ -129,7 +129,7 @@ def test_extract_signature_form5_collection(test_form5_collection):
     :return:
     """
     for file in test_form5_collection.glob("*.txt"):
-        doc = Form5(file, replace={"true": "1", "false": "0"})
+        doc = Form5(file)
         assert doc.filename == file.name
         fields_list = doc.signatures
         assert len(fields_list) > 0
@@ -151,7 +151,7 @@ def test_extract_signature_form5(test_form5):
     :param test_form5:
     :return:
     """
-    doc = Form5(test_form5, replace={"true": "1", "false": "0"})
+    doc = Form5(test_form5)
 
     assert doc.accession_num == "0000011544-20-000013"
     assert doc.filename == test_form5.name
