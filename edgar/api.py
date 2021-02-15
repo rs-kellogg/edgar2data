@@ -21,12 +21,18 @@ async def process_form(filename: str, text: str) -> Dict[str, str]:
         file = Path(tmp_dir) / filename
         file.write_text(text)
         doc = create_doc(file)
-        return_dict = (
-            doc.doc_info
-            | {"report_owners": doc.report_owners}
-            | {"signatures": doc.signatures}
-            | {"derivatives": doc.derivatives}
-            | {"nonderivatives": doc.nonderivatives}
-            | {"footnotes": doc.footnotes}
-        )
+        return_dict = {**doc.doc_info, **{"report_owners": doc.report_owners}}
+        return_dict = {**return_dict, **{"signatures": doc.signatures}}
+        return_dict = {**return_dict, **{"derivatives": doc.derivatives}}
+        return_dict = {**return_dict, **{"nonderivatives": doc.nonderivatives}}
+        return_dict = {**return_dict, **{"footnotes": doc.footnotes}}
+        # for python version >= 3.9:
+        # return_dict = (
+        #     doc.doc_info
+        #     | {"report_owners": doc.report_owners}
+        #     | {"signatures": doc.signatures}
+        #     | {"derivatives": doc.derivatives}
+        #     | {"nonderivatives": doc.nonderivatives}
+        #     | {"footnotes": doc.footnotes}
+        # )
         return return_dict

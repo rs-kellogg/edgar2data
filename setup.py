@@ -27,7 +27,7 @@ setup(
         "tabulate",
         "tqdm",
         "fastapi",
-        "uvicorn[standard]",
+        "uvicorn",
         "spacy"
     ],
     extras_require={"interactive": ["jupyter", "rise"]},
