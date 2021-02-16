@@ -20,6 +20,11 @@ def count_lines(text):
 
 
 def test_script_on_form3_collection(test_form3_collection):
+    """
+    Test script on a random sample of Form 3 documents
+    :param test_form3_collection:
+    :return:
+    """
     with tempfile.TemporaryDirectory() as tmp_dir:
         out_dir = Path(tmp_dir)
         assert out_dir.exists()
@@ -47,6 +52,11 @@ def test_script_on_form3_collection(test_form3_collection):
 
 
 def test_script_on_form4_collection(test_form4_collection):
+    """
+    Test script on a random sample of Form 4 documents
+    :param test_form4_collection:
+    :return:
+    """
     with tempfile.TemporaryDirectory() as tmp_dir:
         out_dir = Path(tmp_dir)
         assert out_dir.exists()
@@ -74,6 +84,11 @@ def test_script_on_form4_collection(test_form4_collection):
 
 
 def test_script_on_form5_collection(test_form5_collection):
+    """
+    Test script on a random sample of Form 5 documents
+    :param test_form5_collection:
+    :return:
+    """
     with tempfile.TemporaryDirectory() as tmp_dir:
         out_dir = Path(tmp_dir)
         assert out_dir.exists()
