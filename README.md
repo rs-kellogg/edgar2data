@@ -18,7 +18,7 @@ python -m spacy download en_core_web_md
 ## Running the tests:
 
 ```bash
-conda install pytest pytest-runner
+conda install pytest
 pytest ./tests
 ```
 
