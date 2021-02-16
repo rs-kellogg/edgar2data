@@ -41,30 +41,6 @@ class Form3(Document):
         "direct_or_indirect_ownership": "ownershipNature/directOrIndirectOwnership",
     }
 
-    @property
-    def nonderivatives(self) -> List[Dict[str, str]]:
-        """
-        The nonderivative holdings info. Maybe be zero or more in a document.
-        :return: List[Dict[str, str]]
-        """
-        return self._nonderivatives_dict_list
-
-    @property
-    def derivatives(self) -> List[Dict[str, str]]:
-        """
-        The derivative holdings info. Maybe be zero or more in a document.
-        :return: List[Dict[str, str]]
-        """
-        return self._derivatives_dict_list
-
-    @property
-    def footnotes(self) -> List[Dict[str, str]]:
-        """
-        The footnotes info. Maybe be zero or more in a document.
-        :return: List[Dict[str, str]]
-        """
-        return self._footnotes
-
     def __init__(
         self, file: Path, replace: Dict[str, str] = {"true": "1", "false": "0"}
     ):
@@ -96,3 +72,27 @@ class Form3(Document):
             row_type="derivHolding",
         )
         self._footnotes.extend(footnotes)
+
+    @property
+    def nonderivatives(self) -> List[Dict[str, str]]:
+        """
+        The nonderivative holdings info. Maybe be zero or more in a document.
+        :return: List[Dict[str, str]]
+        """
+        return self._nonderivatives_dict_list
+
+    @property
+    def derivatives(self) -> List[Dict[str, str]]:
+        """
+        The derivative holdings info. Maybe be zero or more in a document.
+        :return: List[Dict[str, str]]
+        """
+        return self._derivatives_dict_list
+
+    @property
+    def footnotes(self) -> List[Dict[str, str]]:
+        """
+        The footnotes info. Maybe be zero or more in a document.
+        :return: List[Dict[str, str]]
+        """
+        return self._footnotes

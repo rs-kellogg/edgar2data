@@ -91,6 +91,41 @@ class Document:
         "signature_date": "signatureDate",
     }
 
+    def __init__(self, file: Path, replace: Dict[str, str] = {}):
+        """
+        Initialize the Document object from the contents of the file parameter.
+        :param file: File source of the document
+        :param replace: A dictionary that can be used to replace and normalize extracted values, e.g. "true" => "1"
+        """
+        assert file.exists() and file.is_file()
+        self.path = file
+        doc_text = file.read_text()
+        match = Document.xml_pat.findall(doc_text)
+        assert match is not None and len(match) == 1
+        self.xml_root = ET.fromstring(match[0].strip())
+        self.replace = replace
+
+        self._doc_field_dict = {"filename": self.path.name}
+        for field, pat in Document.header_fields.items():
+            match = pat.findall(doc_text)
+            self._doc_field_dict[field] = match[0].strip() if match else None
+        for field, path in Document.xml_document_fields.items():
+            child = self.xml_root.find(path)
+            text = child.text if child is not None else None
+            if text is not None and text.lower() in self.replace:
+                text = self.replace[text.lower()]
+            self._doc_field_dict[field] = text
+        self._report_owner_dict_list, _ = self._extract_xml_fields(
+            field_dict=Document.xml_report_owner_fields,
+            xml_path="reportingOwner",
+            row_type="reportingOwner",
+        )
+        self._signature_dict_list, _ = self._extract_xml_fields(
+            field_dict=Document.xml_signature_fields,
+            xml_path="ownerSignature",
+            row_type="signature",
+        )
+
     @property
     def accession_num(self) -> str:
         """
@@ -132,41 +167,6 @@ class Document:
         :return: List[Dict[str, str]]
         """
         return self._signature_dict_list
-
-    def __init__(self, file: Path, replace: Dict[str, str] = {}):
-        """
-        Initialize the Document object from the contents of the file parameter.
-        :param file: File source of the document
-        :param replace: A dictionary that can be used to replace and normalize extracted values, e.g. "true" => "1"
-        """
-        assert file.exists() and file.is_file()
-        self.path = file
-        doc_text = file.read_text()
-        match = Document.xml_pat.findall(doc_text)
-        assert match is not None and len(match) == 1
-        self.xml_root = ET.fromstring(match[0].strip())
-        self.replace = replace
-
-        self._doc_field_dict = {"filename": self.path.name}
-        for field, pat in Document.header_fields.items():
-            match = pat.findall(doc_text)
-            self._doc_field_dict[field] = match[0].strip() if match else None
-        for field, path in Document.xml_document_fields.items():
-            child = self.xml_root.find(path)
-            text = child.text if child is not None else None
-            if text is not None and text.lower() in self.replace:
-                text = self.replace[text.lower()]
-            self._doc_field_dict[field] = text
-        self._report_owner_dict_list, _ = self._extract_xml_fields(
-            field_dict=Document.xml_report_owner_fields,
-            xml_path="reportingOwner",
-            row_type="reportingOwner",
-        )
-        self._signature_dict_list, _ = self._extract_xml_fields(
-            field_dict=Document.xml_signature_fields,
-            xml_path="ownerSignature",
-            row_type="signature",
-        )
 
     def _extract_xml_fields(
         self,
