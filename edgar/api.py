@@ -17,6 +17,14 @@ app = FastAPI()
 
 @app.post("/form")
 async def process_form(filename: str, text: str) -> Dict[str, str]:
+    """
+    Accepts a filename and the text contents of a file, and returns a dicitonary with all
+    information extracted. The filename is required in order to trace the contents back to
+    source. However, the function caller can supply any string here and the code will accept it.
+    :param filename:
+    :param text:
+    :return:
+    """
     with tempfile.TemporaryDirectory() as tmp_dir:
         file = Path(tmp_dir) / filename
         file.write_text(text)
@@ -26,7 +34,7 @@ async def process_form(filename: str, text: str) -> Dict[str, str]:
         return_dict = {**return_dict, **{"derivatives": doc.derivatives}}
         return_dict = {**return_dict, **{"nonderivatives": doc.nonderivatives}}
         return_dict = {**return_dict, **{"footnotes": doc.footnotes}}
-        # for python version >= 3.9:
+        # a cleaner way to do this for python version >= 3.9:
         # return_dict = (
         #     doc.doc_info
         #     | {"report_owners": doc.report_owners}

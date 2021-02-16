@@ -5,13 +5,11 @@ RUN pip install --upgrade pip
 WORKDIR /app
 
 COPY ./edgar /app/edgar
-COPY ./tests /app/tests
 COPY ./setup.py /app
 COPY ./edgar/api.py /app/main.py
 
 RUN pip install .
 RUN python -m spacy download en_core_web_md
-RUN pip install pytest
 
 
 

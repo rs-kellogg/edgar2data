@@ -96,6 +96,7 @@ def test_extract_signature_form4(test_form4):
     assert doc.filename == test_form4.name
 
     fields_list = doc.signatures
+
     assert len(fields_list) == 2
     assert len(fields_list[0]) == 7
 

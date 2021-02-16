@@ -15,6 +15,9 @@ class Form4(Document):
     Represents SEC document Form 4
     """
 
+    # Non-derivatives transactions and holdings info in XML section
+    # key -> document field name
+    # value -> XML path used to extract key value from document
     xml_nonderivative_fields: Dict[str, str] = {
         "security_title": "securityTitle",
         "transaction_date": "transactionDate",
@@ -32,6 +35,9 @@ class Form4(Document):
         "transaction_code": "transactionCoding/transactionCode",
     }
 
+    # Derivatives transactions and holdings info in XML section
+    # key -> document field name
+    # value -> XML path used to extract key value from document
     xml_derivative_fields: Dict[str, str] = {
         "security_title": "securityTitle",
         "conversion_or_exercise_price": "conversionOrExercisePrice",
@@ -56,7 +62,14 @@ class Form4(Document):
         "nature_of_ownership": "ownershipNature/natureOfOwnership",
     }
 
-    def __init__(self, file: Path, replace: Dict[str, str] = {"true": "1", "false": "0"}):
+    def __init__(
+        self, file: Path, replace: Dict[str, str] = {"true": "1", "false": "0"}
+    ):
+        """
+        Initialize the Document object from the contents of the file parameter.
+        :param file: File source of the document
+        :param replace: A dictionary that can be used to replace and normalize extracted values, e.g. "true" => "1"
+        """
         Document.__init__(self, file, replace)
 
         self._footnotes = []
@@ -98,6 +111,7 @@ class Form4(Document):
     @property
     def nonderivatives(self) -> List[Dict[str, str]]:
         """
+        The non-derivative transactions and holdings info. Maybe be zero or more in a document.
         :return: List[Dict[str, str]]
         """
         return self._nonderivatives_dict_list
@@ -105,6 +119,7 @@ class Form4(Document):
     @property
     def derivatives(self) -> List[Dict[str, str]]:
         """
+        The derivative transactions and holdings info. Maybe be zero or more in a document.
         :return: List[Dict[str, str]]
         """
         return self._derivatives_dict_list
@@ -112,6 +127,7 @@ class Form4(Document):
     @property
     def footnotes(self) -> List[Dict[str, str]]:
         """
+        The footnotes info. Maybe be zero or more in a document.
         :return: List[Dict[str, str]]
         """
         return self._footnotes

@@ -26,7 +26,6 @@ def test_extract_doclevel_form3_collection(test_form3_collection):
         fields = doc.doc_info
         assert len(fields) == 19
         assert fields["filename"] == file.name
-        assert fields["accession_num"] is not None
         assert fields["schema_version"] == "X0206"
         assert fields["document_type"] == "3"
 

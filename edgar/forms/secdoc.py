@@ -3,6 +3,15 @@ Copyright (c) 2021 Northwestern University. All rights reserved.
 
 This work is licensed under the terms of the MIT license.
 For a copy, see <https://opensource.org/licenses/MIT>.
+
+
+This module contains code for representing a class of top-level SEC document, including
+document header information (accession number, filename source, etc.) as well as
+elements in common to all SEC documents in this class (e.g., report owners, signatures).
+
+
+Todo:
+    * None
 """
 
 import re
@@ -18,6 +27,9 @@ class Document:
 
     xml_pat = re.compile(r"<XML>(.+)</XML>", flags=re.DOTALL)
 
+    # document level info outside of XML section
+    # key -> document field name
+    # value -> regualar expression used to extract key value from document
     header_fields: Dict[str, re.Pattern] = {
         "accession_num": re.compile(r"ACCESSION NUMBER:\s*([\d-]+)"),
         "sec_accept_datetime": re.compile(r"<ACCEPTANCE-DATETIME>(\d{14})"),
@@ -37,6 +49,9 @@ class Document:
         ),
     }
 
+    # document level info in XML section
+    # key -> document field name
+    # value -> XML path used to extract key value from document
     xml_document_fields: Dict[str, str] = {
         "schema_version": "schemaVersion",
         "document_type": "documentType",
@@ -48,6 +63,9 @@ class Document:
         "remarks": "remarks",
     }
 
+    # Reporting owner info in XML section
+    # key -> document field name
+    # value -> XML path used to extract key value from document
     xml_report_owner_fields: Dict[str, str] = {
         "rpt_owner_cik": "reportingOwnerId/rptOwnerCik",
         "rpt_owner_name": "reportingOwnerId/rptOwnerName",
@@ -65,6 +83,9 @@ class Document:
         "other_text": "reportingOwnerRelationship/otherText",
     }
 
+    # Signature info in XML section
+    # key -> document field name
+    # value -> XML path used to extract key value from document
     xml_signature_fields: Dict[str, str] = {
         "signature_name": "signatureName",
         "signature_date": "signatureDate",
@@ -73,6 +94,7 @@ class Document:
     @property
     def accession_num(self) -> str:
         """
+        Return the accession number of the document
         :return: str
         """
         return self._doc_field_dict["accession_num"]
@@ -80,6 +102,7 @@ class Document:
     @property
     def filename(self) -> str:
         """
+        Return the filename of the source file for the document
         :return: str
         """
         return self._doc_field_dict["filename"]
@@ -87,6 +110,7 @@ class Document:
     @property
     def doc_info(self) -> Dict[str, str]:
         """
+        Return the document level information for the document
         :return: Dict[str, str]
         """
         return self._doc_field_dict
@@ -94,6 +118,8 @@ class Document:
     @property
     def report_owners(self) -> List[Dict[str, str]]:
         """
+        Return the reporting owners information for the document.
+        There may be one or more reporting owners per document.
         :return: List[Dict[str, str]]
         """
         return self._report_owner_dict_list
@@ -101,15 +127,17 @@ class Document:
     @property
     def signatures(self) -> List[Dict[str, str]]:
         """
+        Return the signature information for the document.
+        There may be one or more signatures per document.
         :return: List[Dict[str, str]]
         """
         return self._signature_dict_list
 
     def __init__(self, file: Path, replace: Dict[str, str] = {}):
         """
-
-        :param file:
-        :param replace:
+        Initialize the Document object from the contents of the file parameter.
+        :param file: File source of the document
+        :param replace: A dictionary that can be used to replace and normalize extracted values, e.g. "true" => "1"
         """
         assert file.exists() and file.is_file()
         self.path = file
@@ -187,6 +215,10 @@ class Document:
 
     def _extract_footnotes(self, parent: ET, index) -> List[Dict[str, str]]:
         row_dicts: List[Dict] = []
+
+        # The parent map is used to access parents of footnote nodes. We need this in
+        # order to create the "field" property, which is used to link the footnote back
+        # to where it is referenced.
         parent_map = {c: p for p in parent.iter() for c in p if c.tag == "footnoteId"}
         for fnote, parent in parent_map.items():
             fnote_text = self.xml_root.find(
