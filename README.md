@@ -7,7 +7,7 @@
 ## Installation with Conda:
 
 ```bash
-conda create -n edgar python==3.9
+conda create -n edgar python==3.8
 conda activate edgar
 git clone https://github.com/rs-kellogg/edgar2data.git
 cd edgar
