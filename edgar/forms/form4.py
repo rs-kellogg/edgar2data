@@ -111,7 +111,7 @@ class Form4(Document):
     @property
     def nonderivatives(self) -> List[Dict[str, str]]:
         """
-        The non-derivative transactions and holdings info. Maybe be zero or more in a document.
+        The non-derivative transactions and holdings info. May be zero or more in a document.
         :return: List[Dict[str, str]]
         """
         return self._nonderivatives_dict_list
@@ -119,7 +119,7 @@ class Form4(Document):
     @property
     def derivatives(self) -> List[Dict[str, str]]:
         """
-        The derivative transactions and holdings info. Maybe be zero or more in a document.
+        The derivative transactions and holdings info. May be zero or more in a document.
         :return: List[Dict[str, str]]
         """
         return self._derivatives_dict_list
@@ -127,7 +127,7 @@ class Form4(Document):
     @property
     def footnotes(self) -> List[Dict[str, str]]:
         """
-        The footnotes info. Maybe be zero or more in a document.
+        The footnotes info. May be zero or more in a document.
         :return: List[Dict[str, str]]
         """
         return self._footnotes

@@ -10,6 +10,7 @@ import typer
 from typing import Optional
 from edgar.utils import *
 
+
 app = typer.Typer()
 
 
@@ -59,7 +60,6 @@ def process(
     for file in in_dir.glob("*.txt"):
         typer.secho(f"processing file: {file.name}", fg=typer.colors.YELLOW)
         assert file.is_file()
-
         try:
             doc = create_doc(file)
             write_records([doc.doc_info], out_file=out_dir / "document_info.csv")

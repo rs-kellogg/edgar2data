@@ -3,15 +3,6 @@ Copyright (c) 2021 Northwestern University. All rights reserved.
 
 This work is licensed under the terms of the MIT license.
 For a copy, see <https://opensource.org/licenses/MIT>.
-
-
-This module contains code for representing a class of top-level SEC document, including
-document header information (accession number, filename source, etc.) as well as
-elements in common to all SEC documents in this class (e.g., report owners, signatures).
-
-
-Todo:
-    * None
 """
 
 import re
