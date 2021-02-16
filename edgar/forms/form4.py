@@ -66,7 +66,7 @@ class Form4(Document):
         self, file: Path, replace: Dict[str, str] = {"true": "1", "false": "0"}
     ):
         """
-        Initialize the Document object from the contents of the file parameter.
+        Initialize the Form4 object from the contents of the file parameter.
         :param file: File source of the document
         :param replace: A dictionary that can be used to replace and normalize extracted values, e.g. "true" => "1"
         """
