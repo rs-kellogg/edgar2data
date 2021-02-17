@@ -15,6 +15,11 @@ from edgar.utils import create_doc
 app = FastAPI()
 
 
+@app.get("/")
+async def read_main():
+    return {"msg": "edgar2data service"}
+
+
 @app.post("/form")
 async def process_form(filename: str, text: str) -> Dict[str, str]:
     """
