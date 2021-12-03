@@ -7,9 +7,12 @@ For a copy, see <https://opensource.org/licenses/MIT>.
 
 import os
 from conftest import validate
+from edgar.forms.secdoc import Document
 from edgar.forms.form3 import Form3
 from edgar.forms.form4 import Form4
 from edgar.forms.form5 import Form5
+from edgar.forms.form13 import Form13
+
 
 dir_path = os.path.dirname(os.path.realpath(__file__))
 
@@ -208,3 +211,23 @@ def test_extract_doclevel_form5(test_form5):
     assert fields["remarks"] is None
     assert fields["regcik"] == "0000011544"
     assert fields["regsic"] == "6331"
+
+
+def test_extract_doclevel_form13(test_form13):
+    """
+    Validate Form13 extraction code against a single detailed example
+    :param test_form13:
+    :return:
+    """
+    doc = Form13(test_form13)
+    assert doc.accession_num == "0000732812-18-000013"
+    assert doc.filename == test_form13.name
+    assert doc.doc_info['sec_accept_datetime'] == '20180214135956'
+    assert doc.doc_info['sec_file_num'] == '028-15076'
+    assert doc.doc_info['doc_count'] == '2'
+    assert doc.doc_info['filed_date'] == '20180214'
+    assert doc.doc_info['conformed_period_of_report'] == '20171231'
+    assert doc.doc_info['change_date'] == '20180214'
+    assert doc.doc_info['filer_cik'] == '0001562230'
+
+

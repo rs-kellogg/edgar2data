@@ -16,7 +16,7 @@ class Document:
     Represents a generic SEC document
     """
 
-    xml_pat = re.compile(r"<XML>(.+)</XML>", flags=re.DOTALL)
+    xml_pat = re.compile(r"<XML>(.+?)</XML>", flags=re.DOTALL)
 
     # document level info outside of XML section
     # key -> document field name

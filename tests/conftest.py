@@ -67,6 +67,12 @@ def test_form5_collection(config) -> Path:
 
 
 @pytest.fixture
+def test_form13_collection(config) -> Path:
+    path = Path(dir_path) / "data/form-13/sample"
+    return path
+
+
+@pytest.fixture
 def test_form3(config) -> Path:
     file = Path(dir_path) / "data/form-3/37996_4_0001209191-20-054135.txt"
     return file
@@ -81,4 +87,10 @@ def test_form4(config) -> Path:
 @pytest.fixture
 def test_form5(config) -> Path:
     file = Path(dir_path) / "data/form-5/11544_1_0000011544-20-000013.txt"
+    return file
+
+
+@pytest.fixture
+def test_form13(config) -> Path:
+    file = Path(dir_path) / "data/form-13/1562230_1_0000732812-18-000013.txt"
     return file
