@@ -1,0 +1,521 @@
+<SEC-DOCUMENT>0001012975-19-000163.txt : 20190214
+<SEC-HEADER>0001012975-19-000163.hdr.sgml : 20190214
+<ACCEPTANCE-DATETIME>20190214160030
+ACCESSION NUMBER:		0001012975-19-000163
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20181231
+FILED AS OF DATE:		20190214
+DATE AS OF CHANGE:		20190214
+EFFECTIVENESS DATE:		20190214
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Electron Capital Partners, LLC
+		CENTRAL INDEX KEY:			0001586986
+		IRS NUMBER:				455150099
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-16049
+		FILM NUMBER:		19605750
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10 EAST 53RD STREET
+		STREET 2:		19TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		212-554-1800
+
+	MAIL ADDRESS:	
+		STREET 1:		10 EAST 53RD STREET
+		STREET 2:		19TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Electron Capital Partners LLC
+		DATE OF NAME CHANGE:	20130917
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>false</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001586986</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>12-31-2018</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>12-31-2018</reportCalendarOrQuarter>
+      <filingManager>
+        <name>Electron Capital Partners, LLC</name>
+        <address>
+          <com:street1>10 EAST 53RD STREET</com:street1>
+          <com:street2>19TH FLOOR</com:street2>
+          <com:city>NEW YORK</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10022</com:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-16049</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Aaron A. Keller</name>
+      <title>Chief Financial Officer and Chief Compliance Officer</title>
+      <phone>212-554-1800</phone>
+      <signature>/s/ Aaron A. Keller</signature>
+      <city>New York</city>
+      <stateOrCountry>NY</stateOrCountry>
+      <signatureDate>02-14-2019</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>3</otherIncludedManagersCount>
+      <tableEntryTotal>22</tableEntryTotal>
+      <tableValueTotal>764969</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+      <otherManagers2Info>
+        <otherManager2>
+          <sequenceNumber>1</sequenceNumber>
+          <otherManager>
+            <cik>0001598364</cik>
+            <form13FFileNumber>028-16050</form13FFileNumber>
+            <name>Electron GP, LLC</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>2</sequenceNumber>
+          <otherManager>
+            <cik>0001598371</cik>
+            <form13FFileNumber>028-16051</form13FFileNumber>
+            <name>Shaver James O.</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>3</sequenceNumber>
+          <otherManager>
+            <cik>0001767528</cik>
+            <name>Electron Infrastructure GP, LLC</name>
+          </otherManager>
+        </otherManager2>
+      </otherManagers2Info>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>electron.xml
+<DESCRIPTION>INFORMATION TABLE
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns1:informationTable xmlns:ns1="http://www.sec.gov/edgar/document/thirteenf/informationtable">
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>ADVANCED DISP SVCS INC DEL  </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>00790X101</ns1:cusip>
+		<ns1:value>10519</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>439404</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>1,2, 3</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>439404</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>AVANGRID INC                </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>05351W103</ns1:cusip>
+		<ns1:value>76539</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>1528033</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>1,2, 3</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>1528033</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>CHART INDS INC              </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM PAR $0.01</ns1:titleOfClass>
+		<ns1:cusip>16115Q308</ns1:cusip>
+		<ns1:value>12064</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>185522</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>1,2, 3</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>185522</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>DOMINION ENERGY INC         </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>25746U109</ns1:cusip>
+		<ns1:value>25736</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>360147</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>1,2, 3</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>360147</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>EDISON INTL                 </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>281020107</ns1:cusip>
+		<ns1:value>31093</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>547701</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>1,2, 3</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>547701</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>EL PASO ELEC CO             </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM NEW</ns1:titleOfClass>
+		<ns1:cusip>283677854</ns1:cusip>
+		<ns1:value>32722</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>652746</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>1,2, 3</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>652746</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>ENPHASE ENERGY INC          </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>29355A107</ns1:cusip>
+		<ns1:value>23352</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>4936956</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>1,2, 3</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>4936956</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>EXELON CORP                 </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>30161N101</ns1:cusip>
+		<ns1:value>114041</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>2528634</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>1,2, 3</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>2528634</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>FIRST SOLAR INC             </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>336433107</ns1:cusip>
+		<ns1:value>21447</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>505181</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>1,2, 3</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>505181</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>FIRSTENERGY CORP            </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>337932107</ns1:cusip>
+		<ns1:value>113606</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>3025455</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>1,2, 3</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>3025455</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>FORTERRA INC                </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>34960W106</ns1:cusip>
+		<ns1:value>9679</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>2574272</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>1,2, 3</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>2574272</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>GENERAL ELECTRIC CO         </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>369604103</ns1:cusip>
+		<ns1:value>10880</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>1437200</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>1,2, 3</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>1437200</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>GOLAR LNG LTD BERMUDA       </ns1:nameOfIssuer>
+		<ns1:titleOfClass>SHS</ns1:titleOfClass>
+		<ns1:cusip>G9456A100</ns1:cusip>
+		<ns1:value>8953</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>411425</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>1,2, 3</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>411425</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>ISHARES INC                 </ns1:nameOfIssuer>
+		<ns1:titleOfClass>MSCI BRAZIL ETF</ns1:titleOfClass>
+		<ns1:cusip>464286400</ns1:cusip>
+		<ns1:value>19656</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>514557</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>1,2, 3</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>514557</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>ISHARES TR                  </ns1:nameOfIssuer>
+		<ns1:titleOfClass>CHINA LG-CAP ETF</ns1:titleOfClass>
+		<ns1:cusip>464287184</ns1:cusip>
+		<ns1:value>18822</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>481621</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>1,2, 3</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>481621</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>ISHARES TR                  </ns1:nameOfIssuer>
+		<ns1:titleOfClass>MSCI EMG MKT ETF</ns1:titleOfClass>
+		<ns1:cusip>464287234</ns1:cusip>
+		<ns1:value>27893</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>714107</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>1,2, 3</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>714107</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>MARTIN MARIETTA MATLS INC   </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>573284106</ns1:cusip>
+		<ns1:value>10655</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>61997</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>1,2, 3</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>61997</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>SCANA CORP NEW              </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>80589M102</ns1:cusip>
+		<ns1:value>94397</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>1975666</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>1,2, 3</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>1975666</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>SEMPRA ENERGY               </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>816851109</ns1:cusip>
+		<ns1:value>55838</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>516113</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>1,2, 3</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>516113</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>TELLURIAN INC NEW           </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>87968A104</ns1:cusip>
+		<ns1:value>13439</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>1933685</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>1,2, 3</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>1933685</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>VULCAN MATLS CO             </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>929160109</ns1:cusip>
+		<ns1:value>10831</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>109622</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>1,2, 3</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>109622</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>WASTE CONNECTIONS INC       </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>94106B101</ns1:cusip>
+		<ns1:value>22807</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>307168</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>DFND</ns1:investmentDiscretion>
+		<ns1:otherManager>1,2, 3</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>307168</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+</ns1:informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

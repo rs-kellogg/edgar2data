@@ -24,7 +24,7 @@ def process(
         "--out_dir",
         help="The directory where the output flat files will be created. Defaults to the current working directory",
     ),
-) -> None:
+) -> int:
     """
     This function expects to be given a directory containing SEC files. Currently supported forms are
     insider trading filings;
