@@ -13,6 +13,7 @@ setup(
     package_data={"edgar": ["templates/*.j2"]},
     include_package_data=True,
     install_requires=[
+        "lxml",
         "dask",
         "pandas",
         "pyyaml",
