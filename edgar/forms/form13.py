@@ -108,9 +108,10 @@ class Form13:
             self._doc_field_dict[field] = match[0].strip() if match else None
 
         for field, path in Form13.edgar_submission_fields.items():
-            child = self.xml_edgar_submission.find(
-                path, self.xml_edgar_submission.nsmap
-            )
+            namespaces = self.xml_edgar_submission.nsmap
+            if "ns1" in namespaces and "com" not in namespaces:
+                namespaces["com"] = namespaces["ns1"]
+            child = self.xml_edgar_submission.find(path, namespaces)
             text = child.text if child is not None else None
             if text is not None and text.lower() in self.replace:
                 text = self.replace[text.lower()]
@@ -119,9 +120,9 @@ class Form13:
         for xml_info_table in self.xml_info_tables.findall(
             "infoTable", self.xml_info_tables.nsmap
         ):
-            info_dict = {}
+            info_dict = {"filename": self.filename, "accession_num": self.accession_num}
             for field, path in Form13.info_table_fields.items():
-                child = xml_info_table.find(path, self.xml_info_tables.nsmap)
+                child = xml_info_table.find(path, xml_info_table.nsmap)
                 text = child.text if child is not None else None
                 if text is not None and text.lower() in self.replace:
                     text = self.replace[text.lower()]

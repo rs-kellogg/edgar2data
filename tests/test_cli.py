@@ -25,10 +25,9 @@ def test_script_on_form3_collection(test_form3_collection, tmpdir):
     :param test_form3_collection:
     :return:
     """
-    assert tmpdir.exists()
     result = runner.invoke(
         app,
-        [str(test_form3_collection), "--out_dir", str(tmpdir)],
+        ["process", str(test_form3_collection), "--out_dir", str(tmpdir)],
     )
     assert result.exit_code == 0
     assert "processing files in dir" in result.stdout
@@ -57,7 +56,7 @@ def test_script_on_form4_collection(test_form4_collection, tmpdir):
     """
     result = runner.invoke(
         app,
-        [str(test_form4_collection), "--out_dir", str(tmpdir)],
+        ["process", str(test_form4_collection), "--out_dir", str(tmpdir)],
     )
     assert result.exit_code == 0
     assert "processing files in dir" in result.stdout
@@ -86,7 +85,7 @@ def test_script_on_form5_collection(test_form5_collection, tmpdir):
     """
     result = runner.invoke(
         app,
-        [str(test_form5_collection), "--out_dir", str(tmpdir)],
+        ["process", str(test_form5_collection), "--out_dir", str(tmpdir)],
     )
     assert result.exit_code == 0
     assert "processing files in dir" in result.stdout
