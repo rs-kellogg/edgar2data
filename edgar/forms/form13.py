@@ -96,8 +96,8 @@ class Form13:
         doc_text = file.read_text()
         match = Form13.xml_pat.findall(doc_text)
         assert match is not None and len(match) == 2
-        self.xml_edgar_submission = ET.fromstring(match[0].strip().encode('utf-8'))
-        self.xml_info_tables = ET.fromstring(match[1].strip().encode('utf-8'))
+        self.xml_edgar_submission = ET.fromstring(match[0].strip().encode("utf-8"))
+        self.xml_info_tables = ET.fromstring(match[1].strip().encode("utf-8"))
         self.replace = replace
 
         self._doc_field_dict: Dict[str, str] = {"filename": self.path.name}
@@ -108,13 +108,17 @@ class Form13:
             self._doc_field_dict[field] = match[0].strip() if match else None
 
         for field, path in Form13.edgar_submission_fields.items():
-            child = self.xml_edgar_submission.find(path, self.xml_edgar_submission.nsmap)
+            child = self.xml_edgar_submission.find(
+                path, self.xml_edgar_submission.nsmap
+            )
             text = child.text if child is not None else None
             if text is not None and text.lower() in self.replace:
                 text = self.replace[text.lower()]
             self._doc_field_dict[field] = text
 
-        for xml_info_table in self.xml_info_tables.findall("infoTable", self.xml_info_tables.nsmap):
+        for xml_info_table in self.xml_info_tables.findall(
+            "infoTable", self.xml_info_tables.nsmap
+        ):
             info_dict = {}
             for field, path in Form13.info_table_fields.items():
                 child = xml_info_table.find(path, self.xml_info_tables.nsmap)

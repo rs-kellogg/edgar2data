@@ -223,13 +223,13 @@ def test_extract_doclevel_form13(test_form13):
 
     assert doc.accession_num == "0000732812-18-000013"
     assert doc.filename == test_form13.name
-    assert doc.doc_info['sec_accept_datetime'] == '20180214135956'
-    assert doc.doc_info['sec_file_num'] == '028-15076'
-    assert doc.doc_info['doc_count'] == '2'
-    assert doc.doc_info['filed_date'] == '20180214'
-    assert doc.doc_info['conformed_period_of_report'] == '20171231'
-    assert doc.doc_info['change_date'] == '20180214'
-    assert doc.doc_info['submission_type'] == '13F-HR'
-    assert doc.doc_info['report_period'] == '12-31-2017'
+    assert doc.doc_info["sec_accept_datetime"] == "20180214135956"
+    assert doc.doc_info["sec_file_num"] == "028-15076"
+    assert doc.doc_info["doc_count"] == "2"
+    assert doc.doc_info["filed_date"] == "20180214"
+    assert doc.doc_info["conformed_period_of_report"] == "20171231"
+    assert doc.doc_info["change_date"] == "20180214"
+    assert doc.doc_info["submission_type"] == "13F-HR"
+    assert doc.doc_info["report_period"] == "12-31-2017"
 
-    assert len(doc.info_tables) -- 231
+    assert len(doc.info_tables) - -231
