@@ -109,8 +109,11 @@ class Form13:
 
         for field, path in Form13.edgar_submission_fields.items():
             namespaces = self.xml_edgar_submission.nsmap
-            if "ns1" in namespaces and "com" not in namespaces:
-                namespaces["com"] = namespaces["ns1"]
+            if "com" not in namespaces:
+                if "ns1" in namespaces:
+                    namespaces["com"] = namespaces["ns1"]
+                if "n1" in namespaces:
+                    namespaces["com"] = namespaces["n1"]
             child = self.xml_edgar_submission.find(path, namespaces)
             text = child.text if child is not None else None
             if text is not None and text.lower() in self.replace:
