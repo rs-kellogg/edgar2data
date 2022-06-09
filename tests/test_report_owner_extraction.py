@@ -6,6 +6,7 @@ For a copy, see <https://opensource.org/licenses/MIT>.
 """
 
 import os
+import pytest
 from conftest import validate
 from edgar.forms.form3 import Form3
 from edgar.forms.form4 import Form4
@@ -14,33 +15,34 @@ from edgar.forms.form5 import Form5
 dir_path = os.path.dirname(os.path.realpath(__file__))
 
 
-def test_extract_report_owner_form3_collection(test_form3_collection):
+@pytest.mark.parametrize("doc_num", range(100))
+def test_extract_report_owner_form3_collection(test_form3_collection, doc_num: int):
     """
     Validate Form3 extraction code against a random sample of documents
     :param test_form3_collection:
     :return:
     """
-    for file in test_form3_collection.glob("*.txt"):
-        doc = Form3(file)
-        assert doc.filename == file.name
-        fields_list = doc.report_owners
-        assert len(fields_list) > 0
-        for idx, fields in enumerate(fields_list):
-            assert (len(fields)) == 19
-            assert fields["filename"] == file.name
-            assert fields["order"] == f"{idx+1}"
-            assert fields["type"] == "reportingOwner"
-            assert fields["index"] == f"reportingOwner{idx+1}"
+    file = list(test_form3_collection.glob('*.txt'))[doc_num]
+    doc = Form3(file)
+    assert doc.filename == file.name
+    fields_list = doc.report_owners
+    assert len(fields_list) > 0
+    for idx, fields in enumerate(fields_list):
+        assert (len(fields)) == 19
+        assert fields["filename"] == file.name
+        assert fields["order"] == f"{idx+1}"
+        assert fields["type"] == "reportingOwner"
+        assert fields["index"] == f"reportingOwner{idx+1}"
 
-            assert validate(file, fields["rpt_owner_cik"], r"\d{10}")
-            assert validate(file, fields["rpt_owner_name"], r".+")
-            assert validate(file, fields["rpt_owner_city"], r".+")
-            assert validate(file, fields["is_director"], r"[10]", none_allowed=True)
-            assert validate(file, fields["is_officer"], r"[10]", none_allowed=True)
-            assert validate(
-                file, fields["is_ten_percent_owner"], r"[10]", none_allowed=True
-            )
-            assert validate(file, fields["is_other"], r"[10]", none_allowed=True)
+        assert validate(file, fields["rpt_owner_cik"], r"\d{10}")
+        assert validate(file, fields["rpt_owner_name"], r".+")
+        assert validate(file, fields["rpt_owner_city"], r".+")
+        assert validate(file, fields["is_director"], r"[10]", none_allowed=True)
+        assert validate(file, fields["is_officer"], r"[10]", none_allowed=True)
+        assert validate(
+            file, fields["is_ten_percent_owner"], r"[10]", none_allowed=True
+        )
+        assert validate(file, fields["is_other"], r"[10]", none_allowed=True)
 
 
 def test_extract_report_owner_form3(test_form3):
@@ -79,33 +81,34 @@ def test_extract_report_owner_form3(test_form3):
     assert fields_list[0]["other_text"] is None
 
 
-def test_extract_report_owner_form4_collection(test_form4_collection):
+@pytest.mark.parametrize("doc_num", range(100))
+def test_extract_report_owner_form4_collection(test_form4_collection, doc_num: int):
     """
     Validate Form4 extraction code against a random sample of documents
     :param test_form4_collection:
     :return:
     """
-    for file in test_form4_collection.glob("*.txt"):
-        doc = Form4(file)
-        assert doc.filename == file.name
-        fields_list = doc.report_owners
-        assert len(fields_list) > 0
-        for idx, fields in enumerate(fields_list):
-            assert (len(fields)) == 19
-            assert fields["filename"] == file.name
-            assert fields["order"] == f"{idx+1}"
-            assert fields["type"] == "reportingOwner"
-            assert fields["index"] == f"reportingOwner{idx+1}"
+    file = list(test_form4_collection.glob('*.txt'))[doc_num]
+    doc = Form4(file)
+    assert doc.filename == file.name
+    fields_list = doc.report_owners
+    assert len(fields_list) > 0
+    for idx, fields in enumerate(fields_list):
+        assert (len(fields)) == 19
+        assert fields["filename"] == file.name
+        assert fields["order"] == f"{idx+1}"
+        assert fields["type"] == "reportingOwner"
+        assert fields["index"] == f"reportingOwner{idx+1}"
 
-            assert validate(file, fields["rpt_owner_cik"], r"\d{10}")
-            assert validate(file, fields["rpt_owner_name"], r".+")
-            assert validate(file, fields["rpt_owner_city"], r".+")
-            assert validate(file, fields["is_director"], r"[10]", none_allowed=True)
-            assert validate(file, fields["is_officer"], r"[10]", none_allowed=True)
-            assert validate(
-                file, fields["is_ten_percent_owner"], r"[10]", none_allowed=True
-            )
-            assert validate(file, fields["is_other"], r"[10]", none_allowed=True)
+        assert validate(file, fields["rpt_owner_cik"], r"\d{10}")
+        assert validate(file, fields["rpt_owner_name"], r".+")
+        assert validate(file, fields["rpt_owner_city"], r".+")
+        assert validate(file, fields["is_director"], r"[10]", none_allowed=True)
+        assert validate(file, fields["is_officer"], r"[10]", none_allowed=True)
+        assert validate(
+            file, fields["is_ten_percent_owner"], r"[10]", none_allowed=True
+        )
+        assert validate(file, fields["is_other"], r"[10]", none_allowed=True)
 
 
 def test_extract_report_owner_form4(test_form4):
@@ -165,33 +168,34 @@ def test_extract_report_owner_form4(test_form4):
     assert fields_list[1]["other_text"] is None
 
 
-def test_extract_report_owner_form5_collection(test_form5_collection):
+@pytest.mark.parametrize("doc_num", range(100))
+def test_extract_report_owner_form5_collection(test_form5_collection, doc_num: int):
     """
     Validate Form5 extraction code against a random sample of documents
     :param test_form5_collection:
     :return:
     """
-    for file in test_form5_collection.glob("*.txt"):
-        doc = Form5(file)
-        assert doc.filename == file.name
-        fields_list = doc.report_owners
-        assert len(fields_list) > 0
-        for idx, fields in enumerate(fields_list):
-            assert (len(fields)) == 19
-            assert fields["filename"] == file.name
-            assert fields["order"] == f"{idx+1}"
-            assert fields["type"] == "reportingOwner"
-            assert fields["index"] == f"reportingOwner{idx+1}"
+    file = list(test_form5_collection.glob('*.txt'))[doc_num]
+    doc = Form5(file)
+    assert doc.filename == file.name
+    fields_list = doc.report_owners
+    assert len(fields_list) > 0
+    for idx, fields in enumerate(fields_list):
+        assert (len(fields)) == 19
+        assert fields["filename"] == file.name
+        assert fields["order"] == f"{idx+1}"
+        assert fields["type"] == "reportingOwner"
+        assert fields["index"] == f"reportingOwner{idx+1}"
 
-            assert validate(file, fields["rpt_owner_cik"], r"\d{10}")
-            assert validate(file, fields["rpt_owner_name"], r".+")
-            assert validate(file, fields["rpt_owner_city"], r".+")
-            assert validate(file, fields["is_director"], r"[10]", none_allowed=True)
-            assert validate(file, fields["is_officer"], r"[10]", none_allowed=True)
-            assert validate(
-                file, fields["is_ten_percent_owner"], r"[10]", none_allowed=True
-            )
-            assert validate(file, fields["is_other"], r"[10]", none_allowed=True)
+        assert validate(file, fields["rpt_owner_cik"], r"\d{10}")
+        assert validate(file, fields["rpt_owner_name"], r".+")
+        assert validate(file, fields["rpt_owner_city"], r".+")
+        assert validate(file, fields["is_director"], r"[10]", none_allowed=True)
+        assert validate(file, fields["is_officer"], r"[10]", none_allowed=True)
+        assert validate(
+            file, fields["is_ten_percent_owner"], r"[10]", none_allowed=True
+        )
+        assert validate(file, fields["is_other"], r"[10]", none_allowed=True)
 
 
 def test_extract_report_owner_form5(test_form5):

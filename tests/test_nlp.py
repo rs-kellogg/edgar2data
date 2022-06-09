@@ -6,6 +6,7 @@ For a copy, see <https://opensource.org/licenses/MIT>.
 """
 
 import os
+import pytest
 from conftest import validate
 from edgar.utils import extract_named_entities
 from edgar.forms.form3 import Form3
@@ -13,6 +14,7 @@ from edgar.forms.form4 import Form4
 from edgar.forms.form5 import Form5
 
 
+@pytest.mark.skip("not yet implemented")
 def test_smoke():
     text = """
     Redmont VAXN Capital Holdings, LLC, a Delaware limited liability company (&quot;Redmont VAXN&quot;) 

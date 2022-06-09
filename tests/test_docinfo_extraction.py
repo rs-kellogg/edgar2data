@@ -6,6 +6,7 @@ For a copy, see <https://opensource.org/licenses/MIT>.
 """
 
 import os
+import pytest
 from conftest import validate
 from edgar.forms.secdoc import Document
 from edgar.forms.form3 import Form3
@@ -17,38 +18,39 @@ from edgar.forms.form13 import Form13
 dir_path = os.path.dirname(os.path.realpath(__file__))
 
 
-def test_extract_doclevel_form3_collection(test_form3_collection):
+@pytest.mark.parametrize("doc_num", range(100))
+def test_extract_doclevel_form3_collection(test_form3_collection, doc_num: int):
     """
     Validate Form3 extraction code against a random sample of documents
     :param test_form3_collection:
     :return:
     """
-    for file in test_form3_collection.glob("*.txt"):
-        doc = Form3(file)
-        assert doc.filename == file.name
-        fields = doc.doc_info
-        assert len(fields) == 19
-        assert fields["filename"] == file.name
-        assert fields["schema_version"] == "X0206"
-        assert fields["document_type"] == "3"
+    file = list(test_form3_collection.glob('*.txt'))[doc_num]
+    doc = Form3(file)
+    assert doc.filename == file.name
+    fields = doc.doc_info
+    assert len(fields) == 19
+    assert fields["filename"] == file.name
+    assert fields["schema_version"] == "X0206"
+    assert fields["document_type"] == "3"
 
-        assert validate(file, fields["accession_num"], r"[\d-]+")
-        assert validate(file, fields["sec_accept_datetime"], r"\d{14,14}")
-        assert validate(file, fields["sec_file_num"], r"[\d-]+")
-        assert validate(file, fields["doc_count"], r"\d+")
-        assert validate(file, fields["filed_date"], r"\d{8,8}")
-        assert validate(file, fields["conformed_period_of_report"], r"\d{8,8}")
-        assert validate(file, fields["change_date"], r"\d{8,8}")
-        assert validate(file, fields["period_of_report"], r"\d\d\d\d-\d\d-\d\d")
-        assert validate(
-            file, fields["not_subject_to_section_16"], r"[10]", none_allowed=True
-        )
-        assert validate(file, fields["issuer_cik"], r"\d+")
-        assert validate(file, fields["issuer_name"], r".+")
-        assert validate(file, fields["issuer_trading_symbol"], r"[A-Z\.]+")
-        assert validate(file, fields["regcik"], r"\d+")
-        assert validate(file, fields["regsic"], r"\d\d\d\d", none_allowed=True)
-        assert validate(file, fields["no_securities_owned"], r"[01]")
+    assert validate(file, fields["accession_num"], r"[\d-]+")
+    assert validate(file, fields["sec_accept_datetime"], r"\d{14,14}")
+    assert validate(file, fields["sec_file_num"], r"[\d-]+")
+    assert validate(file, fields["doc_count"], r"\d+")
+    assert validate(file, fields["filed_date"], r"\d{8,8}")
+    assert validate(file, fields["conformed_period_of_report"], r"\d{8,8}")
+    assert validate(file, fields["change_date"], r"\d{8,8}")
+    assert validate(file, fields["period_of_report"], r"\d\d\d\d-\d\d-\d\d")
+    assert validate(
+        file, fields["not_subject_to_section_16"], r"[10]", none_allowed=True
+    )
+    assert validate(file, fields["issuer_cik"], r"\d+")
+    assert validate(file, fields["issuer_name"], r".+")
+    assert validate(file, fields["issuer_trading_symbol"], r"[A-Z\.]+")
+    assert validate(file, fields["regcik"], r"\d+")
+    assert validate(file, fields["regsic"], r"\d\d\d\d", none_allowed=True)
+    assert validate(file, fields["no_securities_owned"], r"[01]")
 
 
 def test_extract_doclevel_form3(test_form3):
@@ -83,38 +85,39 @@ def test_extract_doclevel_form3(test_form3):
     assert fields["no_securities_owned"] == "0"
 
 
-def test_extract_doclevel_form4_collection(test_form4_collection):
+@pytest.mark.parametrize("doc_num", range(100))
+def test_extract_doclevel_form4_collection(test_form4_collection, doc_num: int):
     """
     Validate Form4 extraction code against a random sample of documents
     :param test_form4_collection:
     :return:
     """
-    for file in test_form4_collection.glob("*.txt"):
-        doc = Form4(file)
-        assert doc.filename == file.name
-        fields = doc.doc_info
-        assert len(fields) == 18
-        assert fields["filename"] == file.name
-        assert fields["accession_num"] is not None
-        assert fields["schema_version"] == "X0306"
-        assert fields["document_type"] == "4"
+    file = list(test_form4_collection.glob('*.txt'))[doc_num]
+    doc = Form4(file)
+    assert doc.filename == file.name
+    fields = doc.doc_info
+    assert len(fields) == 18
+    assert fields["filename"] == file.name
+    assert fields["accession_num"] is not None
+    assert fields["schema_version"] == "X0306"
+    assert fields["document_type"] == "4"
 
-        assert validate(file, fields["accession_num"], r"[\d-]+")
-        assert validate(file, fields["sec_accept_datetime"], r"\d{14,14}")
-        assert validate(file, fields["sec_file_num"], r"[\d-]+")
-        assert validate(file, fields["doc_count"], r"\d+")
-        assert validate(file, fields["filed_date"], r"\d{8,8}")
-        assert validate(file, fields["conformed_period_of_report"], r"\d{8,8}")
-        assert validate(file, fields["change_date"], r"\d{8,8}")
-        assert validate(file, fields["period_of_report"], r"\d\d\d\d-\d\d-\d\d")
-        assert validate(
-            file, fields["not_subject_to_section_16"], r"[10]", none_allowed=True
-        )
-        assert validate(file, fields["issuer_cik"], r"\d+")
-        assert validate(file, fields["issuer_name"], r".+")
-        assert validate(file, fields["issuer_trading_symbol"], r"[A-Z\.]+")
-        assert validate(file, fields["regcik"], r"\d+")
-        assert validate(file, fields["regsic"], r"\d\d\d\d", none_allowed=True)
+    assert validate(file, fields["accession_num"], r"[\d-]+")
+    assert validate(file, fields["sec_accept_datetime"], r"\d{14,14}")
+    assert validate(file, fields["sec_file_num"], r"[\d-]+")
+    assert validate(file, fields["doc_count"], r"\d+")
+    assert validate(file, fields["filed_date"], r"\d{8,8}")
+    assert validate(file, fields["conformed_period_of_report"], r"\d{8,8}")
+    assert validate(file, fields["change_date"], r"\d{8,8}")
+    assert validate(file, fields["period_of_report"], r"\d\d\d\d-\d\d-\d\d")
+    assert validate(
+        file, fields["not_subject_to_section_16"], r"[10]", none_allowed=True
+    )
+    assert validate(file, fields["issuer_cik"], r"\d+")
+    assert validate(file, fields["issuer_name"], r".+")
+    assert validate(file, fields["issuer_trading_symbol"], r"[A-Z\.]+")
+    assert validate(file, fields["regcik"], r"\d+")
+    assert validate(file, fields["regsic"], r"\d\d\d\d", none_allowed=True)
 
 
 def test_extract_doclevel_form4(test_form4):
@@ -148,38 +151,39 @@ def test_extract_doclevel_form4(test_form4):
     assert fields["regsic"] == "2834"
 
 
-def test_extract_doclevel_form5_collection(test_form5_collection):
+@pytest.mark.parametrize("doc_num", range(100))
+def test_extract_doclevel_form5_collection(test_form5_collection, doc_num: int):
     """
     Validate Form5 extraction code against a random sample of documents
     :param test_form5_collection:
     :return:
     """
-    for file in test_form5_collection.glob("*.txt"):
-        doc = Form5(file)
-        assert doc.filename == file.name
-        fields = doc.doc_info
-        assert len(fields) == 18
-        assert fields["filename"] == file.name
-        assert fields["accession_num"] is not None
-        assert fields["schema_version"] == "X0306"
-        assert fields["document_type"] == "5"
+    file = list(test_form5_collection.glob('*.txt'))[doc_num]
+    doc = Form5(file)
+    assert doc.filename == file.name
+    fields = doc.doc_info
+    assert len(fields) == 18
+    assert fields["filename"] == file.name
+    assert fields["accession_num"] is not None
+    assert fields["schema_version"] == "X0306"
+    assert fields["document_type"] == "5"
 
-        assert validate(file, fields["accession_num"], r"[\d-]+")
-        assert validate(file, fields["sec_accept_datetime"], r"\d{14,14}")
-        assert validate(file, fields["sec_file_num"], r"[\d-]+")
-        assert validate(file, fields["doc_count"], r"\d+")
-        assert validate(file, fields["filed_date"], r"\d{8}")
-        assert validate(file, fields["conformed_period_of_report"], r"\d{8}")
-        assert validate(file, fields["change_date"], r"\d{8}")
-        assert validate(file, fields["period_of_report"], r"\d\d\d\d-\d\d-\d\d")
-        assert validate(
-            file, fields["not_subject_to_section_16"], r"[10]", none_allowed=True
-        )
-        assert validate(file, fields["issuer_cik"], r"\d+")
-        assert validate(file, fields["issuer_name"], r".+")
-        assert validate(file, fields["issuer_trading_symbol"], r"[A-Z\.;\s\.,]+")
-        assert validate(file, fields["regcik"], r"\d+")
-        assert validate(file, fields["regsic"], r"\d\d\d\d", none_allowed=True)
+    assert validate(file, fields["accession_num"], r"[\d-]+")
+    assert validate(file, fields["sec_accept_datetime"], r"\d{14,14}")
+    assert validate(file, fields["sec_file_num"], r"[\d-]+")
+    assert validate(file, fields["doc_count"], r"\d+")
+    assert validate(file, fields["filed_date"], r"\d{8}")
+    assert validate(file, fields["conformed_period_of_report"], r"\d{8}")
+    assert validate(file, fields["change_date"], r"\d{8}")
+    assert validate(file, fields["period_of_report"], r"\d\d\d\d-\d\d-\d\d")
+    assert validate(
+        file, fields["not_subject_to_section_16"], r"[10]", none_allowed=True
+    )
+    assert validate(file, fields["issuer_cik"], r"\d+")
+    assert validate(file, fields["issuer_name"], r".+")
+    assert validate(file, fields["issuer_trading_symbol"], r"[A-Z\.;\s\.,]+")
+    assert validate(file, fields["regcik"], r"\d+")
+    assert validate(file, fields["regsic"], r"\d\d\d\d", none_allowed=True)
 
 
 def test_extract_doclevel_form5(test_form5):

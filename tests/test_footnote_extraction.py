@@ -6,6 +6,7 @@ For a copy, see <https://opensource.org/licenses/MIT>.
 """
 
 import os
+import pytest
 from conftest import validate
 from edgar.forms.form3 import Form3
 from edgar.forms.form4 import Form4
@@ -14,27 +15,28 @@ from edgar.forms.form5 import Form5
 dir_path = os.path.dirname(os.path.realpath(__file__))
 
 
-def test_extract_footnotes_form3_collection(test_form3_collection):
+@pytest.mark.parametrize("doc_num", range(100))
+def test_extract_footnotes_form3_collection(test_form3_collection, doc_num: int):
     """
     Validate Form3 extraction code against a random sample of documents
     :param test_form3_collection:
     :return:
     """
-    for file in test_form3_collection.glob("*.txt"):
-        doc = Form3(file)
-        assert doc.filename == file.name
-        fields_list = doc.footnotes
-        assert len(fields_list) >= 0
-        for idx, fields in enumerate(fields_list):
-            assert (len(fields)) == 6
-            assert fields["filename"] == file.name
-            assert fields["accession_num"] == doc.accession_num
+    file = list(test_form3_collection.glob('*.txt'))[doc_num]
+    doc = Form3(file)
+    assert doc.filename == file.name
+    fields_list = doc.footnotes
+    assert len(fields_list) >= 0
+    for idx, fields in enumerate(fields_list):
+        assert (len(fields)) == 6
+        assert fields["filename"] == file.name
+        assert fields["accession_num"] == doc.accession_num
 
-            assert validate(file, fields["accession_num"], r"[\d-]+")
-            assert validate(file, fields["footnote"], r".+")
-            assert validate(file, fields["index"], r"\w+\d+")
-            assert validate(file, fields["field"], r"\w+")
-            assert validate(file, fields["field"], r".+")
+        assert validate(file, fields["accession_num"], r"[\d-]+")
+        assert validate(file, fields["footnote"], r".+")
+        assert validate(file, fields["index"], r"\w+\d+")
+        assert validate(file, fields["field"], r"\w+")
+        assert validate(file, fields["field"], r".+")
 
 
 def test_extract_footnotes_form3(test_form3):
@@ -67,27 +69,28 @@ def test_extract_footnotes_form3(test_form3):
     assert fields_list[18]["text"][:27] == "These Ford Restricted Stock"
 
 
-def test_extract_footnotes_form4_collection(test_form4_collection):
+@pytest.mark.parametrize("doc_num", range(100))
+def test_extract_footnotes_form4_collection(test_form4_collection, doc_num: int):
     """
     Validate Form4 extraction code against a random sample of documents
     :param test_form4_collection:
     :return:
     """
-    for file in test_form4_collection.glob("*.txt"):
-        doc = Form3(file)
-        assert doc.filename == file.name
-        fields_list = doc.footnotes
-        assert len(fields_list) >= 0
-        for idx, fields in enumerate(fields_list):
-            assert (len(fields)) == 6
-            assert fields["filename"] == file.name
-            assert fields["accession_num"] == doc.accession_num
+    file = list(test_form4_collection.glob('*.txt'))[doc_num]
+    doc = Form3(file)
+    assert doc.filename == file.name
+    fields_list = doc.footnotes
+    assert len(fields_list) >= 0
+    for idx, fields in enumerate(fields_list):
+        assert (len(fields)) == 6
+        assert fields["filename"] == file.name
+        assert fields["accession_num"] == doc.accession_num
 
-            assert validate(file, fields["accession_num"], r"[\d-]+")
-            assert validate(file, fields["footnote"], r".+")
-            assert validate(file, fields["index"], r"\w+\d+")
-            assert validate(file, fields["field"], r"\w+")
-            assert validate(file, fields["field"], r".+")
+        assert validate(file, fields["accession_num"], r"[\d-]+")
+        assert validate(file, fields["footnote"], r".+")
+        assert validate(file, fields["index"], r"\w+\d+")
+        assert validate(file, fields["field"], r"\w+")
+        assert validate(file, fields["field"], r".+")
 
 
 def test_extract_footnotes_form4(test_form4):
@@ -127,27 +130,28 @@ def test_extract_footnotes_form4(test_form4):
     assert fields_list[2]["text"][:26] == "Held by Philip Hodges."
 
 
-def test_extract_footnotes_form5_collection(test_form5_collection):
+@pytest.mark.parametrize("doc_num", range(100))
+def test_extract_footnotes_form5_collection(test_form5_collection, doc_num: int):
     """
     Validate Form5 extraction code against a random sample of documents
     :param test_form5_collection:
     :return:
     """
-    for file in test_form5_collection.glob("*.txt"):
-        doc = Form3(file)
-        assert doc.filename == file.name
-        fields_list = doc.footnotes
-        assert len(fields_list) >= 0
-        for idx, fields in enumerate(fields_list):
-            assert (len(fields)) == 6
-            assert fields["filename"] == file.name
-            assert fields["accession_num"] == doc.accession_num
+    file = list(test_form5_collection.glob('*.txt'))[doc_num]
+    doc = Form3(file)
+    assert doc.filename == file.name
+    fields_list = doc.footnotes
+    assert len(fields_list) >= 0
+    for idx, fields in enumerate(fields_list):
+        assert (len(fields)) == 6
+        assert fields["filename"] == file.name
+        assert fields["accession_num"] == doc.accession_num
 
-            assert validate(file, fields["accession_num"], r"[\d-]+")
-            assert validate(file, fields["footnote"], r".+")
-            assert validate(file, fields["index"], r"\w+\d+")
-            assert validate(file, fields["field"], r"\w+")
-            assert validate(file, fields["field"], r".+")
+        assert validate(file, fields["accession_num"], r"[\d-]+")
+        assert validate(file, fields["footnote"], r".+")
+        assert validate(file, fields["index"], r"\w+\d+")
+        assert validate(file, fields["field"], r"\w+")
+        assert validate(file, fields["field"], r".+")
 
 
 def test_extract_footnotes_form5(test_form5):
