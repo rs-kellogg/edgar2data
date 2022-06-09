@@ -15,7 +15,6 @@ setup(
     install_requires=[
         "lxml",
         "rich",
-        "dask",
         "pandas",
         "pyyaml",
         "typer[all]",
@@ -32,6 +31,6 @@ setup(
     ],
     extras_require={"interactive": ["jupyter", "rise"]},
     entry_points={"console_scripts": ["edgar2data=edgar.cli:app"]},
-    setup_requires=["black", 'yappi'],
+    setup_requires=["black", "yappi"],
     tests_require=["pytest"],
 )
