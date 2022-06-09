@@ -52,6 +52,7 @@ clean-notebooks: ## remove notebook junk
 
 clean-misc: ## misc. junk
 	find . -name '.DS_store' -exec rm -f {} +
+	find . -name 'temp' -exec rm -rf {} +
 
 lint: ## check style with flake8
 	flake8 edgar2data tests
