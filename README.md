@@ -7,7 +7,7 @@
 ## Installation with Conda:
 
 ```bash
-conda create -n edgar python==3.8
+conda create -n edgar python
 conda activate edgar
 git clone https://github.com/rs-kellogg/edgar2data.git
 cd edgar
@@ -26,5 +26,15 @@ pytest ./tests
 
 ```bash
 edgar2data --help
+```
+
+## Running the slide deck as a notebook:
+```bash
+jupyter notebook notebooks/resilient-code.ipynb
+```
+
+## Running the slide deck as a voilà app:
+```bash
+voila --template=reveal notebooks/resilient-code.ipynb
 ```
 
