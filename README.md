@@ -7,12 +7,11 @@
 ## Installation with Conda:
 
 ```bash
-conda create -n edgar python
+conda create -n edgar python pip
 conda activate edgar
 git clone https://github.com/rs-kellogg/edgar2data.git
 cd edgar
 pip install .
-python -m spacy download en_core_web_md
 ```
 
 ## Running the tests:
@@ -30,11 +29,13 @@ edgar2data --help
 
 ## Running the slide deck as a notebook:
 ```bash
-jupyter notebook notebooks/resilient-code.ipynb
+pip install jupyterlab rise
+jupyter notebook notebooks/edgar_overview.ipynb
 ```
 
 ## Running the slide deck as a voilà app:
 ```bash
-voila --template=reveal notebooks/resilient-code.ipynb
+pip install voila
+voila --template=reveal notebooks/edgar_overview.ipynb
 ```
 

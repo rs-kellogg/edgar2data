@@ -22,7 +22,7 @@ def test_extract_report_owner_form3_collection(test_form3_collection, doc_num: i
     :param test_form3_collection:
     :return:
     """
-    file = list(test_form3_collection.glob('*.txt'))[doc_num]
+    file = list(test_form3_collection.glob("*.txt"))[doc_num]
     doc = Form3(file)
     assert doc.filename == file.name
     fields_list = doc.report_owners
@@ -88,7 +88,7 @@ def test_extract_report_owner_form4_collection(test_form4_collection, doc_num: i
     :param test_form4_collection:
     :return:
     """
-    file = list(test_form4_collection.glob('*.txt'))[doc_num]
+    file = list(test_form4_collection.glob("*.txt"))[doc_num]
     doc = Form4(file)
     assert doc.filename == file.name
     fields_list = doc.report_owners
@@ -175,7 +175,7 @@ def test_extract_report_owner_form5_collection(test_form5_collection, doc_num: i
     :param test_form5_collection:
     :return:
     """
-    file = list(test_form5_collection.glob('*.txt'))[doc_num]
+    file = list(test_form5_collection.glob("*.txt"))[doc_num]
     doc = Form5(file)
     assert doc.filename == file.name
     fields_list = doc.report_owners

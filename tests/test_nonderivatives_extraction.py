@@ -22,7 +22,7 @@ def test_extract_nonderivatives_form3_collection(test_form3_collection, doc_num:
     :param test_form3_collection:
     :return:
     """
-    file = list(test_form3_collection.glob('*.txt'))[doc_num]
+    file = list(test_form3_collection.glob("*.txt"))[doc_num]
     doc = Form3(file)
     assert doc.filename == file.name
     fields_list = doc.nonderivatives
@@ -36,9 +36,7 @@ def test_extract_nonderivatives_form3_collection(test_form3_collection, doc_num:
         assert fields["index"] == f"nonDerivHolding{idx+1}"
 
         assert validate(file, fields["security_title"], r".+")
-        assert validate(
-            file, fields["shares_owned_following_transaction"], r"[\d\.]+"
-        )
+        assert validate(file, fields["shares_owned_following_transaction"], r"[\d\.]+")
         assert validate(file, fields["direct_or_indirect_ownership"], r"[DI]")
 
 
@@ -67,13 +65,15 @@ def test_extract_signature_form3(test_form3):
 
 
 @pytest.mark.parametrize("doc_num", range(100))
-def test_extract_nonderivative_trans_form4_collection(test_form4_collection, doc_num: int):
+def test_extract_nonderivative_trans_form4_collection(
+    test_form4_collection, doc_num: int
+):
     """
     Validate Form4 extraction code against a random sample of documents
     :param test_form4_collection:
     :return:
     """
-    file = list(test_form4_collection.glob('*.txt'))[doc_num]
+    file = list(test_form4_collection.glob("*.txt"))[doc_num]
     doc = Form4(file)
     assert doc.filename == file.name
     fields_list = doc.nonderivatives
@@ -96,14 +96,10 @@ def test_extract_nonderivative_trans_form4_collection(test_form4_collection, doc
         assert validate(file, fields["direct_or_indirect_ownership"], r"[DI]")
         assert validate(file, fields["equity_swap_involved"], r"[10]")
         assert validate(file, fields["transaction_form_type"], r"[45]")
-        assert validate(
-            file, fields["shares_owned_following_transaction"], r"[\d\.]*"
-        )
+        assert validate(file, fields["shares_owned_following_transaction"], r"[\d\.]*")
         assert validate(file, fields["transaction_code"], r"[A-Z]")
 
-    holdings_fields_list = [
-        f for f in fields_list if f["type"] == "nonDerivHolding"
-    ]
+    holdings_fields_list = [f for f in fields_list if f["type"] == "nonDerivHolding"]
     for idx, fields in enumerate(holdings_fields_list):
         assert (len(fields)) == 19
         assert fields["filename"] == file.name
@@ -152,13 +148,15 @@ def test_extract_nonderivative_trans_form4(test_form4):
 
 
 @pytest.mark.parametrize("doc_num", range(100))
-def test_extract_nonderivative_trans_form5_collection(test_form5_collection, doc_num: int):
+def test_extract_nonderivative_trans_form5_collection(
+    test_form5_collection, doc_num: int
+):
     """
     Validate Form5 extraction code against a random sample of documents
     :param test_form5_collection:
     :return:
     """
-    file = list(test_form5_collection.glob('*.txt'))[doc_num]
+    file = list(test_form5_collection.glob("*.txt"))[doc_num]
     doc = Form5(file)
     assert doc.filename == file.name
     fields_list = doc.nonderivatives
@@ -180,14 +178,10 @@ def test_extract_nonderivative_trans_form5_collection(test_form5_collection, doc
         assert validate(file, fields["direct_or_indirect_ownership"], r"[DI]")
         assert validate(file, fields["equity_swap_involved"], r"[10]")
         assert validate(file, fields["transaction_form_type"], r"[45]")
-        assert validate(
-            file, fields["shares_owned_following_transaction"], r"[\d\.]*"
-        )
+        assert validate(file, fields["shares_owned_following_transaction"], r"[\d\.]*")
         assert validate(file, fields["transaction_code"], r"[A-Z]")
 
-    holdings_fields_list = [
-        f for f in fields_list if f["type"] == "nonDerivHolding"
-    ]
+    holdings_fields_list = [f for f in fields_list if f["type"] == "nonDerivHolding"]
     for idx, fields in enumerate(holdings_fields_list):
         assert (len(fields)) == 19
         assert fields["filename"] == file.name
