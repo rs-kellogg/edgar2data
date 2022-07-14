@@ -17,6 +17,11 @@ from edgar.forms.form5 import Form5
 
 
 def create_doc(file: Path) -> Document:
+    """
+    A factory function that will return a Document object with the right sub-type.
+    :param file: The file object that is the source of the Document
+    :return: A Document object
+    """
     xmlpath = Document.xml_document_fields["document_type"]
     regex = re.compile(f"<{xmlpath}>(.+)</{xmlpath}>")
     form_type = regex.findall(file.read_text())[0]
@@ -33,7 +38,15 @@ def create_doc(file: Path) -> Document:
         return None
 
 
-def write_records(row_dicts: List[Dict[str, str]], out_file: Path):
+def write_records(row_dicts: List[Dict[str, str]], out_file: Path) -> None:
+    """
+    This function will take input data in the form of a list of dicts, and will
+    append them to the output file. If the output file doesn't exist, it will
+    be created and the keys of the first dict will be used to generate a header
+    :param row_dicts: List of dictionaries, each of which contains a row's worth of data
+    :param out_file: The output file to be created or appended
+    :return: None
+    """
     if len(row_dicts) == 0:
         return
     if not out_file.exists():
