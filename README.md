@@ -27,6 +27,14 @@ pytest ./tests
 edgar2data --help
 ```
 
+## Running the web service:
+
+```bash
+pip install fastapi
+pip install uvicorn
+uvicorn edgar.api:app
+```
+
 ## Running the slide deck as a notebook:
 ```bash
 pip install jupyterlab rise
@@ -38,4 +46,5 @@ jupyter notebook notebooks/edgar_overview.ipynb
 pip install voila
 voila --template=reveal notebooks/edgar_overview.ipynb
 ```
+
 
