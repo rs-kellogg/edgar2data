@@ -7,10 +7,10 @@
 ## Installation with Conda:
 
 ```bash
-conda create -n edgar python pip
-conda activate edgar
 git clone https://github.com/rs-kellogg/edgar2data.git
-cd edgar
+cd edgar2data
+conda create --name edgar --file requirements.txt
+conda activate edgar
 pip install .
 ```
 
