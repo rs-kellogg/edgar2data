@@ -13,13 +13,13 @@ setup(
     package_data={"edgar": ["templates/*.j2"]},
     include_package_data=True,
     install_requires=[
-        "typer[all]",
-        "lxml",
-        "pandas",
-        "pyyaml",
-        "fastapi",
-        "uvicorn",
-        "requests"
+        "typer[all]==0.6.1",
+        "lxml==4.9.1",
+        "pandas==1.4.3",
+        "pyyaml==6.0",
+        "fastapi==0.78.0",
+        "uvicorn==0.18.2",
+        "requests==2.28.1"
     ],
     entry_points={"console_scripts": ["edgar2data=edgar.cli:app"]},
     extras_require={"interactive": ["jupyter", "rise"]},
