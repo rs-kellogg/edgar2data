@@ -62,3 +62,15 @@ test:
 
 install: clean
 	pip install .
+
+build-docker:
+	docker build -t edgar2data .
+
+push-docker:
+	docker push schorndorfer/edgar2data:0.1.0
+
+start-docker-shell:
+	docker run -it --entrypoint /bin/bash -p 80:80 edgar2data
+
+start-docker-service:
+	docker run -d --name edgar2data -p 80:80 edgar2data
