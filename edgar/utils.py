@@ -8,7 +8,7 @@ For a copy, see <https://opensource.org/licenses/MIT>.
 import typer
 import re
 import csv
-from typing import List, Dict
+from typing import List, Dict, Union
 from pathlib import Path
 from edgar.forms.secdoc import Document
 from edgar.forms.form3 import Form3
@@ -16,9 +16,9 @@ from edgar.forms.form4 import Form4
 from edgar.forms.form5 import Form5
 
 
-def create_doc(file: Path) -> Document:
+def create_doc(file: Path) -> Union[None, Document]:
     """
-    A factory function that will return a Document object with the right sub-type.
+    A factory function returns a Document object with the right subtype.
     :param file: The file object that is the source of the Document
     :return: A Document object
     """
@@ -40,9 +40,9 @@ def create_doc(file: Path) -> Document:
 
 def write_records(row_dicts: List[Dict[str, str]], out_file: Path) -> None:
     """
-    This function will take input data in the form of a list of dicts, and will
-    append them to the output file. If the output file doesn't exist, it will
-    be created and the keys of the first dict will be used to generate a header
+    Accept input data in the form of a list of dicts, and append them to the output file.
+    If the output file doesn't exist, it will be created and the keys of the first dict
+    will be used to generate a header.
     :param row_dicts: List of dictionaries, each of which contains a row's worth of data
     :param out_file: The output file to be created or appended
     :return: None
