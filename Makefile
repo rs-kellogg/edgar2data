@@ -61,4 +61,4 @@ test:
 	pytest
 
 install: clean
-	python setup.py install
+	pip install .
