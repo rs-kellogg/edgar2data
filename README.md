@@ -7,7 +7,7 @@
 ## Installation with Conda:
 
 ```bash
-conda create --name edgar python pip
+conda create --name edgar python
 conda activate edgar
 
 git clone https://github.com/rs-kellogg/edgar2data.git
@@ -19,7 +19,7 @@ pip install .
 
 ```bash
 pip install pytest
-pytest ./tests
+pytest
 ```
 
 ## Running the CLI:
